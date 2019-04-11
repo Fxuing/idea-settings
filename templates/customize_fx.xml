@@ -1,13 +1,13 @@
 <templateSet group="customize_fx">
-  <template name="prrm" value="@RequestMapping(method = RequestMethod.$TYPE$, value = &quot;$REQUESTMAPPING$&quot;)&#10;@ResponseBody&#10;public ResponseResult $METHOD$(){&#10;    ResponseResult result = new ResponseResult();&#10;    result.setCode(Msg.S000.getCode());&#10;    result.setDesc(Msg.S000.getDesc());&#10;    try{&#10;        $END$&#10;    }catch(ServiceException e){&#10;        LOG.error(e.getCode() + &quot;:&quot; + e.getDesc(), e);&#10;        result.setCode(Msg.F000.getCode());&#10;        result.setDesc(Msg.F000.getDesc());&#10;    }&#10;    return result;&#10;}" description="一键生成APP action方法" toReformat="false" toShortenFQNames="true">
+  <template name="_prrm" value="@RequestMapping(method = RequestMethod.$TYPE$, value = &quot;$REQUESTMAPPING$&quot;)&#10;@ResponseBody&#10;public ResponseResult $METHOD$(){&#10;    ResponseResult result = new ResponseResult();&#10;    result.setCode(Msg.S000.getCode());&#10;    result.setDesc(Msg.S000.getDesc());&#10;    try{&#10;        $END$&#10;    }catch(ServiceException e){&#10;        LOG.error(e.getCode() + &quot;:&quot; + e.getDesc(), e);&#10;        result.setCode(Msg.F000.getCode());&#10;        result.setDesc(Msg.F000.getDesc());&#10;    }&#10;    return result;&#10;}" description="一键生成APP action方法" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="&quot;POST&quot;" alwaysStopAt="true" />
     <variable name="REQUESTMAPPING" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <variable name="METHOD" expression="underscoresToCamelCase(REQUESTMAPPING)" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="groovyScript(&quot;return \&quot;${_1}\&quot;&quot;, REQUESTMAPPING)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logger" value="private static final Logger LOG = LoggerFactory.getLogger($CLASS_NAME$.class);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="_logger" value="private static final Logger LOG = LoggerFactory.getLogger($CLASS_NAME$.class);" description="logger" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />

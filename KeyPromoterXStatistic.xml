@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>285</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -143,6 +143,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Highlight current scope">
+        <Item>
+          <IdeaActionID>Rainbow.ScopeHighlightingAction</IdeaActionID>
+          <ShortCut>'Ctrl+Button3 Click'</ShortCut>
+          <Description>Highlight current scope</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
