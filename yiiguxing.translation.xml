@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="enterprise Register Inf" />
+      <item value="socialcredit Code" />
+      <item value="A component required a bean of type 'java.util.List' that could not be found." />
+      <item value="Consider defining a bean of type 'java.util.List' in your configuration." />
+      <item value="that could not be found." />
+      <item value="provider" />
+      <item value="The bean 'info-service-app', defined in null, could not be registered. A bean with that name has already been defined in null and overriding is disabled." />
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'info-service-app' defined in null: Cannot register bean definition [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] for bean 'info-service-app': There is already [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] bound." />
+      <item value="get Bucket Name" />
+      <item value="是否指派" />
+      <item value="accepted" />
+      <item value="ASSIGN" />
+      <item value="URGENT REMINDER" />
+      <item value="Mch" />
+      <item value="订单" />
+      <item value="branche Id" />
+      <item value="response Result" />
+      <item value="'packaging' with value 'jar' is invalid." />
+      <item value="午餐：lunch 晚餐：dinner" />
+      <item value="晚餐" />
+      <item value="午餐" />
+      <item value="hinese food" />
+      <item value="中餐" />
+      <item value="月" />
+      <item value="周" />
+      <item value="WOMAN" />
+      <item value="女" />
+      <item value="男" />
+      <item value="营养" />
+      <item value="减脂" />
+      <item value="健身" />
+      <item value="cycle" />
+      <item value="餐类" />
+      <item value="类别" />
+      <item value="周期" />
+      <item value="品类" />
+      <item value="性别" />
+      <item value="配餐管理" />
+      <item value="criteria" />
+      <item value="criteria Builder" />
+      <item value="Predicate" />
+      <item value="教练" />
+      <item value="单车" />
+      <item value="全能" />
+      <item value="subject" />
+      <item value="get Declared Method" />
+      <item value="registeredCapital " />
+      <item value="strings in switch are not supported in -source 1.5" />
+      <item value="switch are not supported in -source 1.5" />
+      <item value="item" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
+        <entry key="ARABIC" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="2" />
+        <entry key="HINDI" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
