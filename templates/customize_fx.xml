@@ -16,4 +16,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="_prhrm" value="@RequestMapping(method = RequestMethod.$type$, value = &quot;$RequestMapping$&quot;)&#10;public RestHttpReply $method$($params$){&#10;    RestHttpReply res = new RestHttpReply();&#10;    res.setDesc(Msg.S000.getDesc());&#10;    try {&#10;        $end$&#10;    } catch (Exception e) {&#10;        CommonUtils.wrapException(res, e);&#10;    }&#10;    return res;&#10;}" description="生成 返回 RestHttpReply" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="&quot;POST&quot;" alwaysStopAt="true" />
+    <variable name="RequestMapping" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="underscoresToCamelCase(RequestMapping)" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
