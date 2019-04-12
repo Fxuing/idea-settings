@@ -50,6 +50,10 @@
           <option name="url" value="http://192.168.50.51/java/jfjf/fop_ent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/java/jfjf/qyxx_app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\javaworkspace" />
