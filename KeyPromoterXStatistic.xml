@@ -465,6 +465,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Consumer.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Consumer.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DesUtil.main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Producer.main()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ProgramApplication'">
@@ -623,6 +631,14 @@
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Consumer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Consumer'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FinancebootApplication'">
