@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rabbit" />
       <item value="handle Delivery" />
       <item value="basic Publish" />
       <item value="Channel" />
@@ -50,11 +51,10 @@
       <item value="criteria" />
       <item value="criteria Builder" />
       <item value="Predicate" />
-      <item value="教练" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
+        <entry key="CHINESE" value="165" />
         <entry key="ENGLISH" value="165" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
