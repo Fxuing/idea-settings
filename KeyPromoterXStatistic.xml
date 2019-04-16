@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>327</Count>
+          <Count>328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -846,7 +846,7 @@
           <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
           <Description>编码规约扫描</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
