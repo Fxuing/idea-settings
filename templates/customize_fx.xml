@@ -26,4 +26,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="_findById" value="@RequestMapping(method = RequestMethod.POST, value = &quot;findById&quot;)&#10;public RestHttpReply findById(Long id){&#10;    RestHttpReply res = new RestHttpReply();&#10;    res.setDesc(Msg.S000.getDesc());&#10;    try {&#10;        res.putData(&quot;$entity$&quot;,$repo$.findById(id).get());&#10;    } catch (Exception e) {&#10;        CommonUtils.wrapException(res, e);&#10;    }&#10;    return res;&#10;}" description="find By id" toReformat="false" toShortenFQNames="true">
+    <variable name="entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="repo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
