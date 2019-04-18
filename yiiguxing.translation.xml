@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="管理工具" />
+      <item value="mana total" />
       <item value="bridging" />
       <item value="city Area" />
       <item value="The path to the Subversion executable is probably wrong. Fix it." />
@@ -49,16 +51,15 @@
       <item value="减脂" />
       <item value="健身" />
       <item value="cycle" />
-      <item value="餐类" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="170" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
+        <entry key="MALAY" value="1" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
