@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="two Dice Throws" />
+      <item value="parallel Count" />
+      <item value="骰子" />
+      <item value="parallel" />
+      <item value="paral" />
+      <item value="partitioning By" />
       <item value="reversed" />
       <item value="Collectors" />
       <item value="flat" />
@@ -45,17 +51,11 @@
       <item value="socialcredit Code" />
       <item value="A component required a bean of type 'java.util.List' that could not be found." />
       <item value="Consider defining a bean of type 'java.util.List' in your configuration." />
-      <item value="that could not be found." />
-      <item value="provider" />
-      <item value="The bean 'info-service-app', defined in null, could not be registered. A bean with that name has already been defined in null and overriding is disabled." />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'info-service-app' defined in null: Cannot register bean definition [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] for bean 'info-service-app': There is already [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] bound." />
-      <item value="get Bucket Name" />
-      <item value="是否指派" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
