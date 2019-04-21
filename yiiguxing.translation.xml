@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reversed" />
+      <item value="Collectors" />
       <item value="flat" />
       <item value="Iterator" />
       <item value="get Age" />
@@ -49,13 +51,11 @@
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'info-service-app' defined in null: Cannot register bean definition [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] for bean 'info-service-app': There is already [Root bean: class [com.alibaba.dubbo.config.ApplicationConfig]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] bound." />
       <item value="get Bucket Name" />
       <item value="是否指派" />
-      <item value="accepted" />
-      <item value="ASSIGN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="196" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
