@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Age" />
+      <item value="Student" />
+      <item value="Supplier" />
+      <item value="Binary Operator" />
+      <item value="Unary Operator" />
+      <item value="Operator" />
+      <item value="Predicate" />
+      <item value="Function" />
+      <item value="Consumer" />
+      <item value="predicate" />
       <item value="button clicked" />
       <item value="say Hi" />
       <item value="enterprise management" />
@@ -41,21 +51,11 @@
       <item value="ASSIGN" />
       <item value="URGENT REMINDER" />
       <item value="Mch" />
-      <item value="订单" />
-      <item value="branche Id" />
-      <item value="response Result" />
-      <item value="'packaging' with value 'jar' is invalid." />
-      <item value="午餐：lunch 晚餐：dinner" />
-      <item value="晚餐" />
-      <item value="午餐" />
-      <item value="hinese food" />
-      <item value="中餐" />
-      <item value="月" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
