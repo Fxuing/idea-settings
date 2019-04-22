@@ -502,7 +502,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Consumer.main()'">
@@ -670,7 +670,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sc'</Description>
-          <Count>44</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'service'">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>55</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
