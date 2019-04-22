@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证码" />
       <item value="two Dice Throws" />
       <item value="parallel Count" />
       <item value="骰子" />
@@ -50,7 +51,6 @@
       <item value="enterprise Register Inf" />
       <item value="socialcredit Code" />
       <item value="A component required a bean of type 'java.util.List' that could not be found." />
-      <item value="Consider defining a bean of type 'java.util.List' in your configuration." />
     </histories>
     <option name="languageScores">
       <map>
