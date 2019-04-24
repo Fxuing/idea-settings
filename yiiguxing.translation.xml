@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optional" />
       <item value="children" />
       <item value="验证码" />
       <item value="two Dice Throws" />
@@ -50,12 +51,11 @@
       <item value="block comment for structuring code" />
       <item value="自定义" />
       <item value="enterprise Register Inf" />
-      <item value="socialcredit Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
