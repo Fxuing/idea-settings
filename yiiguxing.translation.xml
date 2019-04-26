@@ -1,28 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallel" />
+      <item value="summing Double" />
+      <item value="together" />
+      <item value="partitioning By" />
+      <item value="Optional" />
+      <item value="Supplier" />
+      <item value="Predicate" />
       <item value="auth quick sign" />
       <item value="grant Mgr Opr Authorities" />
-      <item value="Optional" />
       <item value="children" />
       <item value="验证码" />
       <item value="two Dice Throws" />
       <item value="parallel Count" />
       <item value="骰子" />
-      <item value="parallel" />
       <item value="paral" />
-      <item value="partitioning By" />
       <item value="reversed" />
       <item value="Collectors" />
       <item value="flat" />
       <item value="Iterator" />
       <item value="get Age" />
       <item value="Student" />
-      <item value="Supplier" />
       <item value="Binary Operator" />
       <item value="Unary Operator" />
       <item value="Operator" />
-      <item value="Predicate" />
       <item value="Function" />
       <item value="Consumer" />
       <item value="predicate" />
@@ -49,13 +51,11 @@
       <item value="Channel" />
       <item value="消费者" />
       <item value="生产者" />
-      <item value="Tax Report" />
-      <item value="block comment for structuring code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
