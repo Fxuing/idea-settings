@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Predicate" />
+      <item value="interface" />
       <item value="parallel" />
       <item value="summing Double" />
       <item value="together" />
       <item value="partitioning By" />
       <item value="Optional" />
       <item value="Supplier" />
-      <item value="Predicate" />
       <item value="auth quick sign" />
       <item value="grant Mgr Opr Authorities" />
       <item value="children" />
@@ -50,12 +51,11 @@
       <item value="basic Publish" />
       <item value="Channel" />
       <item value="消费者" />
-      <item value="生产者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="213" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
