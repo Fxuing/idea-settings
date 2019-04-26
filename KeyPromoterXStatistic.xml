@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>394</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -662,7 +662,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UserbootApplication'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sc'</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'service'">
