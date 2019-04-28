@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="放款日期" />
+      <item value="放款金额" />
+      <item value="Whether to pass" />
+      <item value="是否通过" />
+      <item value="product" />
+      <item value="申请产品" />
+      <item value="产品" />
+      <item value="申请" />
+      <item value="信贷总额" />
+      <item value="有" />
+      <item value="is" />
+      <item value="有无" />
+      <item value="overdue loans" />
+      <item value="With or without overdue loans" />
+      <item value="有无逾期贷款" />
+      <item value="level" />
+      <item value="企业" />
+      <item value="corporateTaxRating" />
+      <item value="Corporate tax rating" />
+      <item value="企业纳税等级" />
+      <item value="率" />
+      <item value="AssetsAndLiabilities" />
+      <item value="资产负债率" />
+      <item value="corporateAssetLiabilityRatio" />
+      <item value="上一年企业资产负债率" />
       <item value="parallel Dice Rolls" />
       <item value="reversed" />
       <item value="Predicate" />
@@ -26,36 +51,11 @@
       <item value="Student" />
       <item value="Binary Operator" />
       <item value="Unary Operator" />
-      <item value="Operator" />
-      <item value="Function" />
-      <item value="Consumer" />
-      <item value="predicate" />
-      <item value="button clicked" />
-      <item value="say Hi" />
-      <item value="enterprise management" />
-      <item value="企业管理" />
-      <item value="权限管理" />
-      <item value="用户管理" />
-      <item value="产品管理" />
-      <item value="运营管理" />
-      <item value="管理工具" />
-      <item value="mana total" />
-      <item value="bridging" />
-      <item value="city Area" />
-      <item value="The path to the Subversion executable is probably wrong. Fix it." />
-      <item value="课程" />
-      <item value="Commodity" />
-      <item value="简介" />
-      <item value="教练" />
-      <item value="rabbit" />
-      <item value="handle Delivery" />
-      <item value="basic Publish" />
-      <item value="Channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
