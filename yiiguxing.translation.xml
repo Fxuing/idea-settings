@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="training Date" />
+      <item value="训练日期" />
       <item value="iterator" />
       <item value="Student" />
       <item value="collect" />
@@ -49,13 +51,11 @@
       <item value="paral" />
       <item value="Collectors" />
       <item value="flat" />
-      <item value="Iterator" />
-      <item value="get Age" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
