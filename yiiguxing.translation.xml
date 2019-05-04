@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="教育" />
+      <item value="私人" />
+      <item value="个人" />
+      <item value="私教" />
+      <item value="personal Education" />
       <item value="banner" />
       <item value="banners" />
       <item value="There is no getter for property named 'storeId' in 'class java.lang.Long'" />
@@ -46,16 +51,11 @@
       <item value="parallel" />
       <item value="summing Double" />
       <item value="together" />
-      <item value="partitioning By" />
-      <item value="Optional" />
-      <item value="Supplier" />
-      <item value="auth quick sign" />
-      <item value="grant Mgr Opr Authorities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="237" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
