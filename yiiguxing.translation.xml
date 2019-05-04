@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="city Area Id" />
       <item value="教育" />
       <item value="私人" />
       <item value="个人" />
@@ -50,12 +51,11 @@
       <item value="interface" />
       <item value="parallel" />
       <item value="summing Double" />
-      <item value="together" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
