@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hot Questions" />
+      <item value="问题" />
+      <item value="hot Answer" />
+      <item value="modify" />
       <item value="原因" />
       <item value="Code" />
       <item value="phone" />
@@ -47,15 +51,11 @@
       <item value="product" />
       <item value="申请产品" />
       <item value="产品" />
-      <item value="申请" />
-      <item value="信贷总额" />
-      <item value="有" />
-      <item value="is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
