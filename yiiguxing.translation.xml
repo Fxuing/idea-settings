@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原因" />
+      <item value="Code" />
+      <item value="phone" />
+      <item value="phoneCode" />
+      <item value="Feedback" />
+      <item value="反馈" />
+      <item value="点击量" />
+      <item value="量" />
+      <item value="访问量" />
+      <item value="content" />
+      <item value="答案" />
+      <item value="type" />
+      <item value="分类" />
       <item value="display" />
       <item value="注意事项" />
       <item value="人群" />
@@ -38,24 +51,11 @@
       <item value="信贷总额" />
       <item value="有" />
       <item value="is" />
-      <item value="有无" />
-      <item value="overdue loans" />
-      <item value="With or without overdue loans" />
-      <item value="有无逾期贷款" />
-      <item value="level" />
-      <item value="企业" />
-      <item value="corporateTaxRating" />
-      <item value="Corporate tax rating" />
-      <item value="企业纳税等级" />
-      <item value="率" />
-      <item value="AssetsAndLiabilities" />
-      <item value="资产负债率" />
-      <item value="corporateAssetLiabilityRatio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
