@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="display" />
       <item value="注意事项" />
       <item value="人群" />
       <item value="Suitable" />
@@ -50,12 +51,11 @@
       <item value="AssetsAndLiabilities" />
       <item value="资产负债率" />
       <item value="corporateAssetLiabilityRatio" />
-      <item value="上一年企业资产负债率" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
