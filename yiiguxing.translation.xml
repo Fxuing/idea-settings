@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="职位" />
+      <item value="联系方式" />
+      <item value="Custom financing" />
+      <item value="定制融资" />
+      <item value="topic" />
+      <item value="定制融资方案" />
       <item value="/** * Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75). * * @param initialCapacity the initial capacity. * @throws IllegalArgumentException if the initial capacity is negative. */" />
       <item value="saas" />
       <item value="saaslogin" />
@@ -44,18 +51,11 @@
       <item value="头像" />
       <item value="training Date" />
       <item value="训练日期" />
-      <item value="iterator" />
-      <item value="Student" />
-      <item value="collect" />
-      <item value="放款日期" />
-      <item value="放款金额" />
-      <item value="Whether to pass" />
-      <item value="是否通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="253" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
