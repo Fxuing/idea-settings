@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采购" />
       <item value="fruitage" />
       <item value="fruitageInfos" />
       <item value="Message Manage" />
@@ -50,12 +51,11 @@
       <item value="banners" />
       <item value="There is no getter for property named 'storeId' in 'class java.lang.Long'" />
       <item value="tag" />
-      <item value="映射" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
