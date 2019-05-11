@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="number used once" />
       <item value="Transient" />
       <item value="温馨提示" />
       <item value="备注" />
@@ -50,11 +51,10 @@
       <item value="Suitable" />
       <item value="适合人群" />
       <item value="训练效果" />
-      <item value="简介" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
+        <entry key="CHINESE" value="266" />
         <entry key="ENGLISH" value="266" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
