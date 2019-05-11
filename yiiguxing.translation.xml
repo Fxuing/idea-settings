@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="温馨提示" />
+      <item value="备注" />
+      <item value="使用规则" />
+      <item value="套餐详情" />
+      <item value="详情" />
       <item value="老" />
       <item value="lod" />
       <item value="getWriter() has already been called for this response" />
@@ -46,16 +51,11 @@
       <item value="训练效果" />
       <item value="简介" />
       <item value="city Area Id" />
-      <item value="教育" />
-      <item value="私人" />
-      <item value="个人" />
-      <item value="私教" />
-      <item value="personal Education" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="265" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
