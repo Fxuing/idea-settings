@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purchase Url" />
+      <item value="purchase Uri" />
+      <item value="采购" />
       <item value="number used once" />
       <item value="Transient" />
       <item value="温馨提示" />
@@ -12,7 +15,6 @@
       <item value="lod" />
       <item value="getWriter() has already been called for this response" />
       <item value="No WebApplicationContext found: no ContextLoaderListener registered?" />
-      <item value="采购" />
       <item value="fruitage" />
       <item value="fruitageInfos" />
       <item value="Message Manage" />
@@ -49,16 +51,15 @@
       <item value="注意事项" />
       <item value="人群" />
       <item value="Suitable" />
-      <item value="适合人群" />
-      <item value="训练效果" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="HINDI" value="3" />
