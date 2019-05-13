@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重定向" />
+      <item value="回调地址" />
       <item value="purchase Url" />
       <item value="purchase Uri" />
       <item value="采购" />
@@ -49,13 +51,11 @@
       <item value="分类" />
       <item value="display" />
       <item value="注意事项" />
-      <item value="人群" />
-      <item value="Suitable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="270" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
