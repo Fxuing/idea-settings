@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="事件类型" />
+      <item value="时间类型" />
       <item value="新联鑫" />
       <item value="重定向" />
       <item value="回调地址" />
@@ -49,13 +51,11 @@
       <item value="content" />
       <item value="答案" />
       <item value="type" />
-      <item value="分类" />
-      <item value="display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="272" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
