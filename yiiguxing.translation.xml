@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评价" />
+      <item value="差评" />
+      <item value="好评   " />
+      <item value="好评   差评" />
       <item value="方式" />
       <item value="Could not resolve view with name 'error' in servlet with name 'dispatcher" />
       <item value="事件类型" />
@@ -47,15 +51,11 @@
       <item value="phoneCode" />
       <item value="Feedback" />
       <item value="反馈" />
-      <item value="点击量" />
-      <item value="量" />
-      <item value="访问量" />
-      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="273" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
