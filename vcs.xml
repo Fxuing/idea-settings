@@ -70,6 +70,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Fxuing@163.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/financial/9hbank.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\javaworkspace" />
