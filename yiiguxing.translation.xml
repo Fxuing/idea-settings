@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verification Code" />
+      <item value="app/register Sms Code" />
       <item value="时间戳" />
       <item value="expire" />
       <item value="we Chat Plat" />
@@ -49,13 +51,11 @@
       <item value="联系方式" />
       <item value="Custom financing" />
       <item value="定制融资" />
-      <item value="topic" />
-      <item value="定制融资方案" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
