@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="we Chat Plat" />
       <item value="不通过" />
       <item value="REGISTER COMPLETE" />
       <item value="COMPLETE" />
@@ -50,12 +51,11 @@
       <item value="定制融资方案" />
       <item value="/** * Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75). * * @param initialCapacity the initial capacity. * @throws IllegalArgumentException if the initial capacity is negative. */" />
       <item value="saas" />
-      <item value="saaslogin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
