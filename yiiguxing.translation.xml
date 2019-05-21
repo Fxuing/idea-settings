@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Private field 'enterpriseInfService' is never assigned" />
+      <item value="Access can be private more..." />
+      <item value="Auto-generated catch block" />
+      <item value="Scan Code" />
+      <item value="We Chat Scanner Code" />
+      <item value="扫码" />
+      <item value="We Chat Scanner" />
       <item value="we Chat" />
       <item value="verification Code" />
       <item value="app/register Sms Code" />
@@ -44,18 +51,11 @@
       <item value="No WebApplicationContext found: no ContextLoaderListener registered?" />
       <item value="fruitage" />
       <item value="fruitageInfos" />
-      <item value="Message Manage" />
-      <item value="shuffle" />
-      <item value="get Verification Code" />
-      <item value="position" />
-      <item value="职位" />
-      <item value="联系方式" />
-      <item value="Custom financing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="289" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
