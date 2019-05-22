@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="lock" />
+      <item value="合成合同" />
+      <item value="apply Ca Cert" />
+      <item value="证书" />
+      <item value="cert" />
+      <item value="apply C Acert" />
       <item value="认证" />
+      <item value="lock" />
       <item value="auth" />
       <item value="uth" />
       <item value="encrypt" />
@@ -46,19 +51,15 @@
       <item value="purchase Uri" />
       <item value="采购" />
       <item value="number used once" />
-      <item value="Transient" />
-      <item value="温馨提示" />
-      <item value="备注" />
-      <item value="使用规则" />
-      <item value="套餐详情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="SOMALI" value="1" />
