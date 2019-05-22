@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verification Result" />
+      <item value="verification" />
       <item value="Private field 'enterpriseInfService' is never assigned" />
       <item value="Access can be private more..." />
       <item value="Auto-generated catch block" />
@@ -49,13 +51,11 @@
       <item value="lod" />
       <item value="getWriter() has already been called for this response" />
       <item value="No WebApplicationContext found: no ContextLoaderListener registered?" />
-      <item value="fruitage" />
-      <item value="fruitageInfos" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
