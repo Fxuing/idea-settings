@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Certificate" />
       <item value="合成合同" />
       <item value="apply Ca Cert" />
       <item value="证书" />
@@ -50,12 +51,11 @@
       <item value="purchase Url" />
       <item value="purchase Uri" />
       <item value="采购" />
-      <item value="number used once" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
