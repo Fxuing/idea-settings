@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="what`s wrong man?" />
       <item value="税金贷" />
       <item value="参数" />
       <item value="Param" />
@@ -50,11 +51,10 @@
       <item value="modify" />
       <item value="评价" />
       <item value="差评" />
-      <item value="好评   " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
+        <entry key="CHINESE" value="304" />
         <entry key="ENGLISH" value="304" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
