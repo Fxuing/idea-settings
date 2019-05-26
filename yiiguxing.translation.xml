@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all right" />
       <item value="what`s wrong man?" />
       <item value="税金贷" />
       <item value="参数" />
@@ -50,7 +51,6 @@
       <item value="失败" />
       <item value="modify" />
       <item value="评价" />
-      <item value="差评" />
     </histories>
     <option name="languageScores">
       <map>
