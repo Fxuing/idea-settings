@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amount" />
+      <item value="verify User" />
       <item value="all right" />
       <item value="what`s wrong man?" />
       <item value="税金贷" />
@@ -49,13 +51,11 @@
       <item value="shutdown" />
       <item value="失效" />
       <item value="失败" />
-      <item value="modify" />
-      <item value="评价" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
