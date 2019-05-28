@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Key is invalid. It must begin with 'ssh-ed25519', 'ssh-rsa', 'ssh-dss', 'ecdsa-sha2-nistp256', 'ecdsa-sha2-nistp384', or 'ecdsa-sha2-nistp521'. Check that you're copying the public half of the key" />
       <item value="白名单" />
       <item value="beta" />
       <item value="amount" />
@@ -50,7 +51,6 @@
       <item value="IG" />
       <item value="拒绝" />
       <item value="不在白名单用户" />
-      <item value="shutdown" />
     </histories>
     <option name="languageScores">
       <map>
