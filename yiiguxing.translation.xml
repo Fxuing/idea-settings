@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quick Sign Contract" />
+      <item value="deprecated" />
+      <item value="最后  signFirstContract" />
+      <item value="国税取数" />
+      <item value="行业判断" />
+      <item value="第二" />
+      <item value="First" />
+      <item value="二" />
+      <item value="签署第一份合同" />
       <item value="零" />
       <item value="ZREO" />
       <item value="0" />
@@ -42,20 +51,11 @@
       <item value="Access can be private more..." />
       <item value="Auto-generated catch block" />
       <item value="Scan Code" />
-      <item value="We Chat Scanner Code" />
-      <item value="扫码" />
-      <item value="We Chat Scanner" />
-      <item value="we Chat" />
-      <item value="verification Code" />
-      <item value="app/register Sms Code" />
-      <item value="时间戳" />
-      <item value="expire" />
-      <item value="we Chat Plat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
