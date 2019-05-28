@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="白名单" />
+      <item value="beta" />
       <item value="amount" />
       <item value="verify User" />
       <item value="all right" />
@@ -49,13 +51,11 @@
       <item value="拒绝" />
       <item value="不在白名单用户" />
       <item value="shutdown" />
-      <item value="失效" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="306" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
