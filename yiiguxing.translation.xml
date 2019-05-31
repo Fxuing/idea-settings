@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fight" />
       <item value="拼团" />
       <item value="whitelist" />
       <item value="I Questionaire Service" />
@@ -50,12 +51,11 @@
       <item value="apply C Acert" />
       <item value="认证" />
       <item value="lock" />
-      <item value="auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="326" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
