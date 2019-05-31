@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="白名单" />
       <item value="Fight" />
       <item value="拼团" />
       <item value="whitelist" />
@@ -9,7 +10,6 @@
       <item value="Secret" />
       <item value="remaining Seconds" />
       <item value="regex" />
-      <item value="白名单" />
       <item value="注册并申请CA" />
       <item value="quick Sign Contract" />
       <item value="deprecated" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
