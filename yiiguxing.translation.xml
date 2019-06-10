@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="send message end" />
+      <item value="send phone" />
+      <item value="send message param" />
       <item value="cause" />
       <item value="Invalid credential for database 'activityLog'." />
       <item value="activity" />
@@ -48,14 +51,11 @@
       <item value="Key is invalid. It must begin with 'ssh-ed25519', 'ssh-rsa', 'ssh-dss', 'ecdsa-sha2-nistp256', 'ecdsa-sha2-nistp384', or 'ecdsa-sha2-nistp521'. Check that you're copying the public half of the key" />
       <item value="beta" />
       <item value="amount" />
-      <item value="verify User" />
-      <item value="all right" />
-      <item value="what`s wrong man?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
