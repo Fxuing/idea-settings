@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cause" />
       <item value="Invalid credential for database 'activityLog'." />
       <item value="activity" />
       <item value="offer" />
@@ -50,12 +51,11 @@
       <item value="verify User" />
       <item value="all right" />
       <item value="what`s wrong man?" />
-      <item value="税金贷" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
