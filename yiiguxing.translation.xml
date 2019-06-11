@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test account white" />
+      <item value="test_account_white" />
+      <item value="social Credit Code" />
+      <item value="测试账号" />
       <item value="projection" />
       <item value="send message end" />
       <item value="send phone" />
@@ -47,15 +51,11 @@
       <item value="ZREO" />
       <item value="0" />
       <item value="authentication" />
-      <item value="authenticationnew" />
-      <item value="publish Authen Msg" />
-      <item value="Key is invalid. It must begin with 'ssh-ed25519', 'ssh-rsa', 'ssh-dss', 'ecdsa-sha2-nistp256', 'ecdsa-sha2-nistp384', or 'ecdsa-sha2-nistp521'. Check that you're copying the public half of the key" />
-      <item value="beta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
