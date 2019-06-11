@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search By Contact Phone" />
+      <item value="is Docking" />
+      <item value="对接" />
+      <item value="是否对接" />
+      <item value="is Apply" />
       <item value="test account white" />
       <item value="test_account_white" />
       <item value="social Credit Code" />
@@ -46,16 +51,11 @@
       <item value="第二" />
       <item value="First" />
       <item value="二" />
-      <item value="签署第一份合同" />
-      <item value="零" />
-      <item value="ZREO" />
-      <item value="0" />
-      <item value="authentication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="347" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
