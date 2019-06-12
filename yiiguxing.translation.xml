@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot access com.obanks.sc.enums.UserStatus" />
       <item value="search By Contact Phone" />
       <item value="is Docking" />
       <item value="对接" />
@@ -50,11 +51,10 @@
       <item value="行业判断" />
       <item value="第二" />
       <item value="First" />
-      <item value="二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
+        <entry key="CHINESE" value="347" />
         <entry key="ENGLISH" value="347" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
