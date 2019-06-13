@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Url" />
+      <item value="Uri" />
+      <item value="tax Uri" />
       <item value="Cannot access com.obanks.sc.enums.UserStatus" />
       <item value="search By Contact Phone" />
       <item value="is Docking" />
@@ -48,20 +51,18 @@
       <item value="deprecated" />
       <item value="最后  signFirstContract" />
       <item value="国税取数" />
-      <item value="行业判断" />
-      <item value="第二" />
-      <item value="First" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SOMALI" value="1" />
