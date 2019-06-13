@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Executor" />
+      <item value="developer" />
       <item value="Url" />
       <item value="Uri" />
       <item value="tax Uri" />
@@ -49,13 +51,11 @@
       <item value="注册并申请CA" />
       <item value="quick Sign Contract" />
       <item value="deprecated" />
-      <item value="最后  signFirstContract" />
-      <item value="国税取数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
