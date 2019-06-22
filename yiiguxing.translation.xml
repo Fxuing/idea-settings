@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quantity Sale" />
+      <item value="出售数量" />
       <item value="video" />
       <item value="lanuch" />
       <item value="lanuch Pay" />
@@ -49,13 +51,11 @@
       <item value="身高" />
       <item value="Spellchecker inspection helps locate typos and misspelling in your code, comments and literals, and fix them in one click" />
       <item value="check Param Is Empty" />
-      <item value="测试模式" />
-      <item value="Testing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
