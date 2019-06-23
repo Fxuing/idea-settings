@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Signature" />
       <item value="The given id must not be null" />
       <item value="提现途径" />
       <item value="赠送余额" />
@@ -50,12 +51,11 @@
       <item value="send phone" />
       <item value="send message param" />
       <item value="cause" />
-      <item value="Invalid credential for database 'activityLog'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
