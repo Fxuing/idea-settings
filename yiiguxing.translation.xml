@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详细地址" />
+      <item value="收货地址" />
+      <item value="性别" />
+      <item value="联系人" />
+      <item value="content" />
       <item value="generate Signature" />
       <item value="The given id must not be null" />
       <item value="提现途径" />
@@ -10,7 +15,6 @@
       <item value="Withdrawal Amount" />
       <item value="提现金额" />
       <item value="账户余额" />
-      <item value="content" />
       <item value="quantity Sale" />
       <item value="出售数量" />
       <item value="video" />
@@ -47,15 +51,11 @@
       <item value="social Credit Code" />
       <item value="测试账号" />
       <item value="projection" />
-      <item value="send message end" />
-      <item value="send phone" />
-      <item value="send message param" />
-      <item value="cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="380" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
