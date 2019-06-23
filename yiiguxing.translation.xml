@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提现途径" />
+      <item value="赠送余额" />
+      <item value="gift Balance" />
+      <item value="account Balance" />
+      <item value="Withdrawal Amount" />
+      <item value="提现金额" />
+      <item value="账户余额" />
       <item value="content" />
       <item value="quantity Sale" />
       <item value="出售数量" />
@@ -44,18 +51,11 @@
       <item value="cause" />
       <item value="Invalid credential for database 'activityLog'." />
       <item value="activity" />
-      <item value="offer" />
-      <item value="You do not need to open a file in the editor to change its line separator style. Use the Project tool window instead: select one or more files, or folders, point to File | Line Separators on the main menu, and then choose the desired line ending style." />
-      <item value="生日" />
-      <item value="body Weight" />
-      <item value="体重" />
-      <item value="身高" />
-      <item value="Spellchecker inspection helps locate typos and misspelling in your code, comments and literals, and fix them in one click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="374" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
