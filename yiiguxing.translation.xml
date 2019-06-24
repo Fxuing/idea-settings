@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="鉴权" />
+      <item value="Auth White" />
       <item value="详细" />
       <item value="详细地址" />
       <item value="收货地址" />
@@ -49,13 +51,11 @@
       <item value="is Apply" />
       <item value="test account white" />
       <item value="test_account_white" />
-      <item value="social Credit Code" />
-      <item value="测试账号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
