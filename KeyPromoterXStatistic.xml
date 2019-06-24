@@ -1001,6 +1001,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'start'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'start'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'test()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1263,6 +1271,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'service'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'start'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'szjf-parent [install]'">
