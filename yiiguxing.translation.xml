@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="argument" />
+      <item value="is Not Null OR Blank" />
       <item value="鉴权" />
       <item value="Auth White" />
       <item value="详细" />
@@ -49,13 +51,11 @@
       <item value="对接" />
       <item value="是否对接" />
       <item value="is Apply" />
-      <item value="test account white" />
-      <item value="test_account_white" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
