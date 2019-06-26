@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="行" />
+      <item value="你行你上" />
       <item value="is Default" />
       <item value="默认地址" />
       <item value="详细" />
@@ -49,8 +51,6 @@
       <item value="tax Uri" />
       <item value="Cannot access com.obanks.sc.enums.UserStatus" />
       <item value="search By Contact Phone" />
-      <item value="is Docking" />
-      <item value="对接" />
     </histories>
     <option name="languageScores">
       <map>
