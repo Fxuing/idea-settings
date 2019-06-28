@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Mongo Auditing" />
+      <item value="Statistics Type" />
       <item value="数据统计" />
       <item value="日期" />
       <item value="数值" />
@@ -49,13 +51,11 @@
       <item value="the resource cannot be found by ids" />
       <item value="注意事项" />
       <item value="Unknown system variable 'query_cache_size'" />
-      <item value="生产" />
-      <item value="character Encoding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
