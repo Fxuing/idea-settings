@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认证" />
+      <item value="auth Count" />
       <item value="激活" />
       <item value="移动端" />
       <item value="移动" />
@@ -49,13 +51,11 @@
       <item value="描述" />
       <item value="desc" />
       <item value="区别" />
-      <item value="Channel" />
-      <item value="File Channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="394" />
         <entry key="ARABIC" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
