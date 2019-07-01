@@ -238,7 +238,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'XxlJobExecutorApplication '</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'XxlJobExecutorApplication'">
@@ -254,7 +254,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1181</Count>
+          <Count>1187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
