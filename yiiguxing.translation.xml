@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
+      <item value="受理" />
+      <item value="待受理数" />
+      <item value="pending Count" />
+      <item value="受理放款" />
       <item value="待受理" />
       <item value="单个" />
       <item value="singn" />
@@ -46,16 +51,11 @@
       <item value="A lightweight distributed task scheduling framework" />
       <item value="Based on configured schedule, the given trigger 'DEFAULT.15' will never fire." />
       <item value="licenses" />
-      <item value="我们走" />
-      <item value="行" />
-      <item value="你行你上" />
-      <item value="is Default" />
-      <item value="默认地址" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
