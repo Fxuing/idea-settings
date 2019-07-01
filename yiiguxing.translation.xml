@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="match Apply" />
+      <item value="活跃数" />
+      <item value="活跃" />
+      <item value="注册与认证" />
+      <item value="registr Auth" />
+      <item value="注册认证" />
       <item value="条件查询" />
       <item value="行业不通过" />
       <item value="审核" />
@@ -45,17 +51,11 @@
       <item value="收货地址" />
       <item value="性别" />
       <item value="联系人" />
-      <item value="content" />
-      <item value="generate Signature" />
-      <item value="The given id must not be null" />
-      <item value="提现途径" />
-      <item value="赠送余额" />
-      <item value="gift Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
