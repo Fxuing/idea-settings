@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="origin" />
+      <item value="来源" />
       <item value="放款金额" />
       <item value="ex Fail Count" />
       <item value="待审核数" />
@@ -49,13 +51,11 @@
       <item value="Enable Mongo Auditing" />
       <item value="Statistics Type" />
       <item value="数据统计" />
-      <item value="日期" />
-      <item value="数值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="412" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
