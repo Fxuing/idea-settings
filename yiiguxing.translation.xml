@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="浮窗" />
       <item value="17:22&#9;No suspicious code found. 1 files processed in 'File 'DataStatisticsJobHandler.java''." />
       <item value="origin" />
       <item value="来源" />
@@ -50,7 +51,6 @@
       <item value="reduce" />
       <item value="$reduce" />
       <item value="Enable Mongo Auditing" />
-      <item value="Statistics Type" />
     </histories>
     <option name="languageScores">
       <map>
