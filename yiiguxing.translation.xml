@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="value" />
+      <item value="最近天数" />
+      <item value="start Date" />
       <item value="浮窗" />
       <item value="17:22&#9;No suspicious code found. 1 files processed in 'File 'DataStatisticsJobHandler.java''." />
       <item value="origin" />
@@ -48,14 +51,11 @@
       <item value="游客" />
       <item value="Define the aggregation function that operates on the documents during the grouping operation" />
       <item value="failed: initial has to be an object" />
-      <item value="reduce" />
-      <item value="$reduce" />
-      <item value="Enable Mongo Auditing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
