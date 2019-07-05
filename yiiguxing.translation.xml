@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作端口" />
+      <item value="有效开始时间" />
+      <item value="有效期" />
+      <item value="持续时间" />
+      <item value="加载" />
+      <item value="loadingPage" />
       <item value="浮窗闪屏管理" />
       <item value="浮窗" />
       <item value="required" />
@@ -45,17 +51,11 @@
       <item value="Fali" />
       <item value="Fial" />
       <item value="auth Fial" />
-      <item value="click Auth Count" />
-      <item value="To select multiple words, press Alt+Shift, place the caret at each word to be selected and double-click the left mouse button." />
-      <item value="refund Account" />
-      <item value="账号" />
-      <item value="认证" />
-      <item value="auth Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
