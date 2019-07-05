@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required  " />
       <item value="No suspicious code found. 17 files processed in 'Selected files'." />
       <item value="statistics Type" />
       <item value="dataStatistics" />
@@ -50,7 +51,6 @@
       <item value="auth Count" />
       <item value="激活" />
       <item value="移动端" />
-      <item value="移动" />
     </histories>
     <option name="languageScores">
       <map>
