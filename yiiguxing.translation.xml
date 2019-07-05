@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required" />
       <item value="required  " />
       <item value="No suspicious code found. 17 files processed in 'Selected files'." />
       <item value="statistics Type" />
@@ -50,12 +51,11 @@
       <item value="认证" />
       <item value="auth Count" />
       <item value="激活" />
-      <item value="移动端" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
