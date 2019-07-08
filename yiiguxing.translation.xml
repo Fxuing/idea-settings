@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="闪屏" />
       <item value="operator" />
       <item value="操作端口" />
       <item value="有效开始时间" />
@@ -50,7 +51,6 @@
       <item value="auth Fail" />
       <item value="失败" />
       <item value="Fali" />
-      <item value="Fial" />
     </histories>
     <option name="languageScores">
       <map>
