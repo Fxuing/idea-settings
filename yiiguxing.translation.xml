@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can graceful shutdown now., dubbo version: 2.7.1, current host: 192.168.10.117" />
+      <item value="Failed to invoke the method findByType in the service com.obanks.mgr.service.LoadPageService" />
       <item value="provider" />
       <item value="闪屏" />
       <item value="第一" />
@@ -49,13 +51,11 @@
       <item value="注册与认证" />
       <item value="registr Auth" />
       <item value="注册认证" />
-      <item value="条件查询" />
-      <item value="行业不通过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
