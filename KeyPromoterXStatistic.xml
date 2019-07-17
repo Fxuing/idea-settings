@@ -577,6 +577,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile '...oginController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...oginController.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile '...riseController.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
