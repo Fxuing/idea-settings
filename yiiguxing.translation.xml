@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Frequently Asked Questions Feedback" />
       <item value="数据补充" />
       <item value="Dst refspec releases_v2.1.0 matches more than one failed to push some refs to 'http://192.168.50.51/financial/batch.git'" />
       <item value="Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure " />
@@ -50,7 +51,6 @@
       <item value="dataStatistics" />
       <item value="value" />
       <item value="最近天数" />
-      <item value="start Date" />
     </histories>
     <option name="languageScores">
       <map>
