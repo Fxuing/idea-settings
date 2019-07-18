@@ -337,6 +337,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Get relevant examples">
+        <Item>
+          <IdeaActionID>CodotaLeanSearchCrossRefAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Get relevant examples</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
