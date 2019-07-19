@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="glue Source" />
       <item value="Permession Limit" />
       <item value="template id" />
       <item value="template_id" />
@@ -50,12 +51,11 @@
       <item value="Failed to invoke the method findByType in the service com.obanks.mgr.service.LoadPageService" />
       <item value="Failed to invoke the method findByType in the service com.obanks.mgr.service.LoadPageService. Tried 3 times of the providers [192.168.10.117:20890] (1/1) from the registry 192.168.50.21:8500 on the consumer 192.168.10.117 using the dubbo version 2.7.2. Last error is: Failed to invoke remote method: findByType, provider: dubbo://192.168.10.117:20890/com.obanks.mgr.service.LoadPageService?anyhost=true&amp;application=9hbank&amp;bean.name=providers:dubbo:com.obanks.mgr.service.LoadPageService&amp;check=false&amp;default.deprecated=false&amp;default.dynamic=false&amp;default.register=true&amp;deprecated=false&amp;dubbo=2.0.2&amp;dynamic=false&amp;generic=false&amp;interface=com.obanks.mgr.service.LoadPageService&amp;lazy=false&amp;logger=slf4j&amp;methods=add,search,merge,findById,delete,findByType&amp;pid=4288&amp;qos-enable=false&amp;register=true&amp;register.ip=192.168.10.117&amp;release=2.7.1&amp;remote.application=qyxx_consumer&amp;revision=0.0.1-20190709.071200-4-api&amp;side=consumer&amp;sticky=false&amp;timeout=15000&amp;timestamp=1562658794051, cause: org.apache.dubbo.remoting.RemotingException: java.lang.NoClassDefFoundError: com/alibaba/dubbo/rpc/RpcInvocation" />
       <item value="You can graceful shutdown now., dubbo version: 2.7.1, current host: 192.168.10.117" />
-      <item value="provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="449" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
