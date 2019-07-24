@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1534</Count>
+          <Count>1535</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1127,6 +1127,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UserbootApplication'</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WeChatPushServ....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WeChatPushServ....main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Weather.main()'">
