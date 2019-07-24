@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Certification Not Applied" />
+      <item value="已认证未申请" />
       <item value="excute" />
       <item value="condition" />
       <item value="周期" />
@@ -49,13 +51,11 @@
       <item value="流水" />
       <item value="flow" />
       <item value="银行流水" />
-      <item value="流水记录" />
-      <item value="purchase Activi Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="463" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
