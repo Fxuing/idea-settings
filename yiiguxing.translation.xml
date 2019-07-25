@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user service indexService index method exception" />
       <item value="uri" />
       <item value="Key is invalid." />
       <item value="cannot find user by this audience" />
@@ -50,12 +51,11 @@
       <item value="concern Id" />
       <item value="Docking Pipel" />
       <item value="ocking Pipelining" />
-      <item value="Ambiguous mapping. Cannot map 'accountController' method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="472" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
