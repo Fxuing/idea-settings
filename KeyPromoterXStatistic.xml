@@ -249,6 +249,14 @@
           <Count>78</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'UserbootApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'UserbootApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'XxlJobAdminApplication '">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -1142,7 +1150,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UserbootApplication'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeChatPushServ....main()'">
