@@ -542,7 +542,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...cernController.java'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...dConcernAction.java'">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>5</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Translation Dialog...">
