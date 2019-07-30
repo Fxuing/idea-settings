@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot find user by this audience" />
       <item value="Platform format is invalid" />
       <item value="Test from API example" />
       <item value="extra key" />
-      <item value="cannot find user by this audience" />
       <item value="System has not been booted with systemd as init system (PID 1). Can't operate." />
       <item value="You can compare data sources, schemas and tables. In the Database tool window, select two items that you want to compare and press Ctrl+D." />
       <item value="info service policyService searchIndexNew method exception" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="479" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
