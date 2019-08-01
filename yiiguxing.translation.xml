@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find config for namespace - appId: batch-web, cluster: default, namespace: application, please check whether the configs are released in Apollo!" />
+      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
+      <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="eager Load" />
       <item value="master Secret" />
       <item value="incr Badge" />
@@ -48,14 +51,11 @@
       <item value="节点" />
       <item value="Remote host closed connection during handshake" />
       <item value="java.net.UnknownHostException:" />
-      <item value="java.net.UnknownHostException: api.weixin.qq.com" />
-      <item value="WX Pust Msg" />
-      <item value="Frequently Asked Questions Feedback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
