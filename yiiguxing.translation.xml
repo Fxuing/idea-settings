@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="match Options" />
+      <item value="parent Id" />
+      <item value="字典" />
+      <item value="Policy Distonry" />
+      <item value="Policy Match" />
       <item value="开发模式" />
       <item value="Compares the specified object with this set for equality. Returns * &lt;tt&gt;true&lt;/tt&gt; if the specified object is also a set, the two sets * have the same size, and every member of the specified set is * contained in this set (or equivalently, every member of this set is * contained in the specified set). This definition ensures that the * equals method works properly across different implementations of the * set interface." />
       <item value="ompares the specified object with this set for equality. Returns * &lt;tt&gt;true&lt;/tt&gt; if the specified object is also a set, the two sets * have the same size, and every member of the specified set is * contained in this set (or equivalently, every member of this set is * contained in the specified set). This definition ensures that the * equals method works properly across different implementations of the * set interface." />
@@ -46,16 +51,11 @@
       <item value="Certification Not Applied" />
       <item value="已认证未申请" />
       <item value="excute" />
-      <item value="condition" />
-      <item value="周期" />
-      <item value="send Time" />
-      <item value="公众号" />
-      <item value="public Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="506" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
