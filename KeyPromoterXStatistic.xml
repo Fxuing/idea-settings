@@ -318,7 +318,15 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'tomcat'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug with JRebel 'tttttttttt'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'tttttttttt'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -326,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1632</Count>
+          <Count>1636</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
