@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not initialize class com.fasterxml.jackson.databind.ObjectMapper" />
       <item value="Activity Award Action" />
       <item value="lottery" />
       <item value="match Options" />
@@ -50,12 +51,11 @@
       <item value="Key is invalid." />
       <item value="Push Example" />
       <item value="对接拒绝" />
-      <item value="Certification Not Applied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="509" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
