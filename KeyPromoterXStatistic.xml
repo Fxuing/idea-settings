@@ -318,7 +318,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'tomcat'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'tttttttttt'">
@@ -542,7 +542,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>880</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...CodeController.java'">
@@ -1766,7 +1766,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1035</Count>
+          <Count>1039</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'tttttttttt' application">
