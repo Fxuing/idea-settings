@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Query">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>458</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -206,7 +206,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'Application'</Description>
-          <Count>93</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'FileAppApplication'">
@@ -246,7 +246,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'MatchbootApplication'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'ProgramApplication'">
@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1672</Count>
+          <Count>1685</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -542,7 +542,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>884</Count>
+          <Count>885</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...CodeController.java'">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Consumer'">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MatchbootApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Policy'">
