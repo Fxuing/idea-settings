@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生产" />
+      <item value="pro Url" />
       <item value="Common Log with Exception" />
       <item value="反转" />
       <item value="Comparison method violates its general contract" />
@@ -49,13 +51,11 @@
       <item value="master Secret" />
       <item value="incr Badge" />
       <item value="For push, all you need do is to build PushPayload object." />
-      <item value="extras" />
-      <item value="cannot find user by this audience" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="521" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
