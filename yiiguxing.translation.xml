@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性别" />
+      <item value="sex" />
+      <item value="username" />
       <item value="单元" />
       <item value="cell" />
       <item value="year" />
@@ -48,14 +51,11 @@
       <item value="type not empty" />
       <item value="alias" />
       <item value="点" />
-      <item value="case Push" />
-      <item value="Could not find config for namespace - appId: batch-web, cluster: default, namespace: application, please check whether the configs are released in Apollo!" />
-      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="527" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
