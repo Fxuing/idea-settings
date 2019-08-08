@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="year" />
+      <item value="Date parse exception" />
       <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="生产" />
       <item value="pro Url" />
@@ -49,18 +51,17 @@
       <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="eager Load" />
-      <item value="master Secret" />
-      <item value="incr Badge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="522" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="523" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
