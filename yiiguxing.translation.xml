@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no Read Num" />
+      <item value="resolve Demand Money" />
       <item value="性别" />
       <item value="sex" />
       <item value="username" />
@@ -49,13 +51,11 @@
       <item value="exits" />
       <item value="类型不存在" />
       <item value="type not empty" />
-      <item value="alias" />
-      <item value="点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="530" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
