@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>496</Count>
+          <Count>497</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1767</Count>
+          <Count>1768</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
