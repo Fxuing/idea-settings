@@ -230,7 +230,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'DroolsDemoApplication'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'EntAppApplication'">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1776</Count>
+          <Count>1784</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DroolsDemoApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EibootApplication (1)'">
