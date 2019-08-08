@@ -65,6 +65,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Value">
         <Item>
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'DroolsApplicationHelloWordTests.testHelloWord'</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FinancebootApplication'">
@@ -342,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1736</Count>
+          <Count>1739</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -550,7 +558,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>902</Count>
+          <Count>904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...CodeController.java'">
@@ -1009,6 +1017,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DroolsApplicationHelloWordTests.testHelloWord'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DroolsApplicationHelloWordTests.testHelloWord'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'EibootApplication (1)'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1390,7 +1406,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testHelloWord()'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -1814,7 +1830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1064</Count>
+          <Count>1066</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'tttttttttt' application">
