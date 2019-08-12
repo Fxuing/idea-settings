@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable 'sqlSessionTemplate' might not have been initialized" />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="Suppress Warnings" />
       <item value="This method is called when the servlet context is initialized(when the Web application is deployed). You can initialize servlet context related data here." />
@@ -50,7 +51,6 @@
       <item value="lottery" />
       <item value="match Options" />
       <item value="parent Id" />
-      <item value="字典" />
     </histories>
     <option name="languageScores">
       <map>
