@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>444</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug '21'">
@@ -142,6 +142,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'MatchbootApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MyTest.testEnterpriseAuthList'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MyTest.testEnterpriseAuthList'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -281,6 +289,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'MyTest.testEnterpriseAuthList'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'MyTest.testEnterpriseAuthList'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'ProgramApplication'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -366,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1862</Count>
+          <Count>1865</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -574,7 +590,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>919</Count>
+          <Count>927</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...CodeController.java'">
@@ -1358,7 +1374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UserbootApplication'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WeChatPushServ....main()'">
@@ -1463,6 +1479,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'test.sh'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testEnterpriseAuth...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testEnterpriseAuth...()'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testHelloWord()'">
@@ -1649,6 +1673,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MyTest.testEnterpriseAuthList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MyTest.testEnterpriseAuthList'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Policy'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1702,7 +1734,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserbootApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'XxlJobAdminApplication '">
@@ -1910,7 +1942,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1092</Count>
+          <Count>1104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'tttttttttt' application">
