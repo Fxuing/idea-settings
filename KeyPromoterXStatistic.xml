@@ -222,7 +222,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'Application'</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DroolsDemoApplication'">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1851</Count>
+          <Count>1852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rainbow.ScopeHighlightingAction</IdeaActionID>
           <ShortCut>'Ctrl+Button3 Click'</ShortCut>
           <Description>Highlight current scope</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -958,7 +958,7 @@
           <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
           <ShortCut>'Alt+Button3 Click'</ShortCut>
           <Description>Restrain scope highlighting</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
