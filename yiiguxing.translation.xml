@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单元" />
       <item value="start Date" />
       <item value="nice" />
       <item value="联系人" />
@@ -45,7 +46,6 @@
       <item value="性别" />
       <item value="sex" />
       <item value="username" />
-      <item value="单元" />
       <item value="cell" />
       <item value="year" />
       <item value="Date parse exception" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
