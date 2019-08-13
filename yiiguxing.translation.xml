@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start Date" />
+      <item value="nice" />
+      <item value="联系人" />
+      <item value="contents Name" />
+      <item value="法人" />
+      <item value="企业认证" />
+      <item value="Enterprise Auth Info" />
       <item value="get Before Zr Date" />
       <item value="No identifier specified for entity: com.fxuing.droolsdemo.model.User" />
       <item value="Wrong 1st argument type. Found: 'com.fxuing.droolsdemo.common.Page&lt;com.fxuing.droolsdemo.model.User&gt;', required: 'com.baomidou.mybatisplus.core.metadata.IPage&lt;com.fxuing.droolsdemo.model.User&gt;'" />
@@ -44,18 +51,11 @@
       <item value="Date parse exception" />
       <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
       <item value="生产" />
-      <item value="pro Url" />
-      <item value="Common Log with Exception" />
-      <item value="反转" />
-      <item value="Comparison method violates its general contract" />
-      <item value="response" />
-      <item value="else" />
-      <item value="policy Match Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="563" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
