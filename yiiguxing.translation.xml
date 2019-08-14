@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Moved Permanently" />
+      <item value="47.105.195.84" />
       <item value="Unchecked assignment: 'anonymous java.util.LinkedHashMap' to 'java.util.Map&lt;java.lang.String,java.lang.String&gt;' more... (Ctrl+F1)" />
       <item value="单元" />
       <item value="start Date" />
@@ -49,8 +51,6 @@
       <item value="username" />
       <item value="cell" />
       <item value="year" />
-      <item value="Date parse exception" />
-      <item value="java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" />
     </histories>
     <option name="languageScores">
       <map>
