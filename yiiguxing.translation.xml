@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SQL dialect is not configured. more... (Ctrl+F1)" />
       <item value="business" />
       <item value="经营范围" />
       <item value="所属行业" />
@@ -50,7 +51,6 @@
       <item value="release Demand Money" />
       <item value="push Demand Money" />
       <item value="发布需求金额" />
-      <item value="docking Amount" />
     </histories>
     <option name="languageScores">
       <map>
