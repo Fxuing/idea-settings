@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of Epoch Day" />
+      <item value="set Setup Time" />
+      <item value="get Estdate" />
+      <item value="set Registered Capital" />
+      <item value="enterpriseInf.setRegisteredCapital(corpBase.getRegcapital()); enterpriseInf.setCorporateName(corpBase.getLegal()); enterpriseInf.setSetupTime(corpBase.getEstdate()); enterpriseInf.setIndustryKind(corpBase.getIndustry()); enterpriseInf.setOfficeAddress(corpBase.getEntaddress());" />
       <item value="get Legal" />
       <item value="set Corporate Name" />
       <item value="SQL dialect is not configured. more... (Ctrl+F1)" />
@@ -46,16 +51,11 @@
       <item value="处理" />
       <item value="stack Trace" />
       <item value="Call to 'super()' must be first statement in constructor body" />
-      <item value="resolve Demand Money" />
-      <item value="solve Money" />
-      <item value="docking Success" />
-      <item value="发布" />
-      <item value="release Demand Money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="574" />
+        <entry key="CHINESE" value="564" />
+        <entry key="ENGLISH" value="579" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
