@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="business" />
+      <item value="经营范围" />
+      <item value="所属行业" />
+      <item value="成立日期" />
+      <item value="Found date" />
+      <item value="注册资本" />
+      <item value="Inspection info: Reports all fields, methods or classes, found in the specified inspection scope, that may have their access modifier narrowed down." />
+      <item value="Access can be private more... (Ctrl+F1)" />
       <item value="set End Date" />
       <item value="ent Date" />
       <item value="Moved Permanently" />
@@ -43,19 +51,11 @@
       <item value="push Demand Money" />
       <item value="发布需求金额" />
       <item value="docking Amount" />
-      <item value="金额" />
-      <item value="demand Docking Money" />
-      <item value="对接" />
-      <item value="需求已对接数" />
-      <item value="no Read Num" />
-      <item value="性别" />
-      <item value="sex" />
-      <item value="username" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="572" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
