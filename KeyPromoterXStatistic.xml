@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1880</Count>
+          <Count>1884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -1982,7 +1982,7 @@
           <IdeaActionID>VimPluginToggle</IdeaActionID>
           <ShortCut>'Ctrl+Alt+K'</ShortCut>
           <Description>Vim Emulator</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
