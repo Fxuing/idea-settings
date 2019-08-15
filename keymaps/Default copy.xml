@@ -17,11 +17,8 @@
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
-  <action id="SelectNextOccurrence" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
+  <action id="VimPluginToggle" />
 </keymap>
