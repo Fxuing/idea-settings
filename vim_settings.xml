@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1552620712269">
@@ -18,12 +18,13 @@
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="48" />
       </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/UserController.java" timestamp="1565834714019">
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/UserController.java" timestamp="1565839692339">
         <mark key="[" line="58" column="11" />
         <mark key="]" line="58" column="10" />
         <mark key="^" line="58" column="10" />
         <mark key="." line="58" column="10" />
       </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/exceptoin/ExceptionsHandler.java" timestamp="1565839571643" />
     </filemarks>
     <jumps />
     <registers>
@@ -56,6 +57,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
