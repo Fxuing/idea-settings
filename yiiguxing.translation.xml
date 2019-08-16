@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contacts" />
+      <item value="restarting" />
+      <item value="监控" />
       <item value="region Code" />
       <item value="enterprise Disable" />
       <item value="禁用" />
@@ -48,14 +51,11 @@
       <item value="start Num" />
       <item value="total" />
       <item value="Variable 'sqlSessionTemplate' might not have been initialized" />
-      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="Suppress Warnings" />
-      <item value="This method is called when the servlet context is initialized(when the Web application is deployed). You can initialize servlet context related data here." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="569" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
