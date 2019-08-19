@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to download excel" />
+      <item value="表格下载失败" />
+      <item value="Department" />
+      <item value="列" />
+      <item value="lie" />
       <item value="Host" />
       <item value="bigdata Url" />
       <item value="Inspection info: Spellchecker inspection helps locate typos and misspelling in your code, comments and literals, and fix them in one click." />
@@ -46,16 +51,11 @@
       <item value="法人" />
       <item value="企业认证" />
       <item value="Enterprise Auth Info" />
-      <item value="get Before Zr Date" />
-      <item value="No identifier specified for entity: com.fxuing.droolsdemo.model.User" />
-      <item value="Wrong 1st argument type. Found: 'com.fxuing.droolsdemo.common.Page&lt;com.fxuing.droolsdemo.model.User&gt;', required: 'com.baomidou.mybatisplus.core.metadata.IPage&lt;com.fxuing.droolsdemo.model.User&gt;'" />
-      <item value="Unchecked call to 'setConditions(R)' as a member of raw type 'com.fxuing.droolsdemo.common.Page' more... (Ctrl+F1)" />
-      <item value="Method 'searchPage(R)' is never used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="574" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="596" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
