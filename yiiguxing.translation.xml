@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Condition 'i == 0' is always 'true' more... (Ctrl+F1)" />
+      <item value="state" />
       <item value="Normal" />
       <item value="Inspection info:Detects duplicates in source code" />
       <item value="政府" />
@@ -49,13 +51,11 @@
       <item value="47.105.195.84" />
       <item value="Unchecked assignment: 'anonymous java.util.LinkedHashMap' to 'java.util.Map&lt;java.lang.String,java.lang.String&gt;' more... (Ctrl+F1)" />
       <item value="单元" />
-      <item value="start Date" />
-      <item value="nice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="600" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
