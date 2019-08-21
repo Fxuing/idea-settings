@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="soul Model To Int" />
       <item value="Onmyoji" />
       <item value="Condition 'i == 0' is always 'true' more... (Ctrl+F1)" />
       <item value="state" />
@@ -50,12 +51,11 @@
       <item value="ent Date" />
       <item value="Moved Permanently" />
       <item value="47.105.195.84" />
-      <item value="Unchecked assignment: 'anonymous java.util.LinkedHashMap' to 'java.util.Map&lt;java.lang.String,java.lang.String&gt;' more... (Ctrl+F1)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="602" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
