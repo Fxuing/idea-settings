@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tax report" />
+      <item value="税务报告" />
+      <item value="TaxReport" />
       <item value="Segmented Regions" />
       <item value="========================&#10;BUILD OUTPUT DESCRIPTION&#10;======================== When you build an Java application project that has a main class, the IDE&#10;automatically copies all of the JAR&#10;files on the projects classpath to your projects dist/lib folder. The IDE&#10;also adds each of the JAR files to the Class-Path element in the application&#10;JAR files manifest file (MANIFEST.MF). To run the project from the command line, go to the dist folder and&#10;type the following: java -jar &quot;tess4j-3.4.8.jar&quot; To distribute this project, zip up the dist folder (including the lib folder)&#10;and distribute the ZIP file. Notes: * If two JAR files on the project classpath have the same name, only the first&#10;JAR file is copied to the lib folder.&#10;* Only JAR files are copied to the lib folder.&#10;If the classpath contains other types of files or folders, these files (folders)&#10;are not copied.&#10;* If a library on the projects classpath also has a Class-Path element&#10;specified in the manifest,the content of the Class-Path element has to be on&#10;the projects runtime path.&#10;* To set a main class in a standard Java project, right-click the project node&#10;in the Projects window and choose Properties. Then click Run and enter the&#10;class name in the Main Class field. Alternatively, you can manually type the&#10;class name in the manifest Main-Class element." />
       <item value="parameter not found: enable_new_segsearch" />
@@ -48,14 +51,11 @@
       <item value="监控" />
       <item value="region Code" />
       <item value="enterprise Disable" />
-      <item value="禁用" />
-      <item value="disenable" />
-      <item value="search Content" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="602" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="ENGLISH" value="625" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
