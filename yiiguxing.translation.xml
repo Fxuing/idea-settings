@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field" />
+      <item value="Unsatisfied dependency expressed through field 'authInfoMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.obanks.info.entinfo.mapper.AuthInfoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.google.gson.GsonBuilder" />
       <item value="but it does not exist. Its class, com.google.gson.GsonBuilder, is available from the following locations:" />
       <item value="tax report" />
@@ -49,13 +51,11 @@
       <item value="导出" />
       <item value="Excel Report Controller" />
       <item value="contacts" />
-      <item value="restarting" />
-      <item value="监控" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="604" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="629" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
