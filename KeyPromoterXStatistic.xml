@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>99</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -159,6 +159,14 @@
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -263,6 +271,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Tess4JTest.main()'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'onmyoji-at.jar'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'onmyoji-at.jar'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'onmyoji-at.jar.jar'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'onmyoji-at.jar.jar'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
