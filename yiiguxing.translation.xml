@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="branches" />
       <item value="Hash objects have these methods:  - update(data): Update the hash object with the bytes in data. Repeated calls                  are equivalent to a single call with the concatenation of all                  the arguments.  - digest():     Return the digest of the bytes passed to the update() method                  so far as a bytes object.  - hexdigest():  Like digest() except the digest is returned as a string                  of double length, containing only hexadecimal digits.  - copy():       Return a copy (clone) of the hash object. This can be used to                  efficiently compute the digests of datas that share a common                  initial substring.  For example, to obtain the digest of the byte string 'Nobody inspects the spammish repetition': " />
       <item value="Performs a final update on the digest using the specified array * of bytes, then completes the digest computation. That is, this * method first calls {@link #update(byte[]) update(input)}, * passing the &lt;i&gt;input&lt;/i&gt; array to the {@code update} method, * then calls {@link #digest() digest()}." />
       <item value="encode" />
@@ -50,12 +51,11 @@
       <item value="octet-strea" />
       <item value="tips" />
       <item value="Failed to download excel" />
-      <item value="表格下载失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="610" />
+        <entry key="ENGLISH" value="634" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
