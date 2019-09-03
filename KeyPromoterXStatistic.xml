@@ -38,7 +38,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -97,6 +97,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'XxlJobExecutorExampleBootApplicationTests.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'App'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -134,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>132</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -206,7 +214,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ReportController.java'">
@@ -337,6 +345,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'XxlJobExecutorExampleBootApplicationTests.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'onmyoji-at-1.0-SNAPS...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -454,7 +470,15 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>32</Count>
+          <Count>43</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>AliP3CInspectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>

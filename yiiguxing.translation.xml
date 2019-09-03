@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appid missing hint" />
+      <item value="Unsatisfied dependency expressed through field 'jpushService';" />
+      <item value="Caught exception 'e' is immediately rethrown more... (Ctrl+F1)" />
+      <item value="is Debug Enabled" />
+      <item value="/** * Returns an {@code Optional} with the specified present non-null value. * * @param &lt;T&gt; the class of the value * @param value the value to be present, which must be non-null * @return an {@code Optional} with the value present * @throws NullPointerException if value is null */" />
+      <item value="&quot;get wechat concern user fail&quot;" />
       <item value="关注" />
       <item value="关注用户" />
       <item value="concern Id" />
@@ -45,17 +51,11 @@
       <item value="Cannot resolve file 'E:\\opencv\\opencv\\opencv\\build\\java\\opencv-410.jar' less... (Ctrl+F1)" />
       <item value="show Event" />
       <item value="soul Model To Int" />
-      <item value="Onmyoji" />
-      <item value="Condition 'i == 0' is always 'true' more... (Ctrl+F1)" />
-      <item value="state" />
-      <item value="Normal" />
-      <item value="Inspection info:Detects duplicates in source code" />
-      <item value="政府" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="618" />
+        <entry key="ENGLISH" value="642" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
