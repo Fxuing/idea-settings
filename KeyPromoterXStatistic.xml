@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -71,6 +71,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DroolsDemoApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DroolsDemoApplication'</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FinancebootApplication'">
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>140</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -278,6 +286,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'AppRun.main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DroolsDemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DroolsDemoApplication'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -433,6 +449,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DroolsDemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DroolsDemoApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'EibootApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -486,7 +510,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>54</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
