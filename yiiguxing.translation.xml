@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve configuration property 'alibaba.sms.accessKeySecret' more... (Ctrl+F1)" />
+      <item value="visitor" />
+      <item value="struts" />
+      <item value="status" />
+      <item value="state" />
       <item value="Direct self-reference leading to cycle" />
       <item value="No serializer found for class com.fxuing.droolsdemo.model.User and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: com.fxuing.droolsdemo.common.ResultData[&quot;data&quot;]-&gt;com.fxuing.droolsdemo.common.Page[&quot;data&quot;]-&gt;java.util.ArrayList[0])" />
       <item value="No serializer found for class com.fxuing.droolsdemo.model.User and no properties discovered to create BeanSerializer" />
@@ -46,16 +51,11 @@
       <item value="App Run" />
       <item value="Subquery returns more than 1 row" />
       <item value="copy Screen Shot" />
-      <item value="screen Shot" />
-      <item value="slide" />
-      <item value="执行" />
-      <item value="截屏" />
-      <item value="init Connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="654" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
