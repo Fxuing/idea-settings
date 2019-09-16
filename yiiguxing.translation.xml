@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="具体情况" />
+      <item value="office_address" />
+      <item value="职位" />
+      <item value="contacts phone" />
+      <item value="contacts_phone" />
+      <item value="contents_phone" />
+      <item value="客户" />
+      <item value="created_byid" />
+      <item value="分配id" />
+      <item value="指派id" />
+      <item value="human" />
+      <item value="人" />
+      <item value="分配给" />
+      <item value="目标人" />
+      <item value="目标" />
+      <item value="distribution" />
+      <item value="分配" />
+      <item value="跟进" />
+      <item value="客户跟进" />
       <item value="Created by caobing on 2018/03/17." />
       <item value="分享" />
       <item value="朋友圈" />
@@ -32,30 +51,11 @@
       <item value="branches" />
       <item value="Hash objects have these methods:  - update(data): Update the hash object with the bytes in data. Repeated calls                  are equivalent to a single call with the concatenation of all                  the arguments.  - digest():     Return the digest of the bytes passed to the update() method                  so far as a bytes object.  - hexdigest():  Like digest() except the digest is returned as a string                  of double length, containing only hexadecimal digits.  - copy():       Return a copy (clone) of the hash object. This can be used to                  efficiently compute the digests of datas that share a common                  initial substring.  For example, to obtain the digest of the byte string 'Nobody inspects the spammish repetition': " />
       <item value="Performs a final update on the digest using the specified array * of bytes, then completes the digest computation. That is, this * method first calls {@link #update(byte[]) update(input)}, * passing the &lt;i&gt;input&lt;/i&gt; array to the {@code update} method, * then calls {@link #digest() digest()}." />
-      <item value="encode" />
-      <item value="report" />
-      <item value="header" />
-      <item value="get Instance" />
-      <item value="get Insanect" />
-      <item value="设计模式" />
-      <item value="设计" />
-      <item value="To navigate any rest service in the editor quickly, press (Navigate | Rest Service) and start typing the url of the service. Choose the item from a drop-down list that appears." />
-      <item value="Inspection info:Under construction" />
-      <item value="Unsatisfied dependency expressed through field" />
-      <item value="Unsatisfied dependency expressed through field 'authInfoMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.obanks.info.entinfo.mapper.AuthInfoMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of com.google.gson.GsonBuilder" />
-      <item value="but it does not exist. Its class, com.google.gson.GsonBuilder, is available from the following locations:" />
-      <item value="tax report" />
-      <item value="税务报告" />
-      <item value="TaxReport" />
-      <item value="Segmented Regions" />
-      <item value="========================&#10;BUILD OUTPUT DESCRIPTION&#10;======================== When you build an Java application project that has a main class, the IDE&#10;automatically copies all of the JAR&#10;files on the projects classpath to your projects dist/lib folder. The IDE&#10;also adds each of the JAR files to the Class-Path element in the application&#10;JAR files manifest file (MANIFEST.MF). To run the project from the command line, go to the dist folder and&#10;type the following: java -jar &quot;tess4j-3.4.8.jar&quot; To distribute this project, zip up the dist folder (including the lib folder)&#10;and distribute the ZIP file. Notes: * If two JAR files on the project classpath have the same name, only the first&#10;JAR file is copied to the lib folder.&#10;* Only JAR files are copied to the lib folder.&#10;If the classpath contains other types of files or folders, these files (folders)&#10;are not copied.&#10;* If a library on the projects classpath also has a Class-Path element&#10;specified in the manifest,the content of the Class-Path element has to be on&#10;the projects runtime path.&#10;* To set a main class in a standard Java project, right-click the project node&#10;in the Projects window and choose Properties. Then click Run and enter the&#10;class name in the Main Class field. Alternatively, you can manually type the&#10;class name in the manifest Main-Class element." />
-      <item value="parameter not found: enable_new_segsearch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="660" />
+        <entry key="ENGLISH" value="669" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
