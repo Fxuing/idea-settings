@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.apache.dubbo.rpc.RpcException: No provider available from registry 192.168.50.21:8500 for service com.obanks.user.service.CrmCusImportService on consumer 172.17.18.33 use dubbo version 2.7.3, please check status of providers(disabled, not registered or in blacklist)." />
+      <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
+      <item value="客户" />
       <item value="条件" />
       <item value="Distribution Controller" />
       <item value="social Credit Code" />
@@ -17,7 +20,6 @@
       <item value="contacts phone" />
       <item value="contacts_phone" />
       <item value="contents_phone" />
-      <item value="客户" />
       <item value="created_byid" />
       <item value="分配id" />
       <item value="指派id" />
@@ -49,13 +51,11 @@
       <item value="获取微信关注用户失败" />
       <item value="get wechat concern from fail user" />
       <item value="get wechat concern user fail" />
-      <item value="appid missing hint" />
-      <item value="Unsatisfied dependency expressed through field 'jpushService';" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="638" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="640" />
+        <entry key="ENGLISH" value="679" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
