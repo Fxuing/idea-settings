@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>43</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
@@ -142,7 +142,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'Application'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DroolsDemoApplication'">
@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'EntAppApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'EntAppApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'FileAppApplication'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -177,12 +185,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'UserbootApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'UserbootApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -262,7 +278,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ReportController.java'">
@@ -646,7 +662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>70</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="编码规约扫描">
