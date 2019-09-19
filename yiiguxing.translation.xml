@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="previvw" />
       <item value="预览" />
       <item value="Crm Review DTO" />
       <item value="i love work" />
@@ -50,12 +51,11 @@
       <item value="cause" />
       <item value="cause failure" />
       <item value="cause of failure" />
-      <item value="失败原因" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="663" />
+        <entry key="ENGLISH" value="728" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
