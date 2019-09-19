@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预览" />
+      <item value="Crm Review DTO" />
       <item value="i love work" />
       <item value="give/up/maintain" />
       <item value="give" />
@@ -49,13 +51,11 @@
       <item value="cause failure" />
       <item value="cause of failure" />
       <item value="失败原因" />
-      <item value="Lending quotas" />
-      <item value="放款额度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="727" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
