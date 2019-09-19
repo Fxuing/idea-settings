@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remarks" />
+      <item value="maintain" />
+      <item value="维护" />
+      <item value="Give up maintenance" />
+      <item value="放弃维护" />
+      <item value="不维护" />
+      <item value="maintenance" />
       <item value="rechecking" />
       <item value="查重" />
       <item value="重复" />
@@ -44,18 +51,11 @@
       <item value="specific case" />
       <item value="具体" />
       <item value="particular case" />
-      <item value="具体情况" />
-      <item value="reach" />
-      <item value="触达" />
-      <item value="Touch" />
-      <item value="触达结果" />
-      <item value="Follow up way" />
-      <item value="Follow " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="717" />
+        <entry key="ENGLISH" value="721" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
