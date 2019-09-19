@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="i love work" />
       <item value="give/up/maintain" />
       <item value="give" />
       <item value="give/maintain" />
@@ -50,7 +51,6 @@
       <item value="失败原因" />
       <item value="Lending quotas" />
       <item value="放款额度" />
-      <item value="营销" />
     </histories>
     <option name="languageScores">
       <map>
