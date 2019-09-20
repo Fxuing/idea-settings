@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="File" />
+      <item value="customer" />
       <item value="红包" />
       <item value="red Envelop" />
       <item value="previvw" />
@@ -49,13 +51,11 @@
       <item value="下步计划" />
       <item value="失败 reason" />
       <item value="reason" />
-      <item value="原因" />
-      <item value="cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="664" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="732" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
