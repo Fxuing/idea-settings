@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="跟进人" />
+      <item value="最新状态" />
+      <item value="营销产品" />
+      <item value="认证" />
+      <item value="cus Source" />
+      <item value="column" />
       <item value="Awaiting Non Web Application Listener" />
       <item value="here" />
       <item value="execute command denied to user 'dm_logic_cs'@'%' for routine 'crm.entName'" />
@@ -30,9 +36,7 @@
       <item value="列" />
       <item value="colnums" />
       <item value="follow People" />
-      <item value="跟进人" />
       <item value="cus Level" />
-      <item value="营销产品" />
       <item value="需求意向" />
       <item value="Crm Old Customer DTO" />
       <item value="客户" />
@@ -47,15 +51,11 @@
       <item value="check Status" />
       <item value="auth Status" />
       <item value="latest state" />
-      <item value="最新状态" />
-      <item value="责任处理人" />
-      <item value="回访时间" />
-      <item value="计划" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="668" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="CHINESE" value="672" />
+        <entry key="ENGLISH" value="740" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
