@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回收" />
       <item value="跟进人" />
       <item value="最新状态" />
       <item value="营销产品" />
@@ -50,12 +51,11 @@
       <item value="import Cus Id" />
       <item value="check Status" />
       <item value="auth Status" />
-      <item value="latest state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="741" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
