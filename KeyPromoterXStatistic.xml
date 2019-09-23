@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>244</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -246,6 +246,14 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Highlight current scope">
+        <Item>
+          <IdeaActionID>Rainbow.ScopeHighlightingAction</IdeaActionID>
+          <ShortCut>'Ctrl+Button3 Click'</ShortCut>
+          <Description>Highlight current scope</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -327,6 +335,14 @@
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Replace in Path...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restrain scope highlighting">
+        <Item>
+          <IdeaActionID>Rainbow.ScopeOutsideHighlightingRestrainAction</IdeaActionID>
+          <ShortCut>'Alt+Button3 Click'</ShortCut>
+          <Description>Restrain scope highlighting</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
