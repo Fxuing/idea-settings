@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="我的" />
+      <item value="我负责" />
+      <item value="三天" />
+      <item value="TYPE NOT EXIST" />
+      <item value="存在" />
+      <item value="TYPE NOT EXSIST" />
       <item value="--------------------------- Sublime Text --------------------------- Package Control  An error occurred while trying to unzip the package file for SublimeCodeIntel. Please try installing the package again. --------------------------- 确定    --------------------------- " />
       <item value="回收" />
       <item value="跟进人" />
@@ -45,17 +51,11 @@
       <item value="Old Custmonter" />
       <item value="老客户" />
       <item value="get Follow Up Way" />
-      <item value="当前" />
-      <item value="allot" />
-      <item value="分配" />
-      <item value="columns" />
-      <item value="import Cus Id" />
-      <item value="check Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="742" />
+        <entry key="CHINESE" value="676" />
+        <entry key="ENGLISH" value="747" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
