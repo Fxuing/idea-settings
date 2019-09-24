@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请原因" />
       <item value="contact Name" />
       <item value="No permissions" />
       <item value="暂无权限" />
@@ -50,12 +51,11 @@
       <item value="follow People" />
       <item value="cus Level" />
       <item value="需求意向" />
-      <item value="Crm Old Customer DTO" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="678" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
