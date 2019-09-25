@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JVMTI ERROR OUT OF MEMORY" />
       <item value="cus Contact Details" />
       <item value="cus Contacts Details" />
       <item value="maintain/check/preview" />
@@ -50,12 +51,11 @@
       <item value="重复" />
       <item value="get Reach Result" />
       <item value="get Failure Reason" />
-      <item value="列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="682" />
-        <entry key="ENGLISH" value="755" />
+        <entry key="CHINESE" value="683" />
+        <entry key="ENGLISH" value="756" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
