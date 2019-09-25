@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abandon Maintenance Id" />
+      <item value="Abandon maintenance id" />
+      <item value="放弃维护id " />
       <item value="导入人" />
       <item value="import By" />
       <item value="JVMTI ERROR OUT OF MEMORY" />
@@ -48,20 +51,17 @@
       <item value="放弃维护" />
       <item value="不维护" />
       <item value="maintenance" />
-      <item value="rechecking" />
-      <item value="查重" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="759" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
