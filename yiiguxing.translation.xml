@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="变更" />
+      <item value="人员" />
+      <item value="股东" />
+      <item value="登记状态" />
+      <item value="成立时间" />
+      <item value="business" />
+      <item value="资本" />
+      <item value="industry" />
+      <item value="legal" />
+      <item value="Crm Enterprise Main Info DTO" />
       <item value="abandon Maintenance Id" />
       <item value="Abandon maintenance id" />
       <item value="放弃维护id " />
@@ -41,21 +51,11 @@
       <item value="预览" />
       <item value="Crm Review DTO" />
       <item value="i love work" />
-      <item value="give/up/maintain" />
-      <item value="give" />
-      <item value="give/maintain" />
-      <item value="remarks" />
-      <item value="maintain" />
-      <item value="维护" />
-      <item value="Give up maintenance" />
-      <item value="放弃维护" />
-      <item value="不维护" />
-      <item value="maintenance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="765" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
