@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Commit" />
+      <item value="is Committed" />
+      <item value="is Commited" />
       <item value="businessscope" />
       <item value="business" />
       <item value="change After" />
@@ -48,14 +51,11 @@
       <item value="column" />
       <item value="Awaiting Non Web Application Listener" />
       <item value="here" />
-      <item value="execute command denied to user 'dm_logic_cs'@'%' for routine 'crm.entName'" />
-      <item value="File" />
-      <item value="customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="701" />
+        <entry key="ENGLISH" value="776" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
