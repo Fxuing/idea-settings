@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Results : Tests run: 33, Failures: 0, Errors: 0, Skipped: 0" />
       <item value="payload" />
       <item value="Inspection info:Detects duplicates in source code" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project xinge: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -&gt; [Help 1]" />
@@ -50,12 +51,11 @@
       <item value="我的" />
       <item value="我负责" />
       <item value="三天" />
-      <item value="TYPE NOT EXIST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="783" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
