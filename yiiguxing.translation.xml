@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project xinge: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -&gt; [Help 1]" />
       <item value="custom content" />
       <item value="Could not autowire. No beans of 'XingeAppSimple' type found. more... (Ctrl+F1)" />
       <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
@@ -50,12 +51,11 @@
       <item value="TYPE NOT EXIST" />
       <item value="存在" />
       <item value="TYPE NOT EXSIST" />
-      <item value="--------------------------- Sublime Text --------------------------- Package Control  An error occurred while trying to unzip the package file for SublimeCodeIntel. Please try installing the package again. --------------------------- 确定    --------------------------- " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="705" />
-        <entry key="ENGLISH" value="780" />
+        <entry key="CHINESE" value="706" />
+        <entry key="ENGLISH" value="781" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
