@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="custom content" />
       <item value="Could not autowire. No beans of 'XingeAppSimple' type found. more... (Ctrl+F1)" />
       <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
       <item value="Inspection info: Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
@@ -50,12 +51,11 @@
       <item value="存在" />
       <item value="TYPE NOT EXSIST" />
       <item value="--------------------------- Sublime Text --------------------------- Package Control  An error occurred while trying to unzip the package file for SublimeCodeIntel. Please try installing the package again. --------------------------- 确定    --------------------------- " />
-      <item value="回收" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="779" />
+        <entry key="CHINESE" value="705" />
+        <entry key="ENGLISH" value="780" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
