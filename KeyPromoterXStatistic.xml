@@ -153,6 +153,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'ActivitiDemoApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Debug with JRebel 'ActivitiDemoApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'App'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'DroolsDemoApplication'</Description>
-          <Count>7</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'EibootApplication'">
@@ -230,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>366</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -310,7 +318,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -689,6 +697,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ActivitiDemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ActivitiDemoApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'App'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -710,7 +726,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DroolsDemoApplication'</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EibootApplication'">
