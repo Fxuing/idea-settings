@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nonlocal" />
+      <item value="异地" />
+      <item value="distance" />
+      <item value="异地恋" />
+      <item value="In another place" />
+      <item value="deploy" />
+      <item value="异地部署" />
       <item value="Gitpod is free for public repositories. To work with private repositories, please select a subscription." />
       <item value="PROCEDURE CRM_COUNT already exists" />
       <item value="Lambda can be replaced with method reference more... (Ctrl+F1)" />
@@ -44,18 +51,11 @@
       <item value="导入人" />
       <item value="import By" />
       <item value="JVMTI ERROR OUT OF MEMORY" />
-      <item value="cus Contact Details" />
-      <item value="cus Contacts Details" />
-      <item value="maintain/check/preview" />
-      <item value="INSERT command denied to user 'dm_logic_cs'@'119.139.197.43' for table 'crm_cus_apply'" />
-      <item value="申请原因" />
-      <item value="contact Name" />
-      <item value="No permissions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="ENGLISH" value="789" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
