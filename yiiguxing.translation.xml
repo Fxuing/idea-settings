@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gitpod is free for public repositories. To work with private repositories, please select a subscription." />
       <item value="PROCEDURE CRM_COUNT already exists" />
       <item value="Lambda can be replaced with method reference more... (Ctrl+F1)" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
@@ -50,7 +51,6 @@
       <item value="申请原因" />
       <item value="contact Name" />
       <item value="No permissions" />
-      <item value="暂无权限" />
     </histories>
     <option name="languageScores">
       <map>
