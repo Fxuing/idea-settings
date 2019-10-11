@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="你会中文吗" />
+      <item value="can you space chinese" />
+      <item value="中文" />
+      <item value="can you space chicess" />
       <item value="异常" />
       <item value="Abstract State" />
       <item value="status" />
@@ -47,15 +51,11 @@
       <item value="change Before" />
       <item value="职位" />
       <item value="delp" />
-      <item value="main Personnel" />
-      <item value="变更" />
-      <item value="人员" />
-      <item value="股东" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="715" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE" value="719" />
+        <entry key="ENGLISH" value="801" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
