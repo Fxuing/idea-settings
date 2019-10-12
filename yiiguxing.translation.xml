@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Task execution finished 'build'." />
       <item value="* Try:&#10;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="* What went wrong:&#10;Execution failed for task ':distZip'.&#10;&gt; Failed to create MD5 hash for file 'F:\javaworkspace\spring-framework\build\distributions\spring-framework-5.2.0.BUILD-SNAPSHOT-schema.zip' as it does not exist." />
       <item value="你会中文吗" />
@@ -50,12 +51,11 @@
       <item value="businessscope" />
       <item value="business" />
       <item value="change After" />
-      <item value="change Before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="805" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
