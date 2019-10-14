@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="市" />
+      <item value="Field can be converted to a local variable more... (Ctrl+F1)" />
+      <item value="Access can be private more... (Ctrl+F1)" />
+      <item value="config instance is singleton for each namespace and is never null" />
+      <item value="Custom" />
+      <item value="Common" />
+      <item value="Common Custom" />
+      <item value="公共自定义" />
+      <item value="Common Custmon" />
+      <item value="Platform detail name" />
+      <item value="Platform details" />
+      <item value="平台详细名称" />
+      <item value="platNameDetail" />
+      <item value="platformNameDetail" />
       <item value="Task execution finished 'build'." />
       <item value="* Try:&#10;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="* What went wrong:&#10;Execution failed for task ':distZip'.&#10;&gt; Failed to create MD5 hash for file 'F:\javaworkspace\spring-framework\build\distributions\spring-framework-5.2.0.BUILD-SNAPSHOT-schema.zip' as it does not exist." />
@@ -37,25 +51,11 @@
       <item value="Inspection info:Detects duplicates in source code" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project xinge: Deployment failed: repository element was not specified in the POM inside distributionManagement element or in -DaltDeploymentRepository=id::layout::url parameter -&gt; [Help 1]" />
       <item value="custom content" />
-      <item value="Could not autowire. No beans of 'XingeAppSimple' type found. more... (Ctrl+F1)" />
-      <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
-      <item value="Inspection info: Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
-      <item value="Field injection is not recommended more... (Ctrl+F1)" />
-      <item value="Local variable 'xingeApp' is redundant more... (Ctrl+F1)" />
-      <item value="start" />
-      <item value="destroy" />
-      <item value="destroy Method" />
-      <item value="is Commit" />
-      <item value="is Committed" />
-      <item value="is Commited" />
-      <item value="businessscope" />
-      <item value="business" />
-      <item value="change After" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="728" />
+        <entry key="ENGLISH" value="813" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
