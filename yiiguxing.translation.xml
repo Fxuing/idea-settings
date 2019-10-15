@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bookmark" />
+      <item value="Distributed Task Scheduling Platform XXL-JOB" />
       <item value="手表" />
       <item value="手柄" />
       <item value="do not use InputStreamResource if a stream needs to be read multiple times" />
@@ -49,13 +51,11 @@
       <item value="distance" />
       <item value="异地恋" />
       <item value="In another place" />
-      <item value="deploy" />
-      <item value="异地部署" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="734" />
+        <entry key="ENGLISH" value="820" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
