@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手表" />
+      <item value="手柄" />
       <item value="do not use InputStreamResource if a stream needs to be read multiple times" />
       <item value="InputStream has already been read" />
       <item value="Simple implementation of the {@link BeanDefinitionRegistry} interface. * Provides registry capabilities only, with no factory capabilities built in. * Can for example be used for testing bean definition readers." />
@@ -49,13 +51,11 @@
       <item value="In another place" />
       <item value="deploy" />
       <item value="异地部署" />
-      <item value="Gitpod is free for public repositories. To work with private repositories, please select a subscription." />
-      <item value="PROCEDURE CRM_COUNT already exists" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="733" />
-        <entry key="ENGLISH" value="818" />
+        <entry key="ENGLISH" value="819" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
