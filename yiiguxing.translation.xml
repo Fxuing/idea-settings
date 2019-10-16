@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to access jarfile app.jar" />
       <item value="pull access denied for szjf/app-api, repository does not exist or may require 'docker login'" />
       <item value="containers" />
       <item value="financial" />
@@ -50,7 +51,6 @@
       <item value="status" />
       <item value="A synchronization aid that allows one or more threads to wait until * a set of operations being performed in other threads completes." />
       <item value="Result of 'Stream.map()' is ignored more... (Ctrl+F1)" />
-      <item value="Lambda can be replaced with method reference more... (Ctrl+F1)" />
     </histories>
     <option name="languageScores">
       <map>
