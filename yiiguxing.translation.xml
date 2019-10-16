@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="financial" />
+      <item value="finance" />
       <item value="ALIGN RIGHT" />
       <item value="Company name" />
       <item value="Company" />
@@ -49,8 +51,6 @@
       <item value="Lambda can be replaced with method reference more... (Ctrl+F1)" />
       <item value="ajax Recommend" />
       <item value="apply By" />
-      <item value="申请人" />
-      <item value="This is a plugin for IntelliJ IDEA/PyCharm that facilitates developing Fusion 360 scripts. It supports launching and debugging scripts in Fusion 360, directly from within IDEA/PyCharm.&#10;This plugin was developed on windows. I would be surprised if it worked on a mac. If someone is interested on adding support for mac, I would be happy to provide pointers for what may need to be changed." />
     </histories>
     <option name="languageScores">
       <map>
