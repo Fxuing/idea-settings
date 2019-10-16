@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALIGN RIGHT" />
+      <item value="Company name" />
+      <item value="Company" />
+      <item value="公司名称" />
+      <item value="Common Custom" />
+      <item value="Different deployment" />
+      <item value="异地部署" />
+      <item value="异地" />
       <item value="summary Info" />
       <item value="Bookmark" />
       <item value="Distributed Task Scheduling Platform XXL-JOB" />
@@ -19,7 +27,6 @@
       <item value="config instance is singleton for each namespace and is never null" />
       <item value="Custom" />
       <item value="Common" />
-      <item value="Common Custom" />
       <item value="公共自定义" />
       <item value="Common Custmon" />
       <item value="Platform detail name" />
@@ -44,18 +51,11 @@
       <item value="apply By" />
       <item value="申请人" />
       <item value="This is a plugin for IntelliJ IDEA/PyCharm that facilitates developing Fusion 360 scripts. It supports launching and debugging scripts in Fusion 360, directly from within IDEA/PyCharm.&#10;This plugin was developed on windows. I would be surprised if it worked on a mac. If someone is interested on adding support for mac, I would be happy to provide pointers for what may need to be changed." />
-      <item value="This plugin allows you to browse and search characters and parts of the Unicode™ character set. Insert characters into an editor in one of 10 forms. Decodes coded characters at the cursor position." />
-      <item value="This plugin allows you to browse most archives like folders in IDEA. Supported archives (most of 7-zip supports): 7z, XZ, BZIP2, GZIP, TAR, ZIP, WIM, AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR and Z" />
-      <item value="浏览器" />
-      <item value="nonlocal" />
-      <item value="异地" />
-      <item value="distance" />
-      <item value="异地恋" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="735" />
-        <entry key="ENGLISH" value="821" />
+        <entry key="CHINESE" value="737" />
+        <entry key="ENGLISH" value="825" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
