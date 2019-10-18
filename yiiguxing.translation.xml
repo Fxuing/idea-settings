@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="法人" />
       <item value="authority" />
       <item value="credential" />
       <item value="Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the main URL sections. " />
@@ -50,12 +51,11 @@
       <item value="你会中文吗" />
       <item value="can you space chinese" />
       <item value="中文" />
-      <item value="can you space chicess" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="825" />
+        <entry key="ENGLISH" value="826" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
