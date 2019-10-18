@@ -809,6 +809,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'EntServiceBootApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EntServiceBootApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FileAppApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
