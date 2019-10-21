@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search By Phone Or Contact Or Enterprise Name" />
+      <item value="search By Phone Or Contact" />
+      <item value="get Reach Result" />
       <item value="'value' missing though required" />
       <item value="coordinates" />
       <item value="签章坐标" />
@@ -48,14 +51,11 @@
       <item value="Common Custmon" />
       <item value="Platform detail name" />
       <item value="Platform details" />
-      <item value="平台详细名称" />
-      <item value="platNameDetail" />
-      <item value="platformNameDetail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="CHINESE" value="743" />
+        <entry key="ENGLISH" value="833" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
