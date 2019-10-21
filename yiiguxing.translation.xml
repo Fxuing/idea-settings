@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sms Type" />
+      <item value="匹配更新" />
+      <item value="URGENT REMINDER" />
       <item value="search By Phone Or Contact Or Enterprise Name" />
       <item value="search By Phone Or Contact" />
       <item value="get Reach Result" />
@@ -48,14 +51,11 @@
       <item value="Custom" />
       <item value="Common" />
       <item value="公共自定义" />
-      <item value="Common Custmon" />
-      <item value="Platform detail name" />
-      <item value="Platform details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="836" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
