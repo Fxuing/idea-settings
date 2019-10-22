@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.google.gson.JsonSyntaxException: duplicate key: MESSAGE_CODE" />
+      <item value="duplicate key: MESSAGE_CODE" />
+      <item value="Sms Class" />
       <item value="Sms Type" />
       <item value="匹配更新" />
       <item value="URGENT REMINDER" />
@@ -48,20 +51,17 @@
       <item value="Field can be converted to a local variable more... (Ctrl+F1)" />
       <item value="Access can be private more... (Ctrl+F1)" />
       <item value="config instance is singleton for each namespace and is never null" />
-      <item value="Custom" />
-      <item value="Common" />
-      <item value="公共自定义" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="836" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="838" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
