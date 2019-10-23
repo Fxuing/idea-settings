@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="port" />
+      <item value="authority" />
       <item value="Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: Session/EntityManager is closed" />
       <item value="in-rpc is up-to-date" />
       <item value="tech" />
@@ -20,7 +22,6 @@
       <item value="Flatten" />
       <item value="set Form Flattening" />
       <item value="法人" />
-      <item value="authority" />
       <item value="credential" />
       <item value="Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the main URL sections. " />
       <item value="DEPLOY" />
@@ -50,7 +51,6 @@
       <item value="spider" />
       <item value="Payment" />
       <item value="Bad Credit Payment Service" />
-      <item value="市" />
     </histories>
     <option name="languageScores">
       <map>
