@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable 'type1' is already defined in the scope" />
+      <item value="Variable 'type' is already defined in the scope" />
+      <item value="xml read error" />
+      <item value="xml reader error" />
       <item value="str Trim" />
       <item value="port" />
       <item value="authority" />
@@ -47,15 +51,11 @@
       <item value="手柄" />
       <item value="do not use InputStreamResource if a stream needs to be read multiple times" />
       <item value="InputStream has already been read" />
-      <item value="Simple implementation of the {@link BeanDefinitionRegistry} interface. * Provides registry capabilities only, with no factory capabilities built in. * Can for example be used for testing bean definition readers." />
-      <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.HashMap' more... (Ctrl+F1)" />
-      <item value="spider" />
-      <item value="Payment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="843" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
