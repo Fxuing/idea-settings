@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1552620712269">
@@ -24,7 +24,6 @@
         <mark key="^" line="58" column="10" />
         <mark key="." line="58" column="10" />
       </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/exceptoin/ExceptionsHandler.java" timestamp="1565839571643" />
     </filemarks>
     <jumps />
     <registers>
