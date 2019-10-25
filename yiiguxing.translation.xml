@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二分查找" />
       <item value="Variable 'type1' is already defined in the scope" />
       <item value="Variable 'type' is already defined in the scope" />
       <item value="xml read error" />
@@ -50,12 +51,11 @@
       <item value="手表" />
       <item value="手柄" />
       <item value="do not use InputStreamResource if a stream needs to be read multiple times" />
-      <item value="InputStream has already been read" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="ENGLISH" value="844" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
