@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'com.obanks.batch.job.executor.enums.WeChatPushTemplate.this' cannot be referenced from a static context" />
+      <item value="Non-static field 'weChatPushTemplate' cannot be referenced from a static context" />
+      <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
       <item value="Unhandled exception: java.text.ParseException" />
       <item value="this is incompatible with sql_mode=only_full_group_by" />
       <item value="二分查找" />
@@ -48,9 +51,6 @@
       <item value="异地部署" />
       <item value="异地" />
       <item value="summary Info" />
-      <item value="Bookmark" />
-      <item value="Distributed Task Scheduling Platform XXL-JOB" />
-      <item value="手表" />
     </histories>
     <option name="languageScores">
       <map>
