@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unhandled exception: java.text.ParseException" />
       <item value="this is incompatible with sql_mode=only_full_group_by" />
       <item value="二分查找" />
       <item value="Variable 'type1' is already defined in the scope" />
@@ -50,7 +51,6 @@
       <item value="Bookmark" />
       <item value="Distributed Task Scheduling Platform XXL-JOB" />
       <item value="手表" />
-      <item value="手柄" />
     </histories>
     <option name="languageScores">
       <map>
