@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="Illegal Access Exception" />
+      <item value="not find method" />
+      <item value="No Such Method Exception" />
+      <item value="Unchecked call to 'getDeclaredMethod(String, Class&lt;?&gt;...)' as a member of raw type 'java.lang.Class' more... (Ctrl+F1)" />
+      <item value="object is not an instance of declaring class" />
+      <item value="Modifier 'public' not allowed here" />
+      <item value="'WeChatPushType()' has private access in 'com.obanks.batch.job.executor.enums.WeChatPushType'" />
       <item value="'com.obanks.batch.job.executor.enums.WeChatPushTemplate.this' cannot be referenced from a static context" />
       <item value="Non-static field 'weChatPushTemplate' cannot be referenced from a static context" />
       <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
@@ -43,19 +51,11 @@
       <item value="financial" />
       <item value="finance" />
       <item value="ALIGN RIGHT" />
-      <item value="Company name" />
-      <item value="Company" />
-      <item value="公司名称" />
-      <item value="Common Custom" />
-      <item value="Different deployment" />
-      <item value="异地部署" />
-      <item value="异地" />
-      <item value="summary Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="849" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />

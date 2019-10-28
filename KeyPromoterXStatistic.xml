@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Context Info">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
-          <Count>12</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'ActivitiDemoApplication'">
@@ -222,7 +222,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'Application'</Description>
-          <Count>97</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DroolsDemoApplication'">
@@ -294,7 +294,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'MainTest.test2'</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'MyTest.main'">
@@ -326,7 +326,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>583</Count>
+          <Count>608</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -454,7 +454,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8' or 'Alt+Button1 Click'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>188</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ReportController.java'">
@@ -878,7 +878,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>40</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DroolsDemoApplication'">
@@ -937,6 +937,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MainTest.test2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MainTest.test2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'MyTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -959,6 +967,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'UserbootApplication'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'XxlJobExecutorExampleBootApplicationTests.test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ent-api [verify]'">
@@ -1030,7 +1046,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>229</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
