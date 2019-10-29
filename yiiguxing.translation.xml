@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable" />
       <item value="icon" />
       <item value="hot product" />
       <item value="init" />
@@ -50,7 +51,6 @@
       <item value="Flatten" />
       <item value="set Form Flattening" />
       <item value="法人" />
-      <item value="credential" />
     </histories>
     <option name="languageScores">
       <map>
