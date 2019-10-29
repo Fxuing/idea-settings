@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init" />
+      <item value="sdk" />
+      <item value="send Sms" />
+      <item value="sendSms sdk init" />
+      <item value="sendSms sdk init over" />
       <item value="Got unchecked and undeclared exception which called by 172.17.0.1. service: com.obanks.user.service.SendMsgService, method: send, exception: java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z, dubbo version: 2.7.3, current host: 172.16.0.2 " />
       <item value=" Handler dispatch failed; nested exception is java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z " />
       <item value="Invocation Target Exception" />
@@ -46,16 +51,11 @@
       <item value="credential" />
       <item value="Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the main URL sections. " />
       <item value="DEPLOY" />
-      <item value="Unable to access jarfile app.jar " />
-      <item value="Unable to access jarfile app.jar" />
-      <item value="pull access denied for szjf/app-api, repository does not exist or may require 'docker login'" />
-      <item value="containers" />
-      <item value="financial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="758" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="853" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
