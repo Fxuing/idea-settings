@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="icon" />
+      <item value="hot product" />
       <item value="init" />
       <item value="sdk" />
       <item value="send Sms" />
@@ -49,8 +51,6 @@
       <item value="set Form Flattening" />
       <item value="法人" />
       <item value="credential" />
-      <item value="Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the main URL sections. " />
-      <item value="DEPLOY" />
     </histories>
     <option name="languageScores">
       <map>
