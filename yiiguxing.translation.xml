@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspicious call to 'List.contains' more... (Ctrl+F1)" />
+      <item value="json parse error" />
+      <item value="解析" />
       <item value="报告数据获取中" />
       <item value="获取中" />
       <item value="ing" />
@@ -48,14 +51,11 @@
       <item value="in-rpc is up-to-date" />
       <item value="tech" />
       <item value="com.google.gson.JsonSyntaxException: duplicate key: MESSAGE_CODE" />
-      <item value="duplicate key: MESSAGE_CODE" />
-      <item value="Sms Class" />
-      <item value="Sms Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="858" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="859" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="HINDI" value="4" />
       </map>
     </option>
