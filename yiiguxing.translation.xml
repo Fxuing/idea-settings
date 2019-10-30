@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="None of the configured nodes are available:" />
+      <item value="None of the configured nodes are available: [{#transport#-1}{AS_vROklRSmbY6cZWkacbg}{172.16.0.4}{172.16.0.4:9300}" />
       <item value="Apple" />
       <item value="The following untracked working tree files would be overwritten by checkout: .idea/vcs.xml Please move or remove them before you switch branches. Aborting" />
       <item value="Suspicious call to 'List.contains' more... (Ctrl+F1)" />
@@ -49,8 +51,6 @@
       <item value="str Trim" />
       <item value="port" />
       <item value="authority" />
-      <item value="Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: Session/EntityManager is closed" />
-      <item value="in-rpc is up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
