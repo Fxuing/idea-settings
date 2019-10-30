@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报告数据获取中" />
+      <item value="获取中" />
+      <item value="ing" />
+      <item value="获取" />
+      <item value="提取中" />
+      <item value="get ing" />
+      <item value="Report Data Geting" />
+      <item value="Credit Report" />
+      <item value="cdata" />
+      <item value="All Crdtrpt Entlist" />
       <item value="Result of 'Date.from()' is ignored more... (Ctrl+F1)" />
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...) more... (Ctrl+F1)" />
       <item value="enable" />
@@ -41,21 +51,11 @@
       <item value="duplicate key: MESSAGE_CODE" />
       <item value="Sms Class" />
       <item value="Sms Type" />
-      <item value="匹配更新" />
-      <item value="URGENT REMINDER" />
-      <item value="search By Phone Or Contact Or Enterprise Name" />
-      <item value="search By Phone Or Contact" />
-      <item value="get Reach Result" />
-      <item value="'value' missing though required" />
-      <item value="coordinates" />
-      <item value="签章坐标" />
-      <item value="First Contract" />
-      <item value="Flatten" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="764" />
-        <entry key="ENGLISH" value="853" />
+        <entry key="CHINESE" value="768" />
+        <entry key="ENGLISH" value="858" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
