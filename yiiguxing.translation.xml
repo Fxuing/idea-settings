@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apple" />
       <item value="The following untracked working tree files would be overwritten by checkout: .idea/vcs.xml Please move or remove them before you switch branches. Aborting" />
       <item value="Suspicious call to 'List.contains' more... (Ctrl+F1)" />
       <item value="json parse error" />
@@ -50,12 +51,11 @@
       <item value="authority" />
       <item value="Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: Session/EntityManager is closed" />
       <item value="in-rpc is up-to-date" />
-      <item value="tech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="769" />
-        <entry key="ENGLISH" value="859" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="860" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
