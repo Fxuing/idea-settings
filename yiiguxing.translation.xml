@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following untracked working tree files would be overwritten by checkout: .idea/vcs.xml Please move or remove them before you switch branches. Aborting" />
       <item value="Suspicious call to 'List.contains' more... (Ctrl+F1)" />
       <item value="json parse error" />
       <item value="解析" />
@@ -50,7 +51,6 @@
       <item value="Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: Session/EntityManager is closed" />
       <item value="in-rpc is up-to-date" />
       <item value="tech" />
-      <item value="com.google.gson.JsonSyntaxException: duplicate key: MESSAGE_CODE" />
     </histories>
     <option name="languageScores">
       <map>
