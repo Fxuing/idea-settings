@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The projects in the reactor contain a cyclic reference: Edge between 'Vertex{label='com.9h:ent-api:1.0.0-SNAPSHOT'}' and 'Vertex{label='com.9h:user-api:1.0.0-SNAPSHOT'}' introduces to cycle in the graph com.9h:user-api:1.0.0-SNAPSHOT --&gt; com.9h:ent-api:1.0.0-SNAPSHOT --&gt; com.9h:user-api:1.0.0-SNAPSHOT -&gt; [Help 1]&#10;[ERROR]" />
       <item value="ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT" />
       <item value="Could not transfer artifact" />
       <item value="current" />
@@ -50,12 +51,11 @@
       <item value="sendSms sdk init over" />
       <item value="Got unchecked and undeclared exception which called by 172.17.0.1. service: com.obanks.user.service.SendMsgService, method: send, exception: java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z, dubbo version: 2.7.3, current host: 172.16.0.2 " />
       <item value=" Handler dispatch failed; nested exception is java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z " />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="782" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="875" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
