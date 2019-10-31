@@ -262,7 +262,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'EntAppApplication'</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'EntServiceBootApplication'">
@@ -934,7 +934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'EntAppApplication'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EntServiceBootApplication'">
