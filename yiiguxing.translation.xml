@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT" />
+      <item value="Could not transfer artifact" />
+      <item value="current" />
+      <item value="当前" />
+      <item value="api.currect" />
+      <item value="version' contains an expression but should be a constant." />
+      <item value="Failed to execute goal on project authc-api: Could not resolve dependencies for project com.9h:authc-api:jar:1.0.0-SNAPSHOT: Failed to collect dependencies at com.9h:common:jar:1.0.0-SNAPSHOT: Failed to read artifact descriptor for com.9h:common:jar:1.0.0-SNAPSHOT: Could not transfer artifact com.9h:common:pom:1.0.0-SNAPSHOT from/to maven-central (http://nexus.o-banks.cn:8081/repository/maven-central/): Failed to transfer file: http://nexus.o-banks.cn:8081/repository/maven-central/com/9h/common/1.0.0-SNAPSHOT/common-1.0.0-SNAPSHOT.pom. Return code is: 400 , ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT. -&gt; [Help 1]&#10;[ERROR]" />
+      <item value="must be a valid version but is" />
+      <item value="dependencies.dependency.version" />
+      <item value="'dependencies.dependency.version" />
+      <item value="has 1 error&#10;[ERROR] 'packaging' with value 'jar' is invalid. Aggregator projects require 'pom' as packaging." />
+      <item value="has 1 error&#10;[ERROR] 'packaging' with value 'jar' is invalid. Aggregator projects require 'pom' as packaging. @ com.obanks.fop:9htech-api:${api.version}, F:\javaworkspace\9htech\pom.xml, line 22, column 16" />
+      <item value="Dependency javax.validation:validation-api:${validation.api} not found more... (Ctrl+F1)" />
       <item value="Inspection info: Reports that usage of properties in modules parent definition is prohibited" />
       <item value="Properties in parent definition are prohibited more... (Ctrl+F1)" />
       <item value="tech" />
@@ -38,24 +51,11 @@
       <item value="Got unchecked and undeclared exception which called by 172.17.0.1. service: com.obanks.user.service.SendMsgService, method: send, exception: java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z, dubbo version: 2.7.3, current host: 172.16.0.2 " />
       <item value=" Handler dispatch failed; nested exception is java.lang.AbstractMethodError: com.obanks.user.service.impl.SendMsgServiceImpl.send(Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;[Z)Z " />
       <item value="Invocation Target Exception" />
-      <item value="Illegal Access Exception" />
-      <item value="not find method" />
-      <item value="No Such Method Exception" />
-      <item value="Unchecked call to 'getDeclaredMethod(String, Class&lt;?&gt;...)' as a member of raw type 'java.lang.Class' more... (Ctrl+F1)" />
-      <item value="object is not an instance of declaring class" />
-      <item value="Modifier 'public' not allowed here" />
-      <item value="'WeChatPushType()' has private access in 'com.obanks.batch.job.executor.enums.WeChatPushType'" />
-      <item value="'com.obanks.batch.job.executor.enums.WeChatPushTemplate.this' cannot be referenced from a static context" />
-      <item value="Non-static field 'weChatPushTemplate' cannot be referenced from a static context" />
-      <item value="Could not autowire. No beans of 'String' type found. more... (Ctrl+F1)" />
-      <item value="Unhandled exception: java.text.ParseException" />
-      <item value="this is incompatible with sql_mode=only_full_group_by" />
-      <item value="二分查找" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="772" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="874" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
