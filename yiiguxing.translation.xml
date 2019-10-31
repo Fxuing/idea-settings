@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspection info: Reports that usage of properties in modules parent definition is prohibited" />
+      <item value="Properties in parent definition are prohibited more... (Ctrl+F1)" />
       <item value="tech" />
       <item value="9 htech-api" />
       <item value="科技" />
@@ -49,8 +51,6 @@
       <item value="Unhandled exception: java.text.ParseException" />
       <item value="this is incompatible with sql_mode=only_full_group_by" />
       <item value="二分查找" />
-      <item value="Variable 'type1' is already defined in the scope" />
-      <item value="Variable 'type' is already defined in the scope" />
     </histories>
     <option name="languageScores">
       <map>
