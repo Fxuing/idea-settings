@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tech" />
+      <item value="9 htech-api" />
+      <item value="科技" />
+      <item value="taeh" />
+      <item value="9htech" />
       <item value="None of the configured nodes are available:" />
       <item value="None of the configured nodes are available: [{#transport#-1}{AS_vROklRSmbY6cZWkacbg}{172.16.0.4}{172.16.0.4:9300}" />
       <item value="Apple" />
@@ -46,16 +51,11 @@
       <item value="二分查找" />
       <item value="Variable 'type1' is already defined in the scope" />
       <item value="Variable 'type' is already defined in the scope" />
-      <item value="xml read error" />
-      <item value="xml reader error" />
-      <item value="str Trim" />
-      <item value="port" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="863" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
