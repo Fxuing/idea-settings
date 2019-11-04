@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ASSETS PASS" />
       <item value="Call to 'substring' is redundant more... (Ctrl+F1" />
       <item value="The used SELECT statements have a different number of columns" />
       <item value="is Numeric" />
@@ -50,12 +51,11 @@
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...) more... (Ctrl+F1)" />
       <item value="enable" />
       <item value="icon" />
-      <item value="hot product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="789" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="CHINESE" value="790" />
+        <entry key="ENGLISH" value="882" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
