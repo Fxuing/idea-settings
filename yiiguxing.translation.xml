@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The used SELECT statements have a different number of columns" />
       <item value="is Numeric" />
       <item value="is Not Empty" />
       <item value="tech" />
@@ -50,7 +51,6 @@
       <item value="icon" />
       <item value="hot product" />
       <item value="init" />
-      <item value="sdk" />
     </histories>
     <option name="languageScores">
       <map>
