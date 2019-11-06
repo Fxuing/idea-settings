@@ -358,7 +358,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'XxlJobExecutorApplication '</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'XxlJobExecutorExampleBootApplicationTests.test'">
@@ -366,7 +366,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Debug with JRebel 'XxlJobExecutorExampleBootApplicationTests.test'</Description>
-          <Count>19</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>783</Count>
+          <Count>787</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'XxlJobExecutorApplication '</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'XxlJobExecutorExampleBootApplicationTests.test'">
