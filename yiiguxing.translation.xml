@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="available: expected single matching bean but found 2: mybatisProperties,mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties" />
+      <item value="Auto Configure Before" />
+      <item value="After Returning" />
+      <item value="intercept" />
+      <item value="TYPE" />
+      <item value="CONSTRUCTOR" />
+      <item value="Primary" />
+      <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
+      <item value="required a single bean, but 3 were found:" />
+      <item value="defined by method" />
+      <item value="required a single bean, but 2 were found" />
+      <item value="data Source Initializer" />
+      <item value="The dependencies of some of the beans in the application context form a cycle:" />
+      <item value="defined in class path resource" />
+      <item value="dataSource1 defined in class path resource" />
+      <item value="field private com.obanks.batch.job.executor.mapper.DataStatisticsMapper com.obanks.batch.job.executor.service.jobhandler.mgr.DataStatisticsJobHandler.dataStatisticsMapper)" />
+      <item value="defined" />
+      <item value="dataStatisticsMapper defined in file [F:\javaworkspace\batch\batch-job-executor\target\classes\com\obanks\batch\job\executor\mapper\DataStatisticsMapper.class] ↓ sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]&#10;┌─────┐&#10;| dynamicDataSource defined in class path resource [com/obanks/batch/job/executor/core/config/DataSourceConfig.class]&#10;↑ ↓&#10;| dataSource1 defined in class path resource [com/obanks/batch/job/executor/core/config/DataSourceConfig.class]&#10;↑ ↓&#10;| dataSourceInitializer&#10;└─────┘" />
+      <item value="set Druid Data Source Other" />
+      <item value="其他" />
+      <item value="Ohter" />
+      <item value="set Druid Data Source Ohter" />
       <item value="enabled" />
       <item value="eager Load" />
       <item value="singleton" />
@@ -29,33 +51,11 @@
       <item value="Dependency javax.validation:validation-api:${validation.api} not found more... (Ctrl+F1)" />
       <item value="Inspection info: Reports that usage of properties in modules parent definition is prohibited" />
       <item value="Properties in parent definition are prohibited more... (Ctrl+F1)" />
-      <item value="9 htech-api" />
-      <item value="科技" />
-      <item value="taeh" />
-      <item value="9htech" />
-      <item value="None of the configured nodes are available:" />
-      <item value="None of the configured nodes are available: [{#transport#-1}{AS_vROklRSmbY6cZWkacbg}{172.16.0.4}{172.16.0.4:9300}" />
-      <item value="Apple" />
-      <item value="The following untracked working tree files would be overwritten by checkout: .idea/vcs.xml Please move or remove them before you switch branches. Aborting" />
-      <item value="Suspicious call to 'List.contains' more... (Ctrl+F1)" />
-      <item value="json parse error" />
-      <item value="解析" />
-      <item value="报告数据获取中" />
-      <item value="获取中" />
-      <item value="ing" />
-      <item value="获取" />
-      <item value="提取中" />
-      <item value="get ing" />
-      <item value="Report Data Geting" />
-      <item value="Credit Report" />
-      <item value="cdata" />
-      <item value="All Crdtrpt Entlist" />
-      <item value="Result of 'Date.from()' is ignored more... (Ctrl+F1)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="792" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="909" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
