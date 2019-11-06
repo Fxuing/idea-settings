@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>241</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="Context Info">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>744</Count>
+          <Count>748</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
