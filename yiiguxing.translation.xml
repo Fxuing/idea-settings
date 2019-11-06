@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Non-static method 'decode(java.lang.String)' cannot be referenced from a static context" />
+      <item value="algid parse error, not a sequence" />
+      <item value="IOException : algid parse error, not a sequence" />
+      <item value="Static member 'com.obanks.batch.job.executor.service.bigdata.HttpSendUtils.request(java.lang.String, java.lang.String, java.lang.String)' accessed via instance reference more... (Ctrl+F1)" />
+      <item value="INSTANCE" />
+      <item value="Signature Util" />
+      <item value="SIGN ALGORITHMS" />
+      <item value="public Key Encryp" />
+      <item value="加密" />
       <item value="对接" />
       <item value="determine Current Lookup Key" />
       <item value="Holder" />
@@ -42,20 +51,11 @@
       <item value="singleton" />
       <item value="ASSETS PASS" />
       <item value="Call to 'substring' is redundant more... (Ctrl+F1" />
-      <item value="The used SELECT statements have a different number of columns" />
-      <item value="is Numeric" />
-      <item value="is Not Empty" />
-      <item value="tech" />
-      <item value="Could not resolve dependencies for project" />
-      <item value="Failed to execute goal on project ent-api: Could not resolve dependencies for project com.9h:ent-api:jar:1.0.0-SNAPSHOT: Failed to collect dependencies at com.9h:user-api:jar:1.0.0-SNAPSHOT: Failed to read artifact descriptor for com.9h:user-api:jar:1.0.0-SNAPSHOT: Could not transfer artifact com.9h:user-api:pom:1.0.0-SNAPSHOT from/to maven-central (http://nexus.o-banks.cn:8081/repository/maven-central/): Failed to transfer file: http://nexus.o-banks.cn:8081/repository/maven-central/com/9h/user-api/1.0.0-SNAPSHOT/user-api-1.0.0-SNAPSHOT.pom. Return code is: 400 , ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT. -&gt; [Help 1]" />
-      <item value="RELEASE does not allow version" />
-      <item value="The projects in the reactor contain a cyclic reference: Edge between 'Vertex{label='com.9h:ent-api:1.0.0-SNAPSHOT'}' and 'Vertex{label='com.9h:user-api:1.0.0-SNAPSHOT'}' introduces to cycle in the graph com.9h:user-api:1.0.0-SNAPSHOT --&gt; com.9h:ent-api:1.0.0-SNAPSHOT --&gt; com.9h:user-api:1.0.0-SNAPSHOT -&gt; [Help 1]&#10;[ERROR]" />
-      <item value="ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="827" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="834" />
+        <entry key="ENGLISH" value="929" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
