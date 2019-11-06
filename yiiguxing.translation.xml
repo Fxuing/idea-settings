@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对接" />
+      <item value="determine Current Lookup Key" />
+      <item value="Holder" />
+      <item value="Dynamic Data Source Holder" />
+      <item value="intercept" />
+      <item value="Platform Transaction Manager" />
       <item value="Transactional" />
       <item value="Data Source Auto Configuration" />
       <item value="Is there an unresolvable circular reference?" />
@@ -14,7 +20,6 @@
       <item value="available: expected single matching bean but found 2: mybatisProperties,mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties" />
       <item value="Auto Configure Before" />
       <item value="After Returning" />
-      <item value="intercept" />
       <item value="TYPE" />
       <item value="CONSTRUCTOR" />
       <item value="Primary" />
@@ -46,16 +51,11 @@
       <item value="RELEASE does not allow version" />
       <item value="The projects in the reactor contain a cyclic reference: Edge between 'Vertex{label='com.9h:ent-api:1.0.0-SNAPSHOT'}' and 'Vertex{label='com.9h:user-api:1.0.0-SNAPSHOT'}' introduces to cycle in the graph com.9h:user-api:1.0.0-SNAPSHOT --&gt; com.9h:ent-api:1.0.0-SNAPSHOT --&gt; com.9h:user-api:1.0.0-SNAPSHOT -&gt; [Help 1]&#10;[ERROR]" />
       <item value="ReasonPhrase:Repository version policy: RELEASE does not allow version: 1.0.0-SNAPSHOT" />
-      <item value="Could not transfer artifact" />
-      <item value="current" />
-      <item value="当前" />
-      <item value="api.currect" />
-      <item value="version' contains an expression but should be a constant." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="821" />
-        <entry key="ENGLISH" value="916" />
+        <entry key="CHINESE" value="827" />
+        <entry key="ENGLISH" value="922" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
