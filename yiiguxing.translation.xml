@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对象关系银蛇" />
       <item value="company" />
       <item value="compa" />
       <item value="location" />
@@ -50,12 +51,11 @@
       <item value="CONSTRUCTOR" />
       <item value="Primary" />
       <item value="required a single bean, but 3 were found:" />
-      <item value="defined by method" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="941" />
+        <entry key="ENGLISH" value="942" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
