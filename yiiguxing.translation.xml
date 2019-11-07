@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspection info: This inspection searches for redundant class fields that can be replaced with local variables. If all local usages of a field are preceded by assignments to that field, the field can be removed and its usages replaced with local variables." />
+      <item value="Reports try finally statements which can use Java 7 Automatic Resource Management. A quickfix is available to convert the try finally statement into a try with resources statement.&#10;This inspection only reports if the project or module is configured to use a language level of 7.0 or higher." />
+      <item value="an {@code int} that specifies the connect * timeout value in milliseconds" />
       <item value="Inspection info: Shows references to static methods and fields via class instance rather than a class itself." />
       <item value="Static member 'com.obanks.batch.job.executor.service.bigdata.HttpSendUtils.request(java.lang.String, java.lang.String, java.lang.String)' accessed via instance reference more... (Ctrl+F1)" />
       <item value="DerInputStream.getLength(): lengthTag=118, too big." />
@@ -48,14 +51,11 @@
       <item value="其他" />
       <item value="Ohter" />
       <item value="set Druid Data Source Ohter" />
-      <item value="enabled" />
-      <item value="eager Load" />
-      <item value="singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="835" />
-        <entry key="ENGLISH" value="930" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="931" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
