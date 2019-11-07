@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dynamic Data Source Holder" />
+      <item value="Dynamic Data Source" />
+      <item value="THREAD DATA SOURCE" />
+      <item value="set Time Between Eviction Runs Millis" />
+      <item value="set Max Wait" />
+      <item value="set Max Active" />
+      <item value="set Min Idle" />
+      <item value="set Initial Size" />
+      <item value="Abstract Routing Data Source" />
       <item value="Inspection info: This inspection searches for redundant class fields that can be replaced with local variables. If all local usages of a field are preceded by assignments to that field, the field can be removed and its usages replaced with local variables." />
       <item value="Reports try finally statements which can use Java 7 Automatic Resource Management. A quickfix is available to convert the try finally statement into a try with resources statement.&#10;This inspection only reports if the project or module is configured to use a language level of 7.0 or higher." />
       <item value="an {@code int} that specifies the connect * timeout value in milliseconds" />
@@ -18,7 +27,6 @@
       <item value="对接" />
       <item value="determine Current Lookup Key" />
       <item value="Holder" />
-      <item value="Dynamic Data Source Holder" />
       <item value="intercept" />
       <item value="Platform Transaction Manager" />
       <item value="Transactional" />
@@ -27,7 +35,6 @@
       <item value="Attribute value must be constant" />
       <item value="EnableConfigurationProperties" />
       <item value="ImportBeanDefinitionRegistrar " />
-      <item value="Abstract Routing Data Source" />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
       <item value="mybatis Properties" />
       <item value="autoconfigure" />
@@ -44,18 +51,11 @@
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="defined in class path resource" />
       <item value="dataSource1 defined in class path resource" />
-      <item value="field private com.obanks.batch.job.executor.mapper.DataStatisticsMapper com.obanks.batch.job.executor.service.jobhandler.mgr.DataStatisticsJobHandler.dataStatisticsMapper)" />
-      <item value="defined" />
-      <item value="dataStatisticsMapper defined in file [F:\javaworkspace\batch\batch-job-executor\target\classes\com\obanks\batch\job\executor\mapper\DataStatisticsMapper.class] ↓ sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]&#10;┌─────┐&#10;| dynamicDataSource defined in class path resource [com/obanks/batch/job/executor/core/config/DataSourceConfig.class]&#10;↑ ↓&#10;| dataSource1 defined in class path resource [com/obanks/batch/job/executor/core/config/DataSourceConfig.class]&#10;↑ ↓&#10;| dataSourceInitializer&#10;└─────┘" />
-      <item value="set Druid Data Source Other" />
-      <item value="其他" />
-      <item value="Ohter" />
-      <item value="set Druid Data Source Ohter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="845" />
+        <entry key="ENGLISH" value="940" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
