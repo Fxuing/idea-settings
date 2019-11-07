@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="、" />
       <item value="对象关系银蛇" />
       <item value="company" />
       <item value="compa" />
@@ -50,7 +51,6 @@
       <item value="TYPE" />
       <item value="CONSTRUCTOR" />
       <item value="Primary" />
-      <item value="required a single bean, but 3 were found:" />
     </histories>
     <option name="languageScores">
       <map>
