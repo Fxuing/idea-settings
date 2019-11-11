@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beautiful" />
       <item value="threshold" />
       <item value="Illegal initial capacity" />
       <item value="The load factor used when none specified in constructor." />
@@ -50,7 +51,6 @@
       <item value="autoconfigure" />
       <item value="available: expected single matching bean but found 2: mybatisProperties,mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties" />
       <item value="Auto Configure Before" />
-      <item value="After Returning" />
     </histories>
     <option name="languageScores">
       <map>
