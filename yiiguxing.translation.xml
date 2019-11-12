@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加载驱动" />
+      <item value="Exception in thread &quot;main&quot; CvException [org.opencv.core.CvException: cv::Exception: OpenCV(4.1.0) C:\build\master_winpack-bindings-win64-vc14-static\opencv\modules\core\src\matrix.cpp:235: error: (-215:Assertion failed) s &gt;= 0 in function 'cv::setSize'" />
+      <item value="get ADB Porn" />
+      <item value="screen Shot" />
       <item value="No parser was explicitly specified, so I'm using the best available HTML parser for this system (&quot;html.parser&quot;). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.  The code that caused this warning is on line" />
       <item value="Beautiful" />
       <item value="threshold" />
@@ -47,15 +51,11 @@
       <item value="Attribute value must be constant" />
       <item value="EnableConfigurationProperties" />
       <item value="ImportBeanDefinitionRegistrar " />
-      <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed" />
-      <item value="mybatis Properties" />
-      <item value="autoconfigure" />
-      <item value="available: expected single matching bean but found 2: mybatisProperties,mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="849" />
-        <entry key="ENGLISH" value="945" />
+        <entry key="CHINESE" value="853" />
+        <entry key="ENGLISH" value="949" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
