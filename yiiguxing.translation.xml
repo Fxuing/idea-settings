@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No parser was explicitly specified, so I'm using the best available HTML parser for this system (&quot;html.parser&quot;). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.  The code that caused this warning is on line" />
       <item value="Beautiful" />
       <item value="threshold" />
       <item value="Illegal initial capacity" />
@@ -50,7 +51,6 @@
       <item value="mybatis Properties" />
       <item value="autoconfigure" />
       <item value="available: expected single matching bean but found 2: mybatisProperties,mybatis-org.mybatis.spring.boot.autoconfigure.MybatisProperties" />
-      <item value="Auto Configure Before" />
     </histories>
     <option name="languageScores">
       <map>
