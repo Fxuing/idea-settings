@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SECONDS" />
+      <item value="Login Access" />
       <item value="Around" />
       <item value="swipe" />
       <item value="devices" />
@@ -49,13 +51,11 @@
       <item value="对接" />
       <item value="determine Current Lookup Key" />
       <item value="Holder" />
-      <item value="intercept" />
-      <item value="Platform Transaction Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="858" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="CHINESE" value="860" />
+        <entry key="ENGLISH" value="956" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
