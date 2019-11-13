@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>999</Count>
+          <Count>1006</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -695,6 +695,22 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'FinancebootApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FuntionTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FuntionTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FuntionTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'FuntionTest.main()'</Description>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GateWayApplication'">
