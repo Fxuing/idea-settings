@@ -1,116 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1552620712269">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/javaworkspace/batch/batch-job-executor/src/main/java/com/obanks/batch/job/executor/service/jobhandler/fop/CrmSystemMessageJob.java" timestamp="1571902476445" />
-      <file name="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" timestamp="1571901850055">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="F:/javaworkspace/batch/batch-job-executor/src/main/java/com/obanks/batch/job/executor/service/jobhandler/fop/MessagePushJobHandler.java" timestamp="1571902676637" />
-      <file name="F:/javaworkspace/mgr/src/main/java/com/obanks/mgr/utils/OakScheduler.java" timestamp="1565781169502">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" timestamp="1571900772277">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="F:/javaworkspace/batch/batch-job-executor/src/main/java/com/obanks/batch/job/executor/service/impl/JpushServiceImpl.java" timestamp="1564643292701">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-        <mark key="^" line="74" column="48" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/UserController.java" timestamp="1565839692339">
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="58" column="10" />
-        <mark key="^" line="58" column="10" />
-        <mark key="." line="58" column="10" />
-      </file>
-      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" timestamp="1571901965645">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" timestamp="1571901055752">
-        <mark key="'" line="43" column="4" />
-      </file>
-      <file name="F:/javaworkspace/batch/batch-job-executor/src/main/java/com/obanks/batch/job/executor/service/jobhandler/fop/MatchJobHandler.java" timestamp="1571902339268" />
-    </filemarks>
-    <jumps>
-      <jump line="112" column="59" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
-      <jump line="114" column="8" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
-      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
-      <jump line="51" column="46" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
-      <jump line="43" column="4" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
-      <jump line="122" column="43" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
-      <jump line="96" column="4" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="60" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="105" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="107" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="76" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="99" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="2" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
-      <jump line="34" column="4" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" />
-      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="4">
-        <text>public static String companyName(){
-        return CONFIG.getProperty(&quot;companyName&quot;, &quot;&quot;);
-    }</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ09ORklHLmdldFByb3BlcnR5KCJjb21wYW55TmFtZSIsICIiKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGNvbXBhbnlOYW1lKCl7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnRsbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>new String(&quot;&quot;)</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -161,5 +51,10 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
