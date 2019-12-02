@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="** * Return an instance (possibly shared or independent) * of the object managed by this factory. * @return the resulting instance * @throws BeansException in case of creation errors */" />
+      <item value="Return an instance (possibly shared or independent) * of the object managed by this factory." />
       <item value="工厂" />
       <item value="two" />
       <item value="Strategys" />
@@ -49,13 +51,11 @@
       <item value="is Empty" />
       <item value="Supplier" />
       <item value="eports lambdas which can be replaced with method references. Use File | Settings | Editor | Code Style | Java | Code Generation settings to configure special method references.&#10;Lambda/method references syntax is not supported under Java 1.7 or earlier JVMs." />
-      <item value="negate" />
-      <item value="Global Exception Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="915" />
-        <entry key="ENGLISH" value="1013" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="1015" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
