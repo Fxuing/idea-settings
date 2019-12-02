@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
+      <item value="supported for the benefit of hash tables such as those provided by" />
+      <item value="Returns a hash code value for the object. This method is" />
+      <item value="native" />
+      <item value="register Natives" />
+      <item value="Class {@code Object} is the root of the class hierarchy. * Every class has {@code Object} as a superclass. All objects, * including arrays, implement the methods of this class." />
       <item value="Application Context" />
       <item value="Environment Capable" />
       <item value="Create a new DefaultListableBeanFactory with the given parent." />
@@ -45,17 +51,11 @@
       <item value="find All By Crt User Order By Crt Time Desc" />
       <item value="当前" />
       <item value="search Content" />
-      <item value="history" />
-      <item value="SECONDS" />
-      <item value="Login Access" />
-      <item value="Around" />
-      <item value="swipe" />
-      <item value="devices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="907" />
-        <entry key="ENGLISH" value="1004" />
+        <entry key="CHINESE" value="913" />
+        <entry key="ENGLISH" value="1010" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
