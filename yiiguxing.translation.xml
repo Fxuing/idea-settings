@@ -1,8 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Create a new XmlBeanFactory with the given input stream, * which must be parsable using DOM." />
+      <item value="Create a new DefaultListableBeanFactory with the given parent." />
+      <item value="which must be parsable using DOM." />
+      <item value="Create a new XmlBeanFactory with the given resource," />
+      <item value="set Parent Bean Factory" />
+      <item value="Abstract Autowire Capable Bean Factory" />
+      <item value="ignore Dependency Interface" />
+      <item value="Capable" />
+      <item value="Abstract" />
+      <item value="Create a new AbstractAutowireCapableBeanFactory." />
+      <item value="Bean Factory" />
       <item value="Map from serialized id to factory instance." />
+      <item value="javax Inject Provider Class" />
+      <item value="Map from serialized id to factory instance" />
+      <item value="Default Listable Bean Factory" />
+      <item value="Create a new XmlBeanFactory with the given input stream, * which must be parsable using DOM." />
       <item value="Determine whether this resource actually exists in physical form. * &lt;p&gt;This method performs a definitive existence check, whereas the * existence of a {@code Resource} handle only guarantees a valid * descriptor handle." />
       <item value="after Properties Set" />
       <item value="post Process Before Initialization" />
@@ -38,24 +51,11 @@
       <item value="devices" />
       <item value="O" />
       <item value="Object" />
-      <item value="slide" />
-      <item value="加载驱动" />
-      <item value="Exception in thread &quot;main&quot; CvException [org.opencv.core.CvException: cv::Exception: OpenCV(4.1.0) C:\build\master_winpack-bindings-win64-vc14-static\opencv\modules\core\src\matrix.cpp:235: error: (-215:Assertion failed) s &gt;= 0 in function 'cv::setSize'" />
-      <item value="get ADB Porn" />
-      <item value="screen Shot" />
-      <item value="No parser was explicitly specified, so I'm using the best available HTML parser for this system (&quot;html.parser&quot;). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.  The code that caused this warning is on line" />
-      <item value="Beautiful" />
-      <item value="threshold" />
-      <item value="Illegal initial capacity" />
-      <item value="The load factor used when none specified in constructor." />
-      <item value="、" />
-      <item value="对象关系银蛇" />
-      <item value="company" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="982" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
