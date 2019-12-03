@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve controller URL ''" />
       <item value="s" />
       <item value="Sentinel " />
       <item value="Cluster " />
@@ -50,7 +51,6 @@
       <item value="set Bean Name" />
       <item value="FACTORY BEAN PREFIX" />
       <item value="records Per Page" />
-      <item value="ins Name" />
     </histories>
     <option name="languageScores">
       <map>
