@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FileStructure" />
+      <item value="FileStructurePopup" />
       <item value="Assertion utility class that assists in validating arguments." />
       <item value="Cannot resolve controller URL ''" />
       <item value="s" />
@@ -49,8 +51,6 @@
       <item value="set Resource Loader" />
       <item value="set Bean Factory" />
       <item value="set Bean Class Loader" />
-      <item value="set Bean Name" />
-      <item value="FACTORY BEAN PREFIX" />
     </histories>
     <option name="languageScores">
       <map>
