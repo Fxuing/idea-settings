@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shen Zhen" />
+      <item value="'entInfoResult != null ? true : false' can be simplified to 'entInfoResult != null'" />
+      <item value="Cross Origin" />
+      <item value="Java bytecode instruction listings" />
       <item value="Auth Context" />
       <item value="strategy" />
       <item value="judge Flag" />
@@ -47,15 +51,11 @@
       <item value="Create a new AbstractAutowireCapableBeanFactory." />
       <item value="Bean Factory" />
       <item value="Map from serialized id to factory instance." />
-      <item value="javax Inject Provider Class" />
-      <item value="Map from serialized id to factory instance" />
-      <item value="Default Listable Bean Factory" />
-      <item value="Create a new XmlBeanFactory with the given input stream, * which must be parsable using DOM." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="924" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="926" />
+        <entry key="ENGLISH" value="1025" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
