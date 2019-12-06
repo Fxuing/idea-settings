@@ -1,12 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tail" />
+      <item value="hi Tail" />
+      <item value="preserve order" />
+      <item value="zero initial threshold signifies using defaults" />
+      <item value="initial capacity was placed in threshold" />
+      <item value="// double threshold" />
+      <item value="The number of key-value mappings contained in this map." />
+      <item value="MIN TREEIFY CAPACITY" />
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="THRESHOLD" />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="MAXIMUM CAPACITY" />
+      <item value="DEFAULT LOAD FACTOR" />
       <item value="The load factor for the hash table." />
       <item value="The next size value at which to resize (capacity * load factor)." />
       <item value="after Node Insertion" />
       <item value="Associates the specified value with the specified key in this map. * If the map previously contained a mapping for the key, the old * value is replaced. *" />
       <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
-      <item value="TREEIFY THRESHOLD" />
       <item value="The root of a tree bin is normally its first node. However, * sometimes (currently only upon Iterator.remove), the root might * be elsewhere, but can be recovered following parent links * (method TreeNode.root())." />
       <item value="with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
       <item value="* Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution" />
@@ -38,24 +51,11 @@
       <item value="increment" />
       <item value="O" />
       <item value="I" />
-      <item value="boot" />
-      <item value="channel Value Increment" />
-      <item value="** * Return an instance (possibly shared or independent) * of the object managed by this factory. * @return the resulting instance * @throws BeansException in case of creation errors */" />
-      <item value="Return an instance (possibly shared or independent) * of the object managed by this factory." />
-      <item value="工厂" />
-      <item value="two" />
-      <item value="Strategys" />
-      <item value="use serialVersionUID from JDK 1.0.2 for interoperability" />
-      <item value="supported for the benefit of hash tables such as those provided by" />
-      <item value="Returns a hash code value for the object. This method is" />
-      <item value="native" />
-      <item value="register Natives" />
-      <item value="Class {@code Object} is the root of the class hierarchy. * Every class has {@code Object} as a superclass. All objects, * including arrays, implement the methods of this class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="939" />
-        <entry key="ENGLISH" value="1037" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="1052" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
