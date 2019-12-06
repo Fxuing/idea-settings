@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
       <item value="'static' method declared 'final'" />
       <item value="Returns a power of two size for the given target capacity." />
-      <item value="threshold" />
       <item value="The load factor for the hash table." />
       <item value="Holds cached entrySet(). Note that AbstractMap fields are used * for keySet() and values()." />
       <item value="Tail" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="958" />
-        <entry key="ENGLISH" value="1056" />
+        <entry key="CHINESE" value="959" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
