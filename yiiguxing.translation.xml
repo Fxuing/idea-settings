@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'static' method declared 'final'" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="threshold" />
+      <item value="The load factor for the hash table." />
+      <item value="Holds cached entrySet(). Note that AbstractMap fields are used * for keySet() and values()." />
       <item value="Tail" />
       <item value="hi Tail" />
       <item value="preserve order" />
@@ -15,7 +20,6 @@
       <item value="TREEIFY THRESHOLD" />
       <item value="MAXIMUM CAPACITY" />
       <item value="DEFAULT LOAD FACTOR" />
-      <item value="The load factor for the hash table." />
       <item value="The next size value at which to resize (capacity * load factor)." />
       <item value="after Node Insertion" />
       <item value="Associates the specified value with the specified key in this map. * If the map previously contained a mapping for the key, the old * value is replaced. *" />
@@ -47,15 +51,11 @@
       <item value="Cannot resolve controller URL ''" />
       <item value="s" />
       <item value="Sentinel " />
-      <item value="Cluster " />
-      <item value="increment" />
-      <item value="O" />
-      <item value="I" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="954" />
-        <entry key="ENGLISH" value="1052" />
+        <entry key="CHINESE" value="958" />
+        <entry key="ENGLISH" value="1056" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
