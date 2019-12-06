@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The load factor for the hash table." />
+      <item value="The next size value at which to resize (capacity * load factor)." />
+      <item value="after Node Insertion" />
       <item value="Associates the specified value with the specified key in this map. * If the map previously contained a mapping for the key, the old * value is replaced. *" />
       <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
       <item value="TREEIFY THRESHOLD" />
@@ -48,14 +51,11 @@
       <item value="native" />
       <item value="register Natives" />
       <item value="Class {@code Object} is the root of the class hierarchy. * Every class has {@code Object} as a superclass. All objects, * including arrays, implement the methods of this class." />
-      <item value="Application Context" />
-      <item value="Environment Capable" />
-      <item value="Create a new DefaultListableBeanFactory with the given parent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="1034" />
+        <entry key="CHINESE" value="939" />
+        <entry key="ENGLISH" value="1037" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
