@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="local" />
       <item value="set Solve Creditor Money" />
       <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
       <item value="divide" />
@@ -50,7 +51,6 @@
       <item value="Cross Origin" />
       <item value="Java bytecode instruction listings" />
       <item value="Auth Context" />
-      <item value="strategy" />
     </histories>
     <option name="languageScores">
       <map>
