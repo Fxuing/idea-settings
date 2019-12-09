@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Resolve Demand Money" />
       <item value="Unable to resolve the full path of the configuration file, wrapper.conf: No such file or directory" />
       <item value="threshold" />
       <item value="'static' method declared 'final'" />
@@ -50,12 +51,11 @@
       <item value="FileStructurePopup" />
       <item value="Assertion utility class that assists in validating arguments." />
       <item value="Cannot resolve controller URL ''" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="959" />
-        <entry key="ENGLISH" value="1057" />
+        <entry key="CHINESE" value="960" />
+        <entry key="ENGLISH" value="1058" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
