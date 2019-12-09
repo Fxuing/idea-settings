@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Solve Creditor Money" />
+      <item value="set Resolve Demand Money" />
+      <item value="融资金额转换" />
+      <item value="亿" />
+      <item value="100 million" />
+      <item value="亿元" />
+      <item value="Unexpected return value" />
+      <item value="the field position" />
+      <item value="the StringBuffer to which the formatted text is to be * appended" />
+      <item value="Specialization of format." />
       <item value="get Resolve Demand Money" />
       <item value="Unable to resolve the full path of the configuration file, wrapper.conf: No such file or directory" />
       <item value="threshold" />
@@ -41,21 +51,11 @@
       <item value="strategy" />
       <item value="judge Flag" />
       <item value="White Auth" />
-      <item value="auth" />
-      <item value="authentication" />
-      <item value="enterprise authentication" />
-      <item value="企业认证" />
-      <item value="策略" />
-      <item value="Decorator" />
-      <item value="FileStructure" />
-      <item value="FileStructurePopup" />
-      <item value="Assertion utility class that assists in validating arguments." />
-      <item value="Cannot resolve controller URL ''" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="960" />
-        <entry key="ENGLISH" value="1058" />
+        <entry key="CHINESE" value="967" />
+        <entry key="ENGLISH" value="1066" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
