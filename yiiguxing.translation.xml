@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="set Solve Creditor Money" />
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
+      <item value="divide" />
       <item value="set Resolve Demand Money" />
       <item value="融资金额转换" />
       <item value="亿" />
@@ -49,13 +51,11 @@
       <item value="Java bytecode instruction listings" />
       <item value="Auth Context" />
       <item value="strategy" />
-      <item value="judge Flag" />
-      <item value="White Auth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="967" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
