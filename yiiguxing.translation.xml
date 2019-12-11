@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Octal String" />
+      <item value="十进制" />
       <item value="divice Id" />
       <item value="resolved var" />
       <item value="resolved_var" />
@@ -49,13 +51,11 @@
       <item value="tree bins may be delayed in the course of table methods." />
       <item value="Implementation notes." />
       <item value="* Hash table based implementation of the &lt;tt&gt;Map&lt;/tt&gt; interface. This * implementation provides all of the optional map operations, and permits * &lt;tt&gt;null&lt;/tt&gt; values and the &lt;tt&gt;null&lt;/tt&gt; key. (The &lt;tt&gt;HashMap&lt;/tt&gt; * class is roughly equivalent to &lt;tt&gt;Hashtable&lt;/tt&gt;, except that it is * unsynchronized and permits nulls.) This class makes no guarantees as to * the order of the map; in particular, it does not guarantee that the order * will remain constant over time." />
-      <item value="Shen Zhen" />
-      <item value="'entInfoResult != null ? true : false' can be simplified to 'entInfoResult != null'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="971" />
-        <entry key="ENGLISH" value="1070" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
