@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="列" />
       <item value="the log2 of the base to format in (4 for hex, 3 for octal, 1 for binary)" />
       <item value="Digit Tens" />
       <item value=" Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output." />
@@ -50,12 +51,11 @@
       <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
       <item value="The root of a tree bin is normally its first node. However, * sometimes (currently only upon Iterator.remove), the root might * be elsewhere, but can be recovered following parent links * (method TreeNode.root())." />
       <item value="with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
-      <item value="* Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
