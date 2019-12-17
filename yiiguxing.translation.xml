@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve file 'Banner.go' " />
+      <item value="init function must have no arguments and no return values" />
+      <item value="exec failed,  sql: converting argument $1 type: unsupported type []main.Banner, a slice of struct " />
       <item value="列" />
       <item value="the log2 of the base to format in (4 for hex, 3 for octal, 1 for binary)" />
       <item value="Digit Tens" />
@@ -48,14 +51,11 @@
       <item value="The next size value at which to resize (capacity * load factor)." />
       <item value="after Node Insertion" />
       <item value="Associates the specified value with the specified key in this map. * If the map previously contained a mapping for the key, the old * value is replaced. *" />
-      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
-      <item value="The root of a tree bin is normally its first node. However, * sometimes (currently only upon Iterator.remove), the root might * be elsewhere, but can be recovered following parent links * (method TreeNode.root())." />
-      <item value="with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="974" />
-        <entry key="ENGLISH" value="1075" />
+        <entry key="ENGLISH" value="1076" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
