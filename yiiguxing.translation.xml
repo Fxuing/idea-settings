@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auditing" />
+      <item value="Entity Listeners" />
       <item value="find By Mobile Code" />
       <item value="could not extract ResultSet" />
       <item value="数据不存在" />
@@ -49,13 +51,11 @@
       <item value="the StringBuffer to which the formatted text is to be * appended" />
       <item value="Specialization of format." />
       <item value="get Resolve Demand Money" />
-      <item value="Unable to resolve the full path of the configuration file, wrapper.conf: No such file or directory" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="990" />
-        <entry key="ENGLISH" value="1096" />
+        <entry key="CHINESE" value="992" />
+        <entry key="ENGLISH" value="1098" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
