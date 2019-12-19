@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'this.msg != null ? null : this.msg' can be simplified to 'null'" />
       <item value="Auditing" />
       <item value="Entity Listeners" />
       <item value="find By Mobile Code" />
@@ -50,7 +51,6 @@
       <item value="the field position" />
       <item value="the StringBuffer to which the formatted text is to be * appended" />
       <item value="Specialization of format." />
-      <item value="get Resolve Demand Money" />
     </histories>
     <option name="languageScores">
       <map>
