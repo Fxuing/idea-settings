@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Into a application" />
+      <item value="RunInto" />
+      <item value="RunIntoType" />
+      <item value="进件审核结果" />
+      <item value="进件申请" />
+      <item value="ENT AUTH RESULT QUERY" />
+      <item value="ENT AUTH RESULT SEARCH" />
+      <item value="常量" />
+      <item value="Constants" />
       <item value="Digital" />
       <item value="第三方" />
       <item value="'this.msg != null ? null : this.msg' can be simplified to 'null'" />
@@ -42,26 +51,17 @@
       <item value="resolved_var" />
       <item value="local" />
       <item value="set Solve Creditor Money" />
-      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
-      <item value="divide" />
-      <item value="set Resolve Demand Money" />
-      <item value="融资金额转换" />
-      <item value="亿" />
-      <item value="100 million" />
-      <item value="亿元" />
-      <item value="Unexpected return value" />
-      <item value="the field position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="993" />
-        <entry key="ENGLISH" value="1100" />
+        <entry key="CHINESE" value="999" />
+        <entry key="ENGLISH" value="1106" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="7" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
