@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="图片验证码不能为空" />
       <item value="Statement with id=&quot;findByContactPhone&quot; not defined in mapper XML" />
       <item value="reset" />
       <item value="Mapped Superclass" />
@@ -50,12 +51,11 @@
       <item value="列" />
       <item value="the log2 of the base to format in (4 for hex, 3 for octal, 1 for binary)" />
       <item value="Digit Tens" />
-      <item value=" Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1007" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1115" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
