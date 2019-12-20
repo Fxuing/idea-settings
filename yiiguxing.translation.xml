@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Statement with id=&quot;findByContactPhone&quot; not defined in mapper XML" />
+      <item value="reset" />
       <item value="Mapped Superclass" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="Data too long for column 'LOGIN_PHONE' at row 1" />
@@ -49,13 +51,11 @@
       <item value="the log2 of the base to format in (4 for hex, 3 for octal, 1 for binary)" />
       <item value="Digit Tens" />
       <item value=" Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output." />
-      <item value="You are using pip version 19.0.3, however version 19.3.1 is available." />
-      <item value="to Octal String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1113" />
+        <entry key="CHINESE" value="1007" />
+        <entry key="ENGLISH" value="1114" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
