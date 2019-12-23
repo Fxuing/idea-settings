@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="E-signature" />
+      <item value="电子签章" />
+      <item value="授权人" />
+      <item value="actural" />
+      <item value="法人" />
       <item value="for the individual test results." />
       <item value="secret" />
       <item value="临时秘钥" />
@@ -46,16 +51,11 @@
       <item value="ANY" />
       <item value="警告" />
       <item value="Advice" />
-      <item value="Controller Advice" />
-      <item value="'FROM' unexpected" />
-      <item value="column Definition" />
-      <item value="Cannot resolve file 'Banner.go' " />
-      <item value="init function must have no arguments and no return values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1010" />
-        <entry key="ENGLISH" value="1118" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1121" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
