@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
       <item value="argument type mismatch - had objects of type" />
       <item value="but expected signature" />
       <item value="- argument type mismatch - had objects of type &quot;java.util.LinkedHashMap&quot; but expected signature &quot;com.iis.api.model.EntCustInfo$EntCustomerInfo&quot;" />
@@ -50,12 +51,11 @@
       <item value="进件审核结果" />
       <item value="进件申请" />
       <item value="ENT AUTH RESULT QUERY" />
-      <item value="ENT AUTH RESULT SEARCH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1027" />
-        <entry key="ENGLISH" value="1145" />
+        <entry key="ENGLISH" value="1146" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
