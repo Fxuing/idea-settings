@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Refuse Reason" />
+      <item value="Refuse to reason" />
+      <item value="拒绝原因" />
+      <item value="the reason for refusal" />
+      <item value="ACCDEN" />
       <item value="Could not set field value [2c9192a16f31985f016f319b17800000] value by reflection : [class com.iis.api.model.FileUpload.id] setter of com.iis.api.model.FileUpload.id" />
       <item value="Permission denied" />
       <item value="实例" />
@@ -46,16 +51,11 @@
       <item value="Constants" />
       <item value="Digital" />
       <item value="第三方" />
-      <item value="'this.msg != null ? null : this.msg' can be simplified to 'null'" />
-      <item value="Auditing" />
-      <item value="Entity Listeners" />
-      <item value="find By Mobile Code" />
-      <item value="could not extract ResultSet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1020" />
-        <entry key="ENGLISH" value="1136" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1141" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
