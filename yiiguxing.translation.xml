@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permission denied" />
       <item value="实例" />
       <item value="UnknownHostKey: 122.112.196.79. RSA key fingerprint is 0b:2c:1b:a3:f8:d2:61:05:ad:3d:cc:c7:22:52:b5:c8" />
       <item value="business Addr" />
@@ -50,12 +51,11 @@
       <item value="find By Mobile Code" />
       <item value="could not extract ResultSet" />
       <item value="数据不存在" />
-      <item value="手机号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1018" />
-        <entry key="ENGLISH" value="1134" />
+        <entry key="CHINESE" value="1019" />
+        <entry key="ENGLISH" value="1135" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
