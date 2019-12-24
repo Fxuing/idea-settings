@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method invocation 'getRequestNo' may produce 'NullPointerException'" />
       <item value="the number of bytes to write." />
       <item value="the start offset in the data." />
       <item value="the data." />
@@ -50,7 +51,6 @@
       <item value="Data too long for column 'LOGIN_PHONE' at row 1" />
       <item value="Transactional" />
       <item value="Transient" />
-      <item value="PREFIX" />
     </histories>
     <option name="languageScores">
       <map>
