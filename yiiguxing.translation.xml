@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pre Credit Notify Url" />
+      <item value="t Pre Credit Notify Url" />
       <item value="Set Entity" />
       <item value="控制人" />
       <item value="认证附件" />
@@ -49,13 +51,11 @@
       <item value="MANAGE" />
       <item value="MANAGER" />
       <item value="Into a application" />
-      <item value="RunInto" />
-      <item value="RunIntoType" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1030" />
-        <entry key="ENGLISH" value="1149" />
+        <entry key="CHINESE" value="1032" />
+        <entry key="ENGLISH" value="1151" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
