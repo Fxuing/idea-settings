@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exist" />
+      <item value="已存在" />
       <item value="check Code" />
       <item value="verify" />
       <item value="校验" />
@@ -49,13 +51,11 @@
       <item value="临时秘钥" />
       <item value="秘钥" />
       <item value="图片验证码不能为空" />
-      <item value="Statement with id=&quot;findByContactPhone&quot; not defined in mapper XML" />
-      <item value="reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1039" />
-        <entry key="ENGLISH" value="1159" />
+        <entry key="CHINESE" value="1040" />
+        <entry key="ENGLISH" value="1161" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
