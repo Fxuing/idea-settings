@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="random Channel No" />
       <item value="Channel Contacts" />
       <item value="admin" />
       <item value="expire Date" />
@@ -50,12 +51,11 @@
       <item value="Business License" />
       <item value="营业执照" />
       <item value="charter" />
-      <item value="E-signature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1169" />
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1170" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
