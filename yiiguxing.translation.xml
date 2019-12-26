@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exist" />
+      <item value="存在" />
+      <item value="渠道编码是空的" />
+      <item value="CHANNEL NO ISNULL" />
       <item value="describe" />
       <item value="Description" />
       <item value="描述" />
@@ -20,7 +24,6 @@
       <item value="bank Card Code" />
       <item value="company Name" />
       <item value="'Optional.get()' without 'isPresent()' check" />
-      <item value="exist" />
       <item value="已存在" />
       <item value="check Code" />
       <item value="verify" />
@@ -48,14 +51,11 @@
       <item value="Permission denied" />
       <item value="实例" />
       <item value="UnknownHostKey: 122.112.196.79. RSA key fingerprint is 0b:2c:1b:a3:f8:d2:61:05:ad:3d:cc:c7:22:52:b5:c8" />
-      <item value="business Addr" />
-      <item value="后面" />
-      <item value="front" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1055" />
-        <entry key="ENGLISH" value="1178" />
+        <entry key="CHINESE" value="1057" />
+        <entry key="ENGLISH" value="1181" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
