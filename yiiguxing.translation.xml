@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve MVC View '?channelNo='" />
       <item value="exist" />
       <item value="存在" />
       <item value="渠道编码是空的" />
@@ -50,7 +51,6 @@
       <item value="Could not set field value [2c9192a16f31985f016f319b17800000] value by reflection : [class com.iis.api.model.FileUpload.id] setter of com.iis.api.model.FileUpload.id" />
       <item value="Permission denied" />
       <item value="实例" />
-      <item value="UnknownHostKey: 122.112.196.79. RSA key fingerprint is 0b:2c:1b:a3:f8:d2:61:05:ad:3d:cc:c7:22:52:b5:c8" />
     </histories>
     <option name="languageScores">
       <map>
