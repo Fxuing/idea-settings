@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Performs this operation on the given argument." />
+      <item value="Consumer" />
+      <item value="Supplier" />
       <item value="登记咨询" />
       <item value="Cannot resolve MVC View '?channelNo='" />
       <item value="exist" />
@@ -48,14 +51,11 @@
       <item value="Refuse to reason" />
       <item value="拒绝原因" />
       <item value="the reason for refusal" />
-      <item value="ACCDEN" />
-      <item value="Could not set field value [2c9192a16f31985f016f319b17800000] value by reflection : [class com.iis.api.model.FileUpload.id] setter of com.iis.api.model.FileUpload.id" />
-      <item value="Permission denied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1057" />
-        <entry key="ENGLISH" value="1182" />
+        <entry key="CHINESE" value="1060" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
