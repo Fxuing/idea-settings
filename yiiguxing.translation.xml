@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last Login Time" />
       <item value="Condition 'userInfo != null' is always 'true'" />
       <item value="手机号已注册" />
       <item value="Performs this operation on the given argument." />
@@ -50,12 +51,11 @@
       <item value="- argument type mismatch - had objects of type &quot;java.util.LinkedHashMap&quot; but expected signature &quot;com.iis.api.model.EntCustInfo$EntCustomerInfo&quot;" />
       <item value="Result of 'EntCustInfo.getEntCustomerInfo()' is ignored" />
       <item value="Refuse Reason" />
-      <item value="Refuse to reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1187" />
+        <entry key="CHINESE" value="1061" />
+        <entry key="ENGLISH" value="1188" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
