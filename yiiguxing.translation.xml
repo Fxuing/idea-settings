@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="address" />
+      <item value="second level" />
+      <item value="二级" />
+      <item value="first level" />
+      <item value="一级" />
       <item value="REGISTRATION INFORMATION" />
       <item value="able" />
       <item value="enable" />
@@ -46,16 +51,11 @@
       <item value="校验" />
       <item value="Cannot find any provider supporting SHA1WithRSA" />
       <item value="java.security.NoSuchAlgorithmException: Cannot find any provider supporting SHA1WithRSA" />
-      <item value="Method invocation 'getRequestNo' may produce 'NullPointerException'" />
-      <item value="the data." />
-      <item value="Pre Credit Notify Url" />
-      <item value="t Pre Credit Notify Url" />
-      <item value="Set Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1067" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
