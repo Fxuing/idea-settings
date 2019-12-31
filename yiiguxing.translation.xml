@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boss Group" />
+      <item value="worker Group" />
       <item value="who can who do it" />
       <item value="Controller Advice" />
       <item value="Passing a non-null argument to 'Optional'" />
@@ -49,13 +51,11 @@
       <item value="expire Date" />
       <item value="id Card" />
       <item value="bank Card Id" />
-      <item value="bank Card No" />
-      <item value="bank Card Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1072" />
-        <entry key="ENGLISH" value="1204" />
+        <entry key="CHINESE" value="1074" />
+        <entry key="ENGLISH" value="1206" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
