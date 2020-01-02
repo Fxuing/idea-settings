@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SECONDS" />
       <item value="boss Group" />
       <item value="worker Group" />
       <item value="who can who do it" />
@@ -50,12 +51,11 @@
       <item value="admin" />
       <item value="expire Date" />
       <item value="id Card" />
-      <item value="bank Card Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1074" />
-        <entry key="ENGLISH" value="1206" />
+        <entry key="CHINESE" value="1075" />
+        <entry key="ENGLISH" value="1207" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
