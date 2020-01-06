@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="role" />
       <item value="Returns the {@code char} value in this sequence at the specified index. * The first {@code char} value is at index {@code 0}, the next at index" />
       <item value="between 0 (inclusive) and the specified value (exclusive), drawn from * this random number generator's sequence" />
       <item value="Returns a pseudorandom, uniformly distributed" />
@@ -50,7 +51,6 @@
       <item value="describe" />
       <item value="Description" />
       <item value="描述" />
-      <item value="feedback" />
     </histories>
     <option name="languageScores">
       <map>
