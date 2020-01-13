@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order Second" />
       <item value="debate discuss" />
       <item value="discuss" />
       <item value="criticism" />
@@ -50,12 +51,11 @@
       <item value="first level" />
       <item value="一级" />
       <item value="REGISTRATION INFORMATION" />
-      <item value="able" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1092" />
-        <entry key="ENGLISH" value="1232" />
+        <entry key="CHINESE" value="1093" />
+        <entry key="ENGLISH" value="1233" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
