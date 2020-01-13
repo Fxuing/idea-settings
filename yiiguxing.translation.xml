@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discuss" />
+      <item value="评论" />
       <item value="Actual value of parameter 'error' is always 'IError.SUCCESS'" />
       <item value="最低" />
       <item value="Returns an infinite sequential ordered {@code Stream} produced by iterative * application of a function {@code f} to an initial element {@code seed}, * producing a" />
@@ -49,13 +51,11 @@
       <item value="stat" />
       <item value="PARAM IS NOT NULL" />
       <item value="YOUR IS NOT ADMIN" />
-      <item value="If a value is present in this Optional, returns the value, otherwise throws" />
-      <item value="Result of 'ChannelInfo.getChannelName()' is ignored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1228" />
+        <entry key="CHINESE" value="1090" />
+        <entry key="ENGLISH" value="1229" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
