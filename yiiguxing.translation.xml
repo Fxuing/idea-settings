@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="最低" />
       <item value="Returns an infinite sequential ordered {@code Stream} produced by iterative * application of a function {@code f} to an initial element {@code seed}, * producing a" />
       <item value="Stream Exercises" />
       <item value="filter Artists From London Printed" />
@@ -50,12 +51,11 @@
       <item value="If a value is present in this Optional, returns the value, otherwise throws" />
       <item value="Result of 'ChannelInfo.getChannelName()' is ignored" />
       <item value="last Login Time" />
-      <item value="Condition 'userInfo != null' is always 'true'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1089" />
-        <entry key="ENGLISH" value="1226" />
+        <entry key="ENGLISH" value="1227" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
