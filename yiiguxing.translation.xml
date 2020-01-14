@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Get https://registry-1.docker.io/v2/: net/http: TLS handshake timeout" />
+      <item value="15:39 com.intellij.remoteServer.util.ServerRuntimeException: driver failed programming external connectivity on endpoint iisapi (b43523ddd25504e4938e0a95df50cf65c136b346967e5ea20f4ee158a4d0e76a): Error starting userland proxy: listen tcp 192.168.50.21:8080: bind: cannot assign requested address" />
       <item value="Invalid or corrupt jarfile /iis-api.jar" />
       <item value="Error: Invalid or corrupt jarfile /iis-api.jar" />
       <item value="order Second" />
@@ -49,13 +51,11 @@
       <item value="filter Chain Definitions" />
       <item value="address" />
       <item value="second level" />
-      <item value="二级" />
-      <item value="first level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1095" />
-        <entry key="ENGLISH" value="1235" />
+        <entry key="CHINESE" value="1097" />
+        <entry key="ENGLISH" value="1237" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
