@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unused variable 'user' " />
+      <item value="Build constraints exclude all Go files in 'F:/golang_workspace/go/bin/src/github.com/gin-gonic/gin' " />
       <item value="Result of 'LocalDate.plusDays()' is ignored" />
       <item value="At least 2 arguments required" />
       <item value="host" />
@@ -49,8 +51,6 @@
       <item value="Passing a non-null argument to 'Optional'" />
       <item value="证件号码" />
       <item value="customer Name" />
-      <item value="custom Name" />
-      <item value="临时" />
     </histories>
     <option name="languageScores">
       <map>
