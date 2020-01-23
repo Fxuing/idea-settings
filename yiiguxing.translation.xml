@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unexported function 'data' usage" />
+      <item value="cannot load entity: malformed module path &quot;entity&quot;: missing dot in first path element" />
+      <item value="Excluded" />
+      <item value=" does not override conflicting OS environment variable" />
+      <item value="age" />
+      <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/kr/pretty v0.2.0 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
+      <item value="does not include it." />
+      <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
+      <item value="warning: GOPATH set to GOROOT (F:\golang_workspace\go) has no effect go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
       <item value="Unused variable 'user' " />
       <item value="Build constraints exclude all Go files in 'F:/golang_workspace/go/bin/src/github.com/gin-gonic/gin' " />
       <item value="Result of 'LocalDate.plusDays()' is ignored" />
@@ -42,15 +51,6 @@
       <item value="Unreachable statement" />
       <item value="Connection can be kept alive indefinitely" />
       <item value="Branch in 'switch' is a duplicate of the default branch" />
-      <item value="Truncated incorrect DOUBLE value" />
-      <item value="SECONDS" />
-      <item value="boss Group" />
-      <item value="worker Group" />
-      <item value="who can who do it" />
-      <item value="Controller Advice" />
-      <item value="Passing a non-null argument to 'Optional'" />
-      <item value="证件号码" />
-      <item value="customer Name" />
     </histories>
     <option name="languageScores">
       <map>
