@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第三" />
       <item value="My Server Handler" />
       <item value="which enables easier server side HTTP implementation." />
       <item value="A combination of {@link HttpRequestDecoder} and {@link HttpResponseEncoder}" />
@@ -50,12 +51,11 @@
       <item value="login Acct Code" />
       <item value="role" />
       <item value="Returns the {@code char} value in this sequence at the specified index. * The first {@code char} value is at index {@code 0}, the next at index" />
-      <item value="between 0 (inclusive) and the specified value (exclusive), drawn from * this random number generator's sequence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1100" />
-        <entry key="ENGLISH" value="1244" />
+        <entry key="ENGLISH" value="1245" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
