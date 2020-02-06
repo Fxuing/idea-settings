@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot contact reCAPTCHA. Check your connection and try again." />
+      <item value="Select all images with mountains or hills" />
       <item value="expire Url" />
       <item value="Column 'status' in where clause is ambiguous; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous" />
       <item value="Column 'status' in where clause is ambiguous" />
@@ -49,8 +51,6 @@
       <item value="Test Performance" />
       <item value="assert Equals" />
       <item value="The 'stream().forEach()' chain can be replaced with 'forEach()' (may change semantics)" />
-      <item value=" YOUR WINDOWS MAY DETECT THE DOWNLOADED FILE AS VIRUS, FOR THIS PLEASE DISABLE WINDOWS DEFENDER.  CHECK -&gt; README.HTML &lt;- Method:- to disable Windows Defender " />
-      <item value="未认证" />
     </histories>
     <option name="languageScores">
       <map>
