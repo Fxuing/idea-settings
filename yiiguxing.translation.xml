@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHANNEL NO IS EXPIRE" />
+      <item value="expire" />
+      <item value="on Access Denied" />
+      <item value="is Access Allowed" />
       <item value="Cannot contact reCAPTCHA. Check your connection and try again." />
       <item value="Select all images with mountains or hills" />
       <item value="expire Url" />
@@ -47,15 +51,11 @@
       <item value="Stream Exercises" />
       <item value="filter Artists From London Printed" />
       <item value="If you were to model each operation on a calculator as a function." />
-      <item value="assert True" />
-      <item value="Test Performance" />
-      <item value="assert Equals" />
-      <item value="The 'stream().forEach()' chain can be replaced with 'forEach()' (may change semantics)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1105" />
-        <entry key="ENGLISH" value="1250" />
+        <entry key="CHINESE" value="1110" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
