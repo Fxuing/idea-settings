@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Ping request could not find host www.baidu.com. Please check the name and try again." />
       <item value="'if' statement can be simplified" />
       <item value="'Optional.get()' without 'isPresent()' check" />
       <item value="Unhandled exception: java.lang.Exception" />
@@ -50,7 +51,6 @@
       <item value="comments评论" />
       <item value="comment" />
       <item value="Actual value of parameter 'error' is always 'IError.SUCCESS'" />
-      <item value="最低" />
     </histories>
     <option name="languageScores">
       <map>
