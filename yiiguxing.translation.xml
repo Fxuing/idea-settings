@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lending" />
       <item value="实例" />
       <item value="示例" />
       <item value="instince" />
       <item value="Cache to support the object identity semantics of autoboxing for values between" />
       <item value="channel Num" />
       <item value="order Num" />
-      <item value="lending" />
       <item value="放款" />
       <item value="credit" />
       <item value="认证" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1118" />
-        <entry key="ENGLISH" value="1274" />
+        <entry key="ENGLISH" value="1275" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
