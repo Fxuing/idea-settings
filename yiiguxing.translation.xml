@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实例" />
+      <item value="示例" />
+      <item value="instince" />
       <item value="Cache to support the object identity semantics of autoboxing for values between" />
       <item value="channel Num" />
       <item value="order Num" />
@@ -48,14 +51,11 @@
       <item value="Excluded" />
       <item value=" does not override conflicting OS environment variable" />
       <item value="age" />
-      <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/kr/pretty v0.2.0 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
-      <item value="does not include it." />
-      <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1117" />
-        <entry key="ENGLISH" value="1268" />
+        <entry key="CHINESE" value="1118" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
