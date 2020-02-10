@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache to support the object identity semantics of autoboxing for values between" />
+      <item value="channel Num" />
+      <item value="order Num" />
+      <item value="lending" />
+      <item value="放款" />
+      <item value="credit" />
+      <item value="认证" />
+      <item value="注册" />
+      <item value="注册数" />
+      <item value="register Num" />
       <item value="statistics" />
       <item value="首页统计" />
       <item value="统计" />
@@ -41,21 +51,11 @@
       <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/kr/pretty v0.2.0 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
       <item value="does not include it." />
       <item value="go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
-      <item value="warning: GOPATH set to GOROOT (F:\golang_workspace\go) has no effect go: inconsistent vendoring in F:\golang_workspace\go\src: &#9;go.mod requires github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 but vendor/modules.txt does not include it. &#9;run 'go mod tidy; go mod vendor' to sync" />
-      <item value="Unused variable 'user' " />
-      <item value="Build constraints exclude all Go files in 'F:/golang_workspace/go/bin/src/github.com/gin-gonic/gin' " />
-      <item value="Result of 'LocalDate.plusDays()' is ignored" />
-      <item value="At least 2 arguments required" />
-      <item value="host" />
-      <item value="Get https://registry-1.docker.io/v2/: net/http: TLS handshake timeout" />
-      <item value="15:39 com.intellij.remoteServer.util.ServerRuntimeException: driver failed programming external connectivity on endpoint iisapi (b43523ddd25504e4938e0a95df50cf65c136b346967e5ea20f4ee158a4d0e76a): Error starting userland proxy: listen tcp 192.168.50.21:8080: bind: cannot assign requested address" />
-      <item value="Invalid or corrupt jarfile /iis-api.jar" />
-      <item value="Error: Invalid or corrupt jarfile /iis-api.jar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1113" />
-        <entry key="ENGLISH" value="1259" />
+        <entry key="CHINESE" value="1117" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
@@ -66,7 +66,7 @@
         <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="1" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="5" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="SPANISH" value="2" />
