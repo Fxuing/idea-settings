@@ -1,14 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Enterprise Auth Service Impl" />
       <item value="ent Legal Person Info Dao" />
+      <item value="ent Base Info Dao" />
+      <item value="Enterprise Auth Service Impl" />
       <item value="invalidate" />
       <item value="invali" />
       <item value="va" />
       <item value="in" />
       <item value="just restart" />
-      <item value="ent Base Info Dao" />
       <item value="Settings successfully synced" />
       <item value="Field injection is not recommended" />
       <item value="remember" />
