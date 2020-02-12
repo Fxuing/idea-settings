@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The default numeric generator for generating long values. Implementation * allows for wrapping (to restart count) if the maximum is reached." />
       <item value="ent Legal Person Info Dao" />
       <item value="ent Base Info Dao" />
       <item value="Enterprise Auth Service Impl" />
@@ -50,7 +51,6 @@
       <item value="CHANNEL NO IS EXPIRE" />
       <item value="expire" />
       <item value="on Access Denied" />
-      <item value="is Access Allowed" />
     </histories>
     <option name="languageScores">
       <map>
