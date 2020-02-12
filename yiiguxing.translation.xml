@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalidate" />
+      <item value="invali" />
+      <item value="va" />
+      <item value="in" />
+      <item value="just restart" />
       <item value="ent Base Info Dao" />
       <item value="Settings successfully synced" />
       <item value="ent Legal Person Info Dao" />
@@ -46,11 +51,6 @@
       <item value="on Access Denied" />
       <item value="is Access Allowed" />
       <item value="Cannot contact reCAPTCHA. Check your connection and try again." />
-      <item value="Select all images with mountains or hills" />
-      <item value="expire Url" />
-      <item value="Column 'status' in where clause is ambiguous; nested exception is java.sql.SQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous" />
-      <item value="Column 'status' in where clause is ambiguous" />
-      <item value="channel Value Increment" />
     </histories>
     <option name="languageScores">
       <map>
