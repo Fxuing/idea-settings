@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="需求" />
       <item value="Expected BEGIN_ARRAY but was STRING at line 3 column 20" />
       <item value="cannot be opened because it does not exist" />
       <item value="行业" />
@@ -50,12 +51,11 @@
       <item value="register Num" />
       <item value="statistics" />
       <item value="首页统计" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1128" />
-        <entry key="ENGLISH" value="1300" />
+        <entry key="ENGLISH" value="1301" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
