@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="职务" />
+      <item value="other Demand" />
+      <item value="financing amount" />
+      <item value="融资金额" />
+      <item value="区域" />
       <item value="should be Config" />
       <item value="Invalid bound statement (not found): com.obanks.fop.authc.dao.PneumoniaMapper.insert" />
       <item value="contacts Phone" />
@@ -46,16 +51,11 @@
       <item value="lending" />
       <item value="实例" />
       <item value="示例" />
-      <item value="instince" />
-      <item value="Cache to support the object identity semantics of autoboxing for values between" />
-      <item value="channel Num" />
-      <item value="order Num" />
-      <item value="放款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1309" />
+        <entry key="CHINESE" value="1137" />
+        <entry key="ENGLISH" value="1313" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
