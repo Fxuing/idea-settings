@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="instance" />
+      <item value="build" />
+      <item value="bulid" />
+      <item value="构建" />
+      <item value="用户不存在" />
       <item value="You can quickly review all styles currently applied to an HTML tag, by right-clicking the tag name and selecting Show Applied Styles For Tag from the context menu:" />
       <item value="come on" />
       <item value="职务" />
@@ -46,16 +51,11 @@
       <item value="Privacy " />
       <item value="Privacy policy" />
       <item value="隐私条款" />
-      <item value="service agreement" />
-      <item value="服务协议" />
-      <item value="开户授权协议" />
-      <item value="数字证书服务协议" />
-      <item value="lending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1137" />
-        <entry key="ENGLISH" value="1316" />
+        <entry key="CHINESE" value="1141" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
