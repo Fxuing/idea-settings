@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CURRENT USER PHONE VERIFY" />
+      <item value="CURRENT USER VERIFY" />
+      <item value="CURRENT" />
+      <item value="is Me" />
       <item value="instance" />
       <item value="build" />
       <item value="bulid" />
@@ -47,15 +51,11 @@
       <item value="Field injection is not recommended" />
       <item value="remember" />
       <item value="Privacy provisions" />
-      <item value="Privacy 条款" />
-      <item value="Privacy " />
-      <item value="Privacy policy" />
-      <item value="隐私条款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1321" />
+        <entry key="CHINESE" value="1145" />
+        <entry key="ENGLISH" value="1325" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
