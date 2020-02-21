@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="释放" />
+      <item value="Contents of collection 'arrayBlockingQueue' are updated, but never queried" />
       <item value="工厂" />
       <item value="ArrayBlockingQueue" />
       <item value="CURRENT USER PHONE VERIFY" />
@@ -49,13 +51,11 @@
       <item value="va" />
       <item value="in" />
       <item value="just restart" />
-      <item value="Settings successfully synced" />
-      <item value="Field injection is not recommended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1145" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1146" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
