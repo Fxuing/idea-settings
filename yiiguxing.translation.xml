@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
       <item value="Pipe closed" />
       <item value="释放" />
       <item value="Contents of collection 'arrayBlockingQueue' are updated, but never queried" />
@@ -50,12 +51,11 @@
       <item value="invalidate" />
       <item value="invali" />
       <item value="va" />
-      <item value="in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1147" />
-        <entry key="ENGLISH" value="1329" />
+        <entry key="CHINESE" value="1148" />
+        <entry key="ENGLISH" value="1330" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
