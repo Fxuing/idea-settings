@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="管理" />
+      <item value="managerment" />
+      <item value="manager Url" />
+      <item value="manager" />
       <item value="THIS ENTERPRISE AUTH IS EXIST" />
       <item value="THIS ENT AUTH IS EXIST" />
       <item value="Optional" />
@@ -47,15 +51,11 @@
       <item value="contacts" />
       <item value="问题" />
       <item value="需求" />
-      <item value="Expected BEGIN_ARRAY but was STRING at line 3 column 20" />
-      <item value="cannot be opened because it does not exist" />
-      <item value="行业" />
-      <item value="Good Information Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1157" />
-        <entry key="ENGLISH" value="1343" />
+        <entry key="CHINESE" value="1160" />
+        <entry key="ENGLISH" value="1348" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
