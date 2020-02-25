@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse to" />
+      <item value="user Info Parse Login Vo" />
       <item value="user Info To Login Vo" />
       <item value="是否校验" />
       <item value="sql: unknown driver &quot;mysql&quot; (forgotten import?)" />
@@ -49,13 +51,11 @@
       <item value="You can quickly review all styles currently applied to an HTML tag, by right-clicking the tag name and selecting Show Applied Styles For Tag from the context menu:" />
       <item value="come on" />
       <item value="职务" />
-      <item value="other Demand" />
-      <item value="financing amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1165" />
-        <entry key="ENGLISH" value="1355" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1356" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
