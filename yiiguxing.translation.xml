@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supplier" />
       <item value="Returns a composed function that first applies the {@code before} * function to its input, and then applies this function to the result. * If evaluation of either function throws an exception, it is relayed to * the caller of the composed function." />
       <item value="Applies this function to the given argument." />
       <item value="secret" />
@@ -50,12 +51,11 @@
       <item value="should be Config" />
       <item value="Invalid bound statement (not found): com.obanks.fop.authc.dao.PneumoniaMapper.insert" />
       <item value="contacts Phone" />
-      <item value="contacts Way" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1162" />
-        <entry key="ENGLISH" value="1351" />
+        <entry key="CHINESE" value="1163" />
+        <entry key="ENGLISH" value="1352" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
