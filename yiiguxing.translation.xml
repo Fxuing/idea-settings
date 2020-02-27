@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No suitable ImageReader found for source data." />
+      <item value="Visiting" />
+      <item value="爬虫" />
       <item value="20:40 Workspace associated with branch 'taxInfo_20190603' has been restored" />
       <item value="attach" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
@@ -48,14 +51,11 @@
       <item value="is Me" />
       <item value="instance" />
       <item value="build" />
-      <item value="bulid" />
-      <item value="构建" />
-      <item value="用户不存在" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1167" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="ENGLISH" value="1359" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
