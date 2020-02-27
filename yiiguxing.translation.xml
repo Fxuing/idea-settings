@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="QR Code" />
       <item value="No suitable ImageReader found for source data." />
       <item value="Visiting" />
       <item value="爬虫" />
@@ -50,12 +51,11 @@
       <item value="CURRENT" />
       <item value="is Me" />
       <item value="instance" />
-      <item value="build" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1167" />
-        <entry key="ENGLISH" value="1359" />
+        <entry key="CHINESE" value="1168" />
+        <entry key="ENGLISH" value="1360" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
