@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Task" />
       <item value="Illegal char" />
       <item value="merge File" />
       <item value="slice File" />
@@ -50,12 +51,11 @@
       <item value="Cast may be removed by changing the type of 'out' to 'ByteArrayOutputStream'" />
       <item value="Inconvertible types; cannot cast 'java.io.OutputStream' to 'java.io.ByteArrayInputStream'" />
       <item value="get Total Time Seconds" />
-      <item value="共耗时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1180" />
-        <entry key="ENGLISH" value="1371" />
+        <entry key="CHINESE" value="1181" />
+        <entry key="ENGLISH" value="1372" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
