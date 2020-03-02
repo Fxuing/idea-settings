@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Upload Shard Controller" />
+      <item value="分片" />
+      <item value="remove jihuoma.txt: The process cannot access the file because it is being used by another process." />
+      <item value=" activate" />
+      <item value="激活" />
       <item value="A {@code Future} represents the result of an asynchronous * computation." />
       <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
       <item value="Future" />
@@ -46,16 +51,11 @@
       <item value="capacity" />
       <item value="Pipe closed" />
       <item value="释放" />
-      <item value="Contents of collection 'arrayBlockingQueue' are updated, but never queried" />
-      <item value="工厂" />
-      <item value="ArrayBlockingQueue" />
-      <item value="CURRENT USER PHONE VERIFY" />
-      <item value="CURRENT USER VERIFY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1171" />
-        <entry key="ENGLISH" value="1363" />
+        <entry key="CHINESE" value="1173" />
+        <entry key="ENGLISH" value="1366" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
