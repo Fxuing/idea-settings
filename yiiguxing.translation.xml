@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="king" />
+      <item value="remark" />
+      <item value="app info" />
+      <item value="应用信息" />
+      <item value="application Info" />
+      <item value="applicationInfo" />
+      <item value="application" />
       <item value="Data Access Object (DAO) is an object that provides an abstract interface to some type of * database or other persistence mechanism. By mapping application calls to the persistence layer, * DAO provide some specific data operations without exposing details of the database. This * isolation supports the Single responsibility principle. It separates what data accesses the * application needs, in terms of domain-specific objects and data types (the public interface of * the DAO), from how these needs can be satisfied with a specific DBMS. * * &lt;p&gt;With the DAO pattern, we can use various method calls to retrieve/add/delete/update data * without directly interacting with the data source. The below example demonstrates basic CRUD * operations: select, add, update, and delete." />
       <item value="legal" />
       <item value="identity card" />
@@ -44,18 +51,11 @@
       <item value="20:40 Workspace associated with branch 'taxInfo_20190603' has been restored" />
       <item value="attach" />
       <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
-      <item value="parse to" />
-      <item value="user Info Parse Login Vo" />
-      <item value="user Info To Login Vo" />
-      <item value="是否校验" />
-      <item value="sql: unknown driver &quot;mysql&quot; (forgotten import?)" />
-      <item value="search By Union Id For User Info" />
-      <item value="Supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1386" />
+        <entry key="CHINESE" value="1194" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
