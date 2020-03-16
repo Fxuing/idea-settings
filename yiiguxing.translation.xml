@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No qualifying bean of type 'com.odp.api.service.ChannelInfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="Field injection is not recommended" />
       <item value="Schema `odp_data` is up to date. No migration necessary." />
       <item value="Schema" />
       <item value="Current version of schema `odp_data`: &lt;&lt; Empty Schema &gt;&gt;" />
@@ -49,13 +51,11 @@
       <item value="applicationInfo" />
       <item value="application" />
       <item value="Data Access Object (DAO) is an object that provides an abstract interface to some type of * database or other persistence mechanism. By mapping application calls to the persistence layer, * DAO provide some specific data operations without exposing details of the database. This * isolation supports the Single responsibility principle. It separates what data accesses the * application needs, in terms of domain-specific objects and data types (the public interface of * the DAO), from how these needs can be satisfied with a specific DBMS. * * &lt;p&gt;With the DAO pattern, we can use various method calls to retrieve/add/delete/update data * without directly interacting with the data source. The below example demonstrates basic CRUD * operations: select, add, update, and delete." />
-      <item value="legal" />
-      <item value="identity card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1207" />
-        <entry key="ENGLISH" value="1407" />
+        <entry key="CHINESE" value="1210" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
