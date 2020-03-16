@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schema `odp_data` is up to date. No migration necessary." />
+      <item value="Schema" />
+      <item value="Current version of schema `odp_data`: &lt;&lt; Empty Schema &gt;&gt;" />
+      <item value="[INFO ] 2020-03-16 17:09:17.394 9536 --- o.f.core.internal.command.DbMigrate : Current version of schema `odp_data`: &lt;&lt; Empty Schema &gt;&gt;" />
+      <item value="divice channel map" />
       <item value="Field 'crmRoleMax' is never used" />
       <item value="Device" />
       <item value="设备" />
@@ -46,16 +51,11 @@
       <item value="Data Access Object (DAO) is an object that provides an abstract interface to some type of * database or other persistence mechanism. By mapping application calls to the persistence layer, * DAO provide some specific data operations without exposing details of the database. This * isolation supports the Single responsibility principle. It separates what data accesses the * application needs, in terms of domain-specific objects and data types (the public interface of * the DAO), from how these needs can be satisfied with a specific DBMS. * * &lt;p&gt;With the DAO pattern, we can use various method calls to retrieve/add/delete/update data * without directly interacting with the data source. The below example demonstrates basic CRUD * operations: select, add, update, and delete." />
       <item value="legal" />
       <item value="identity card" />
-      <item value="identity" />
-      <item value="法人身份证" />
-      <item value="法人" />
-      <item value="runtime error: integer divide by zero" />
-      <item value="Compares two {@code long} values numerically. * The value returned is identical to what would be returned by:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="1402" />
+        <entry key="CHINESE" value="1207" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
