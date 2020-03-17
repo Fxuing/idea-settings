@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vo To Channel Info" />
       <item value="Device" />
       <item value="设备" />
       <item value="Field bankStockImportService in com.odp.api.controller.ChannelController required a bean of type 'com.odp.api.service.BankStockImportService' that could not be found." />
@@ -50,12 +51,11 @@
       <item value="app info" />
       <item value="应用信息" />
       <item value="application Info" />
-      <item value="applicationInfo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1213" />
-        <entry key="ENGLISH" value="1413" />
+        <entry key="CHINESE" value="1214" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
