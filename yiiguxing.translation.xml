@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="device Ids" />
+      <item value="Divice Channel Map" />
+      <item value="Divice Channel Map Mapper" />
+      <item value="divice" />
+      <item value="divices" />
       <item value="Result of 'Optional.orElse()' is ignored" />
       <item value="Device" />
       <item value="设备" />
@@ -46,16 +51,11 @@
       <item value="customer" />
       <item value="custom" />
       <item value="Program main entry point." />
-      <item value="* you're also using the Microservices pattern and need a single point of aggregation for your microservice calls" />
-      <item value="Orc Kingdom" />
-      <item value="This is the Elven Army!" />
-      <item value="Kingdom" />
-      <item value="king" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1418" />
+        <entry key="CHINESE" value="1222" />
+        <entry key="ENGLISH" value="1422" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
