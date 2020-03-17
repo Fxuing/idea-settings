@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable" />
+      <item value="enable" />
       <item value="审计" />
       <item value="vo To Channel Info" />
       <item value="Device" />
@@ -49,13 +51,11 @@
       <item value="Kingdom" />
       <item value="king" />
       <item value="remark" />
-      <item value="app info" />
-      <item value="应用信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1214" />
-        <entry key="ENGLISH" value="1415" />
+        <entry key="CHINESE" value="1216" />
+        <entry key="ENGLISH" value="1417" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
