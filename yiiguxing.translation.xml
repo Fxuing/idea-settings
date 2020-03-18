@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transient" />
       <item value="devices" />
       <item value="device Ids" />
       <item value="Divice Channel Map" />
@@ -50,12 +51,11 @@
       <item value="customer import" />
       <item value="customer 导入" />
       <item value="customer" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1223" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1224" />
+        <entry key="ENGLISH" value="1424" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
