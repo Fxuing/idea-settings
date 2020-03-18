@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GenerationTarget encountered exception accepting command : Error executing DDL &quot;insert into hibernate_sequences(sequence_name, next_val) values ('default',0)&quot; via JDBC Statement" />
+      <item value="ids for this class must be manually assigned before calling save(): com.odp.api.model.ChannelInfo" />
+      <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation (class org.slf4j.impl.Log4jLoggerFactory loaded from file:/E:/maven_repository/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar). If you are using WebLogic you will need to add 'org.slf4j' to prefer-application-packages in WEB-INF/weblogic.xml: org.slf4j.impl.Log4jLoggerFactory" />
+      <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath" />
       <item value="Transient" />
       <item value="devices" />
       <item value="device Ids" />
@@ -47,15 +51,11 @@
       <item value="Position" />
       <item value="position" />
       <item value="职位" />
-      <item value="the customer import" />
-      <item value="customer import" />
-      <item value="customer 导入" />
-      <item value="customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1224" />
-        <entry key="ENGLISH" value="1424" />
+        <entry key="CHINESE" value="1228" />
+        <entry key="ENGLISH" value="1428" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
