@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot join to attribute of basic type" />
+      <item value="Unable to locate Attribute with the the given name [dictionary] on this ManagedType [com.odp.api.model.DateAudit]" />
       <item value="area" />
       <item value="面积" />
       <item value="software copyright" />
@@ -49,13 +51,11 @@
       <item value="Field injection is not recommended" />
       <item value="Schema `odp_data` is up to date. No migration necessary." />
       <item value="Schema" />
-      <item value="Current version of schema `odp_data`: &lt;&lt; Empty Schema &gt;&gt;" />
-      <item value="[INFO ] 2020-03-16 17:09:17.394 9536 --- o.f.core.internal.command.DbMigrate : Current version of schema `odp_data`: &lt;&lt; Empty Schema &gt;&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1235" />
-        <entry key="ENGLISH" value="1442" />
+        <entry key="CHINESE" value="1238" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
