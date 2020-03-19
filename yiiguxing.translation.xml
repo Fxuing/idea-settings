@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="高新资质" />
+      <item value="高新" />
+      <item value="博士" />
+      <item value="硕士" />
+      <item value="mem" />
+      <item value="MFA" />
+      <item value="人员 数" />
+      <item value="人员" />
+      <item value="研发" />
+      <item value="研发人员数" />
+      <item value="gross output" />
+      <item value="总产值" />
+      <item value="纳税额" />
+      <item value="ratal" />
+      <item value="operating income" />
+      <item value="营业收入" />
+      <item value="行业" />
+      <item value="capital" />
+      <item value="注册资金" />
       <item value="GenerationTarget encountered exception accepting command : Error executing DDL &quot;insert into hibernate_sequences(sequence_name, next_val) values ('default',0)&quot; via JDBC Statement" />
       <item value="ids for this class must be manually assigned before calling save(): com.odp.api.model.ChannelInfo" />
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation (class org.slf4j.impl.Log4jLoggerFactory loaded from file:/E:/maven_repository/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar). If you are using WebLogic you will need to add 'org.slf4j' to prefer-application-packages in WEB-INF/weblogic.xml: org.slf4j.impl.Log4jLoggerFactory" />
@@ -32,30 +51,11 @@
       <item value="dictionary" />
       <item value="字典表" />
       <item value="contact" />
-      <item value="contact_id" />
-      <item value="凭证" />
-      <item value="product name" />
-      <item value="assets _name" />
-      <item value="assets_name" />
-      <item value="ASSETS_NAME" />
-      <item value="joint_bank" />
-      <item value="JOINT_BANK" />
-      <item value="银行存量" />
-      <item value=" bank stock" />
-      <item value=" back stock" />
-      <item value=" stock" />
-      <item value="存量" />
-      <item value="存了" />
-      <item value="pose" />
-      <item value="post" />
-      <item value="Position" />
-      <item value="position" />
-      <item value="职位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1428" />
+        <entry key="CHINESE" value="1233" />
+        <entry key="ENGLISH" value="1441" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
