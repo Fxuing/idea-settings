@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nice" />
       <item value="ignore Properties" />
       <item value="The given id must not be null!" />
       <item value="child data exist" />
@@ -50,7 +51,6 @@
       <item value="enable" />
       <item value="审计" />
       <item value="vo To Channel Info" />
-      <item value="Field bankStockImportService in com.odp.api.controller.ChannelController required a bean of type 'com.odp.api.service.BankStockImportService' that could not be found." />
     </histories>
     <option name="languageScores">
       <map>
