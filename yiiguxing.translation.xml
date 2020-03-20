@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child" />
+      <item value="子" />
       <item value="Cannot join to attribute of basic type" />
       <item value="Unable to locate Attribute with the the given name [dictionary] on this ManagedType [com.odp.api.model.DateAudit]" />
       <item value="area" />
@@ -49,13 +51,11 @@
       <item value="Correct the classpath of your application so that it contains a single, compatible version of com.baomidou.mybatisplus.core.MybatisConfiguration" />
       <item value="No qualifying bean of type 'com.odp.api.service.ChannelInfoService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
       <item value="Field injection is not recommended" />
-      <item value="Schema `odp_data` is up to date. No migration necessary." />
-      <item value="Schema" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1445" />
+        <entry key="CHINESE" value="1239" />
+        <entry key="ENGLISH" value="1446" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
