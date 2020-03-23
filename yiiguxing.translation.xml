@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copies properties from one object to another" />
+      <item value="destination" />
       <item value="开户行不存在" />
       <item value="nice" />
       <item value="ignore Properties" />
@@ -49,13 +51,11 @@
       <item value="Device" />
       <item value="设备" />
       <item value="disable" />
-      <item value="enable" />
-      <item value="审计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1243" />
-        <entry key="ENGLISH" value="1451" />
+        <entry key="CHINESE" value="1245" />
+        <entry key="ENGLISH" value="1453" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
