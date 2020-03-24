@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template" />
       <item value="FIXME check this code" />
       <item value="copy Non Null Properties" />
       <item value="Folded 'ifPresent' call can be eliminated" />
@@ -50,7 +51,6 @@
       <item value="Divice Channel Map Mapper" />
       <item value="divice" />
       <item value="divices" />
-      <item value="Result of 'Optional.orElse()' is ignored" />
     </histories>
     <option name="languageScores">
       <map>
