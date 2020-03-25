@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="行业" />
+      <item value="registered capital" />
+      <item value="注册资金" />
+      <item value=" legal person" />
+      <item value="法人" />
+      <item value="初始" />
+      <item value="init Source" />
       <item value="Auto Id Interceptor" />
       <item value="Auto Id" />
       <item value="datacenter Id" />
@@ -43,19 +50,12 @@
       <item value="ratal" />
       <item value="operating income" />
       <item value="营业收入" />
-      <item value="行业" />
       <item value="capital" />
-      <item value="注册资金" />
-      <item value="GenerationTarget encountered exception accepting command : Error executing DDL &quot;insert into hibernate_sequences(sequence_name, next_val) values ('default',0)&quot; via JDBC Statement" />
-      <item value="ids for this class must be manually assigned before calling save(): com.odp.api.model.ChannelInfo" />
-      <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation (class org.slf4j.impl.Log4jLoggerFactory loaded from file:/E:/maven_repository/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar). If you are using WebLogic you will need to add 'org.slf4j' to prefer-application-packages in WEB-INF/weblogic.xml: org.slf4j.impl.Log4jLoggerFactory" />
-      <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1252" />
-        <entry key="ENGLISH" value="1460" />
+        <entry key="CHINESE" value="1255" />
+        <entry key="ENGLISH" value="1465" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
