@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="join Ent List" />
       <item value="专利" />
       <item value="行业" />
       <item value="registered capital" />
@@ -50,12 +51,11 @@
       <item value="纳税额" />
       <item value="ratal" />
       <item value="operating income" />
-      <item value="营业收入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1466" />
+        <entry key="CHINESE" value="1256" />
+        <entry key="ENGLISH" value="1467" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
