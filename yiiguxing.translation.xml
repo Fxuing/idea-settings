@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auto Id Interceptor" />
       <item value="Auto Id" />
       <item value="datacenter Id" />
       <item value="Class 'SnowflakeId' is public, should be declared in a file named 'SnowflakeId.java'" />
@@ -50,12 +51,11 @@
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation (class org.slf4j.impl.Log4jLoggerFactory loaded from file:/E:/maven_repository/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar). If you are using WebLogic you will need to add 'org.slf4j' to prefer-application-packages in WEB-INF/weblogic.xml: org.slf4j.impl.Log4jLoggerFactory" />
       <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath" />
       <item value="Transient" />
-      <item value="devices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1251" />
-        <entry key="ENGLISH" value="1459" />
+        <entry key="CHINESE" value="1252" />
+        <entry key="ENGLISH" value="1460" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
