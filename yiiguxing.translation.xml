@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COALESCE" />
       <item value="new" />
       <item value="port" />
       <item value="contacts Add" />
@@ -50,12 +51,11 @@
       <item value="研发" />
       <item value="研发人员数" />
       <item value="gross output" />
-      <item value="总产值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1258" />
-        <entry key="ENGLISH" value="1469" />
+        <entry key="CHINESE" value="1259" />
+        <entry key="ENGLISH" value="1470" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
