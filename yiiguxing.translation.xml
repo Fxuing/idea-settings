@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="new" />
       <item value="port" />
       <item value="contacts Add" />
       <item value="join Ent List" />
@@ -50,12 +51,11 @@
       <item value="研发人员数" />
       <item value="gross output" />
       <item value="总产值" />
-      <item value="纳税额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1257" />
-        <entry key="ENGLISH" value="1468" />
+        <entry key="CHINESE" value="1258" />
+        <entry key="ENGLISH" value="1469" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
