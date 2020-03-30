@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Analysis Event Listener" />
       <item value="IMPORT" />
       <item value="operating Income" />
       <item value="Longest Match Column Width Style Strategy" />
@@ -50,12 +51,11 @@
       <item value="software copyright" />
       <item value="软件著作权" />
       <item value="发明专利" />
-      <item value="高新资质" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1268" />
-        <entry key="ENGLISH" value="1482" />
+        <entry key="CHINESE" value="1269" />
+        <entry key="ENGLISH" value="1483" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
