@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="funny mud pee" />
+      <item value="funny mod pee" />
       <item value="Memory compiler, compiles java files into bytecode and class files in memory." />
       <item value="Execute ognl expression." />
       <item value="Time Tunnel" />
@@ -49,8 +51,6 @@
       <item value="FIXME check this code" />
       <item value="copy Non Null Properties" />
       <item value="Folded 'ifPresent' call can be eliminated" />
-      <item value="Copies properties from one object to another" />
-      <item value="destination" />
     </histories>
     <option name="languageScores">
       <map>
