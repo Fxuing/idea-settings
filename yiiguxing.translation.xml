@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Non-atomic operation on volatile field 'count'" />
       <item value="第一章" />
       <item value="funny mud pee" />
       <item value="funny mod pee" />
@@ -50,12 +51,11 @@
       <item value="is Channel Type" />
       <item value="template" />
       <item value="FIXME check this code" />
-      <item value="copy Non Null Properties" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1498" />
+        <entry key="ENGLISH" value="1499" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
