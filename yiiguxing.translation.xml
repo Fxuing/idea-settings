@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="writer" />
       <item value="Non-atomic operation on volatile field 'count'" />
       <item value="第一章" />
       <item value="funny mud pee" />
@@ -50,12 +51,11 @@
       <item value="&quot;worker Id can't be greater than %d or less than 0&quot;" />
       <item value="is Channel Type" />
       <item value="template" />
-      <item value="FIXME check this code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1499" />
+        <entry key="CHINESE" value="1284" />
+        <entry key="ENGLISH" value="1500" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
