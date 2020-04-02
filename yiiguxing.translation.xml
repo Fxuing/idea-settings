@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第一章" />
       <item value="funny mud pee" />
       <item value="funny mod pee" />
       <item value="Memory compiler, compiles java files into bytecode and class files in memory." />
@@ -50,12 +51,11 @@
       <item value="template" />
       <item value="FIXME check this code" />
       <item value="copy Non Null Properties" />
-      <item value="Folded 'ifPresent' call can be eliminated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1497" />
+        <entry key="ENGLISH" value="1498" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
