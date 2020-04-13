@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unique" />
+      <item value="唯一" />
+      <item value="union Id" />
       <item value="正文" />
       <item value="Context" />
       <item value="blogContext" />
@@ -48,14 +51,11 @@
       <item value="邀请人" />
       <item value="PHONE ALREADY EXIST IN BIG DATA" />
       <item value="手机号在大数据已存在" />
-      <item value="初始来源" />
-      <item value="COALESCE" />
-      <item value="new" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1291" />
-        <entry key="ENGLISH" value="1515" />
+        <entry key="CHINESE" value="1293" />
+        <entry key="ENGLISH" value="1517" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
