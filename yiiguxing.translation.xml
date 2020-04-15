@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="执行" />
       <item value="source Data" />
       <item value="org.apache.shiro.subject.support.DisabledSessionException: Session creation has been disabled for the current subject. This exception indicates that there is either a programming error (using a session when it should never be used) or that Shiro's configuration needs to be adjusted to allow Sessions to be created for the current Subject. See the org.apache.shiro.subject.support.DisabledSessionException JavaDoc for more." />
       <item value="parallel Stream" />
@@ -50,12 +51,11 @@
       <item value="Display thread info, thread stack" />
       <item value="stack Display the stack trace for the specified class and method" />
       <item value="Monitor method execution statistics, e.g. total/success/failure count, average rt, fail rate, etc." />
-      <item value="Show the static field of a class" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1300" />
-        <entry key="ENGLISH" value="1527" />
+        <entry key="ENGLISH" value="1528" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
