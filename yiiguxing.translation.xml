@@ -1,9 +1,30 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Error running 'Application': Editor is already disposed" />
-      <item value="Parameter 'list' not found. Available parameters are [batchNo, param1]" />
-      <item value="Your current debug configuration is running with Reactor in a classpath. Do you want to configure the Reactor Debug mode?" />
+      <item value="include Column Filed Names" />
+      <item value="执行" />
+      <item value="source Data" />
+      <item value="org.apache.shiro.subject.support.DisabledSessionException: Session creation has been disabled for the current subject. This exception indicates that there is either a programming error (using a session when it should never be used) or that Shiro's configuration needs to be adjusted to allow Sessions to be created for the current Subject. See the org.apache.shiro.subject.support.DisabledSessionException JavaDoc for more." />
+      <item value="parallel Stream" />
+      <item value="Specified key was too long; max key length is 1000 bytes" />
+      <item value="Continue outside of loop" />
+      <item value="batch Id" />
+      <item value="fail Cause" />
+      <item value="cause of failure" />
+      <item value="失败原因" />
+      <item value="mid" />
+      <item value="midder" />
+      <item value="invalid association [] " />
+      <item value="行业" />
+      <item value="所属区域" />
+      <item value="区域" />
+      <item value="Unique" />
+      <item value="唯一" />
+      <item value="union Id" />
+      <item value="正文" />
+      <item value="Context" />
+      <item value="blogContext" />
+      <item value="Too many arguments in call to db.HasTable " />
       <item value="Registry Config" />
       <item value="Protocol Config" />
       <item value="The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
@@ -30,32 +51,11 @@
       <item value="Trace the execution time of specified method invocation." />
       <item value="Display thread info, thread stack" />
       <item value="stack Display the stack trace for the specified class and method" />
-      <item value="Monitor method execution statistics, e.g. total/success/failure count, average rt, fail rate, etc." />
-      <item value="Show the static field of a class" />
-      <item value="Show classloader info" />
-      <item value="Search the method of classes loaded by JVM" />
-      <item value="sc Search all the classes loaded by JVM" />
-      <item value="Display all the available keymap for the specified connection." />
-      <item value="NAME DESCRIPTION help Display Arthas Help keymap Display all the available keymap for the specified connection. sc Search all the classes loaded by JVM sm Search the method of classes loaded by JVM classloader Show classloader info jad Decompile class getstatic Show the static field of a class monitor Monitor method execution statistics, e.g. total/success/failure count, average rt, fail rate, etc. stack Display the stack trace for the specified class and method thread Display thread info, thread stack trace Trace the execution time of specified method invocation. watch Display the input/output parameter, return object, and thrown exception of specified method invocation tt Time Tunnel jvm Display the target JVM information ognl Execute ognl expression. mc Memory compiler, compiles java files into bytecode and class files in memory. redefine Redefine classes. @see Instrumentation#redefineClasses(ClassDefinition...) dashboard Overview of target jvm's thread, memory, gc, vm, tomcat info. dump Dump class byte array from JVM heapdump Heap dump options View and change various Arthas options cls Clear the screen reset Reset all the enhanced classes version Display Arthas version shutdown Shutdown Arthas server and exit the console stop Stop/Shutdown Arthas server and exit the console. Alias for shutdown. session Display current session information sysprop Display, and change the system properties. sysenv Display the system env. vmoption Display, and update the vm diagnostic options. logger Print logger info, and update the logger level history Display command history cat Concatenate and print files pwd Return working directory name mbean Display the mbean information grep grep command for pipes. profiler Async Profiler. https://github.com/jvm-profiling-tools/async-profiler" />
-      <item value="Analysis Event Listener" />
-      <item value="IMPORT" />
-      <item value="operating Income" />
-      <item value="Longest Match Column Width Style Strategy" />
-      <item value="doctor" />
-      <item value="include Column Filed Names" />
-      <item value="exclude Column Filed Names" />
-      <item value="邀请人" />
-      <item value="PHONE ALREADY EXIST IN BIG DATA" />
-      <item value="手机号在大数据已存在" />
-      <item value="初始来源" />
-      <item value="COALESCE" />
-      <item value="new" />
-      <item value="port" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1291" />
-        <entry key="ENGLISH" value="1513" />
+        <entry key="CHINESE" value="1301" />
+        <entry key="ENGLISH" value="1529" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
