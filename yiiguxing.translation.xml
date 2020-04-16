@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'list' not found. Available parameters are [batchNo, param1]" />
+      <item value="get Input Stream" />
       <item value="include Column Filed Names" />
       <item value="执行" />
       <item value="source Data" />
@@ -49,13 +51,11 @@
       <item value="Time Tunnel" />
       <item value="Display the input/output parameter, return object, and thrown exception of specified method invocation" />
       <item value="Trace the execution time of specified method invocation." />
-      <item value="Display thread info, thread stack" />
-      <item value="stack Display the stack trace for the specified class and method" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1303" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
