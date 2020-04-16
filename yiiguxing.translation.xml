@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTITY" />
       <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'list' not found. Available parameters are [batchNo, param1]" />
       <item value="get Input Stream" />
       <item value="include Column Filed Names" />
@@ -50,12 +51,11 @@
       <item value="Execute ognl expression." />
       <item value="Time Tunnel" />
       <item value="Display the input/output parameter, return object, and thrown exception of specified method invocation" />
-      <item value="Trace the execution time of specified method invocation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1304" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
