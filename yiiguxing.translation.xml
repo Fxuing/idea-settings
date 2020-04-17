@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Global Id" />
       <item value="patent" />
       <item value="assert" />
       <item value="Redundant boxing inside 'Integer.valueOf(assetsCreditor.getStick())'" />
@@ -50,12 +51,11 @@
       <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
       <item value="new Fixed Thread Pool" />
       <item value="writer" />
-      <item value="Non-atomic operation on volatile field 'count'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1306" />
-        <entry key="ENGLISH" value="1534" />
+        <entry key="CHINESE" value="1307" />
+        <entry key="ENGLISH" value="1535" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
