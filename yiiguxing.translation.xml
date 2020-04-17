@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assert" />
+      <item value="Redundant boxing inside 'Integer.valueOf(assetsCreditor.getStick())'" />
       <item value="feature" />
       <item value="Cannot access com.obanks.fop.controller.BaseController" />
       <item value="mini program" />
@@ -49,13 +51,11 @@
       <item value="writer" />
       <item value="Non-atomic operation on volatile field 'count'" />
       <item value="第一章" />
-      <item value="funny mud pee" />
-      <item value="funny mod pee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1305" />
-        <entry key="ENGLISH" value="1533" />
+        <entry key="CHINESE" value="1306" />
+        <entry key="ENGLISH" value="1534" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
