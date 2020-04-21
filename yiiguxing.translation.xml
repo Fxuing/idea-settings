@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="区域" />
       <item value="ark" />
       <item value="Cannot access com.obanks.fop.controller.BaseController" />
       <item value="Pneumonia" />
@@ -31,7 +32,6 @@
       <item value="invalid association [] " />
       <item value="行业" />
       <item value="所属区域" />
-      <item value="区域" />
       <item value="Unique" />
       <item value="唯一" />
       <item value="union Id" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1310" />
-        <entry key="ENGLISH" value="1538" />
+        <entry key="ENGLISH" value="1539" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
