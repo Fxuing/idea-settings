@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="忽略" />
       <item value="Wait Group" />
       <item value="WaitGroup" />
       <item value="channel" />
@@ -50,12 +51,11 @@
       <item value="行业" />
       <item value="所属区域" />
       <item value="Unique" />
-      <item value="唯一" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1319" />
-        <entry key="ENGLISH" value="1553" />
+        <entry key="ENGLISH" value="1554" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
