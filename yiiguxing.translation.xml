@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cue" />
+      <item value="exist" />
+      <item value="存在" />
+      <item value="bucket" />
+      <item value="构造" />
+      <item value="长度" />
       <item value="DYNAMIC" />
       <item value="计时器" />
       <item value="职位" />
@@ -45,17 +51,11 @@
       <item value="mini program" />
       <item value="小程序" />
       <item value="IDENTITY" />
-      <item value="nested exception is org.apache.ibatis.binding.BindingException: Parameter 'list' not found. Available parameters are [batchNo, param1]" />
-      <item value="get Input Stream" />
-      <item value="include Column Filed Names" />
-      <item value="执行" />
-      <item value="source Data" />
-      <item value="org.apache.shiro.subject.support.DisabledSessionException: Session creation has been disabled for the current subject. This exception indicates that there is either a programming error (using a session when it should never be used) or that Shiro's configuration needs to be adjusted to allow Sessions to be created for the current Subject. See the org.apache.shiro.subject.support.DisabledSessionException JavaDoc for more." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1321" />
-        <entry key="ENGLISH" value="1562" />
+        <entry key="CHINESE" value="1322" />
+        <entry key="ENGLISH" value="1566" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
