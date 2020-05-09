@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="include Column Filed Names" />
-      <item value="执行" />
-      <item value="source Data" />
-      <item value="org.apache.shiro.subject.support.DisabledSessionException: Session creation has been disabled for the current subject. This exception indicates that there is either a programming error (using a session when it should never be used) or that Shiro's configuration needs to be adjusted to allow Sessions to be created for the current Subject. See the org.apache.shiro.subject.support.DisabledSessionException JavaDoc for more." />
-      <item value="parallel Stream" />
-      <item value="Specified key was too long; max key length is 1000 bytes" />
-      <item value="Continue outside of loop" />
-      <item value="batch Id" />
-      <item value="fail Cause" />
-      <item value="cause of failure" />
-      <item value="失败原因" />
-      <item value="mid" />
-      <item value="midder" />
-      <item value="invalid association [] " />
-      <item value="行业" />
-      <item value="所属区域" />
+      <item value="Denied" />
+      <item value="Internal" />
+      <item value="do Filter Internal" />
+      <item value="splie" />
+      <item value="splic" />
+      <item value="切割" />
+      <item value="分割" />
+      <item value="cue" />
+      <item value="exist" />
+      <item value="存在" />
+      <item value="bucket" />
+      <item value="构造" />
+      <item value="长度" />
+      <item value="DYNAMIC" />
+      <item value="计时器" />
+      <item value="职位" />
+      <item value="'while' statement does not loop" />
+      <item value="No anonymous write access. Authentication failed for 'https://github.com/Fxuing/go-blog.git/" />
+      <item value="business Scope" />
+      <item value="取消" />
+      <item value="任意一个" />
+      <item value="任意" />
+      <item value="every" />
+      <item value="Invalid operation: str+&quot;s&quot; (mismatched types *string and string) " />
+      <item value="singleton" />
+      <item value="单例" />
+      <item value="忽略" />
+      <item value="Wait Group" />
+      <item value="WaitGroup" />
+      <item value="channel" />
+      <item value="provider" />
+      <item value="提供者" />
+      <item value="法人" />
+      <item value="corporate Name" />
+      <item value="established Time" />
+      <item value="registered Capital" />
+      <item value=" all goroutines are asleep - deadlock!" />
+      <item value="ARK" />
+      <item value="方舟" />
+      <item value="当前" />
+      <item value="Curruct" />
+      <item value="异步" />
+      <item value="同步" />
+      <item value="'return' is unnecessary as the last statement in a 'void' method" />
       <item value="区域" />
-      <item value="Unique" />
-      <item value="唯一" />
-      <item value="union Id" />
-      <item value="正文" />
-      <item value="Context" />
-      <item value="blogContext" />
-      <item value="Too many arguments in call to db.HasTable " />
-      <item value="Registry Config" />
-      <item value="Protocol Config" />
-      <item value="The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
-      <item value="博客" />
-      <item value="金额" />
-      <item value="转账" />
-      <item value="余额" />
-      <item value="月" />
-      <item value="Write Map Null Value" />
-      <item value="未激活" />
-      <item value="Future" />
-      <item value="Waits if necessary for the computation to complete, and then * retrieves its result." />
-      <item value="Waits if necessary for at most the given time for the computation * to complete, and then retrieves its result, if available." />
-      <item value="new Fixed Thread Pool" />
-      <item value="writer" />
-      <item value="Non-atomic operation on volatile field 'count'" />
-      <item value="第一章" />
-      <item value="funny mud pee" />
-      <item value="funny mod pee" />
-      <item value="Memory compiler, compiles java files into bytecode and class files in memory." />
-      <item value="Execute ognl expression." />
-      <item value="Time Tunnel" />
-      <item value="Display the input/output parameter, return object, and thrown exception of specified method invocation" />
-      <item value="Trace the execution time of specified method invocation." />
-      <item value="Display thread info, thread stack" />
-      <item value="stack Display the stack trace for the specified class and method" />
+      <item value="ark" />
+      <item value="Cannot access com.obanks.fop.controller.BaseController" />
+      <item value="Pneumonia" />
+      <item value="child" />
+      <item value="Global Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1301" />
-        <entry key="ENGLISH" value="1529" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1570" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
