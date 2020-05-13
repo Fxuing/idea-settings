@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rerun Import Fail" />
+      <item value="重新运行导入失败数据" />
+      <item value="fail re run" />
+      <item value="fail rerun" />
+      <item value="fail run" />
+      <item value="fail import" />
+      <item value="fail report" />
+      <item value="fail_report" />
       <item value="Qr Code" />
       <item value="ThreadPoolExecutorUtil" />
       <item value="减库存" />
@@ -43,19 +51,11 @@
       <item value="法人" />
       <item value="corporate Name" />
       <item value="established Time" />
-      <item value="registered Capital" />
-      <item value=" all goroutines are asleep - deadlock!" />
-      <item value="ARK" />
-      <item value="方舟" />
-      <item value="当前" />
-      <item value="Curruct" />
-      <item value="异步" />
-      <item value="同步" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1327" />
-        <entry key="ENGLISH" value="1580" />
+        <entry key="CHINESE" value="1328" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
