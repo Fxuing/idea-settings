@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="19:40 Commit failed with error" />
       <item value="Committing is not possible because you have unmerged files." />
+      <item value="19:40 Commit failed with error" />
       <item value="Entry 'app/pom.xml' not uptodate. Cannot merge." />
       <item value="Abort" />
       <item value="Abort merge?" />
