@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merge deploy to current" />
       <item value="@Service interfaceClass() or interfaceName() or interface class must be present!" />
       <item value="Committing is not possible because you have unmerged files." />
       <item value="19:40 Commit failed with error" />
@@ -50,7 +51,6 @@
       <item value="exist" />
       <item value="存在" />
       <item value="bucket" />
-      <item value="构造" />
     </histories>
     <option name="languageScores">
       <map>
