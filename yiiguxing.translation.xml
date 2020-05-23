@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ACCEPT" />
       <item value="Adds support for the Groovy language. Coding assistance: code completion, inspections, refactorings, quick documentation, and much more Interactive Groovy console to evaluate code expressions without compilation: Tools | Groovy Console Support for the Grape dependency manager and Gant for scripting Ant tasks using Groovy" />
       <item value="module pla-api is imported from maven. any changes made in its configuartion may be lost after reimporting." />
       <item value="Got unchecked and undeclared exception which called by 172.17.0.1. service: com.obanks.ent.service.EntInfoService, method: listByEntInfo, exception: org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{tYCnscL5QZGfrKgRoDze-g}{172.16.0.4}{172.16.0.4:9200}], dubbo version: 2.7.3, current host: 172.16.0.2 NoNodeAvailableException[None of the configured nodes are available: [{#transport#-1}{tYCnscL5QZGfrKgRoDze-g}{172.16.0.4}{172.16.0.4:9200}]]" />
@@ -50,12 +51,11 @@
       <item value="splic" />
       <item value="切割" />
       <item value="分割" />
-      <item value="cue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1341" />
-        <entry key="ENGLISH" value="1601" />
+        <entry key="CHINESE" value="1342" />
+        <entry key="ENGLISH" value="1602" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
