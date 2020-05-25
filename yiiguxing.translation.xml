@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="r&quot;&quot;&quot;Sends a POST request.      :param url: URL for the new :class:`Request` object.     :param data: (optional) Dictionary, list of tuples, bytes, or file-like         object to send in the body of the :class:`Request`.     :param json: (optional) json data to send in the body of the :class:`Request`.     :param \*\*kwargs: Optional arguments that ``request`` takes.     :return: :class:`Response &lt;Response&gt;` object     :rtype: requests.Response     &quot;&quot;&quot;" />
+      <item value="NameError: name 'request_jf' is not defined" />
       <item value=" invalid memory address or nil pointer dereference" />
       <item value="authority" />
       <item value="金额" />
@@ -49,8 +51,6 @@
       <item value="减库存" />
       <item value="库存" />
       <item value=" probability" />
-      <item value="概率" />
-      <item value="数据正在导入" />
     </histories>
     <option name="languageScores">
       <map>
