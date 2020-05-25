@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金额" />
+      <item value="vouchers" />
+      <item value="券" />
+      <item value="十元" />
+      <item value="红包" />
       <item value="ACCEPT" />
       <item value="Adds support for the Groovy language. Coding assistance: code completion, inspections, refactorings, quick documentation, and much more Interactive Groovy console to evaluate code expressions without compilation: Tools | Groovy Console Support for the Grape dependency manager and Gant for scripting Ant tasks using Groovy" />
       <item value="module pla-api is imported from maven. any changes made in its configuartion may be lost after reimporting." />
@@ -46,16 +51,11 @@
       <item value="数据正在导入" />
       <item value="Denied" />
       <item value="Internal" />
-      <item value="do Filter Internal" />
-      <item value="splie" />
-      <item value="splic" />
-      <item value="切割" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1342" />
-        <entry key="ENGLISH" value="1602" />
+        <entry key="ENGLISH" value="1605" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
