@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unexpected Error Permission denied" />
+      <item value=" for nginx  Cannot start service nginx: driver failed programming external connectivity on endpoint nginx (034a16e47c474ffa58dfef235c260eca46bceafd1da82e7321a137d4dd03445e): Error starting userland proxy: Bind for 0.0.0.0:8690: unexpected error Permission denied" />
+      <item value="Encountered errors while bringing up the project." />
       <item value="r&quot;&quot;&quot;Sends a POST request.      :param url: URL for the new :class:`Request` object.     :param data: (optional) Dictionary, list of tuples, bytes, or file-like         object to send in the body of the :class:`Request`.     :param json: (optional) json data to send in the body of the :class:`Request`.     :param \*\*kwargs: Optional arguments that ``request`` takes.     :return: :class:`Response &lt;Response&gt;` object     :rtype: requests.Response     &quot;&quot;&quot;" />
       <item value="NameError: name 'request_jf' is not defined" />
       <item value=" invalid memory address or nil pointer dereference" />
@@ -48,9 +51,6 @@
       <item value="fail_report" />
       <item value="Qr Code" />
       <item value="ThreadPoolExecutorUtil" />
-      <item value="减库存" />
-      <item value="库存" />
-      <item value=" probability" />
     </histories>
     <option name="languageScores">
       <map>
