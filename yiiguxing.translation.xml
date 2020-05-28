@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kit" />
       <item value="unexpected Error Permission denied" />
       <item value=" for nginx  Cannot start service nginx: driver failed programming external connectivity on endpoint nginx (034a16e47c474ffa58dfef235c260eca46bceafd1da82e7321a137d4dd03445e): Error starting userland proxy: Bind for 0.0.0.0:8690: unexpected error Permission denied" />
       <item value="Encountered errors while bringing up the project." />
@@ -50,7 +51,6 @@
       <item value="fail report" />
       <item value="fail_report" />
       <item value="Qr Code" />
-      <item value="ThreadPoolExecutorUtil" />
     </histories>
     <option name="languageScores">
       <map>
