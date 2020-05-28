@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not enough arguments in call to 'json.JSON.ToJSONString' " />
+      <item value="gender" />
       <item value="kit" />
       <item value="unexpected Error Permission denied" />
       <item value=" for nginx  Cannot start service nginx: driver failed programming external connectivity on endpoint nginx (034a16e47c474ffa58dfef235c260eca46bceafd1da82e7321a137d4dd03445e): Error starting userland proxy: Bind for 0.0.0.0:8690: unexpected error Permission denied" />
@@ -49,8 +51,6 @@
       <item value="fail run" />
       <item value="fail import" />
       <item value="fail report" />
-      <item value="fail_report" />
-      <item value="Qr Code" />
     </histories>
     <option name="languageScores">
       <map>
