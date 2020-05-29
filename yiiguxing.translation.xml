@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suitability" />
+      <item value="driver failed programming external connectivity on endpoint neteasemusic" />
       <item value="read Only" />
       <item value="Not enough arguments in call to 'json.JSON.ToJSONString' " />
       <item value="gender" />
@@ -49,13 +51,11 @@
       <item value="重新运行导入失败数据" />
       <item value="fail re run" />
       <item value="fail rerun" />
-      <item value="fail run" />
-      <item value="fail import" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1344" />
-        <entry key="ENGLISH" value="1607" />
+        <entry key="CHINESE" value="1345" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
