@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the go path environment variable contains the directory &quot;&quot; that does not exist on the filesystem." />
+      <item value="the go path environment variable contains thr directory &quot;&quot; that does not exist on the filesystem." />
+      <item value="thr go path environment variable contains thr directory &quot;&quot; that does not exist on the filesystem." />
       <item value="feature" />
       <item value="功能" />
       <item value="协议替换" />
@@ -48,9 +51,6 @@
       <item value="Crm Rule From" />
       <item value="Crm Rule Title" />
       <item value="规则" />
-      <item value="Crm Role Title" />
-      <item value="grantedAuthorities" />
-      <item value="Do you want to enable annotation processors?" />
     </histories>
     <option name="languageScores">
       <map>
