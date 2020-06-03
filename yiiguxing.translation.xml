@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result type doesn't match for Select id=&quot;crmCustomerTrends&quot;" />
+      <item value="For this reason, future Maven versions might no longer support building such malformed projects." />
+      <item value="Process terminated" />
       <item value="SNAPSHOT" />
       <item value="修改依赖" />
       <item value="Depend" />
@@ -48,14 +51,11 @@
       <item value="ntry 'app/pom.xml' not uptodate. Cannot merge. Could not reset index file to revision 'HEAD'." />
       <item value="0 file committed, 10 files failed to commit: Merge branch 'deploy_base' into shanwei" />
       <item value="Commit failed with error 0 file committed, 10 files failed to commit: Merge branch 'deploy_base' into shanwei" />
-      <item value="deploy_base merge to current" />
-      <item value="汕尾" />
-      <item value="settings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1352" />
-        <entry key="ENGLISH" value="1617" />
+        <entry key="CHINESE" value="1354" />
+        <entry key="ENGLISH" value="1619" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
