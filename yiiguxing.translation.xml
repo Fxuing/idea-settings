@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The projects in the reactor contain a cyclic reference: Edge between" />
+      <item value="Process terminated" />
+      <item value="Related" />
       <item value="Synchronization on local variable 'contactsInfo'" />
       <item value="reflect.Value.Addr of unaddressable value" />
       <item value="班级" />
@@ -11,7 +14,6 @@
       <item value="Accepts a function that extracts a {@link java.lang.Comparable * Comparable} sort key from a type {@code T}, and returns a {@code * Comparator&lt;T&gt;} that compares by that sort key. * * &lt;p&gt;The returned comparator is serializable if the specified function * is also serializable." />
       <item value="Result type doesn't match for Select id=&quot;crmCustomerTrends&quot;" />
       <item value="For this reason, future Maven versions might no longer support building such malformed projects." />
-      <item value="Process terminated" />
       <item value="SNAPSHOT" />
       <item value="修改依赖" />
       <item value="Depend" />
@@ -49,13 +51,11 @@
       <item value="Adds support for the Groovy language. Coding assistance: code completion, inspections, refactorings, quick documentation, and much more Interactive Groovy console to evaluate code expressions without compilation: Tools | Groovy Console Support for the Grape dependency manager and Gant for scripting Ant tasks using Groovy" />
       <item value="module pla-api is imported from maven. any changes made in its configuartion may be lost after reimporting." />
       <item value="Got unchecked and undeclared exception which called by 172.17.0.1. service: com.obanks.ent.service.EntInfoService, method: listByEntInfo, exception: org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{tYCnscL5QZGfrKgRoDze-g}{172.16.0.4}{172.16.0.4:9200}], dubbo version: 2.7.3, current host: 172.16.0.2 NoNodeAvailableException[None of the configured nodes are available: [{#transport#-1}{tYCnscL5QZGfrKgRoDze-g}{172.16.0.4}{172.16.0.4:9200}]]" />
-      <item value="merge deploy to current" />
-      <item value="@Service interfaceClass() or interfaceName() or interface class must be present!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1356" />
-        <entry key="ENGLISH" value="1625" />
+        <entry key="CHINESE" value="1358" />
+        <entry key="ENGLISH" value="1627" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
