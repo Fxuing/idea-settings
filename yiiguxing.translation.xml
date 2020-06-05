@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refresh" />
+      <item value="刷新" />
+      <item value="reflush" />
       <item value="An error occurred while popping stack frame: Information about the frame is not available" />
       <item value="Expected name at line 6 column 2 path $." />
       <item value="正则" />
@@ -48,14 +51,11 @@
       <item value="authority" />
       <item value="金额" />
       <item value="vouchers" />
-      <item value="券" />
-      <item value="十元" />
-      <item value="红包" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1359" />
-        <entry key="ENGLISH" value="1630" />
+        <entry key="CHINESE" value="1361" />
+        <entry key="ENGLISH" value="1633" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
