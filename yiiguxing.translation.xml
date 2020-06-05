@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正则" />
       <item value="risk" />
       <item value="The projects in the reactor contain a cyclic reference: Edge between" />
       <item value="Process terminated" />
@@ -50,12 +51,11 @@
       <item value="红包" />
       <item value="ACCEPT" />
       <item value="Adds support for the Groovy language. Coding assistance: code completion, inspections, refactorings, quick documentation, and much more Interactive Groovy console to evaluate code expressions without compilation: Tools | Groovy Console Support for the Grape dependency manager and Gant for scripting Ant tasks using Groovy" />
-      <item value="module pla-api is imported from maven. any changes made in its configuartion may be lost after reimporting." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1358" />
-        <entry key="ENGLISH" value="1627" />
+        <entry key="ENGLISH" value="1629" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
