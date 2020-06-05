@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An error occurred while popping stack frame: Information about the frame is not available" />
+      <item value="Expected name at line 6 column 2 path $." />
       <item value="正则" />
       <item value="risk" />
       <item value="The projects in the reactor contain a cyclic reference: Edge between" />
@@ -49,13 +51,11 @@
       <item value="券" />
       <item value="十元" />
       <item value="红包" />
-      <item value="ACCEPT" />
-      <item value="Adds support for the Groovy language. Coding assistance: code completion, inspections, refactorings, quick documentation, and much more Interactive Groovy console to evaluate code expressions without compilation: Tools | Groovy Console Support for the Grape dependency manager and Gant for scripting Ant tasks using Groovy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1358" />
-        <entry key="ENGLISH" value="1629" />
+        <entry key="CHINESE" value="1359" />
+        <entry key="ENGLISH" value="1630" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
