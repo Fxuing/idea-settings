@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="javatarlinter disabled. 'cls.defaults' is mandatory and MUST be a dict. " />
+      <item value="SublimeLinter: ERROR: =====================  javatarlinter: Defining 'cls.syntax' has no effect anymore. Use http://www.sublimelinter.com/en/stable/linter_settings.html#selector instead.   SublimeLinter: ERROR: =====================  javatarlinter disabled. 'cls.defaults' is mandatory and MUST be a dict." />
       <item value="Unable to read Packages/Rust/Cargo.sublime-syntax" />
       <item value="Install the Rust syntax highlighting package from Package Control: https://sublime.wbond.net/packages/Rust Clone and build the auto completion tool racer: https://github.com/phildawes/racer Install the package through package control (or clone from git if you prefer): https://sublime.wbond.net/packages/RustAutoComplete Configure the plugin to be able to find the racer executable and Rust source code. Open menu Preferences -&gt; Package settings -&gt; RustAutoComplete -&gt; Settings - User and edit the settings file using below as a template:" />
       <item value="refresh" />
@@ -49,8 +51,6 @@
       <item value="Encountered errors while bringing up the project." />
       <item value="r&quot;&quot;&quot;Sends a POST request.      :param url: URL for the new :class:`Request` object.     :param data: (optional) Dictionary, list of tuples, bytes, or file-like         object to send in the body of the :class:`Request`.     :param json: (optional) json data to send in the body of the :class:`Request`.     :param \*\*kwargs: Optional arguments that ``request`` takes.     :return: :class:`Response &lt;Response&gt;` object     :rtype: requests.Response     &quot;&quot;&quot;" />
       <item value="NameError: name 'request_jf' is not defined" />
-      <item value=" invalid memory address or nil pointer dereference" />
-      <item value="authority" />
     </histories>
     <option name="languageScores">
       <map>
