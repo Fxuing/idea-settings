@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can't load package: package gosublime/cmd/margo: malformed module path &quot;gosublime/cmd/margo&quot;: missing dot in first path element" />
       <item value="This branch of GoSublime is no longer supported." />
       <item value="  can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo " />
       <item value="javatarlinter disabled. 'cls.defaults' is mandatory and MUST be a dict. " />
@@ -50,7 +51,6 @@
       <item value="kit" />
       <item value="unexpected Error Permission denied" />
       <item value=" for nginx  Cannot start service nginx: driver failed programming external connectivity on endpoint nginx (034a16e47c474ffa58dfef235c260eca46bceafd1da82e7321a137d4dd03445e): Error starting userland proxy: Bind for 0.0.0.0:8690: unexpected error Permission denied" />
-      <item value="Encountered errors while bringing up the project." />
     </histories>
     <option name="languageScores">
       <map>
