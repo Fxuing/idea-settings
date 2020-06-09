@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to read Packages/Rust/Cargo.sublime-syntax" />
+      <item value="Install the Rust syntax highlighting package from Package Control: https://sublime.wbond.net/packages/Rust Clone and build the auto completion tool racer: https://github.com/phildawes/racer Install the package through package control (or clone from git if you prefer): https://sublime.wbond.net/packages/RustAutoComplete Configure the plugin to be able to find the racer executable and Rust source code. Open menu Preferences -&gt; Package settings -&gt; RustAutoComplete -&gt; Settings - User and edit the settings file using below as a template:" />
       <item value="refresh" />
       <item value="刷新" />
       <item value="reflush" />
@@ -49,8 +51,6 @@
       <item value="NameError: name 'request_jf' is not defined" />
       <item value=" invalid memory address or nil pointer dereference" />
       <item value="authority" />
-      <item value="金额" />
-      <item value="vouchers" />
     </histories>
     <option name="languageScores">
       <map>
