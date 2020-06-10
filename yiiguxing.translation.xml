@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="秒" />
+      <item value="分钟" />
+      <item value="when Vehicle" />
+      <item value="时分秒" />
+      <item value="年月日" />
       <item value="to Epoch Day" />
       <item value="UTC" />
       <item value="A time-zone offset from Greenwich/UTC, such as {@code +02:00}." />
@@ -46,16 +51,11 @@
       <item value="persist" />
       <item value="is Exists" />
       <item value="// Any settings in this file overrides the default ones" />
-      <item value="the go path environment variable contains the directory &quot;&quot; that does not exist on the filesystem." />
-      <item value="the go path environment variable contains thr directory &quot;&quot; that does not exist on the filesystem." />
-      <item value="thr go path environment variable contains thr directory &quot;&quot; that does not exist on the filesystem." />
-      <item value="协议替换" />
-      <item value="协议" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1365" />
-        <entry key="ENGLISH" value="1637" />
+        <entry key="CHINESE" value="1366" />
+        <entry key="ENGLISH" value="1642" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
