@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not import subprocess32 module, falling back to subprocess module " />
+      <item value="*Not* using margo extension: Error: cannot find package &quot;margo&quot; in any of: [10:17:00] margo: agent#009: log: &#9;F:\golang_workspace\go\src\margo (from $GOROOT)" />
       <item value="margo: agent#007: ['go', 'install', '-v', 'disposa.blue/margo/cmd/margo']:   can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo" />
       <item value="Package Control: Skipping automatic upgrade, last run at 2020-06-09 17:23:08, next run at 2020-06-09 18:23:08 or after   margo: agent#007: ['go', 'install', '-v', 'disposa.blue/margo/cmd/margo']:   can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo" />
       <item value="can't load package: package gosublime/cmd/margo: malformed module path &quot;gosublime/cmd/margo&quot;: missing dot in first path element" />
@@ -49,8 +51,6 @@
       <item value="driver failed programming external connectivity on endpoint neteasemusic" />
       <item value="read Only" />
       <item value="Not enough arguments in call to 'json.JSON.ToJSONString' " />
-      <item value="gender" />
-      <item value="kit" />
     </histories>
     <option name="languageScores">
       <map>
