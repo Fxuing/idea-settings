@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="active" />
+      <item value="active_status" />
       <item value="33 value(s) expected, got 29" />
       <item value="Raw use of parameterized class 'AuditableBeanWrapper'" />
       <item value="date Time Provider Ref" />
@@ -49,8 +51,6 @@
       <item value="Related" />
       <item value="Synchronization on local variable 'contactsInfo'" />
       <item value="reflect.Value.Addr of unaddressable value" />
-      <item value="班级" />
-      <item value="老师" />
     </histories>
     <option name="languageScores">
       <map>
