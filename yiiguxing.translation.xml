@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="package docker-ce-3:19.03.11-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
+      <item value="log.info(&quot;用户查询详情开始&quot;);" />
+      <item value="监控" />
       <item value="active" />
       <item value="active_status" />
       <item value="33 value(s) expected, got 29" />
@@ -48,14 +51,11 @@
       <item value="risk" />
       <item value="The projects in the reactor contain a cyclic reference: Edge between" />
       <item value="Process terminated" />
-      <item value="Related" />
-      <item value="Synchronization on local variable 'contactsInfo'" />
-      <item value="reflect.Value.Addr of unaddressable value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1374" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
