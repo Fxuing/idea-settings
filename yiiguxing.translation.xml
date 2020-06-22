@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validation" />
+      <item value="valid" />
+      <item value="验证" />
       <item value="feature" />
       <item value="功能" />
       <item value="content" />
@@ -48,14 +51,11 @@
       <item value="UTC" />
       <item value="A time-zone offset from Greenwich/UTC, such as {@code +02:00}." />
       <item value="Field can be converted to a local variable" />
-      <item value="Could not import subprocess32 module, falling back to subprocess module " />
-      <item value="*Not* using margo extension: Error: cannot find package &quot;margo&quot; in any of: [10:17:00] margo: agent#009: log: &#9;F:\golang_workspace\go\src\margo (from $GOROOT)" />
-      <item value="margo: agent#007: ['go', 'install', '-v', 'disposa.blue/margo/cmd/margo']:   can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1382" />
-        <entry key="ENGLISH" value="1663" />
+        <entry key="ENGLISH" value="1664" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
