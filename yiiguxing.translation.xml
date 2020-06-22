@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection released: [id: 1][route: {}-&gt;http://172.16.0.2:8500][total kept alive: 2; route allocated: 2 of 500; total allocated: 2 of 1000]" />
+      <item value="educator" />
+      <item value="learner" />
       <item value="Sorry, file copy/paste is not available during indexing" />
       <item value="package docker-ce-3:19.03.11-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
       <item value="log.info(&quot;用户查询详情开始&quot;);" />
@@ -48,9 +51,6 @@
       <item value="reflush" />
       <item value="An error occurred while popping stack frame: Information about the frame is not available" />
       <item value="Expected name at line 6 column 2 path $." />
-      <item value="正则" />
-      <item value="risk" />
-      <item value="The projects in the reactor contain a cyclic reference: Edge between" />
     </histories>
     <option name="languageScores">
       <map>
