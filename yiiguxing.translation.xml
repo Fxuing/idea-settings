@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="feature" />
+      <item value="功能" />
+      <item value="content" />
+      <item value="property" />
+      <item value="属性" />
+      <item value="指标" />
+      <item value="职务" />
+      <item value="是否国高" />
+      <item value="主营业务" />
+      <item value="行业" />
+      <item value="app/service/survey" />
+      <item value="service Survey" />
+      <item value="服务问卷 " />
+      <item value="Xixiang " />
+      <item value="西乡" />
       <item value="Connection released: [id: 1][route: {}-&gt;http://172.16.0.2:8500][total kept alive: 2; route allocated: 2 of 500; total allocated: 2 of 1000]" />
       <item value="educator" />
       <item value="learner" />
@@ -32,30 +47,15 @@
       <item value="to Epoch Day" />
       <item value="UTC" />
       <item value="A time-zone offset from Greenwich/UTC, such as {@code +02:00}." />
-      <item value="feature" />
-      <item value="功能" />
       <item value="Field can be converted to a local variable" />
       <item value="Could not import subprocess32 module, falling back to subprocess module " />
       <item value="*Not* using margo extension: Error: cannot find package &quot;margo&quot; in any of: [10:17:00] margo: agent#009: log: &#9;F:\golang_workspace\go\src\margo (from $GOROOT)" />
       <item value="margo: agent#007: ['go', 'install', '-v', 'disposa.blue/margo/cmd/margo']:   can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo" />
-      <item value="Package Control: Skipping automatic upgrade, last run at 2020-06-09 17:23:08, next run at 2020-06-09 18:23:08 or after   margo: agent#007: ['go', 'install', '-v', 'disposa.blue/margo/cmd/margo']:   can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo" />
-      <item value="can't load package: package gosublime/cmd/margo: malformed module path &quot;gosublime/cmd/margo&quot;: missing dot in first path element" />
-      <item value="This branch of GoSublime is no longer supported." />
-      <item value="  can't load package: package disposa.blue/margo/cmd/margo: cannot find module providing package disposa.blue/margo/cmd/margo " />
-      <item value="javatarlinter disabled. 'cls.defaults' is mandatory and MUST be a dict. " />
-      <item value="SublimeLinter: ERROR: =====================  javatarlinter: Defining 'cls.syntax' has no effect anymore. Use http://www.sublimelinter.com/en/stable/linter_settings.html#selector instead.   SublimeLinter: ERROR: =====================  javatarlinter disabled. 'cls.defaults' is mandatory and MUST be a dict." />
-      <item value="Unable to read Packages/Rust/Cargo.sublime-syntax" />
-      <item value="Install the Rust syntax highlighting package from Package Control: https://sublime.wbond.net/packages/Rust Clone and build the auto completion tool racer: https://github.com/phildawes/racer Install the package through package control (or clone from git if you prefer): https://sublime.wbond.net/packages/RustAutoComplete Configure the plugin to be able to find the racer executable and Rust source code. Open menu Preferences -&gt; Package settings -&gt; RustAutoComplete -&gt; Settings - User and edit the settings file using below as a template:" />
-      <item value="refresh" />
-      <item value="刷新" />
-      <item value="reflush" />
-      <item value="An error occurred while popping stack frame: Information about the frame is not available" />
-      <item value="Expected name at line 6 column 2 path $." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1377" />
-        <entry key="ENGLISH" value="1654" />
+        <entry key="CHINESE" value="1382" />
+        <entry key="ENGLISH" value="1663" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
