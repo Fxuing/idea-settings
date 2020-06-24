@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have two plugins installed: – The JetBrains Shell plugin is bundled with IntelliJ IDEA 2019.2 and later. It's very robust and provides better integration with basic functionality. – BashSupport is not as light-weight and robust but offers more features. – Open a comparision Select one of the plugins to continue" />
       <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDEs. Plugin page: https://plugins.jetbrains.com/plugin/10249" />
       <item value="alone" />
       <item value="PROTOCOL" />
@@ -50,7 +51,6 @@
       <item value="secret" />
       <item value="秘钥" />
       <item value="Instantiation of utility class 'RequestSignUtil'" />
-      <item value="Holidays" />
     </histories>
     <option name="languageScores">
       <map>
