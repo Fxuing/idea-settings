@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alone" />
       <item value="PROTOCOL" />
       <item value="ERR_SSL_PROTOCOL_ERROR" />
       <item value="Provisional headers are shown" />
@@ -50,7 +51,6 @@
       <item value="Instantiation of utility class 'RequestSignUtil'" />
       <item value="Holidays" />
       <item value="节假日" />
-      <item value="秒" />
     </histories>
     <option name="languageScores">
       <map>
