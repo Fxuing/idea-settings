@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="file not recognized: file format not recognized" />
       <item value="note: C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized           collect2.exe: error: ld returned 1 exit status" />
       <item value="C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized collect2.exe: error: ld returned 1 exit status" />
       <item value="If you will be targeting the GNU ABI or otherwise know what you are doing then it is fine to continue installation without the build tools, but otherwise, install the C++ build tools before proceeding." />
@@ -50,7 +51,6 @@
       <item value="Xixiang " />
       <item value="西乡" />
       <item value="Connection released: [id: 1][route: {}-&gt;http://172.16.0.2:8500][total kept alive: 2; route allocated: 2 of 500; total allocated: 2 of 1000]" />
-      <item value="educator" />
     </histories>
     <option name="languageScores">
       <map>
