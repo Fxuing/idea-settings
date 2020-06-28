@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="returnee" />
+      <item value="sure" />
+      <item value="Rust Visual C++ prerequisites  Rust requires the Microsoft C++ build tools for Visual Studio 2013 or later, but they don't seem to be installed.  The easiest way to acquire the build tools is by installing Microsoft Visual C++ Build Tools 2019 which provides just the Visual C++ build tools:    https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019  Please ensure the Windows 10 SDK and the English language pack components are included when installing the Visual C++ Build Tools.  Alternately, you can install Visual Studio 2019, Visual Studio 2017, Visual Studio 2015, or Visual Studio 2013 and during install select the &quot;C++ tools&quot;:    https://visualstudio.microsoft.com/downloads/  Install the C++ build tools before proceeding.  If you will be targeting the GNU ABI or otherwise know what you are doing then it is fine to continue installation without the build tools, but otherwise, install the C++ build tools before proceeding." />
+      <item value="specified package `sdl2 v0.34.2` has no binaries" />
+      <item value="aborting due to previous error" />
       <item value="maybe it is overwritten before being read?" />
       <item value="Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag. This intention action will not even make you change your current editing location." />
       <item value="nothing added to commit but untracked files present Everything up-to-date" />
@@ -46,11 +51,6 @@
       <item value="Sorry, file copy/paste is not available during indexing" />
       <item value="package docker-ce-3:19.03.11-3.el7.x86_64 requires containerd.io &gt;= 1.2.2-3, but none of the providers can be installed" />
       <item value="log.info(&quot;用户查询详情开始&quot;);" />
-      <item value="监控" />
-      <item value="active" />
-      <item value="active_status" />
-      <item value="33 value(s) expected, got 29" />
-      <item value="Raw use of parameterized class 'AuditableBeanWrapper'" />
     </histories>
     <option name="languageScores">
       <map>
