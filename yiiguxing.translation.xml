@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(this program should be run by protoc, not directly)" />
+      <item value="Exception running protoc" />
+      <item value="generate code from .proto files (they must have a .proto extension). GenProtobuf adds two right click menu entries &quot;quick gen protobuf here&quot; and &quot;quick gen protobuf rules&quot; to the project area and &quot;Configure GenProtobuf&quot; and &quot;Generate all Protobufs&quot; to the tools menu. quick gen protobuf here will quickly generate code for selected protobuf files in a single selected langauge as configured under &quot;Configure GenProtobuf&quot; in the tools menu placing the output in the same directory as the selected protobuf files. quick gen protobuf rules will generate code for selected protobuf files according to the rules set with &quot;Configure GenProtobuf&quot; in the tools menu and place the output in the configured output location. Finally you can use Generate all Protobufs under the tools menu and it will apply the rules set in Configure Genprotobuf (again under the tools menu,) to all the protobuf files it finds in your project. As stated in the descriptions above you can configure this plugin from the Configure GenProtobuf menu that gets added to the tools menu. You are able to set what programming language to use for the quick gen options and toggle different languages to be generated for protobuf files as well as different directories for the various language outputs. Whenever you generate code from a .proto file a tool window is created to display the resulting textual output." />
       <item value="file not recognized: file format not recognized" />
       <item value="note: C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized           collect2.exe: error: ld returned 1 exit status" />
       <item value="C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized collect2.exe: error: ld returned 1 exit status" />
@@ -48,9 +51,6 @@
       <item value="app/service/survey" />
       <item value="service Survey" />
       <item value="服务问卷 " />
-      <item value="Xixiang " />
-      <item value="西乡" />
-      <item value="Connection released: [id: 1][route: {}-&gt;http://172.16.0.2:8500][total kept alive: 2; route allocated: 2 of 500; total allocated: 2 of 1000]" />
     </histories>
     <option name="languageScores">
       <map>
