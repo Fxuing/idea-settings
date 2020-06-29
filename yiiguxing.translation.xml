@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services." />
+      <item value="A high-performance, open source universal RPC framework" />
       <item value="need method: GetStudentInfo(context.Context, *client.StudentVO) (*client.StudentDTO, error) have method: GetStudentInfo(ctx context.Context, in *client.StudentVO, opts ...grpc.CallOption) (*client.StudentDTO, error) " />
       <item value="(this program should be run by protoc, not directly)" />
       <item value="Exception running protoc" />
@@ -49,8 +51,6 @@
       <item value="是否国高" />
       <item value="主营业务" />
       <item value="行业" />
-      <item value="app/service/survey" />
-      <item value="service Survey" />
     </histories>
     <option name="languageScores">
       <map>
