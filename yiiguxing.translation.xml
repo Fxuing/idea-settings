@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hey Fxuing!  A third-party OAuth application (comments) with public_repo scope was recently authorized to access your account. Visit https://github.com/settings/connections/applications/0327931cef1827cd7bf8 for more information.  To see this and other security events for your account, visit https://github.com/settings/security  If you run into problems, please contact support by visiting https://github.com/contact  Thanks, The GitHub Team" />
+      <item value="Repository name to store issues " />
+      <item value="评论" />
+      <item value="GitHub repo owner" />
+      <item value="Star rating support to each article. 655 # To get your ID visit https://widgetpack.com " />
+      <item value="Multiple Comment System Support" />
+      <item value="Effective" />
+      <item value="EffectiveKeyFile" />
       <item value="if you plan to use auto fill , make sure thr url is the actual url to the page you want to fill the form ,urls wihch redirect to another page will work" />
       <item value="if you plan to use auto fill , make sure thr url is the actual url to the page you want to fill the form " />
       <item value="gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services." />
@@ -43,19 +51,11 @@
       <item value="validation" />
       <item value="valid" />
       <item value="验证" />
-      <item value="feature" />
-      <item value="功能" />
-      <item value="content" />
-      <item value="property" />
-      <item value="属性" />
-      <item value="指标" />
-      <item value="职务" />
-      <item value="是否国高" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1674" />
+        <entry key="ENGLISH" value="1676" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
