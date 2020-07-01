@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="critical" />
+      <item value="major" />
       <item value="Hey Fxuing!  A third-party OAuth application (comments) with public_repo scope was recently authorized to access your account. Visit https://github.com/settings/connections/applications/0327931cef1827cd7bf8 for more information.  To see this and other security events for your account, visit https://github.com/settings/security  If you run into problems, please contact support by visiting https://github.com/contact  Thanks, The GitHub Team" />
       <item value="Repository name to store issues " />
       <item value="评论" />
@@ -49,8 +51,6 @@
       <item value="global" />
       <item value="'&quot;已验证&quot;.equals(this.validationStatus) ? true : false' can be simplified to '&quot;已验证&quot;.equals(this.validationStatus)'" />
       <item value="validation" />
-      <item value="valid" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
