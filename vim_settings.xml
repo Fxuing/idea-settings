@@ -11,6 +11,8 @@
         <entry encoding="base64">XDxzZXRSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxMb25nXD4=</entry>
         <entry>get</entry>
+        <entry>install</entry>
+        <entry>用户</entry>
       </history-search>
       <history-cmd>
         <entry>action AceTargetAction</entry>
@@ -157,12 +159,12 @@
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/OldAuth.java" timestamp="1575431875933">
         <mark key="[" line="7" column="20" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" timestamp="1585640033351">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="102" column="3" />
-        <mark key="^" line="102" column="3" />
-        <mark key="." line="102" column="3" />
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" timestamp="1593674334939">
+        <mark key="'" line="318" column="11" />
+        <mark key="[" line="303" column="8" />
+        <mark key="]" line="303" column="9" />
+        <mark key="^" line="303" column="9" />
+        <mark key="." line="303" column="8" />
       </file>
       <file name="/default" timestamp="1575258757297">
         <mark key="[" line="0" column="0" />
@@ -188,9 +190,6 @@
       <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" timestamp="1571901965645">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" timestamp="1571901055752">
-        <mark key="'" line="43" column="4" />
-      </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" timestamp="1575426875606">
         <mark key="'" line="234" column="0" />
         <mark key="[" line="222" column="70" />
@@ -198,6 +197,9 @@
         <mark key="m" line="208" column="6" />
         <mark key="." line="222" column="70" />
         <mark key="^" line="243" column="28" />
+      </file>
+      <file name="/fragment.java" timestamp="1593674356516">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StrategyFactory.java" timestamp="1575453553473">
         <mark key="[" line="11" column="0" />
@@ -275,18 +277,22 @@
       <jump line="81" column="27" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
       <jump line="40" column="27" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
       <jump line="50" column="38" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
+      <jump line="304" column="39" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" />
+      <jump line="305" column="13" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" />
+      <jump line="325" column="16" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" />
+      <jump line="318" column="11" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGluZm8gPSBuZXcgSGFzaE1hcDw+KDE2KTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>用户</text>
       </register>
       <register name="0" type="4">
         <text>public static String companyName(){
@@ -294,31 +300,31 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGluZm8gPSBuZXcgSGFzaE1hcDw+KDE2KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwogICAgICAgIH0gZWxzZSBpZiAoUmVnaXN0ZXJTdGF1dHMuUkVHSVNURVJfQ09NUExFVEUuZ2V0VmFsdWUoKS5lcXVhbHMob2xkU3RhdHVzKSAmJiBCZXN0c2lnbkVudW0uTk8uZ2V0VmFsdWUoKS5lcXVhbHMoaXNOZXcpKSB7CiAgICAgICAgICAgIC8vINSt77+977+977+977+977+977+977+977+977+9zLXvv73vv73vv73vv73Du++/ve+/ve+/ve+/vdC277+977+9x7fvv73vv73asO+/ve+/ve+/ve+/ve+/ve+/vdCj77+91rHvv73vv73NqO+/ve+/vQogICAgICAgICAgICByZXR1cm4gbmV3IE9sZEF1dGgoKTsKICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDvv73vv73vv73auO+/ve+/vcKw77+977+977+977+977+977+90KPvv73vv73vv73vv73vv73WpO+/ve+/vdK177+977+90rXvv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgaWYgKEJlc3RzaWduRW51bS5SRUZVU0UuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+93L7vv73vv73vv73vv73vv73Ste+/ve+/vde0zKzvv73vv73OqklH77+977+977+977+91qTvv73vv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBJZ0F1dGgoKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChCZXN0c2lnbkVudW0uUkVWSUVXRUQuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+977+90qrvv73Lue+/ve+/ve+/vcu177+977+977+90rUKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyDvv73Utu+/vc2o77+977+9CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEFwQXV0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwogICAgICAgIH0gZWxzZSBpZiAoUmVnaXN0ZXJTdGF1dHMuUkVHSVNURVJfQ09NUExFVEUuZ2V0VmFsdWUoKS5lcXVhbHMob2xkU3RhdHVzKSAmJiBCZXN0c2lnbkVudW0uTk8uZ2V0VmFsdWUoKS5lcXVhbHMoaXNOZXcpKSB7CiAgICAgICAgICAgIC8vINSt77+977+977+977+977+977+977+977+977+9zLXvv73vv73vv73vv73Du++/ve+/ve+/ve+/vdC277+977+9x7fvv73vv73asO+/ve+/ve+/ve+/ve+/ve+/vdCj77+91rHvv73vv73NqO+/ve+/vQogICAgICAgICAgICByZXR1cm4gbmV3IE9sZEF1dGgoKTsKICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDvv73vv73vv73auO+/ve+/vcKw77+977+977+977+977+977+90KPvv73vv73vv73vv73vv73WpO+/ve+/vdK177+977+90rXvv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgaWYgKEJlc3RzaWduRW51bS5SRUZVU0UuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+93L7vv73vv73vv73vv73vv73Ste+/ve+/vde0zKzvv73vv73OqklH77+977+977+977+91qTvv73vv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBJZ0F1dGgoKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChCZXN0c2lnbkVudW0uUkVWSUVXRUQuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+977+90qrvv73Lue+/ve+/ve+/vcu177+977+977+90rUKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyDvv73Utu+/vc2o77+977+9CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEFwQXV0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSWdBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoQmVzdHNpZ25FbnVtLlJFVklFV0VELmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/ve+/vdKq77+9y7nvv73vv73vv73Lte+/ve+/ve+/vdK1CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFBhQXV0aCgpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8g77+91Lbvv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBBcEF1dGgoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g77+977+977+92rjvv73vv73CsO+/ve+/ve+/ve+/ve+/ve+/vdCj77+977+977+977+977+91qTvv73vv73Ste+/ve+/vdK177+977+977+977+977+977+9CiAgICAgICAgICAgIGlmIChCZXN0c2lnbkVudW0uUkVGVVNFLmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/vdy+77+977+977+977+977+90rXvv73vv73XtMys77+977+9zqpJR++/ve+/ve+/ve+/vdak77+977+9zajvv73vv70K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSWdBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoQmVzdHNpZ25FbnVtLlJFVklFV0VELmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/ve+/vdKq77+9y7nvv73vv73vv73Lte+/ve+/ve+/vdK1CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFBhQXV0aCgpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8g77+91Lbvv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBBcEF1dGgoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g77+977+977+92rjvv73vv73CsO+/ve+/ve+/ve+/ve+/ve+/vdCj77+977+977+977+977+91qTvv73vv73Ste+/ve+/vdK177+977+977+977+977+977+9CiAgICAgICAgICAgIGlmIChCZXN0c2lnbkVudW0uUkVGVVNFLmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/vdy+77+977+977+977+977+90rXvv73vv73XtMys77+977+9zqpJR++/ve+/ve+/ve+/vdak77+977+9zajvv73vv70K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKFJlZ2lzdGVyU3RhdXRzLlJFR0lTVEVSX0NPTVBMRVRFLmdldFZhbHVlKCkuZXF1YWxzKG9sZFN0YXR1cykgJiYgQmVzdHNpZ25FbnVtLk5PLmdldFZhbHVlKCkuZXF1YWxzKGlzTmV3KSkgewogICAgICAgICAgICAvLyDUre+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vcy177+977+977+977+9w7vvv73vv73vv73vv73Qtu+/ve+/vce377+977+92rDvv73vv73vv73vv73vv73vv73Qo++/vdax77+977+9zajvv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBPbGRBdXRoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>go</text>
@@ -327,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>get</last-search>
+      <last-search>用户</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>用户</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
