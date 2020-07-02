@@ -1,8 +1,29 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>test</entry>
+        <entry>qrc</entry>
+        <entry>qrcode</entry>
+        <entry encoding="base64">XDxzZXRSZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxMb25nXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action AceTargetAction</entry>
+        <entry>action Find</entry>
+        <entry>action AceAction</entry>
+        <entry>go</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -14,13 +35,13 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -29,7 +50,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -53,10 +74,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -65,8 +86,250 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthContext.java" timestamp="1575430975671">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1575426901490">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" timestamp="1571901850055">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1575358327961">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthResult.java" timestamp="1575431428335">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" timestamp="1593673818241">
+        <mark key="'" line="30" column="63" />
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="13" />
+        <mark key="^" line="54" column="13" />
+        <mark key="." line="54" column="12" />
+      </file>
+      <file name="F:/javaworkspace/pla-api/src/main/java/com/pla/api/controller/mgr/BannerController.java" timestamp="1576485832323">
+        <mark key="[" line="22" column="4" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" timestamp="1593670164412">
+        <mark key="'" line="157" column="42" />
+        <mark key="[" line="169" column="33" />
+        <mark key="]" line="169" column="33" />
+        <mark key="m" line="165" column="20" />
+        <mark key="^" line="169" column="33" />
+        <mark key="." line="169" column="32" />
+      </file>
+      <file name="F:/javaworkspace/iis-api/src/main/java/com/iis/api/controller/ChannelController.java" timestamp="1577259918976">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/OldAuth.java" timestamp="1575431875933">
+        <mark key="[" line="7" column="20" />
+      </file>
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" timestamp="1585640033351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="102" column="3" />
+        <mark key="^" line="102" column="3" />
+        <mark key="." line="102" column="3" />
+      </file>
+      <file name="/default" timestamp="1575258757297">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/javaworkspace/finance-boot/app/src/main/resources/orm/AssetsCreditorMapper.xml" timestamp="1575258528399">
+        <mark key="[" line="1480" column="58" />
+        <mark key="]" line="1480" column="57" />
+        <mark key="^" line="1480" column="57" />
+        <mark key="." line="1480" column="57" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthStrategy.java" timestamp="1575430045232">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StockAuth.java" timestamp="1575431767887">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" timestamp="1571901965645">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" timestamp="1571901055752">
+        <mark key="'" line="43" column="4" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" timestamp="1575426875606">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="222" column="70" />
+        <mark key="]" line="222" column="70" />
+        <mark key="m" line="208" column="6" />
+        <mark key="." line="222" column="70" />
+        <mark key="^" line="243" column="28" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StrategyFactory.java" timestamp="1575453553473">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/SurveyController.java" timestamp="1593664079927">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="4" />
+        <mark key="^" line="86" column="4" />
+        <mark key="." line="86" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="112" column="59" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
+      <jump line="114" column="8" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
+      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/OperatorInfServiceImpl.java" />
+      <jump line="51" column="46" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
+      <jump line="43" column="4" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
+      <jump line="122" column="43" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/service/impl/InstitutionsInfServiceImpl.java" />
+      <jump line="96" column="4" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="60" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="105" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="107" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="76" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="99" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="2" column="0" filename="F:/javaworkspace/user-boot/app/src/main/test/com/obanks/user/test/MyTest.java" />
+      <jump line="34" column="4" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" />
+      <jump line="0" column="0" filename="F:/javaworkspace/user-boot/app/src/main/java/com/obanks/user/config/CommonCustom.java" />
+      <jump line="132" column="12" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="138" column="56" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="308" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="0" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="239" column="38" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="186" column="8" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="307" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="301" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="286" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="248" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="174" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="149" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="118" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="56" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="75" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="96" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="117" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="148" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="173" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="202" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="224" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="226" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="228" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="234" column="0" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/mgr/ChannelManageController.java" />
+      <jump line="19" column="2" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="0" column="0" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" />
+      <jump line="267" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="271" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="277" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="283" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="289" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="296" column="16" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="125" column="28" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="139" column="28" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="323" column="8" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="147" column="20" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="149" column="76" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="157" column="42" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" />
+      <jump line="67" column="40" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
+      <jump line="60" column="16" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
+      <jump line="50" column="32" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
+      <jump line="30" column="63" filename="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxMb25nXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>public static String companyName(){
+        return CONFIG.getProperty(&quot;companyName&quot;, &quot;&quot;);
+    }</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsKICAgICAgICBpZiAoQmVzdHNpZ25FbnVtLllFUy5nZXRWYWx1ZSgpLmVxdWFscyhpc1N0b2NrKSkgewogICAgICAgICAgICAvLyDvv73vv73vv73vv73vv73vv73vv73vv73QtO+/ve+/ve+/ve+/vcO777+977+977+977+977+977+977+91qTvv73vv73XtMys1rHvv73vv73vv73vv71BUAogICAgICAgICAgICByZXR1cm4gbmV3IFN0b2NrQXV0aCgpOwogICAgICAgIH0gZWxzZSBpZiAoUmVnaXN0ZXJTdGF1dHMuUkVHSVNURVJfQ09NUExFVEUuZ2V0VmFsdWUoKS5lcXVhbHMob2xkU3RhdHVzKSAmJiBCZXN0c2lnbkVudW0uTk8uZ2V0VmFsdWUoKS5lcXVhbHMoaXNOZXcpKSB7CiAgICAgICAgICAgIC8vINSt77+977+977+977+977+977+977+977+977+9zLXvv73vv73vv73vv73Du++/ve+/ve+/ve+/vdC277+977+9x7fvv73vv73asO+/ve+/ve+/ve+/ve+/ve+/vdCj77+91rHvv73vv73NqO+/ve+/vQogICAgICAgICAgICByZXR1cm4gbmV3IE9sZEF1dGgoKTsKICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDvv73vv73vv73auO+/ve+/vcKw77+977+977+977+977+977+90KPvv73vv73vv73vv73vv73WpO+/ve+/vdK177+977+90rXvv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgaWYgKEJlc3RzaWduRW51bS5SRUZVU0UuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+93L7vv73vv73vv73vv73vv73Ste+/ve+/vde0zKzvv73vv73OqklH77+977+977+977+91qTvv73vv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBJZ0F1dGgoKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChCZXN0c2lnbkVudW0uUkVWSUVXRUQuZ2V0VmFsdWUoKS5lcXVhbHMoanVkZ2VGbGFnKSkgewogICAgICAgICAgICAgICAgLy8g77+977+90qrvv73Lue+/ve+/ve+/vcu177+977+977+90rUKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUGFBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyDvv73Utu+/vc2o77+977+9CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEFwQXV0aCgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXV0aFN0cmF0ZWd5IGF1dGhTdHJhdGVneShTdHJpbmcgaXNTdG9jaywgU3RyaW5nIG9sZFN0YXR1cywgU3RyaW5nIGlzTmV3LCBib29sZWFuIGZsYWcsIFN0cmluZyBqdWRnZUZsYWcpIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSWdBdXRoKCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoQmVzdHNpZ25FbnVtLlJFVklFV0VELmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/ve+/vdKq77+9y7nvv73vv73vv73Lte+/ve+/ve+/vdK1CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFBhQXV0aCgpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8g77+91Lbvv73NqO+/ve+/vQogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBBcEF1dGgoKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g77+977+977+92rjvv73vv73CsO+/ve+/ve+/ve+/ve+/ve+/vdCj77+977+977+977+977+91qTvv73vv73Ste+/ve+/vdK177+977+977+977+977+977+9CiAgICAgICAgICAgIGlmIChCZXN0c2lnbkVudW0uUkVGVVNFLmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/vdy+77+977+977+977+977+90rXvv73vv73XtMys77+977+9zqpJR++/ve+/ve+/ve+/vdak77+977+9zajvv73vv70K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGZsYWcpIHsKICAgICAgICAgICAgLy8g77+92rDvv73vv73vv73vv73vv73vv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBXaGl0ZUF1dGgoKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKFJlZ2lzdGVyU3RhdXRzLlJFR0lTVEVSX0NPTVBMRVRFLmdldFZhbHVlKCkuZXF1YWxzKG9sZFN0YXR1cykgJiYgQmVzdHNpZ25FbnVtLk5PLmdldFZhbHVlKCkuZXF1YWxzKGlzTmV3KSkgewogICAgICAgICAgICAvLyDUre+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/ve+/vcy177+977+977+977+9w7vvv73vv73vv73vv73Qtu+/ve+/vce377+977+92rDvv73vv73vv73vv73vv73vv73Qo++/vdax77+977+9zajvv73vv70KICAgICAgICAgICAgcmV0dXJuIG5ldyBPbGRBdXRoKCk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>go</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxMb25nXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxMb25nXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
