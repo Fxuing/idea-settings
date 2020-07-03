@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String Simple Util" />
+      <item value="字符串工具" />
+      <item value="处理" />
+      <item value="underline" />
+      <item value="underline To Hump" />
+      <item value="hump" />
+      <item value="驼峰" />
+      <item value="Camelbak" />
+      <item value="下划线转驼峰" />
+      <item value="下划线" />
+      <item value="字符" />
       <item value="CMake Error: The source directory &quot;/root/.vim/plugged/youcompleteme/third_party/ycmd/third_party/cregex&quot; does not appear to contain CMakeLists.txt. Specify --help for usage, or press the help button on the CMake GUI. ERROR: the build failed." />
       <item value="it is *highly* unlikely that this is a bug but rather that this is a problem with the configuration of your system or a missing dependency. Please carefully read CONTRIBUTING.md and if you're sure that it is a bug, please raise an issue on the issue tracker, including the entire output of this script and the invocation line used to run it." />
       <item value="AceJump allows you to quickly navigate the caret to any position visible in the editor. See a demo of AceJump in action! Simply hit &quot;ctrl+;&quot;, type a character, then type the matching character to Ace Jump." />
@@ -40,22 +51,11 @@
       <item value="暂无需要提交的代码" />
       <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
       <item value="instance" />
-      <item value="instanceof" />
-      <item value="No enum constant com.odp.api.vo.user.UserCommonInfoVO.CommonCode.addr" />
-      <item value="TBLCODE NOT EXIST" />
-      <item value="ideaGroovyConsole.groovy: 1: unable to resolve class com.odp.api.vo.user.UserCommonInfoVO" />
-      <item value="You have two plugins installed: – The JetBrains Shell plugin is bundled with IntelliJ IDEA 2019.2 and later. It's very robust and provides better integration with basic functionality. – BashSupport is not as light-weight and robust but offers more features. – Open a comparision Select one of the plugins to continue" />
-      <item value="Provides PowerShell intellisense and script execution support for IntelliJ IDEs. Plugin page: https://plugins.jetbrains.com/plugin/10249" />
-      <item value="alone" />
-      <item value="PROTOCOL" />
-      <item value="ERR_SSL_PROTOCOL_ERROR" />
-      <item value="Provisional headers are shown" />
-      <item value="2020-06-23T06:42:41.245236865Z nginx: [warn] the &quot;ssl&quot; directive is deprecated, use the &quot;listen ... ssl&quot; directive instead in /etc/nginx/conf.d/default.conf:19 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1388" />
-        <entry key="ENGLISH" value="1676" />
+        <entry key="CHINESE" value="1392" />
+        <entry key="ENGLISH" value="1684" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
