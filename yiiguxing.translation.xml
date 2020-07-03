@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple string handling utility class" />
+      <item value="The underline goes to the hump For example: phone_code -&gt; phoneCode" />
       <item value="String Simple Util" />
       <item value="字符串工具" />
       <item value="处理" />
@@ -49,8 +51,6 @@
       <item value="Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag. This intention action will not even make you change your current editing location." />
       <item value="nothing added to commit but untracked files present Everything up-to-date" />
       <item value="暂无需要提交的代码" />
-      <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
-      <item value="instance" />
     </histories>
     <option name="languageScores">
       <map>
