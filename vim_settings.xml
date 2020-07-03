@@ -45,7 +45,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -110,6 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthContext.java" timestamp="1575430975671">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/dto/user/ExcelUserDTO.java" timestamp="1593688418321">
         <mark key="[" line="82" column="19" />
         <mark key="]" line="82" column="21" />
@@ -122,56 +127,18 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/CrmRuleServiceImpl.java" timestamp="1593688301578">
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="15" />
-        <mark key="^" line="88" column="15" />
-        <mark key="." line="88" column="14" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" timestamp="1593670164412">
-        <mark key="'" line="157" column="42" />
-        <mark key="[" line="169" column="33" />
-        <mark key="]" line="169" column="33" />
-        <mark key="m" line="165" column="20" />
-        <mark key="^" line="169" column="33" />
-        <mark key="." line="169" column="32" />
-      </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/InputChecker.java" timestamp="1593688078278" />
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/dto/channelnew/ChannelTreeDTO.java" timestamp="1593688257675">
-        <mark key="[" line="79" column="56" />
-        <mark key="]" line="79" column="63" />
-        <mark key="^" line="79" column="63" />
-        <mark key="." line="79" column="62" />
-      </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" timestamp="1593688223137">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="171" column="61" />
-        <mark key="]" line="171" column="67" />
-        <mark key="." line="171" column="66" />
-        <mark key="^" line="171" column="67" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StrategyFactory.java" timestamp="1575453553473">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/SurveyController.java" timestamp="1593664079927">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="4" />
-        <mark key="^" line="86" column="4" />
-        <mark key="." line="86" column="3" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthContext.java" timestamp="1575430975671">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-      </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" timestamp="1593674054804">
         <mark key="'" line="50" column="38" />
         <mark key="[" line="54" column="13" />
         <mark key="]" line="54" column="13" />
         <mark key="^" line="54" column="13" />
         <mark key="." line="54" column="12" />
+      </file>
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/CrmRuleServiceImpl.java" timestamp="1593688301578">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="15" />
+        <mark key="^" line="88" column="15" />
+        <mark key="." line="88" column="14" />
       </file>
       <file name="F:/javaworkspace/pla-api/src/main/java/com/pla/api/controller/mgr/BannerController.java" timestamp="1576485832323">
         <mark key="[" line="22" column="4" />
@@ -183,11 +150,25 @@
         <mark key="^" line="396" column="58" />
         <mark key="." line="396" column="57" />
       </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/KaptchaController.java" timestamp="1593670164412">
+        <mark key="'" line="157" column="42" />
+        <mark key="[" line="169" column="33" />
+        <mark key="]" line="169" column="33" />
+        <mark key="m" line="165" column="20" />
+        <mark key="^" line="169" column="33" />
+        <mark key="." line="169" column="32" />
+      </file>
       <file name="F:/javaworkspace/iis-api/src/main/java/com/iis/api/controller/ChannelController.java" timestamp="1577259918976">
         <mark key="[" line="30" column="49" />
         <mark key="]" line="28" column="1" />
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
+      </file>
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/dto/channelnew/ChannelTreeDTO.java" timestamp="1593688257675">
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="63" />
+        <mark key="^" line="79" column="63" />
+        <mark key="." line="79" column="62" />
       </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/OldAuth.java" timestamp="1575431875933">
         <mark key="[" line="7" column="20" />
@@ -205,9 +186,26 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/JfUtil.java" timestamp="1593687500410" />
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" timestamp="1593688223137">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="171" column="61" />
+        <mark key="]" line="171" column="67" />
+        <mark key="." line="171" column="66" />
+        <mark key="^" line="171" column="67" />
+      </file>
       <file name="/fragment.java" timestamp="1593674356516">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StrategyFactory.java" timestamp="1575453553473">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/SurveyController.java" timestamp="1593664079927">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="4" />
+        <mark key="^" line="86" column="4" />
+        <mark key="." line="86" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -346,7 +344,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
