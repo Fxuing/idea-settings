@@ -20,6 +20,8 @@
         <entry>action AceAction</entry>
         <entry>go</entry>
         <entry>\con</entry>
+        <entry>51</entry>
+        <entry>226</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,11 +118,17 @@
         <mark key="^" line="82" column="21" />
         <mark key="." line="82" column="20" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/StringSimpleUtil.java" timestamp="1594002569846">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="^" line="44" column="4" />
-        <mark key="." line="44" column="4" />
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/MgrOperaterController.java" timestamp="1594032581647">
+        <mark key="[" line="228" column="23" />
+        <mark key="]" line="228" column="23" />
+        <mark key="^" line="228" column="24" />
+        <mark key="." line="228" column="23" />
+      </file>
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/StringSimpleUtil.java" timestamp="1594016032240">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/Test.java" timestamp="1594015602513">
         <mark key="[" line="51" column="58" />
@@ -132,7 +140,8 @@
         <mark key="^" line="54" column="13" />
         <mark key="." line="54" column="12" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/IndexController.java" timestamp="1593763820527">
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/IndexController.java" timestamp="1594018392899">
+        <mark key="'" line="142" column="4" />
         <mark key="[" line="227" column="98" />
       </file>
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/CrmRuleServiceImpl.java" timestamp="1593688301578">
@@ -171,9 +180,6 @@
         <mark key="^" line="79" column="63" />
         <mark key="." line="79" column="62" />
       </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/OldAuth.java" timestamp="1575431875933">
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/UserServiceImpl.java" timestamp="1593685760662">
         <mark key="'" line="318" column="11" />
         <mark key="[" line="269" column="68" />
@@ -181,13 +187,7 @@
         <mark key="^" line="269" column="73" />
         <mark key="." line="269" column="72" />
       </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StockAuth.java" timestamp="1575431767887">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="11" />
-      </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" timestamp="1593688223137">
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" timestamp="1594029262901">
         <mark key="'" line="184" column="0" />
         <mark key="[" line="171" column="61" />
         <mark key="]" line="171" column="67" />
@@ -196,11 +196,6 @@
       </file>
       <file name="/fragment.java" timestamp="1593674356516">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/StrategyFactory.java" timestamp="1575453553473">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/controller/SurveyController.java" timestamp="1593664079927">
         <mark key="[" line="86" column="0" />
@@ -287,21 +282,24 @@
       <jump line="167" column="4" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" />
       <jump line="184" column="0" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/service/impl/ChannelNewServiceImpl.java" />
       <jump line="395" column="23" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/http/HttpClientUtil.java" />
+      <jump line="197" column="0" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/IndexController.java" />
+      <jump line="0" column="0" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/IndexController.java" />
+      <jump line="142" column="4" filename="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/IndexController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>用户</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJBbGliYWJhUG9qb05vRGVmYXVsdFZhbHVlIikK</text>
+      <register name="0" type="4">
+        <text>enableGrantedAuthorities</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>
@@ -331,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8g77+977+977+92rjvv73vv73CsO+/ve+/ve+/ve+/ve+/ve+/vdCj77+977+977+977+977+91qTvv73vv73Ste+/ve+/vdK177+977+977+977+977+977+9CiAgICAgICAgICAgIGlmIChCZXN0c2lnbkVudW0uUkVGVVNFLmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/vdy+77+977+977+977+977+90rXvv73vv73XtMys77+977+9zqpJR++/ve+/ve+/ve+/vdak77+977+9zajvv73vv70K</text>
       </register>
       <register name=":" type="4">
-        <text>go</text>
+        <text>226</text>
       </register>
     </registers>
   </component>
@@ -345,7 +343,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />

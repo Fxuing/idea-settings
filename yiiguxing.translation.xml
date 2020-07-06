@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execute" />
+      <item value="执行" />
+      <item value="excute Login" />
+      <item value="Cannot perform refactoring. Selected block should represent a set of statements or an" />
+      <item value="Syntax error: word unexpected (expecting &quot;in&quot;)" />
+      <item value="package golang.org/x/tools/gopls@v0.4.0: unrecognized import path &quot;golang.org/x/tools/gopls@v0.4.0&quot; (https fetch: Get https://golang.org/x/tools/gopls@v0.4.0?go-get=1: dial tcp 216.239.37.1:443: connect: connection refused)" />
+      <item value=" Unable to find executable 'go'. go is required to build gopls." />
+      <item value="An existing connection was forcibly closed by the remote host." />
+      <item value="retry scheduled" />
       <item value="usage" />
       <item value="Simple string handling utility class" />
       <item value="The underline goes to the hump For example: phone_code -&gt; phoneCode" />
@@ -42,20 +51,11 @@
       <item value="note: C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized           collect2.exe: error: ld returned 1 exit status" />
       <item value="C:\Users\HOUFUXING\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\x86_64-pc-windows-gnu\lib\crt2.o: file not recognized: file format not recognized collect2.exe: error: ld returned 1 exit status" />
       <item value="If you will be targeting the GNU ABI or otherwise know what you are doing then it is fine to continue installation without the build tools, but otherwise, install the C++ build tools before proceeding." />
-      <item value=" note: the msvc targets depend on the msvc linker but `link.exe` was not found note: please ensure that VS 2013, VS 2015, VS 2017 or VS 2019 was installed with the Visual C++ option" />
-      <item value="returnee" />
-      <item value="sure" />
-      <item value="Rust Visual C++ prerequisites  Rust requires the Microsoft C++ build tools for Visual Studio 2013 or later, but they don't seem to be installed.  The easiest way to acquire the build tools is by installing Microsoft Visual C++ Build Tools 2019 which provides just the Visual C++ build tools:    https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019  Please ensure the Windows 10 SDK and the English language pack components are included when installing the Visual C++ Build Tools.  Alternately, you can install Visual Studio 2019, Visual Studio 2017, Visual Studio 2015, or Visual Studio 2013 and during install select the &quot;C++ tools&quot;:    https://visualstudio.microsoft.com/downloads/  Install the C++ build tools before proceeding.  If you will be targeting the GNU ABI or otherwise know what you are doing then it is fine to continue installation without the build tools, but otherwise, install the C++ build tools before proceeding." />
-      <item value="specified package `sdl2 v0.34.2` has no binaries" />
-      <item value="aborting due to previous error" />
-      <item value="maybe it is overwritten before being read?" />
-      <item value="Refer to a non-existing target tag in your Ant build file, and IntelliJ IDEA will suggest you to automatically create the corresponding tag. This intention action will not even make you change your current editing location." />
-      <item value="nothing added to commit but untracked files present Everything up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1392" />
-        <entry key="ENGLISH" value="1684" />
+        <entry key="CHINESE" value="1394" />
+        <entry key="ENGLISH" value="1686" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
