@@ -30,7 +30,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -116,6 +116,12 @@
         <mark key="^" line="82" column="21" />
         <mark key="." line="82" column="20" />
       </file>
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/StringSimpleUtil.java" timestamp="1594002490601">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="46" column="6" />
+        <mark key="^" line="46" column="6" />
+        <mark key="." line="46" column="5" />
+      </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthResult.java" timestamp="1575431428335">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="9" column="0" />
@@ -141,7 +147,6 @@
       <file name="F:/javaworkspace/pla-api/src/main/java/com/pla/api/controller/mgr/BannerController.java" timestamp="1576485832323">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="E:/maven_repository/com/alibaba/fastjson/1.2.70/fastjson-1.2.70.jar!/com/alibaba/fastjson/JSONObject.class" timestamp="1593763813171" />
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/http/HttpClientUtil.java" timestamp="1593688511501">
         <mark key="'" line="395" column="23" />
         <mark key="[" line="396" column="48" />
@@ -343,7 +348,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
