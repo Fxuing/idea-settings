@@ -116,17 +116,14 @@
         <mark key="^" line="82" column="21" />
         <mark key="." line="82" column="20" />
       </file>
-      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/StringSimpleUtil.java" timestamp="1594002490601">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="46" column="6" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="46" column="5" />
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/common/utils/StringSimpleUtil.java" timestamp="1594002569846">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
-      <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/strategy/auth/AuthResult.java" timestamp="1575431428335">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/Test.java" timestamp="1594015602513">
+        <mark key="[" line="51" column="58" />
       </file>
       <file name="F:/javaworkspace/9hbank/src/main/java/com/obanks/fop/authc/service/impl/UserServiceImpl.java" timestamp="1593674054804">
         <mark key="'" line="50" column="38" />
@@ -294,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJBbGliYWJhUG9qb05vRGVmYXVsdFZhbHVlIikK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;status_code&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>用户</text>
