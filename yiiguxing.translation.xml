@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="short" />
+      <item value=" record not found" />
+      <item value="unknown driver &quot;mysql&quot; (forgotten import?) " />
+      <item value="生成" />
+      <item value="Not enough arguments in call to 'Response.SUCCESS' " />
+      <item value="Unreachable code " />
+      <item value="'ShortLink' redeclared in this package " />
+      <item value="短链接" />
+      <item value="july" />
       <item value="信用" />
       <item value="Unable to correct problems, you have held broken packages." />
       <item value="quick" />
@@ -42,20 +51,11 @@
       <item value="GitHub repo owner" />
       <item value="Star rating support to each article. 655 # To get your ID visit https://widgetpack.com " />
       <item value="Multiple Comment System Support" />
-      <item value="Effective" />
-      <item value="EffectiveKeyFile" />
-      <item value="if you plan to use auto fill , make sure thr url is the actual url to the page you want to fill the form ,urls wihch redirect to another page will work" />
-      <item value="if you plan to use auto fill , make sure thr url is the actual url to the page you want to fill the form " />
-      <item value="gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services." />
-      <item value="A high-performance, open source universal RPC framework" />
-      <item value="need method: GetStudentInfo(context.Context, *client.StudentVO) (*client.StudentDTO, error) have method: GetStudentInfo(ctx context.Context, in *client.StudentVO, opts ...grpc.CallOption) (*client.StudentDTO, error) " />
-      <item value="(this program should be run by protoc, not directly)" />
-      <item value="Exception running protoc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1689" />
+        <entry key="ENGLISH" value="1695" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
