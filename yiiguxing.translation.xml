@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="信用" />
       <item value="Unable to correct problems, you have held broken packages." />
       <item value="quick" />
       <item value="快速" />
@@ -50,12 +51,11 @@
       <item value="need method: GetStudentInfo(context.Context, *client.StudentVO) (*client.StudentDTO, error) have method: GetStudentInfo(ctx context.Context, in *client.StudentVO, opts ...grpc.CallOption) (*client.StudentDTO, error) " />
       <item value="(this program should be run by protoc, not directly)" />
       <item value="Exception running protoc" />
-      <item value="generate code from .proto files (they must have a .proto extension). GenProtobuf adds two right click menu entries &quot;quick gen protobuf here&quot; and &quot;quick gen protobuf rules&quot; to the project area and &quot;Configure GenProtobuf&quot; and &quot;Generate all Protobufs&quot; to the tools menu. quick gen protobuf here will quickly generate code for selected protobuf files in a single selected langauge as configured under &quot;Configure GenProtobuf&quot; in the tools menu placing the output in the same directory as the selected protobuf files. quick gen protobuf rules will generate code for selected protobuf files according to the rules set with &quot;Configure GenProtobuf&quot; in the tools menu and place the output in the configured output location. Finally you can use Generate all Protobufs under the tools menu and it will apply the rules set in Configure Genprotobuf (again under the tools menu,) to all the protobuf files it finds in your project. As stated in the descriptions above you can configure this plugin from the Configure GenProtobuf menu that gets added to the tools menu. You are able to set what programming language to use for the quick gen options and toggle different languages to be generated for protobuf files as well as different directories for the various language outputs. Whenever you generate code from a .proto file a tool window is created to display the resulting textual output." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1688" />
+        <entry key="ENGLISH" value="1689" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
