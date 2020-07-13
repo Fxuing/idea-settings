@@ -118,6 +118,11 @@
         <mark key="^" line="82" column="21" />
         <mark key="." line="82" column="20" />
       </file>
+      <file name="F:/javaworkspace/9htech/finance-api/src/main/java/com/obanks/finance/model/PobcDemand.java" timestamp="1594629556201">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="13" />
+      </file>
       <file name="F:/javaworkspace/odp-api/src/main/java/com/odp/api/controller/MgrOperaterController.java" timestamp="1594032581647">
         <mark key="[" line="228" column="23" />
         <mark key="]" line="228" column="23" />
@@ -290,16 +295,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">UG9iY0RlbWFuZCA=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>PobcDemand</text>
       </register>
       <register name="/" type="4">
         <text>用户</text>
       </register>
       <register name="0" type="4">
-        <text>enableGrantedAuthorities</text>
+        <text encoding="base64">UG9iY0RlbWFuZCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkFMTCIpCg==</text>

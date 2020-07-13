@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Repayment date" />
+      <item value="还款日" />
+      <item value="金额" />
+      <item value="loan" />
+      <item value="use" />
+      <item value="behoof" />
+      <item value="用途" />
+      <item value="Funds" />
+      <item value="资金" />
+      <item value="Purpose Factor" />
+      <item value="资金用途" />
+      <item value="detail Address" />
+      <item value="详细" />
+      <item value="社区" />
+      <item value="street" />
+      <item value="街道" />
+      <item value="区" />
+      <item value="interview" />
+      <item value="采访" />
+      <item value="intention" />
+      <item value="意向" />
+      <item value="purpose" />
+      <item value="open Account Bank" />
+      <item value="opening bank" />
+      <item value="开户行" />
       <item value="you can you up" />
       <item value="你行你上" />
       <item value="行" />
@@ -26,36 +51,11 @@
       <item value="执行" />
       <item value="excute Login" />
       <item value="Cannot perform refactoring. Selected block should represent a set of statements or an" />
-      <item value="Syntax error: word unexpected (expecting &quot;in&quot;)" />
-      <item value="package golang.org/x/tools/gopls@v0.4.0: unrecognized import path &quot;golang.org/x/tools/gopls@v0.4.0&quot; (https fetch: Get https://golang.org/x/tools/gopls@v0.4.0?go-get=1: dial tcp 216.239.37.1:443: connect: connection refused)" />
-      <item value=" Unable to find executable 'go'. go is required to build gopls." />
-      <item value="An existing connection was forcibly closed by the remote host." />
-      <item value="retry scheduled" />
-      <item value="usage" />
-      <item value="Simple string handling utility class" />
-      <item value="The underline goes to the hump For example: phone_code -&gt; phoneCode" />
-      <item value="String Simple Util" />
-      <item value="字符串工具" />
-      <item value="处理" />
-      <item value="underline" />
-      <item value="underline To Hump" />
-      <item value="hump" />
-      <item value="驼峰" />
-      <item value="Camelbak" />
-      <item value="下划线转驼峰" />
-      <item value="下划线" />
-      <item value="字符" />
-      <item value="CMake Error: The source directory &quot;/root/.vim/plugged/youcompleteme/third_party/ycmd/third_party/cregex&quot; does not appear to contain CMakeLists.txt. Specify --help for usage, or press the help button on the CMake GUI. ERROR: the build failed." />
-      <item value="it is *highly* unlikely that this is a bug but rather that this is a problem with the configuration of your system or a missing dependency. Please carefully read CONTRIBUTING.md and if you're sure that it is a bug, please raise an issue on the issue tracker, including the entire output of this script and the invocation line used to run it." />
-      <item value="AceJump allows you to quickly navigate the caret to any position visible in the editor. See a demo of AceJump in action! Simply hit &quot;ctrl+;&quot;, type a character, then type the matching character to Ace Jump." />
-      <item value="The plugin is an extension of 'IdeaVim' , can switch to English input method in normal mode and restore input method in insert mode." />
-      <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc. See also:" />
-      <item value="critical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1701" />
+        <entry key="CHINESE" value="1404" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
