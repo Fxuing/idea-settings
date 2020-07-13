@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="you can you up" />
+      <item value="你行你上" />
+      <item value="行" />
       <item value="人民银行" />
       <item value="轮播" />
       <item value="feed" />
@@ -48,14 +51,11 @@
       <item value="The plugin is an extension of 'IdeaVim' , can switch to English input method in normal mode and restore input method in insert mode." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc. See also:" />
       <item value="critical" />
-      <item value="major" />
-      <item value="Hey Fxuing!  A third-party OAuth application (comments) with public_repo scope was recently authorized to access your account. Visit https://github.com/settings/connections/applications/0327931cef1827cd7bf8 for more information.  To see this and other security events for your account, visit https://github.com/settings/security  If you run into problems, please contact support by visiting https://github.com/contact  Thanks, The GitHub Team" />
-      <item value="Repository name to store issues " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1699" />
+        <entry key="ENGLISH" value="1701" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
