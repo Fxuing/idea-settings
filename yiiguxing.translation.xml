@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect Financing Amount" />
       <item value="Repayment date" />
       <item value="还款日" />
       <item value="金额" />
@@ -50,12 +51,11 @@
       <item value="execute" />
       <item value="执行" />
       <item value="excute Login" />
-      <item value="Cannot perform refactoring. Selected block should represent a set of statements or an" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1404" />
-        <entry key="ENGLISH" value="1718" />
+        <entry key="CHINESE" value="1405" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
