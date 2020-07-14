@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expect Financing Amount" />
       <item value="JumpType" />
       <item value="Release" />
       <item value="release" />
@@ -15,7 +16,6 @@
       <item value="轮播公告" />
       <item value="滚动" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class" />
-      <item value="expect Financing Amount" />
       <item value="Repayment date" />
       <item value="还款日" />
       <item value="金额" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1408" />
-        <entry key="ENGLISH" value="1728" />
+        <entry key="CHINESE" value="1409" />
+        <entry key="ENGLISH" value="1729" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
