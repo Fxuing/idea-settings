@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'accepted &gt; 0 ? true : false' can be simplified to 'accepted &gt;" />
+      <item value="Condition 'assetsCreditor != null' is always 'true'" />
+      <item value="三" />
+      <item value="there" />
+      <item value="there_type_enterprise" />
+      <item value="Whether there are three types of enterprises" />
+      <item value="是否三类企业" />
       <item value="The used SELECT statements have a different number of columns" />
       <item value="THE FUNDS USE FIELD IS TOO LONG" />
       <item value="字段过长" />
@@ -44,18 +51,11 @@
       <item value="用途" />
       <item value="Funds" />
       <item value="资金" />
-      <item value="Purpose Factor" />
-      <item value="资金用途" />
-      <item value="detail Address" />
-      <item value="详细" />
-      <item value="社区" />
-      <item value="street" />
-      <item value="街道" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1418" />
-        <entry key="ENGLISH" value="1744" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
