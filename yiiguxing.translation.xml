@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search By Create By Is Existed" />
+      <item value="search By Create By Is Extend" />
       <item value="HTTP Basic: Access denied" />
       <item value="Push was rejected, and update failed with error." />
       <item value="15:48 Update canceled" />
@@ -49,13 +51,11 @@
       <item value="采访" />
       <item value="intention" />
       <item value="意向" />
-      <item value="purpose" />
-      <item value="open Account Bank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1415" />
-        <entry key="ENGLISH" value="1738" />
+        <entry key="CHINESE" value="1417" />
+        <entry key="ENGLISH" value="1740" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
