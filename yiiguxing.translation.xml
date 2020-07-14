@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'equals()' between objects of inconvertible types 'RegisterStauts' and 'String'" />
+      <item value="Unreachable statement" />
+      <item value="THE CURRENT USER IS NOT AN ENTERPRISE USER" />
+      <item value="当前用户不是企业用户" />
       <item value="Intention Bank" />
       <item value="自定义" />
       <item value="customer" />
@@ -47,15 +51,11 @@
       <item value="开户行" />
       <item value="you can you up" />
       <item value="你行你上" />
-      <item value="行" />
-      <item value="人民银行" />
-      <item value="前缀" />
-      <item value="short" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1411" />
-        <entry key="ENGLISH" value="1733" />
+        <entry key="CHINESE" value="1412" />
+        <entry key="ENGLISH" value="1735" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
