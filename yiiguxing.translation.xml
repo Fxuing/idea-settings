@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="feed" />
+      <item value="轮播" />
+      <item value="carousel" />
+      <item value="Shuff" />
+      <item value="Shuffling" />
+      <item value="轮播公告" />
+      <item value="滚动" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class" />
       <item value="expect Financing Amount" />
       <item value="Repayment date" />
@@ -32,8 +39,6 @@
       <item value="你行你上" />
       <item value="行" />
       <item value="人民银行" />
-      <item value="轮播" />
-      <item value="feed" />
       <item value="前缀" />
       <item value="short" />
       <item value=" record not found" />
@@ -46,16 +51,11 @@
       <item value="july" />
       <item value="信用" />
       <item value="Unable to correct problems, you have held broken packages." />
-      <item value="quick" />
-      <item value="快速" />
-      <item value="none" />
-      <item value="execute" />
-      <item value="执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1406" />
-        <entry key="ENGLISH" value="1720" />
+        <entry key="CHINESE" value="1407" />
+        <entry key="ENGLISH" value="1725" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
