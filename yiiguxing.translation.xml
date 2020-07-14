@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Intention Bank" />
+      <item value="自定义" />
+      <item value="customer" />
       <item value="Private field 'pbocBank' is never assigned" />
       <item value="expect Financing Amount" />
       <item value="JumpType" />
@@ -48,14 +51,11 @@
       <item value="人民银行" />
       <item value="前缀" />
       <item value="short" />
-      <item value=" record not found" />
-      <item value="unknown driver &quot;mysql&quot; (forgotten import?) " />
-      <item value="生成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1729" />
+        <entry key="CHINESE" value="1411" />
+        <entry key="ENGLISH" value="1733" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
