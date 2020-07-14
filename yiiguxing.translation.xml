@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HTTP Basic: Access denied" />
       <item value="Push was rejected, and update failed with error." />
       <item value="15:48 Update canceled" />
       <item value="stream has already been operated upon or closed" />
@@ -50,7 +51,6 @@
       <item value="意向" />
       <item value="purpose" />
       <item value="open Account Bank" />
-      <item value="opening bank" />
     </histories>
     <option name="languageScores">
       <map>
