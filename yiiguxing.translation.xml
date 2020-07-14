@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JumpType" />
+      <item value="Release" />
+      <item value="release" />
+      <item value="demand/release" />
+      <item value="需求发布" />
+      <item value="生产" />
       <item value="feed" />
       <item value="轮播" />
       <item value="carousel" />
@@ -45,17 +51,11 @@
       <item value="unknown driver &quot;mysql&quot; (forgotten import?) " />
       <item value="生成" />
       <item value="Not enough arguments in call to 'Response.SUCCESS' " />
-      <item value="Unreachable code " />
-      <item value="'ShortLink' redeclared in this package " />
-      <item value="短链接" />
-      <item value="july" />
-      <item value="信用" />
-      <item value="Unable to correct problems, you have held broken packages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1407" />
-        <entry key="ENGLISH" value="1725" />
+        <entry key="CHINESE" value="1408" />
+        <entry key="ENGLISH" value="1728" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
