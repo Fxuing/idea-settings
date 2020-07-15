@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="copy Non Null Properties" />
       <item value="creditor fail reason" />
       <item value="register channel" />
       <item value="Entry Criteria" />
@@ -50,12 +51,11 @@
       <item value="是否三类企业" />
       <item value="The used SELECT statements have a different number of columns" />
       <item value="THE FUNDS USE FIELD IS TOO LONG" />
-      <item value="字段过长" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
-        <entry key="ENGLISH" value="1783" />
+        <entry key="CHINESE" value="1440" />
+        <entry key="ENGLISH" value="1784" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
