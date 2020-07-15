@@ -1,6 +1,37 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="creditor fail reason" />
+      <item value="register channel" />
+      <item value="Entry Criteria" />
+      <item value="Entry criteria" />
+      <item value="准入条件" />
+      <item value="access" />
+      <item value="对接情况" />
+      <item value="需求" />
+      <item value="债权需求" />
+      <item value="信用类债权" />
+      <item value="Emploees" />
+      <item value="雇员人数" />
+      <item value="inconformity" />
+      <item value="不符合" />
+      <item value="不合符" />
+      <item value="融资理由" />
+      <item value="不符合融资标准理由" />
+      <item value="debt servicing amount" />
+      <item value="debt servicing" />
+      <item value="债务还本付息" />
+      <item value="servicing" />
+      <item value="还本付息" />
+      <item value="是否给予延期还本付息" />
+      <item value="延期还本付息" />
+      <item value="理由" />
+      <item value="是否" />
+      <item value="是否信贷" />
+      <item value="信贷" />
+      <item value="期限" />
+      <item value="利率" />
+      <item value="贷款投放金额" />
       <item value="policys" />
       <item value="2020年1月1日以来贷款投放金额" />
       <item value="贷款余额" />
@@ -20,42 +51,11 @@
       <item value="The used SELECT statements have a different number of columns" />
       <item value="THE FUNDS USE FIELD IS TOO LONG" />
       <item value="字段过长" />
-      <item value="不可以重复提交" />
-      <item value="不可重复提交" />
-      <item value="search By Create By Is Existed" />
-      <item value="search By Create By Is Extend" />
-      <item value="HTTP Basic: Access denied" />
-      <item value="Push was rejected, and update failed with error." />
-      <item value="15:48 Update canceled" />
-      <item value="stream has already been operated upon or closed" />
-      <item value="'equals()' between objects of inconvertible types 'RegisterStauts' and 'String'" />
-      <item value="Unreachable statement" />
-      <item value="THE CURRENT USER IS NOT AN ENTERPRISE USER" />
-      <item value="当前用户不是企业用户" />
-      <item value="Intention Bank" />
-      <item value="自定义" />
-      <item value="customer" />
-      <item value="Private field 'pbocBank' is never assigned" />
-      <item value="expect Financing Amount" />
-      <item value="JumpType" />
-      <item value="Release" />
-      <item value="release" />
-      <item value="demand/release" />
-      <item value="需求发布" />
-      <item value="生产" />
-      <item value="feed" />
-      <item value="轮播" />
-      <item value="carousel" />
-      <item value="Shuff" />
-      <item value="Shuffling" />
-      <item value="轮播公告" />
-      <item value="滚动" />
-      <item value="conflicts with existing, non-compatible bean definition of same name and class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1428" />
-        <entry key="ENGLISH" value="1756" />
+        <entry key="CHINESE" value="1439" />
+        <entry key="ENGLISH" value="1783" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
