@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Raw use of parameterized class 'ResponseEntity'" />
       <item value="docking Status" />
       <item value="committed" />
       <item value="已提交" />
@@ -50,7 +51,6 @@
       <item value="File and inputStream must be a non-null." />
       <item value="com.alibaba.com.caucho.hessian.io.HessianProtocolException: expected binary at 0x41 [B ([B@43fa9fa)" />
       <item value="sheet" />
-      <item value="Could not autowire. No beans of 'PneumoniaOfflineMapper' type found." />
     </histories>
     <option name="languageScores">
       <map>
