@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="committed" />
+      <item value="已提交" />
+      <item value="docking Status" />
+      <item value="对接" />
+      <item value="'if' statement has empty body" />
+      <item value="status" />
+      <item value="stats" />
       <item value="11:54 No suspicious code found. 1 files processed in 'File '...\finance-api\src\main\java\com\obanks\finance\model\PbocInsImportMid.java [finance-api]''." />
       <item value="Field 'pbocEnterpriseInfService' may be 'final'" />
       <item value="copy Non Null Properties" />
@@ -44,18 +51,11 @@
       <item value="com.alibaba.com.caucho.hessian.io.HessianProtocolException: expected binary at 0x41 [B ([B@43fa9fa)" />
       <item value="sheet" />
       <item value="Could not autowire. No beans of 'PneumoniaOfflineMapper' type found." />
-      <item value="'accepted &gt; 0 ? true : false' can be simplified to 'accepted &gt;" />
-      <item value="Condition 'assetsCreditor != null' is always 'true'" />
-      <item value="三" />
-      <item value="there" />
-      <item value="there_type_enterprise" />
-      <item value="Whether there are three types of enterprises" />
-      <item value="是否三类企业" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1441" />
-        <entry key="ENGLISH" value="1785" />
+        <entry key="CHINESE" value="1445" />
+        <entry key="ENGLISH" value="1790" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
