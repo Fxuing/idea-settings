@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="docking Status" />
       <item value="committed" />
       <item value="已提交" />
-      <item value="docking Status" />
       <item value="对接" />
       <item value="'if' statement has empty body" />
       <item value="status" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1445" />
-        <entry key="ENGLISH" value="1790" />
+        <entry key="CHINESE" value="1446" />
+        <entry key="ENGLISH" value="1791" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
