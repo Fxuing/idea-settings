@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standing book" />
+      <item value="台账" />
+      <item value="Ledger" />
       <item value=" timestamp" />
       <item value="时间戳" />
       <item value="// Unix returns t as a Unix time, the number of seconds elapsed // since January 1, 1970 UTC. The result does not depend on the // location associated with t." />
@@ -48,14 +51,11 @@
       <item value="贷款投放金额" />
       <item value="policys" />
       <item value="2020年1月1日以来贷款投放金额" />
-      <item value="贷款余额" />
-      <item value="com.alibaba.excel.exception.ExcelAnalysisException: java.lang.NoClassDefFoundError: org/apache/poi/poifs/filesystem/FileMagic" />
-      <item value="File Magic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1447" />
-        <entry key="ENGLISH" value="1792" />
+        <entry key="CHINESE" value="1449" />
+        <entry key="ENGLISH" value="1794" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
