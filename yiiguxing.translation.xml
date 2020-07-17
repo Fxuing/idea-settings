@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" timestamp" />
+      <item value="时间戳" />
+      <item value="// Unix returns t as a Unix time, the number of seconds elapsed // since January 1, 1970 UTC. The result does not depend on the // location associated with t." />
       <item value="Raw use of parameterized class 'ResponseEntity'" />
       <item value="docking Status" />
       <item value="committed" />
@@ -48,14 +51,11 @@
       <item value="贷款余额" />
       <item value="com.alibaba.excel.exception.ExcelAnalysisException: java.lang.NoClassDefFoundError: org/apache/poi/poifs/filesystem/FileMagic" />
       <item value="File Magic" />
-      <item value="File and inputStream must be a non-null." />
-      <item value="com.alibaba.com.caucho.hessian.io.HessianProtocolException: expected binary at 0x41 [B ([B@43fa9fa)" />
-      <item value="sheet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1446" />
-        <entry key="ENGLISH" value="1791" />
+        <entry key="CHINESE" value="1447" />
+        <entry key="ENGLISH" value="1792" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
