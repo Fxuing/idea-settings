@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commit Type" />
       <item value="FAIL ON EMPTY BEANS" />
       <item value="信用" />
       <item value="Creditor" />
@@ -50,12 +51,11 @@
       <item value="融资理由" />
       <item value="不符合融资标准理由" />
       <item value="debt servicing amount" />
-      <item value="debt servicing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1460" />
-        <entry key="ENGLISH" value="1806" />
+        <entry key="CHINESE" value="1461" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
