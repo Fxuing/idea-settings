@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result of 'Stream.sorted()' is ignored" />
+      <item value="Condition 'Optional.ofNullable(questionnaire).isPresent()' is always 'true'" />
+      <item value="attach" />
+      <item value="Deprecated" />
+      <item value="description" />
       <item value="Review AA-CR-27 : houfuxing accepted the changes" />
       <item value="Gstring end expected, got ','" />
       <item value="Identifier or code block expected" />
@@ -46,16 +51,11 @@
       <item value="Entry criteria" />
       <item value="准入条件" />
       <item value="access" />
-      <item value="对接情况" />
-      <item value="需求" />
-      <item value="债权需求" />
-      <item value="信用类债权" />
-      <item value="Emploees" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1464" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1466" />
+        <entry key="ENGLISH" value="1811" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
