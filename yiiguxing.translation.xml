@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attach" />
       <item value="Type may be primitive" />
       <item value="Result of 'Stream.sorted()' is ignored" />
       <item value="Condition 'Optional.ofNullable(questionnaire).isPresent()' is always 'true'" />
-      <item value="attach" />
       <item value="Deprecated" />
       <item value="description" />
       <item value="Review AA-CR-27 : houfuxing accepted the changes" />
