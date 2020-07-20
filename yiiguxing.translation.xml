@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Review AA-CR-27 : houfuxing accepted the changes" />
+      <item value="Gstring end expected, got ','" />
+      <item value="Identifier or code block expected" />
       <item value="statistics" />
       <item value="统计" />
       <item value="fixme" />
@@ -48,9 +51,6 @@
       <item value="债权需求" />
       <item value="信用类债权" />
       <item value="Emploees" />
-      <item value="雇员人数" />
-      <item value="inconformity" />
-      <item value="不符合" />
     </histories>
     <option name="languageScores">
       <map>
