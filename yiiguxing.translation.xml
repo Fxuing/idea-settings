@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无" />
+      <item value="nothing" />
+      <item value="not" />
+      <item value="have" />
+      <item value="有 " />
+      <item value="有 无" />
       <item value="structure" />
       <item value="构造" />
       <item value="Fewer arguments provided (0) than placeholders specified" />
@@ -45,17 +51,11 @@
       <item value="时间戳" />
       <item value="// Unix returns t as a Unix time, the number of seconds elapsed // since January 1, 1970 UTC. The result does not depend on the // location associated with t." />
       <item value="Raw use of parameterized class 'ResponseEntity'" />
-      <item value="docking Status" />
-      <item value="committed" />
-      <item value="已提交" />
-      <item value="对接" />
-      <item value="'if' statement has empty body" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1469" />
-        <entry key="ENGLISH" value="1815" />
+        <entry key="CHINESE" value="1472" />
+        <entry key="ENGLISH" value="1820" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
