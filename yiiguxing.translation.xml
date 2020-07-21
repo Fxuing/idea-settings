@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ADMISSION" />
+      <item value="CREDITOR SCALES MIN" />
       <item value="reason" />
       <item value="原因" />
       <item value="fail" />
@@ -49,13 +51,11 @@
       <item value="11:54 No suspicious code found. 1 files processed in 'File '...\finance-api\src\main\java\com\obanks\finance\model\PbocInsImportMid.java [finance-api]''." />
       <item value="Field 'pbocEnterpriseInfService' may be 'final'" />
       <item value="copy Non Null Properties" />
-      <item value="creditor fail reason" />
-      <item value="register channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1467" />
-        <entry key="ENGLISH" value="1812" />
+        <entry key="CHINESE" value="1469" />
+        <entry key="ENGLISH" value="1814" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
