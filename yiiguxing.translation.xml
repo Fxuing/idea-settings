@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exist" />
+      <item value="存在" />
+      <item value="debt Servicing" />
       <item value="无" />
       <item value="nothing" />
       <item value="not" />
@@ -48,14 +51,11 @@
       <item value="台账" />
       <item value="Ledger" />
       <item value=" timestamp" />
-      <item value="时间戳" />
-      <item value="// Unix returns t as a Unix time, the number of seconds elapsed // since January 1, 1970 UTC. The result does not depend on the // location associated with t." />
-      <item value="Raw use of parameterized class 'ResponseEntity'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1820" />
+        <entry key="CHINESE" value="1474" />
+        <entry key="ENGLISH" value="1822" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
