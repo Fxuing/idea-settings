@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inconvertible types; cannot cast 'java.io.IOException' to 'com.obanks.exception.BizException'" />
+      <item value="'catch' branch identical to 'IOException' branch" />
       <item value="TEMPLATE ERROR" />
       <item value="有效状态" />
       <item value="Merge requests are a place to propose changes you have made to a project and discuss those changes with others. Interested parties can even contribute by pushing commits if they want to.  Currently there are no changes in this merge request's source branch. Please push new commits or use a different branch." />
@@ -49,8 +51,6 @@
       <item value="docking/detail" />
       <item value="Longest Match Column Width Style Strategy" />
       <item value="columns" />
-      <item value="导出" />
-      <item value="report" />
     </histories>
     <option name="languageScores">
       <map>
