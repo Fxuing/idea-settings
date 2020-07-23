@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to watch for file changes in this large workspace. Please follow the instructions link to resolve this issue." />
+      <item value="You selected &quot;linux&quot; as the remote platform - this will be stored in the setting &quot;remote.SSH.remotePlatform&quot; and can be changed there if needed." />
       <item value="Condition 'operatorInf != null' is always 'true'" />
       <item value="starts With" />
       <item value="class path resource [/templates/pboc_ins_import_template.xls] cannot be resolved to absolute file path because it does not exist&quot;," />
@@ -49,8 +51,6 @@
       <item value="信用" />
       <item value="Creditor" />
       <item value="Industry Commerce" />
-      <item value="Industry and commerce" />
-      <item value="工商" />
     </histories>
     <option name="languageScores">
       <map>
