@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="first" />
+      <item value="letter" />
+      <item value="Capitalize" />
+      <item value="Capitalize the first letter" />
+      <item value="首字母大写" />
       <item value="enterprise Name" />
       <item value="Loan issuance amount" />
       <item value="贷款发放金额" />
@@ -46,16 +51,11 @@
       <item value="'catch' branch identical to 'IOException' branch" />
       <item value="TEMPLATE ERROR" />
       <item value="有效状态" />
-      <item value="Merge requests are a place to propose changes you have made to a project and discuss those changes with others. Interested parties can even contribute by pushing commits if they want to.  Currently there are no changes in this merge request's source branch. Please push new commits or use a different branch." />
-      <item value="Result of 'Optional.orElse()' is ignored" />
-      <item value="exist" />
-      <item value="存在" />
-      <item value="debt Servicing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1501" />
-        <entry key="ENGLISH" value="1849" />
+        <entry key="CHINESE" value="1506" />
+        <entry key="ENGLISH" value="1853" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
