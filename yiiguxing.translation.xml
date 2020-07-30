@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generate" />
+      <item value="'return' is unnecessary as the last statement in a 'void' method" />
+      <item value="左括号" />
+      <item value="Contents of collection 'TYPE_MAPPER' are updated, but never queried" />
       <item value="默认值" />
       <item value="是否为空" />
       <item value="first" />
@@ -47,15 +51,11 @@
       <item value="starts With" />
       <item value="class path resource [/templates/pboc_ins_import_template.xls] cannot be resolved to absolute file path because it does not exist&quot;," />
       <item value="Actual value of parameter 'filename' is always 'pboc_ins_import_template.xls'" />
-      <item value="Condition 'errorMsg.size() &gt; 0' is always 'false'" />
-      <item value="Variable 'errorMsg' might not have been initialized" />
-      <item value="Inconvertible types; cannot cast 'java.io.IOException' to 'com.obanks.exception.BizException'" />
-      <item value="'catch' branch identical to 'IOException' branch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1507" />
-        <entry key="ENGLISH" value="1854" />
+        <entry key="CHINESE" value="1511" />
+        <entry key="ENGLISH" value="1856" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
