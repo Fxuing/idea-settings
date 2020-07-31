@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增 删 改 查" />
+      <item value="增" />
       <item value="常量" />
       <item value="contants" />
       <item value="Generate" />
@@ -49,12 +51,10 @@
       <item value="&quot;install&quot; terminal command done [17:48:23.829] Install terminal quit with output: 过程试图写入的管道不存在。 [17:48:23.829] Received install output: 过程试图写入的管道不存在。 [17:48:23.830] Stopped parsing output early. Remaining text: 过程试图写入的管道不存在。 [17:48:23.831] Failed to parse remote port from server output [17:48:23.831] Resolver error: " />
       <item value="Unable to watch for file changes in this large workspace. Please follow the instructions link to resolve this issue." />
       <item value="You selected &quot;linux&quot; as the remote platform - this will be stored in the setting &quot;remote.SSH.remotePlatform&quot; and can be changed there if needed." />
-      <item value="Condition 'operatorInf != null' is always 'true'" />
-      <item value="starts With" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1514" />
+        <entry key="CHINESE" value="1516" />
         <entry key="ENGLISH" value="1858" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
