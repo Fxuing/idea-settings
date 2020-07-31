@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
+      <item value="prefix" />
       <item value="SUBTRACT" />
       <item value="EL1030E: The operator 'SUBTRACT' is not supported between objects of type 'java.util.ArrayList' and 'java.lang.Integer'" />
       <item value="model Name Lower" />
@@ -49,13 +51,11 @@
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="Cannot resolve configuration property 'spring.database.url'" />
       <item value="code generate" />
-      <item value="模板生成" />
-      <item value="Thymeleaf " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1523" />
-        <entry key="ENGLISH" value="1863" />
+        <entry key="CHINESE" value="1525" />
+        <entry key="ENGLISH" value="1864" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
