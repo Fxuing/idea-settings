@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ognl.ParseException: Encountered &quot; &lt;IDENT&gt; &quot;ne &quot;&quot; at line 1, column 15." />
       <item value="Exception evaluating OGNL expression: &quot;iterStat.last ne true&quot; (template: &quot;mapper.txt&quot; - line 8, col 46)" />
       <item value="An error happened during template parsing (template: &quot;templates/mapper.txt&quot;)" />
       <item value="set Resolvable Patterns" />
@@ -50,12 +51,11 @@
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="If you want an embedded database (H2, HSQL or Derby), please put it on the classpath." />
       <item value="Consider the following:" />
-      <item value="Started CodeGenerateApplication in 0.759 seconds (JVM running for 1.533)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1869" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1870" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
