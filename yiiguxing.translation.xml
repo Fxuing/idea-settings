@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUBTRACT" />
+      <item value="EL1030E: The operator 'SUBTRACT' is not supported between objects of type 'java.util.ArrayList' and 'java.lang.Integer'" />
       <item value="model Name Lower" />
       <item value="小写" />
       <item value="trees" />
@@ -49,13 +51,11 @@
       <item value="code generate" />
       <item value="模板生成" />
       <item value="Thymeleaf " />
-      <item value="Velocity" />
-      <item value="AutoFill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1521" />
-        <entry key="ENGLISH" value="1861" />
+        <entry key="CHINESE" value="1523" />
+        <entry key="ENGLISH" value="1863" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
