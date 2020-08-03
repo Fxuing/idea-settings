@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="environment Prepared" />
       <item value="Non-static method 'setActiveProfiles(java.lang.String...)' cannot be referenced from a static context" />
       <item value="directory is not exists, create directorying" />
       <item value="directory" />
@@ -50,12 +51,11 @@
       <item value="camel Name" />
       <item value="驼峰" />
       <item value="filds" />
-      <item value="ClassLoader resource &quot;model.txt&quot; could not be resolved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1544" />
-        <entry key="ENGLISH" value="1875" />
+        <entry key="CHINESE" value="1545" />
+        <entry key="ENGLISH" value="1876" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
