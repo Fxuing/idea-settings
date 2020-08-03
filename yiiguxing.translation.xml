@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directory is not exists, create directorying" />
       <item value="directory" />
       <item value="目录" />
+      <item value="assert" />
+      <item value="Result of 'File.mkdir()' is ignored" />
       <item value="Actual value of parameter 'template' is always 'Template.CONTROLLER'" />
       <item value="Cannot assign a value to final variable 'CONFIG'" />
       <item value="Variable 'CONFIG' might not have been initialized" />
@@ -48,14 +51,11 @@
       <item value="filds" />
       <item value="ClassLoader resource &quot;model.txt&quot; could not be resolved" />
       <item value="An error happened during template parsing (template: &quot;model.txt&quot;)" />
-      <item value="Template engine has already been initialized (probably because it has already been executed or a fully-built Configuration object has been requested from it. At this state, no modifications on its configuration are allowed." />
-      <item value="Template engine has already been initialized" />
-      <item value="Error resolving template [model.java]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1538" />
-        <entry key="ENGLISH" value="1872" />
+        <entry key="CHINESE" value="1543" />
+        <entry key="ENGLISH" value="1875" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
