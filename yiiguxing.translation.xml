@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preserve" />
+      <item value="OfflinePreserve" />
+      <item value="currentOfflinePreserve" />
+      <item value="'request' may have 'nil' or other unexpected value as its corresponding error variable may be not 'nil' " />
+      <item value="预约" />
       <item value="environment Prepared" />
       <item value="Non-static method 'setActiveProfiles(java.lang.String...)' cannot be referenced from a static context" />
       <item value="directory is not exists, create directorying" />
@@ -46,16 +51,11 @@
       <item value="enterprise Name" />
       <item value="Loan issuance amount" />
       <item value="贷款发放金额" />
-      <item value="贷款发放时间" />
-      <item value="get Window Size" />
-      <item value="camel Name" />
-      <item value="驼峰" />
-      <item value="filds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1545" />
-        <entry key="ENGLISH" value="1876" />
+        <entry key="CHINESE" value="1549" />
+        <entry key="ENGLISH" value="1877" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
