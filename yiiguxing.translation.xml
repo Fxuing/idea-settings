@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Body has token " />
       <item value="SOURCE INFORMATION" />
       <item value="source Information" />
       <item value="Preserve" />
@@ -50,11 +51,10 @@
       <item value="Capitalize" />
       <item value="Capitalize the first letter" />
       <item value="首字母大写" />
-      <item value="enterprise Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1556" />
+        <entry key="CHINESE" value="1557" />
         <entry key="ENGLISH" value="1883" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
