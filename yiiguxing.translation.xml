@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TinyValidator " />
+      <item value="// info, success, redirection, clientError,  serverError, are other variants" />
+      <item value="// assert that the status code is 200" />
+      <item value="// pm.response.to.be* 示例 pm.test(&quot;response must be valid and have a body&quot;, function () {      // assert that the status code is 200      pm.response.to.be.ok; // info, success, redirection, clientError,  serverError, are other variants      // assert that the response has a valid JSON body      pm.response.to.be.withBody;      pm.response.to.be.json; // this assertion also checks if a body  exists, so the above check is not needed });" />
+      <item value="assertions " />
+      <item value="expect" />
+      <item value="status is | AssertionError: expected '3035' to deeply equal '1' " />
+      <item value="An error occurred while running test scripts for this request. Check Postman Console for more info. " />
       <item value="Body has token " />
       <item value="SOURCE INFORMATION" />
       <item value="source Information" />
@@ -43,19 +51,11 @@
       <item value="Generate" />
       <item value="'return' is unnecessary as the last statement in a 'void' method" />
       <item value="左括号" />
-      <item value="Contents of collection 'TYPE_MAPPER' are updated, but never queried" />
-      <item value="默认值" />
-      <item value="是否为空" />
-      <item value="first" />
-      <item value="letter" />
-      <item value="Capitalize" />
-      <item value="Capitalize the first letter" />
-      <item value="首字母大写" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1557" />
-        <entry key="ENGLISH" value="1883" />
+        <entry key="CHINESE" value="1565" />
+        <entry key="ENGLISH" value="1884" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
