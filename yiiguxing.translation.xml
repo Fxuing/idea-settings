@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected 17 arguments but found 16" />
       <item value="TinyValidator " />
       <item value="// info, success, redirection, clientError,  serverError, are other variants" />
       <item value="// assert that the status code is 200" />
@@ -50,11 +51,10 @@
       <item value="contants" />
       <item value="Generate" />
       <item value="'return' is unnecessary as the last statement in a 'void' method" />
-      <item value="左括号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1565" />
+        <entry key="CHINESE" value="1566" />
         <entry key="ENGLISH" value="1884" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
