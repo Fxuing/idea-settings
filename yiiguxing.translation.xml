@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="white" />
       <item value="Column contacts_phone must be either aggregated, or mentioned in GROUP BY clause" />
       <item value="Manual import" />
       <item value="手动导入" />
@@ -50,11 +51,10 @@
       <item value="Private field 'value' is assigned but never accessed" />
       <item value="增 删 改 查" />
       <item value="增" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1569" />
+        <entry key="CHINESE" value="1570" />
         <entry key="ENGLISH" value="1885" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
