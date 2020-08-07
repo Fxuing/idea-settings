@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'List&lt;String&gt;' may not contain objects of type 'List&lt;String&gt;'" />
+      <item value="校验" />
       <item value="white" />
       <item value="Column contacts_phone must be either aggregated, or mentioned in GROUP BY clause" />
       <item value="Manual import" />
@@ -49,13 +51,11 @@
       <item value="trees" />
       <item value="Dangling Javadoc comment" />
       <item value="Private field 'value' is assigned but never accessed" />
-      <item value="增 删 改 查" />
-      <item value="增" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1570" />
-        <entry key="ENGLISH" value="1885" />
+        <entry key="CHINESE" value="1572" />
+        <entry key="ENGLISH" value="1886" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
