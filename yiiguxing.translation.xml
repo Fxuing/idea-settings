@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Search the selected text using any online search engine." />
       <item value="extra" />
       <item value="'List&lt;String&gt;' may not contain objects of type 'List&lt;String&gt;'" />
       <item value="校验" />
@@ -50,11 +51,10 @@
       <item value="model Name Lower" />
       <item value="小写" />
       <item value="trees" />
-      <item value="Dangling Javadoc comment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1573" />
+        <entry key="CHINESE" value="1574" />
         <entry key="ENGLISH" value="1886" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
