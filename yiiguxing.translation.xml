@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve symbol 'secret'" />
+      <item value="Cannot infer argument types" />
+      <item value="supernova" />
       <item value="Cannot return a value from a method with void result type" />
       <item value="simple" />
       <item value="Unable to start the Python language server.  " />
@@ -48,13 +51,10 @@
       <item value="ognl.ParseException: Encountered &quot; &lt;IDENT&gt; &quot;ne &quot;&quot; at line 1, column 15." />
       <item value="Exception evaluating OGNL expression: &quot;iterStat.last ne true&quot; (template: &quot;mapper.txt&quot; - line 8, col 46)" />
       <item value="An error happened during template parsing (template: &quot;templates/mapper.txt&quot;)" />
-      <item value="set Resolvable Patterns" />
-      <item value="Operation not allowed after ResultSet closed" />
-      <item value="connect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1582" />
+        <entry key="CHINESE" value="1585" />
         <entry key="ENGLISH" value="1886" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
