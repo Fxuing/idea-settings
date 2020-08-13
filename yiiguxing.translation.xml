@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="we cannot found more information of it" />
+      <item value="we cannot found more information of it, you've better to make it a JavaBean" />
       <item value="parse Class Node By Type" />
       <item value="filed Node" />
       <item value="required" />
@@ -49,13 +51,11 @@
       <item value="directory is not exists, create directorying" />
       <item value="directory" />
       <item value="目录" />
-      <item value="assert" />
-      <item value="Result of 'File.mkdir()' is ignored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1594" />
-        <entry key="ENGLISH" value="1893" />
+        <entry key="CHINESE" value="1596" />
+        <entry key="ENGLISH" value="1895" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
