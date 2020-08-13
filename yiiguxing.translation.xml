@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="13:35:48: Executing task 'uploadArchives'... &gt; Task :library:compileJava UP-TO-DATE &gt; Task :library:processResources UP-TO-DATE &gt; Task :library:classes UP-TO-DATE &gt; Task :library:jar UP-TO-DATE &gt; Task :library:javadoc UP-TO-DATE &gt; Task :library:javadocJar UP-TO-DATE &gt; Task :library:sourcesJar UP-TO-DATE &gt; Task :library:signArchives SKIPPED &gt; Task :library:uploadArchives Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0. See https://docs.gradle.org/4.8.1/userguide/command_line_interface.html#sec:command_line_warnings BUILD SUCCESSFUL in 1s 7 actionable tasks: 1 executed, 6 up-to-date 13:35:50: Task execution finished 'uploadArchives'." />
+      <item value="ERROR: Unknown host 'nexus.o-banks.cn'. You may need to adjust the proxy settings in Gradle." />
       <item value="com.github.javaparser.ast.type.VoidType cannot be cast to com.github.javaparser.ast.type.ClassOrInterfaceType" />
       <item value="No suspicious code found. 25 files processed in 'Selected files'." />
       <item value="underline To Hump" />
@@ -49,13 +51,11 @@
       <item value="Actual value of parameter 'template' is always 'Template.CONTROLLER'" />
       <item value="Cannot assign a value to final variable 'CONFIG'" />
       <item value="Variable 'CONFIG' might not have been initialized" />
-      <item value="Could not autowire. No beans of 'GenerateConfig' type found." />
-      <item value="MemberAccess implementation must be provided!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1589" />
-        <entry key="ENGLISH" value="1888" />
+        <entry key="CHINESE" value="1591" />
+        <entry key="ENGLISH" value="1890" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
