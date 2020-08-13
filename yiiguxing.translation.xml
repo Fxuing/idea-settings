@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.github.javaparser.ast.type.VoidType cannot be cast to com.github.javaparser.ast.type.ClassOrInterfaceType" />
       <item value="No suspicious code found. 25 files processed in 'Selected files'." />
       <item value="underline To Hump" />
       <item value="Cannot resolve symbol 'secret'" />
@@ -50,12 +51,11 @@
       <item value="Variable 'CONFIG' might not have been initialized" />
       <item value="Could not autowire. No beans of 'GenerateConfig' type found." />
       <item value="MemberAccess implementation must be provided!" />
-      <item value="ognl.ParseException: Encountered &quot; &lt;IDENT&gt; &quot;ne &quot;&quot; at line 1, column 15." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1588" />
-        <entry key="ENGLISH" value="1887" />
+        <entry key="CHINESE" value="1589" />
+        <entry key="ENGLISH" value="1888" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
