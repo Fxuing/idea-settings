@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="age" />
       <item value="generate Sql Script" />
       <item value="Error:Module 'code-generate' production: java.lang.ClassCastException: org.jetbrains.jps.builders.java.dependencyView.TypeRepr$PrimitiveType cannot be cast to org.jetbrains.jps.builders.java.dependencyView.TypeRepr$ClassType" />
       <item value="Raw use of parameterized class 'Result'" />
@@ -50,12 +51,11 @@
       <item value="assertions " />
       <item value="expect" />
       <item value="status is | AssertionError: expected '3035' to deeply equal '1' " />
-      <item value="An error occurred while running test scripts for this request. Check Postman Console for more info. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1613" />
-        <entry key="ENGLISH" value="1907" />
+        <entry key="CHINESE" value="1614" />
+        <entry key="ENGLISH" value="1908" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
