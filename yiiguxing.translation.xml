@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="doesn't exist" />
+      <item value="is not exist" />
+      <item value="存在" />
       <item value="Map's key can only use String for json,but you use java.lang.Object" />
       <item value="for method searchByEnt in com.obanks.fop.controller.AssetsCreditorController,@RequestBody annotation could only bind one variables." />
       <item value="must be add comment if you use it." />
@@ -48,14 +51,11 @@
       <item value="OfflinePreserve" />
       <item value="currentOfflinePreserve" />
       <item value="'request' may have 'nil' or other unexpected value as its corresponding error variable may be not 'nil' " />
-      <item value="预约" />
-      <item value="environment Prepared" />
-      <item value="Non-static method 'setActiveProfiles(java.lang.String...)' cannot be referenced from a static context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1602" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1605" />
+        <entry key="ENGLISH" value="1903" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
