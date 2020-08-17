@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stream" />
       <item value="description" />
       <item value="deprecated" />
       <item value="Raw use of parameterized class 'Result'" />
@@ -50,11 +51,10 @@
       <item value="手动导入" />
       <item value="Expected 17 arguments but found 16" />
       <item value="TinyValidator " />
-      <item value="// info, success, redirection, clientError,  serverError, are other variants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1621" />
+        <entry key="CHINESE" value="1622" />
         <entry key="ENGLISH" value="1914" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
