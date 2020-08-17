@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="getWriter() has already been called for this response" />
       <item value="stream" />
       <item value="description" />
       <item value="deprecated" />
@@ -50,12 +51,11 @@
       <item value="Manual import" />
       <item value="手动导入" />
       <item value="Expected 17 arguments but found 16" />
-      <item value="TinyValidator " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1622" />
-        <entry key="ENGLISH" value="1914" />
+        <entry key="CHINESE" value="1623" />
+        <entry key="ENGLISH" value="1915" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
