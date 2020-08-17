@@ -178,9 +178,13 @@
           <option name="url" value="http://gitlab.o-banks.cn" />
           <option name="userName" value="houfx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/supernova/odp-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\javaworkspace" />
+    <option name="cloneParentDir" value="F:\web_workapace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
