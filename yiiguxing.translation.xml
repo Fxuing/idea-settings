@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compared" />
       <item value="ueat" />
       <item value="至尊" />
       <item value="getWriter() has already been called for this response" />
@@ -50,11 +51,10 @@
       <item value="校验" />
       <item value="white" />
       <item value="Column contacts_phone must be either aggregated, or mentioned in GROUP BY clause" />
-      <item value="Manual import" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1625" />
+        <entry key="CHINESE" value="1626" />
         <entry key="ENGLISH" value="1916" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
