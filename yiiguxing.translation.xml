@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contract Upload" />
+      <item value="End" />
+      <item value="creditunionsonline" />
+      <item value="loan-funding-date" />
+      <item value="credit Amount" />
+      <item value="金额" />
+      <item value="amount" />
+      <item value="Quota" />
+      <item value="额度" />
+      <item value="授信" />
       <item value="数据反馈" />
       <item value="Data reporting" />
       <item value="数据上报" />
@@ -41,21 +51,11 @@
       <item value="存在" />
       <item value="Map's key can only use String for json,but you use java.lang.Object" />
       <item value="for method searchByEnt in com.obanks.fop.controller.AssetsCreditorController,@RequestBody annotation could only bind one variables." />
-      <item value="must be add comment if you use it." />
-      <item value="we cannot found more information of it" />
-      <item value="we cannot found more information of it, you've better to make it a JavaBean" />
-      <item value="parse Class Node By Type" />
-      <item value="filed Node" />
-      <item value="required" />
-      <item value="13:35:48: Executing task 'uploadArchives'... &gt; Task :library:compileJava UP-TO-DATE &gt; Task :library:processResources UP-TO-DATE &gt; Task :library:classes UP-TO-DATE &gt; Task :library:jar UP-TO-DATE &gt; Task :library:javadoc UP-TO-DATE &gt; Task :library:javadocJar UP-TO-DATE &gt; Task :library:sourcesJar UP-TO-DATE &gt; Task :library:signArchives SKIPPED &gt; Task :library:uploadArchives Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0. See https://docs.gradle.org/4.8.1/userguide/command_line_interface.html#sec:command_line_warnings BUILD SUCCESSFUL in 1s 7 actionable tasks: 1 executed, 6 up-to-date 13:35:50: Task execution finished 'uploadArchives'." />
-      <item value="ERROR: Unknown host 'nexus.o-banks.cn'. You may need to adjust the proxy settings in Gradle." />
-      <item value="com.github.javaparser.ast.type.VoidType cannot be cast to com.github.javaparser.ast.type.ClassOrInterfaceType" />
-      <item value="No suspicious code found. 25 files processed in 'Selected files'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1643" />
-        <entry key="ENGLISH" value="1924" />
+        <entry key="CHINESE" value="1649" />
+        <entry key="ENGLISH" value="1928" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
