@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
       <item value="contract Upload" />
       <item value="End" />
       <item value="creditunionsonline" />
@@ -50,12 +51,11 @@
       <item value="is not exist" />
       <item value="存在" />
       <item value="Map's key can only use String for json,but you use java.lang.Object" />
-      <item value="for method searchByEnt in com.obanks.fop.controller.AssetsCreditorController,@RequestBody annotation could only bind one variables." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1649" />
-        <entry key="ENGLISH" value="1928" />
+        <entry key="CHINESE" value="1650" />
+        <entry key="ENGLISH" value="1929" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
