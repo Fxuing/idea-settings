@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate Map key" />
       <item value="contract Id" />
       <item value="contact Phone" />
       <item value="信用代码" />
@@ -50,11 +51,10 @@
       <item value="Cannot return a value from a method with void result type" />
       <item value="simple" />
       <item value="Unable to start the Python language server.  " />
-      <item value="Register as default atom:// URI handler?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1637" />
+        <entry key="CHINESE" value="1638" />
         <entry key="ENGLISH" value="1921" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
