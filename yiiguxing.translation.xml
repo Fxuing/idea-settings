@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contract Id" />
+      <item value="contact Phone" />
+      <item value="信用代码" />
       <item value="ENOTFOUND" />
       <item value="getaddrinfo ENOTFOUND www.fxuing.tophttps" />
       <item value="Error: getaddrinfo ENOTFOUND www.fxuing.tophttps" />
@@ -48,14 +51,11 @@
       <item value="simple" />
       <item value="Unable to start the Python language server.  " />
       <item value="Register as default atom:// URI handler?" />
-      <item value="goldline" />
-      <item value="gold" />
-      <item value="Method invocation 'getSocialCreditCode' may produce 'NullPointerException'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1634" />
-        <entry key="ENGLISH" value="1918" />
+        <entry key="CHINESE" value="1637" />
+        <entry key="ENGLISH" value="1921" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
