@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数据反馈" />
+      <item value="Data reporting" />
+      <item value="数据上报" />
+      <item value="提交" />
+      <item value="Obtain" />
+      <item value="获取" />
+      <item value="数据获取" />
       <item value="Duplicate Map key" />
       <item value="contract Id" />
       <item value="contact Phone" />
@@ -44,18 +51,11 @@
       <item value="ERROR: Unknown host 'nexus.o-banks.cn'. You may need to adjust the proxy settings in Gradle." />
       <item value="com.github.javaparser.ast.type.VoidType cannot be cast to com.github.javaparser.ast.type.ClassOrInterfaceType" />
       <item value="No suspicious code found. 25 files processed in 'Selected files'." />
-      <item value="underline To Hump" />
-      <item value="Cannot resolve symbol 'secret'" />
-      <item value="Cannot infer argument types" />
-      <item value="supernova" />
-      <item value="Cannot return a value from a method with void result type" />
-      <item value="simple" />
-      <item value="Unable to start the Python language server.  " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1638" />
-        <entry key="ENGLISH" value="1921" />
+        <entry key="CHINESE" value="1643" />
+        <entry key="ENGLISH" value="1924" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
