@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite Service" />
       <item value="Unchecked call to 'batchInsert(List&lt;T&gt;)' as a member of raw type 'com.obanks.bocagent.service" />
       <item value="Mentioning" />
       <item value="提数中" />
@@ -50,12 +51,11 @@
       <item value="Attribute name cannot be null or empty" />
       <item value="age" />
       <item value="generate Sql Script" />
-      <item value="Error:Module 'code-generate' production: java.lang.ClassCastException: org.jetbrains.jps.builders.java.dependencyView.TypeRepr$PrimitiveType cannot be cast to org.jetbrains.jps.builders.java.dependencyView.TypeRepr$ClassType" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1659" />
-        <entry key="ENGLISH" value="1935" />
+        <entry key="CHINESE" value="1660" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
