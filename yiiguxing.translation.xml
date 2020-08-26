@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve configuration property 'sign.appId'" />
+      <item value="秘钥" />
       <item value="Columns" />
       <item value="Colunms" />
       <item value="Cannot resolve method 'parseObject(com.obanks.bocagent.vo.Request&lt;T&gt;)'" />
-      <item value="秘钥" />
       <item value="constant" />
       <item value="contract Upload" />
       <item value="End" />
@@ -50,12 +51,11 @@
       <item value="FAIL" />
       <item value="auto Increment" />
       <item value="decimals" />
-      <item value="小数点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1654" />
-        <entry key="ENGLISH" value="1932" />
+        <entry key="CHINESE" value="1656" />
+        <entry key="ENGLISH" value="1933" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
