@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UPDATE command denied to user 'boc_logic'@'192.168.10.178' for table 't_corp_blankcheckblacklist'" />
       <item value="Composite Service" />
       <item value="Unchecked call to 'batchInsert(List&lt;T&gt;)' as a member of raw type 'com.obanks.bocagent.service" />
       <item value="Mentioning" />
@@ -50,12 +51,11 @@
       <item value="An error happened during template parsing (template: &quot;templates/sql.txt&quot;)" />
       <item value="Attribute name cannot be null or empty" />
       <item value="age" />
-      <item value="generate Sql Script" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1660" />
-        <entry key="ENGLISH" value="1936" />
+        <entry key="CHINESE" value="1662" />
+        <entry key="ENGLISH" value="1937" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
