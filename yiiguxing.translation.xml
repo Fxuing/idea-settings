@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cur Execute Count" />
       <item value="间隔" />
       <item value="create Time" />
       <item value="max Execute Count" />
@@ -50,12 +51,11 @@
       <item value="至尊" />
       <item value="stream" />
       <item value="description" />
-      <item value="deprecated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1668" />
-        <entry key="ENGLISH" value="1942" />
+        <entry key="CHINESE" value="1669" />
+        <entry key="ENGLISH" value="1943" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
