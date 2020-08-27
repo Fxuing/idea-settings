@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scheduler has been started, please stop it first!" />
       <item value="Id [task_null] has been existed!" />
       <item value="The value changed at 'curExecuteCount++' is never used" />
       <item value="Actual value of parameter 'isFirst' is always 'true'" />
@@ -50,12 +51,11 @@
       <item value="getWriter() has already been called for this response" />
       <item value="Property or method &quot;visible&quot; is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties." />
       <item value="e method's class, com.google.common.net.HostAndPort, is available from the following locations:" />
-      <item value="compared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1674" />
-        <entry key="ENGLISH" value="1946" />
+        <entry key="CHINESE" value="1675" />
+        <entry key="ENGLISH" value="1947" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
