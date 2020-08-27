@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Time" />
+      <item value="max Execute Count" />
+      <item value="Job Task" />
+      <item value="描述" />
       <item value="UPDATE command denied to user 'boc_logic'@'192.168.10.178' for table 't_corp_blankcheckblacklist'" />
       <item value="Composite Service" />
       <item value="Unchecked call to 'batchInsert(List&lt;T&gt;)' as a member of raw type 'com.obanks.bocagent.service" />
@@ -47,15 +51,11 @@
       <item value="description" />
       <item value="deprecated" />
       <item value="Raw use of parameterized class 'Result'" />
-      <item value="Could not parse as expression: &quot;${sqlInfos}]&quot; (template: &quot;sql.txt&quot; - line 1, col 32)" />
-      <item value="An error happened during template parsing (template: &quot;templates/sql.txt&quot;)" />
-      <item value="Attribute name cannot be null or empty" />
-      <item value="age" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1662" />
-        <entry key="ENGLISH" value="1937" />
+        <entry key="CHINESE" value="1667" />
+        <entry key="ENGLISH" value="1941" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
