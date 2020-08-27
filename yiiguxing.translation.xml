@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="秒" />
+      <item value="分钟" />
+      <item value="second Cannot be less than zero" />
+      <item value="不能小于零" />
+      <item value="Secoud To Ymd" />
+      <item value="Secoud" />
       <item value="Scheduler has been started, please stop it first!" />
       <item value="Id [task_null] has been existed!" />
       <item value="The value changed at 'curExecuteCount++' is never used" />
@@ -45,23 +51,17 @@
       <item value="contact Phone" />
       <item value="信用代码" />
       <item value="ENOTFOUND" />
-      <item value="getaddrinfo ENOTFOUND www.fxuing.tophttps" />
-      <item value="Error: getaddrinfo ENOTFOUND www.fxuing.tophttps" />
-      <item value="You are binding v-model directly to a v-for iteration alias. This will not be able to modify the v-for source array because writing to the alias is like modifying a function local variable. Consider using an array of objects and use v-model on an object property instead." />
-      <item value="getWriter() has already been called for this response" />
-      <item value="Property or method &quot;visible&quot; is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties." />
-      <item value="e method's class, com.google.common.net.HostAndPort, is available from the following locations:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1675" />
-        <entry key="ENGLISH" value="1947" />
+        <entry key="CHINESE" value="1683" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
-        <entry key="FRENCH" value="7" />
+        <entry key="FRENCH" value="8" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALTESE" value="1" />
