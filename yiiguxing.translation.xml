@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比较" />
+      <item value="compile" />
       <item value="Duplicated code fragment (5 lines long)" />
       <item value="增量" />
       <item value="存量" />
@@ -49,13 +51,11 @@
       <item value="提交" />
       <item value="Obtain" />
       <item value="获取" />
-      <item value="数据获取" />
-      <item value="Duplicate Map key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1684" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1686" />
+        <entry key="ENGLISH" value="1954" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
