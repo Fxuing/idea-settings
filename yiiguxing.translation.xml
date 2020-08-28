@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="哈希不一致，更新数据" />
       <item value="compare hash" />
       <item value="比较" />
       <item value="compile" />
@@ -50,12 +51,11 @@
       <item value="Data reporting" />
       <item value="数据上报" />
       <item value="提交" />
-      <item value="Obtain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1687" />
-        <entry key="ENGLISH" value="1955" />
+        <entry key="CHINESE" value="1688" />
+        <entry key="ENGLISH" value="1956" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
