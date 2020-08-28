@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增量" />
+      <item value="存量" />
+      <item value="存了" />
       <item value="秒" />
       <item value="分钟" />
       <item value="second Cannot be less than zero" />
@@ -48,9 +51,6 @@
       <item value="数据获取" />
       <item value="Duplicate Map key" />
       <item value="contract Id" />
-      <item value="contact Phone" />
-      <item value="信用代码" />
-      <item value="ENOTFOUND" />
     </histories>
     <option name="languageScores">
       <map>
