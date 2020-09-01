@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Columns" />
+      <item value="Tencent" />
       <item value="腾讯" />
       <item value="com.qcloud.cos.exception.CosClientException: iis-1254325158.cos.ap-guangzhou.myqcloud.com" />
       <item value="Closing expired connections" />
@@ -49,13 +51,11 @@
       <item value="Composite Service" />
       <item value="Unchecked call to 'batchInsert(List&lt;T&gt;)' as a member of raw type 'com.obanks.bocagent.service" />
       <item value="Mentioning" />
-      <item value="提数中" />
-      <item value="Cannot resolve configuration property 'sign.appId'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1709" />
-        <entry key="ENGLISH" value="1970" />
+        <entry key="CHINESE" value="1711" />
+        <entry key="ENGLISH" value="1972" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
