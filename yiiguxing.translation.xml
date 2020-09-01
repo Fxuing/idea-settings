@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bucket name only should contain lowercase characters, num and -" />
+      <item value="Condition 'SUCCESS.equals(cosTokenDTO)' is always 'false'" />
+      <item value="Cannot return a value from a method with void result type" />
       <item value="Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'file' is not present]" />
       <item value="Expected 0 arguments but found 4" />
       <item value="no valid secret !" />
@@ -48,14 +51,11 @@
       <item value="The value changed at 'curExecuteCount++' is never used" />
       <item value="Actual value of parameter 'isFirst' is always 'true'" />
       <item value="is First" />
-      <item value="cur Execute Count" />
-      <item value="间隔" />
-      <item value="create Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1718" />
-        <entry key="ENGLISH" value="1978" />
+        <entry key="CHINESE" value="1721" />
+        <entry key="ENGLISH" value="1979" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
