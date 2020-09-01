@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual value of parameter 'allowPrefix' is always ''" />
       <item value="下划线" />
       <item value="upload to tencent cos error" />
       <item value="tencent" />
@@ -50,11 +51,10 @@
       <item value="不能小于零" />
       <item value="Secoud To Ymd" />
       <item value="Secoud" />
-      <item value="Scheduler has been started, please stop it first!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1725" />
+        <entry key="CHINESE" value="1726" />
         <entry key="ENGLISH" value="1982" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
