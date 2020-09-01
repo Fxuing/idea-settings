@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.qcloud.cos.exception.CosClientException: iis-1254325158.cos.ap-guangzhou.myqcloud.com" />
+      <item value="Closing expired connections" />
+      <item value="secret Key" />
+      <item value="access Key" />
       <item value="腾讯" />
       <item value="expiration Date" />
       <item value="approval Date" />
@@ -47,15 +51,11 @@
       <item value="Mentioning" />
       <item value="提数中" />
       <item value="Cannot resolve configuration property 'sign.appId'" />
-      <item value="秘钥" />
-      <item value="Columns" />
-      <item value="Colunms" />
-      <item value="Cannot resolve method 'parseObject(com.obanks.bocagent.vo.Request&lt;T&gt;)'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1704" />
-        <entry key="ENGLISH" value="1966" />
+        <entry key="CHINESE" value="1708" />
+        <entry key="ENGLISH" value="1969" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
@@ -66,7 +66,7 @@
         <entry key="ROMANIAN" value="4" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAY" value="3" />
-        <entry key="PORTUGUESE" value="6" />
+        <entry key="PORTUGUESE" value="7" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="SPANISH" value="3" />
