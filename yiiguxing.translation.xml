@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected 0 arguments but found 4" />
+      <item value="no valid secret !" />
+      <item value="List Parts" />
+      <item value="Initiate Multipart Upload" />
+      <item value="allow Actions" />
+      <item value="ALLOW PREFIX" />
       <item value="Columns" />
       <item value="Tencent" />
       <item value="腾讯" />
@@ -45,17 +51,11 @@
       <item value="间隔" />
       <item value="create Time" />
       <item value="max Execute Count" />
-      <item value="Job Task" />
-      <item value="描述" />
-      <item value="UPDATE command denied to user 'boc_logic'@'192.168.10.178' for table 't_corp_blankcheckblacklist'" />
-      <item value="Composite Service" />
-      <item value="Unchecked call to 'batchInsert(List&lt;T&gt;)' as a member of raw type 'com.obanks.bocagent.service" />
-      <item value="Mentioning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1711" />
-        <entry key="ENGLISH" value="1972" />
+        <entry key="CHINESE" value="1717" />
+        <entry key="ENGLISH" value="1977" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
