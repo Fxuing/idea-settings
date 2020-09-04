@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type Mismatch" />
       <item value="error: can not execute. because can not find column for id from entity!" />
       <item value="typeMismatch" />
       <item value="Executor" />
@@ -50,12 +51,11 @@
       <item value="存了" />
       <item value="秒" />
       <item value="分钟" />
-      <item value="second Cannot be less than zero" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1729" />
-        <entry key="ENGLISH" value="1984" />
+        <entry key="CHINESE" value="1730" />
+        <entry key="ENGLISH" value="1985" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
