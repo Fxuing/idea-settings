@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No validator could be found for constraint 'org.hibernate.validator.constraints.Length' validating type 'java.lang.Integer'. Check configuration for 'level'" />
+      <item value="menu" />
       <item value="Method 'save()' recurses infinitely, and can only end by throwing an exception" />
       <item value="存在" />
       <item value="SYS CODE IS EXTENTS" />
@@ -49,13 +51,11 @@
       <item value="Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'file' is not present]" />
       <item value="Expected 0 arguments but found 4" />
       <item value="no valid secret !" />
-      <item value="List Parts" />
-      <item value="Initiate Multipart Upload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1763" />
-        <entry key="ENGLISH" value="2007" />
+        <entry key="CHINESE" value="1765" />
+        <entry key="ENGLISH" value="2008" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
