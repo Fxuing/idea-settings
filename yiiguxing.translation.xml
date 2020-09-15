@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method 'save()' recurses infinitely, and can only end by throwing an exception" />
       <item value="存在" />
       <item value="SYS CODE IS EXTENTS" />
       <item value="constant" />
@@ -50,11 +51,10 @@
       <item value="no valid secret !" />
       <item value="List Parts" />
       <item value="Initiate Multipart Upload" />
-      <item value="allow Actions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1762" />
+        <entry key="CHINESE" value="1763" />
         <entry key="ENGLISH" value="2007" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
