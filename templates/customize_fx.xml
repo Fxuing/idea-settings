@@ -61,4 +61,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="_mapstruct" value="$CLASS_NAME$ INSTANCE = Mappers.getMapper($CLASS_NAME$.class);" description="map struct covert" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
