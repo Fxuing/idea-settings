@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="启用" />
+      <item value="enable" />
       <item value="third part" />
       <item value="第三方" />
       <item value="third" />
@@ -49,13 +51,11 @@
       <item value="typeMismatch" />
       <item value="Executor" />
       <item value="Actual value of parameter 'allowPrefix' is always ''" />
-      <item value="下划线" />
-      <item value="upload to tencent cos error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1775" />
-        <entry key="ENGLISH" value="2014" />
+        <entry key="CHINESE" value="1777" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
