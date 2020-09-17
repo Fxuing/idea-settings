@@ -1,9 +1,7 @@
 <templateSet group="customize_fx">
-  <template name="_ResultData" value="@RequestMapping(method = RequestMethod.$TYPE$, value = &quot;$REQUESTMAPPING$&quot;)&#10;@ResponseBody&#10;public ResultData $METHOD$($PARAMS$){&#10;    ResultData result = new ResultData();&#10;    result.setResult(ResponseStatus.SUCCEED);&#10;    try{&#10;        $END$&#10;    }catch(ServiceException e){&#10;        LOG.error(e.getCode() + &quot;:&quot; + e.getDesc(), e);&#10;        result.setResult(ResponseStatus.FAILED);&#10;    }&#10;    return result;&#10;}" description="生成ResultData" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="&quot;POST&quot;" alwaysStopAt="true" />
-    <variable name="REQUESTMAPPING" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <variable name="METHOD" expression="groovyScript(&quot;return \&quot;${_1}\&quot;&quot;, REQUESTMAPPING)" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="_resultData" value="@PostMapping(&quot;$MAPPING$&quot;)&#10;public ResultData $method$(@RequestBody Request request) {&#10;    $END$&#10;    return ResultData.success();&#10;}" description="生成ResultData" toReformat="false" toShortenFQNames="true">
+    <variable name="MAPPING" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -50,13 +48,6 @@
   </template>
   <template name="_checkParam" value="if (super.checkParamIsEmpty(result, $PARAM$)) {&#10;    return result;&#10;}" description="检查参数为空" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="_resultData" value="@RequestMapping(value = &quot;$method$&quot; ,method = RequestMethod.POST)&#10;public ResultData $method$(@RequestBody Request request) throws Exception{&#10;    ResultData result = new ResultData();&#10;    result.setResult(ResponseStatus.SUCCEED);&#10;    try {&#10;        $end$&#10;    } catch (Exception e) {&#10;        throw new Exception(e.getCause());&#10;    }&#10;    return result;&#10;}" description="生产resultData" toReformat="false" toShortenFQNames="true">
-    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
