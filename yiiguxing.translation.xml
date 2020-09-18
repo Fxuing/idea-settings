@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expired" />
+      <item value="过期" />
+      <item value="expert" />
+      <item value="Condition 'count.equals(Login.LOGIN_ERROR_COUNT)' is always 'false'" />
+      <item value="login error count" />
       <item value="unkown" />
       <item value="minute" />
       <item value="unlock Time" />
@@ -46,16 +51,11 @@
       <item value="AGENT_ERROR_TRANSPORT_LOAD(196): No transports initialized [debugInit.c:750]" />
       <item value="Error code 0x00000002," />
       <item value="An error occurred while trying to spawn child process!" />
-      <item value="An error occurred while trying to spawn child process! JRebel-JVMTI [FATAL] Error code 0x00000002, ϵͳ�Ҳ���ָ�����ļ���" />
-      <item value="Hex" />
-      <item value="transport library not found: dt_socket" />
-      <item value="JDWP Transport dt_socket failed to initialize, TRANSPORT_LOAD(509) JDWP exit error AGENT_ERROR_TRANSPORT_LOAD(196): No transports initialized [debugInit.c:750]" />
-      <item value="7: missing right parenthesis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1783" />
-        <entry key="ENGLISH" value="2022" />
+        <entry key="CHINESE" value="1788" />
+        <entry key="ENGLISH" value="2026" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
