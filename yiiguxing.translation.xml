@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Does the login name exist" />
+      <item value="登录名是否存在" />
+      <item value="acct Code Is Exist" />
       <item value="duck" />
       <item value="dark" />
       <item value="logout" />
@@ -48,13 +51,10 @@
       <item value="operator" />
       <item value="Emergency Publish" />
       <item value="Create item: testApolloApi for appId: user-rpc, cluster: default, namespace: application.properties in env: dev failed" />
-      <item value="Item created by should not be null or empty" />
-      <item value="domain" />
-      <item value="nnot find implementation for com.obanks.codegenerate.test.CovertBasic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1795" />
+        <entry key="CHINESE" value="1798" />
         <entry key="ENGLISH" value="2032" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
