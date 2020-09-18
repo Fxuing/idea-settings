@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duck" />
+      <item value="dark" />
       <item value="logout" />
       <item value="second" />
       <item value="Simple Authentication Info" />
@@ -49,12 +51,10 @@
       <item value="Item created by should not be null or empty" />
       <item value="domain" />
       <item value="nnot find implementation for com.obanks.codegenerate.test.CovertBasic" />
-      <item value="comment" />
-      <item value="dev directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1794" />
+        <entry key="CHINESE" value="1795" />
         <entry key="ENGLISH" value="2032" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
