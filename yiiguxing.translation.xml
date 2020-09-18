@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fast UUID" />
+      <item value="get Grant Ticket" />
       <item value="expired" />
       <item value="过期" />
       <item value="expert" />
@@ -49,13 +51,11 @@
       <item value="目录" />
       <item value="FATAL ERROR in native method: JDWP No transports initialized, jvmtiError=AGENT_ERROR_TRANSPORT_LOAD(196)" />
       <item value="AGENT_ERROR_TRANSPORT_LOAD(196): No transports initialized [debugInit.c:750]" />
-      <item value="Error code 0x00000002," />
-      <item value="An error occurred while trying to spawn child process!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1788" />
-        <entry key="ENGLISH" value="2026" />
+        <entry key="CHINESE" value="1790" />
+        <entry key="ENGLISH" value="2028" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
