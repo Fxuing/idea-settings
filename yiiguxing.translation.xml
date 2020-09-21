@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize Count Sql" />
+      <item value="is Search Count" />
+      <item value="hit Count" />
+      <item value="records" />
+      <item value="Cannot resolve constructor 'PageImpl()'" />
       <item value="Cannot read property 'focus' of undefined" />
       <item value="data functions should return an object:" />
       <item value="Does the login name exist" />
@@ -46,16 +51,11 @@
       <item value="Required type: SysInfo" />
       <item value="Unchecked cast: 'capture&lt;? extends java.lang.Object&gt;' to 'T'" />
       <item value="Table 'credential' doesn't exist" />
-      <item value="credential" />
-      <item value="权限" />
-      <item value="Auth" />
-      <item value="Authority" />
-      <item value="operator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1800" />
-        <entry key="ENGLISH" value="2032" />
+        <entry key="CHINESE" value="1805" />
+        <entry key="ENGLISH" value="2035" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
