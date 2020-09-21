@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot read property 'focus' of undefined" />
+      <item value="data functions should return an object:" />
       <item value="Does the login name exist" />
       <item value="登录名是否存在" />
       <item value="acct Code Is Exist" />
@@ -49,12 +51,10 @@
       <item value="Auth" />
       <item value="Authority" />
       <item value="operator" />
-      <item value="Emergency Publish" />
-      <item value="Create item: testApolloApi for appId: user-rpc, cluster: default, namespace: application.properties in env: dev failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1798" />
+        <entry key="CHINESE" value="1800" />
         <entry key="ENGLISH" value="2032" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
