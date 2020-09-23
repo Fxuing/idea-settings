@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The 'await' operator can only be used in an 'async' function" />
       <item value="Attempt to assign to const or readonly variable " />
       <item value="Parsing error: Identifier 'getRouters' has already been declared" />
       <item value="breadcrumb" />
@@ -50,11 +51,10 @@
       <item value="Method 'save()' recurses infinitely, and can only end by throwing an exception" />
       <item value="存在" />
       <item value="SYS CODE IS EXTENTS" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1813" />
+        <entry key="CHINESE" value="1814" />
         <entry key="ENGLISH" value="2039" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
