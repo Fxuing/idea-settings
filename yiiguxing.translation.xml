@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="data functions should return an object:" />
       <item value="export" />
       <item value="The 'await' operator can only be used in an 'async' function" />
       <item value="Attempt to assign to const or readonly variable " />
@@ -16,7 +17,6 @@
       <item value="records" />
       <item value="Cannot resolve constructor 'PageImpl()'" />
       <item value="Cannot read property 'focus' of undefined" />
-      <item value="data functions should return an object:" />
       <item value="Does the login name exist" />
       <item value="登录名是否存在" />
       <item value="acct Code Is Exist" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1815" />
+        <entry key="CHINESE" value="1816" />
         <entry key="ENGLISH" value="2039" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
