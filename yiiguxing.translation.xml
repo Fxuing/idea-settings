@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Line 4: error: bad operand types for binary operator" />
+      <item value="Line 4: error: bad operand types for binary operator '' for (int i = 0; i nums; i++) { ^ first type: int second type: int[] 测试用例:[3,2,2,3] 3 stdout:" />
       <item value="Memory leak detection has started...." />
       <item value="error: pathspec 'README.md'' did not match any file(s) known to git " />
       <item value="resolve" />
@@ -49,13 +51,11 @@
       <item value="third" />
       <item value="CUR SYS EXIST ROLE" />
       <item value="当前系统存在角色，请先删除角色" />
-      <item value="Bean with name 'roleInfoServiceImpl' has been injected into other beans [sysInfoServiceImpl] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
-      <item value="ignore Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1820" />
-        <entry key="ENGLISH" value="2039" />
+        <entry key="CHINESE" value="1822" />
+        <entry key="ENGLISH" value="2040" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
