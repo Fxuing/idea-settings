@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paginate before" />
+      <item value="paginate Point Cut" />
       <item value="aspect" />
       <item value="Around" />
       <item value="baseMapper in com.baomidou.mybatisplus.extension.service.impl.ServiceImpl required a single bean, but 8 were found:" />
@@ -49,13 +51,11 @@
       <item value="acct Code Is Exist" />
       <item value="duck" />
       <item value="dark" />
-      <item value="logout" />
-      <item value="second" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1848" />
-        <entry key="ENGLISH" value="2059" />
+        <entry key="CHINESE" value="1850" />
+        <entry key="ENGLISH" value="2061" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
