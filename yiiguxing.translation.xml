@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="when Not Black" />
+      <item value="new Instance" />
+      <item value="Property Mapper" />
+      <item value="don't known how to resole" />
+      <item value="Deprecated" />
+      <item value="since" />
+      <item value="Annotation that can be used in combination with {@code @RunWith(SpringRunner.class)}(JUnit 4) and * {@code @ExtendWith(SpringExtension.class)}(JUnit 5) for a typical mybatis test. Can be used when a test focuses * &lt;strong&gt;only&lt;/strong&gt; on mybatis-based components. Since 2.0.1, If you use this annotation on JUnit 5, * {@code @ExtendWith(SpringExtension.class)} can omit on your test class. * &lt;p&gt; * Using this annotation will disable full auto-configuration and instead apply only configuration relevant to mybatis * tests. * &lt;p&gt; * By default, tests annotated with {@code @MybatisTest} will use an embedded in-memory database (replacing any explicit * or usually auto-configured DataSource). The {@link AutoConfigureTestDatabase @AutoConfigureTestDatabase} annotation * can be used to override these settings. * &lt;p&gt; * If you are looking to load your full application configuration, but use an embedded database, you should consider * {@link SpringBootTest @SpringBootTest} combined with {@link AutoConfigureTestDatabase @AutoConfigureTestDatabase} * rather than this annotation." />
       <item value="java.sql.SQLException: No value specified for parameter 1" />
       <item value="parameterize" />
       <item value="prepare" />
@@ -44,18 +51,11 @@
       <item value="Default implementation of {@link UniqueTicketIdGenerator}. Implementation * utilizes a DefaultLongNumericGeneraor and a DefaultRandomStringGenerator to * construct the ticket id. * &lt;p&gt; * Tickets are of the form [PREFIX]-[SEQUENCE NUMBER]-[RANDOM STRING]-[SUFFIX] * &lt;/p&gt; * * @author Scott Battaglia * @version $Revision$ $Date$ * @since 3.0" />
       <item value="fast UUID" />
       <item value="get Grant Ticket" />
-      <item value="expired" />
-      <item value="过期" />
-      <item value="expert" />
-      <item value="Condition 'count.equals(Login.LOGIN_ERROR_COUNT)' is always 'false'" />
-      <item value="login error count" />
-      <item value="unkown" />
-      <item value="minute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1836" />
-        <entry key="ENGLISH" value="2049" />
+        <entry key="CHINESE" value="1843" />
+        <entry key="ENGLISH" value="2055" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
@@ -66,6 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MALTESE" value="1" />
+        <entry key="MALAYALAM" value="1" />
         <entry key="MALAY" value="3" />
         <entry key="PORTUGUESE" value="7" />
         <entry key="SCOTS_GAELIC" value="1" />
