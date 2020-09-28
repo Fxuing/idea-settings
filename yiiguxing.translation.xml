@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
+      <item value="equeal" />
+      <item value="like" />
+      <item value="between" />
+      <item value="字段" />
+      <item value="filed" />
       <item value="Invalid bound statement (not found): com.sz9hbank.auth.mapper.RoleInfoMapper.selectPageVo" />
       <item value="自定义" />
       <item value="Custom" />
@@ -45,17 +51,11 @@
       <item value="device Type" />
       <item value="USER MENU PREFIX" />
       <item value="item" />
-      <item value="menu" />
-      <item value="optimize Count Sql" />
-      <item value="is Search Count" />
-      <item value="hit Count" />
-      <item value="records" />
-      <item value="Cannot resolve constructor 'PageImpl()'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1857" />
-        <entry key="ENGLISH" value="2065" />
+        <entry key="CHINESE" value="1869" />
+        <entry key="ENGLISH" value="2072" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
