@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字母" />
+      <item value="下划线" />
       <item value="field To Lower" />
       <item value="field Tolower" />
       <item value="field 2 lower" />
@@ -49,13 +51,11 @@
       <item value="export" />
       <item value="The 'await' operator can only be used in an 'async' function" />
       <item value="Attempt to assign to const or readonly variable " />
-      <item value="Parsing error: Identifier 'getRouters' has already been declared" />
-      <item value="breadcrumb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1872" />
-        <entry key="ENGLISH" value="2075" />
+        <entry key="CHINESE" value="1873" />
+        <entry key="ENGLISH" value="2076" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
