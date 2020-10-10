@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread Local Util" />
       <item value="Type parameter 'T' hides type parameter 'T'" />
       <item value="custom Page" />
       <item value="sep" />
@@ -50,12 +51,11 @@
       <item value="Line 4: error: bad operand types for binary operator '' for (int i = 0; i nums; i++) { ^ first type: int second type: int[] 测试用例:[3,2,2,3] 3 stdout:" />
       <item value="Memory leak detection has started...." />
       <item value="error: pathspec 'README.md'' did not match any file(s) known to git " />
-      <item value="resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1876" />
-        <entry key="ENGLISH" value="2077" />
+        <entry key="CHINESE" value="1877" />
+        <entry key="ENGLISH" value="2078" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
