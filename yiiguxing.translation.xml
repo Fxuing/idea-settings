@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean with name 'resourceServiceImpl' has been injected into other beans [commonService] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
+      <item value="Bean with name 'resourceServiceImpl' has been injected into other beans [commonService] in its raw version as part of a circular reference, but has eventually been wrapped" />
       <item value="Thread Local Util" />
       <item value="Type parameter 'T' hides type parameter 'T'" />
       <item value="custom Page" />
@@ -49,12 +51,10 @@
       <item value="Related" />
       <item value="Line 4: error: bad operand types for binary operator" />
       <item value="Line 4: error: bad operand types for binary operator '' for (int i = 0; i nums; i++) { ^ first type: int second type: int[] 测试用例:[3,2,2,3] 3 stdout:" />
-      <item value="Memory leak detection has started...." />
-      <item value="error: pathspec 'README.md'' did not match any file(s) known to git " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1877" />
+        <entry key="CHINESE" value="1879" />
         <entry key="ENGLISH" value="2078" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
