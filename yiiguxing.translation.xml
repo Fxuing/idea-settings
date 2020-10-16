@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="children" />
+      <item value="child" />
       <item value="user Role Have" />
       <item value="用户拥有的角色" />
       <item value="user have roles" />
@@ -49,13 +51,11 @@
       <item value="Property Mapper" />
       <item value="don't known how to resole" />
       <item value="Deprecated" />
-      <item value="since" />
-      <item value="Annotation that can be used in combination with {@code @RunWith(SpringRunner.class)}(JUnit 4) and * {@code @ExtendWith(SpringExtension.class)}(JUnit 5) for a typical mybatis test. Can be used when a test focuses * &lt;strong&gt;only&lt;/strong&gt; on mybatis-based components. Since 2.0.1, If you use this annotation on JUnit 5, * {@code @ExtendWith(SpringExtension.class)} can omit on your test class. * &lt;p&gt; * Using this annotation will disable full auto-configuration and instead apply only configuration relevant to mybatis * tests. * &lt;p&gt; * By default, tests annotated with {@code @MybatisTest} will use an embedded in-memory database (replacing any explicit * or usually auto-configured DataSource). The {@link AutoConfigureTestDatabase @AutoConfigureTestDatabase} annotation * can be used to override these settings. * &lt;p&gt; * If you are looking to load your full application configuration, but use an embedded database, you should consider * {@link SpringBootTest @SpringBootTest} combined with {@link AutoConfigureTestDatabase @AutoConfigureTestDatabase} * rather than this annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1891" />
-        <entry key="ENGLISH" value="2085" />
+        <entry key="CHINESE" value="1893" />
+        <entry key="ENGLISH" value="2087" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
