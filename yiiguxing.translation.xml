@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encode" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration" />
       <item value="feature" />
       <item value="情况" />
@@ -50,12 +51,11 @@
       <item value="ProceedingJoinPoint as first parameter is allowed only in @Around advices" />
       <item value="Around" />
       <item value="reason: Incompatible parameter types in lambda expression" />
-      <item value="paginate before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1901" />
-        <entry key="ENGLISH" value="2090" />
+        <entry key="CHINESE" value="1902" />
+        <entry key="ENGLISH" value="2091" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
