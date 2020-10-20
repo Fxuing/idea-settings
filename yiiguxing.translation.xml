@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth State" />
       <item value="Authorized in the past month" />
       <item value="近一个月是否授权" />
       <item value="encode" />
@@ -50,12 +51,11 @@
       <item value="自定义" />
       <item value="Custom" />
       <item value="Customer" />
-      <item value="ProceedingJoinPoint as first parameter is allowed only in @Around advices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1904" />
-        <entry key="ENGLISH" value="2092" />
+        <entry key="CHINESE" value="1906" />
+        <entry key="ENGLISH" value="2093" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
