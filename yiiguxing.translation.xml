@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="captcha" />
       <item value="Captcha Controller" />
       <item value="application" />
       <item value="Access to XMLHttpRequest at 'http://localhost:9092/op/captcha/get' from origin 'http://localhost:8080' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource." />
@@ -50,12 +51,11 @@
       <item value="field To Lower" />
       <item value="field Tolower" />
       <item value="field 2 lower" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1918" />
-        <entry key="ENGLISH" value="2098" />
+        <entry key="CHINESE" value="1919" />
+        <entry key="ENGLISH" value="2099" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
