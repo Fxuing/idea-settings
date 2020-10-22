@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BackEnd" />
       <item value="Puzzle" />
       <item value="blockPuzzle" />
       <item value="Not registered via @EnableConfigurationProperties, marked as Spring component, or scanned via" />
@@ -50,11 +51,10 @@
       <item value="sep" />
       <item value="计算" />
       <item value="字母" />
-      <item value="下划线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1921" />
+        <entry key="CHINESE" value="1922" />
         <entry key="ENGLISH" value="2099" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
