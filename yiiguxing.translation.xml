@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dingtalk" />
+      <item value="robot" />
+      <item value="工厂" />
       <item value="BackEnd" />
       <item value="Puzzle" />
       <item value="blockPuzzle" />
@@ -48,14 +51,11 @@
       <item value="Thread Local Util" />
       <item value="Type parameter 'T' hides type parameter 'T'" />
       <item value="custom Page" />
-      <item value="sep" />
-      <item value="计算" />
-      <item value="字母" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1922" />
-        <entry key="ENGLISH" value="2099" />
+        <entry key="CHINESE" value="1926" />
+        <entry key="ENGLISH" value="2101" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
