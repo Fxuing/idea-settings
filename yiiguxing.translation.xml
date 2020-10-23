@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'StringBuilder serverUrl' can be replaced with 'String'" />
       <item value="keywords not in content, more" />
       <item value="dingtalk" />
       <item value="robot" />
@@ -50,11 +51,10 @@
       <item value="Bean with name 'resourceServiceImpl' has been injected into other beans [commonService] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="Bean with name 'resourceServiceImpl' has been injected into other beans [commonService] in its raw version as part of a circular reference, but has eventually been wrapped" />
       <item value="Thread Local Util" />
-      <item value="Type parameter 'T' hides type parameter 'T'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1927" />
+        <entry key="CHINESE" value="1928" />
         <entry key="ENGLISH" value="2102" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
