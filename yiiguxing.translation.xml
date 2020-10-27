@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="人员归属提醒" />
+      <item value="Personnel attribution" />
       <item value="人员归属" />
+      <item value="Push was rejected, and update failed with error." />
+      <item value="人员归属提醒" />
       <item value="平台" />
       <item value="plat dev" />
       <item value="Folded 'ifPresent' call can be eliminated" />
@@ -49,13 +51,11 @@
       <item value="skpi" />
       <item value="Tax Auth Controller" />
       <item value="secret" />
-      <item value="children" />
-      <item value="child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
-        <entry key="ENGLISH" value="2109" />
+        <entry key="CHINESE" value="1944" />
+        <entry key="ENGLISH" value="2111" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
