@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scheduler has been started, please stop it first!" />
+      <item value="Id [personnelAttribution] has been existed!" />
       <item value="新任务" />
       <item value="配置变更，更改任务" />
       <item value="Personnel attribution" />
@@ -49,13 +51,11 @@
       <item value="情况" />
       <item value="是否授权" />
       <item value="Cannot resolve controller URL ''" />
-      <item value="skip" />
-      <item value="skpi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1945" />
-        <entry key="ENGLISH" value="2112" />
+        <entry key="CHINESE" value="1947" />
+        <entry key="ENGLISH" value="2114" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
