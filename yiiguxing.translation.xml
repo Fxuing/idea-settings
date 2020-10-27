@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Runtime exception instance 'new BizException(ResponseStatus.CAPTCHA_ERROR.getCode()," />
       <item value="Private field 'config' is assigned but never accessed" />
       <item value="Item" />
       <item value="Option" />
@@ -50,11 +51,10 @@
       <item value="user have roles" />
       <item value="user have role" />
       <item value="拥有" />
-      <item value="share" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1937" />
+        <entry key="CHINESE" value="1938" />
         <entry key="ENGLISH" value="2108" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
