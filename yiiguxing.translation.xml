@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MON-FRI" />
       <item value="事件" />
       <item value="时间" />
       <item value="substation" />
@@ -50,11 +51,10 @@
       <item value="robot" />
       <item value="工厂" />
       <item value="BackEnd" />
-      <item value="Puzzle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1973" />
+        <entry key="CHINESE" value="1974" />
         <entry key="ENGLISH" value="2128" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
