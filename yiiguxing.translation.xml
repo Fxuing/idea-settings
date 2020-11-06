@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="share" />
+      <item value="publish" />
+      <item value="发布" />
+      <item value="提交" />
+      <item value="上报" />
       <item value="tak bisa masuk menggunakan akun dari wilayah ini" />
       <item value="tak bisa masuk menggunakan akun dari wilayah " />
       <item value="tak bisa masuk menggunakan akun dari wilayh " />
@@ -46,16 +51,11 @@
       <item value="Id [personnelAttribution] has been existed!" />
       <item value="新任务" />
       <item value="配置变更，更改任务" />
-      <item value="Personnel attribution" />
-      <item value="人员归属" />
-      <item value="Push was rejected, and update failed with error." />
-      <item value="人员归属提醒" />
-      <item value="平台" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1979" />
-        <entry key="ENGLISH" value="2130" />
+        <entry key="CHINESE" value="1982" />
+        <entry key="ENGLISH" value="2132" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
