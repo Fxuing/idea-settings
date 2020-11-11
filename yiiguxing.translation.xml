@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CRUD" />
+      <item value="检索" />
       <item value="device" />
       <item value="Bad return type in method reference: cannot convert void to java.lang.String" />
       <item value="Local variable 'loginParam' is redundant" />
@@ -49,13 +51,11 @@
       <item value="文档" />
       <item value="Talk" />
       <item value="Ding Talk" />
-      <item value="Equals And Hash Code" />
-      <item value="Thread Local" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1995" />
-        <entry key="ENGLISH" value="2140" />
+        <entry key="CHINESE" value="1997" />
+        <entry key="ENGLISH" value="2141" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
