@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integer number too large" />
       <item value="allow Prefix" />
       <item value="分站" />
       <item value="分支" />
@@ -50,11 +51,10 @@
       <item value="substation" />
       <item value="总站" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
-      <item value="Could not autowire. No beans of 'KafkaTemplate&lt;String, Object&gt;' type found." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2000" />
+        <entry key="CHINESE" value="2001" />
         <entry key="ENGLISH" value="2144" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
