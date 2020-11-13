@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow Prefix" />
+      <item value="分站" />
+      <item value="分支" />
+      <item value="report Substation" />
       <item value="CRUD" />
       <item value="检索" />
       <item value="device" />
@@ -47,15 +51,11 @@
       <item value="总站" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="Could not autowire. No beans of 'KafkaTemplate&lt;String, Object&gt;' type found." />
-      <item value="稳定" />
-      <item value="文档" />
-      <item value="Talk" />
-      <item value="Ding Talk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1997" />
-        <entry key="ENGLISH" value="2141" />
+        <entry key="CHINESE" value="2000" />
+        <entry key="ENGLISH" value="2144" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
