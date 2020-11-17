@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The bean 'entInfoRepository' could not be registered. A bean with that name has already been defined in file [F:\javaworkspace\cfs-api\target\classes\com\obanks\ent\mapper\EntInfoRepository.class] and overriding is disabled." />
       <item value="Field entInfoRepository in com.obanks.ent.service.impl.EntInfoServiceImpl required a bean named 'elasticsearchTemplate' that could not be found." />
       <item value="of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="get Bean Names For Type" />
@@ -8,7 +9,6 @@
       <item value="Caused by: org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'mgrOperaterServiceImpl': Bean with name 'mgrOperaterServiceImpl' has been injected into other beans [monitorPolicyServiceImpl] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="Field obanksSecurityService in com.obanks.sc.remote.impl.ObanksSecurityServiceRemoteImpl required a bean of type 'java.util.Map' that could not be found." />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
-      <item value="The bean 'entInfoRepository' could not be registered. A bean with that name has already been defined in file [F:\javaworkspace\cfs-api\target\classes\com\obanks\ent\mapper\EntInfoRepository.class] and overriding is disabled." />
       <item value="A component required a bean of type 'java.util.Map' that could not be found." />
       <item value="captcha" />
       <item value="kaptcha" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2033" />
-        <entry key="ENGLISH" value="2167" />
+        <entry key="CHINESE" value="2034" />
+        <entry key="ENGLISH" value="2168" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
