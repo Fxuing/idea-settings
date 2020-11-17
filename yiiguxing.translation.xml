@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A component required a bean of type 'java.util.Map' that could not be found." />
+      <item value="captcha" />
+      <item value="kaptcha" />
       <item value="Consider defining a bean of type 'java.util.Map' in your configuration." />
       <item value="required" />
-      <item value="A component required a bean of type 'java.util.Map' that could not be found." />
       <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
       <item value="APPLICATION FAILED TO START" />
       <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync and/or @EnableCaching." />
@@ -31,7 +33,6 @@
       <item value="Local variable 'loginParam' is redundant" />
       <item value="is Exist" />
       <item value="Cannot add or update a child row: a foreign key constraint fails (`substation_sc`.`authority`, CONSTRAINT `USER_ROLE_FK2` FOREIGN KEY (`ROLE_ID`) REFERENCES `role_info` (`ID`))" />
-      <item value="captcha" />
       <item value="com.caucho.hessian.io.HessianProtocolException: No classes defined at reference '6d'" />
       <item value="同步" />
       <item value="synchronize" />
@@ -50,14 +51,14 @@
       <item value="tak bisa masuk menggunakan akun dari wilayh " />
       <item value="tak bisa masuk menggunakan akun dari wil" />
       <item value="tak bisa masuk menggunakan akun dari " />
-      <item value="tak bisa masuk menggunakan akun d" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2019" />
-        <entry key="ENGLISH" value="2157" />
+        <entry key="CHINESE" value="2023" />
+        <entry key="ENGLISH" value="2159" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="BOSNIAN" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
