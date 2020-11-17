@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="A component required a bean of type 'java.util.Map' that could not be found." />
       <item value="Consider defining a bean of type 'java.util.Map' in your configuration." />
+      <item value="A component required a bean of type 'java.util.Map' that could not be found." />
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="APPLICATION FAILED TO START" />
       <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync and/or @EnableCaching." />
       <item value="The bean 'userInfoMapper' could not be injected as a 'com.obanks.sc.mapper.UserInfoMapper' because it is a JDK dynamic proxy that implements:" />
       <item value="risk" />
@@ -49,13 +51,11 @@
       <item value="tak bisa masuk menggunakan akun dari " />
       <item value="tak bisa masuk menggunakan akun d" />
       <item value="tak bisa masuk menggunakan akun" />
-      <item value="tak bisa masuk menggunakan " />
-      <item value="tak bisa masuk menggunak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2013" />
-        <entry key="ENGLISH" value="2151" />
+        <entry key="CHINESE" value="2017" />
+        <entry key="ENGLISH" value="2155" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BOSNIAN" value="2" />
