@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Phoenix" />
       <item value="stack" />
       <item value="'for' statement does not loop" />
       <item value="'for' loop replaceable with enhanced 'for'" />
@@ -50,12 +51,11 @@
       <item value="Cannot add or update a child row: a foreign key constraint fails (`substation_sc`.`authority`, CONSTRAINT `USER_ROLE_FK2` FOREIGN KEY (`ROLE_ID`) REFERENCES `role_info` (`ID`))" />
       <item value="com.caucho.hessian.io.HessianProtocolException: No classes defined at reference '6d'" />
       <item value="同步" />
-      <item value="synchronize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2041" />
-        <entry key="ENGLISH" value="2171" />
+        <entry key="CHINESE" value="2042" />
+        <entry key="ENGLISH" value="2172" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
