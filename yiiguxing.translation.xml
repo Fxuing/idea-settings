@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot infer arguments" />
       <item value="Request Handle" />
       <item value="hold" />
       <item value="hlod" />
@@ -50,11 +51,10 @@
       <item value="risk" />
       <item value="Eason" />
       <item value="Cultural" />
-      <item value="Cultural financial services" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2062" />
+        <entry key="CHINESE" value="2063" />
         <entry key="ENGLISH" value="2186" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
