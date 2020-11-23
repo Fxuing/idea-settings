@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request Handle" />
       <item value="hold" />
       <item value="hlod" />
       <item value="鱼" />
@@ -50,12 +51,11 @@
       <item value="Eason" />
       <item value="Cultural" />
       <item value="Cultural financial services" />
-      <item value="文化金融服务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2061" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2062" />
+        <entry key="ENGLISH" value="2186" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
