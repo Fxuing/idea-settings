@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opr Id" />
       <item value="条件" />
       <item value="get" />
       <item value="User Register Report" />
@@ -50,11 +51,10 @@
       <item value="captcha" />
       <item value="kaptcha" />
       <item value="Consider defining a bean of type 'java.util.Map' in your configuration." />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2070" />
+        <entry key="CHINESE" value="2071" />
         <entry key="ENGLISH" value="2192" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
@@ -74,6 +74,7 @@
         <entry key="SOMALI" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="4" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
