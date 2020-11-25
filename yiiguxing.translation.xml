@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="废弃" />
+      <item value="飞起" />
       <item value="opr Id" />
       <item value="条件" />
       <item value="get" />
@@ -49,13 +51,11 @@
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="A component required a bean of type 'java.util.Map' that could not be found." />
       <item value="captcha" />
-      <item value="kaptcha" />
-      <item value="Consider defining a bean of type 'java.util.Map' in your configuration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2071" />
-        <entry key="ENGLISH" value="2192" />
+        <entry key="CHINESE" value="2072" />
+        <entry key="ENGLISH" value="2193" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
