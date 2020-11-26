@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix Overrides" />
+      <item value="suffix Overrides" />
       <item value="retry" />
       <item value="of Epoch Milli" />
       <item value="时间戳" />
@@ -49,13 +51,11 @@
       <item value="'if' statement can be collapsed with side effect extraction" />
       <item value="Unable to start embedded Tomcat" />
       <item value="分隔符" />
-      <item value="The bean 'entInfoRepository' could not be registered. A bean with that name has already been defined in file [F:\javaworkspace\cfs-api\target\classes\com\obanks\ent\mapper\EntInfoRepository.class] and overriding is disabled." />
-      <item value="Field entInfoRepository in com.obanks.ent.service.impl.EntInfoServiceImpl required a bean named 'elasticsearchTemplate' that could not be found." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2079" />
-        <entry key="ENGLISH" value="2199" />
+        <entry key="CHINESE" value="2081" />
+        <entry key="ENGLISH" value="2201" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
