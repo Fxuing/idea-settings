@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="of Epoch Milli" />
+      <item value="时间戳" />
       <item value="Pretty Format" />
       <item value="待同步" />
       <item value="待" />
@@ -49,13 +51,11 @@
       <item value="The bean 'entInfoRepository' could not be registered. A bean with that name has already been defined in file [F:\javaworkspace\cfs-api\target\classes\com\obanks\ent\mapper\EntInfoRepository.class] and overriding is disabled." />
       <item value="Field entInfoRepository in com.obanks.ent.service.impl.EntInfoServiceImpl required a bean named 'elasticsearchTemplate' that could not be found." />
       <item value="of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
-      <item value="get Bean Names For Type" />
-      <item value="Bean Currently In Creation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2076" />
-        <entry key="ENGLISH" value="2197" />
+        <entry key="CHINESE" value="2078" />
+        <entry key="ENGLISH" value="2198" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,6 +72,7 @@
         <entry key="PORTUGUESE" value="7" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
+        <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="1" />
