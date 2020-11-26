@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pretty Format" />
       <item value="待同步" />
       <item value="待" />
       <item value="execute Login" />
@@ -50,12 +51,11 @@
       <item value="of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
       <item value="get Bean Names For Type" />
       <item value="Bean Currently In Creation Exception" />
-      <item value="Caused by: org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'mgrOperaterServiceImpl': Bean with name 'mgrOperaterServiceImpl' has been injected into other beans [monitorPolicyServiceImpl] in its raw version as part of a circular reference, but has eventually been wrapped. This means that said other beans do not use the final version of the bean. This is often the result of over-eager type matching - consider using 'getBeanNamesForType' with the 'allowEagerInit' flag turned off, for example." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2075" />
-        <entry key="ENGLISH" value="2196" />
+        <entry key="CHINESE" value="2076" />
+        <entry key="ENGLISH" value="2197" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
