@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
+      <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;" />
+      <item value="Constructs" />
+      <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;. The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
+      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and load factor." />
+      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75)." />
+      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
+      <item value="initial Capacity" />
       <item value="bean name 'assetsEntryCriteriaServiceImpl' for bean class [com.obanks.cfs.service.impl.AssetsEntryCriteriaServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.obanks.match.service.impl.AssetsEntryCriteriaServiceImpl]" />
       <item value="conflicts with existing, non-compatible bean definition of same name and class [com.obanks.match.service.impl.AssetsEntryCriteriaServiceImpl]" />
       <item value="Cannot resolve" />
@@ -43,19 +51,11 @@
       <item value="get Declaring Class" />
       <item value="子" />
       <item value="儿子" />
-      <item value="Introspector" />
-      <item value="Inconvertible types; cannot cast 'java.lang.Class&lt;capture&lt;?&gt;&gt;' to 'java.util.List'" />
-      <item value="This stopwatch is already running." />
-      <item value="java.lang.IllegalAccessException: class com.sz9hbank.MapToBean cannot access a member of class com.sz9hbank.dev.domain.query.OnlineTableAddQuery with modifiers &quot;private&quot;" />
-      <item value="value" />
-      <item value="covert" />
-      <item value="conver" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2089" />
-        <entry key="ENGLISH" value="2205" />
+        <entry key="CHINESE" value="2098" />
+        <entry key="ENGLISH" value="2214" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
