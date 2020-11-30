@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve" />
+      <item value="you can you up" />
+      <item value="你行你上" />
       <item value="Move or commit them before checkout" />
       <item value="Unresolved conflicts remain in the working" />
       <item value="smart" />
@@ -48,14 +51,11 @@
       <item value="转换" />
       <item value="Phoenix" />
       <item value="stack" />
-      <item value="'for' statement does not loop" />
-      <item value="'for' loop replaceable with enhanced 'for'" />
-      <item value="Loop executes zero or billions times" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2084" />
-        <entry key="ENGLISH" value="2201" />
+        <entry key="CHINESE" value="2087" />
+        <entry key="ENGLISH" value="2203" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
