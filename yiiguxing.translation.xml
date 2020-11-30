@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="Illegal initial capacity:" />
+      <item value="operations" />
+      <item value="The load factor for the hash table." />
+      <item value="Node" />
       <item value="The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
       <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;" />
       <item value="Constructs" />
@@ -46,16 +51,11 @@
       <item value="hold?fish:palm" />
       <item value="when Not Null" />
       <item value="no instance(s) of type variable(s) exist so that Long conforms to T inference variable T has incompatible bounds: equality constraints: T lower bounds: Long" />
-      <item value="Instantiation of utility class 'Covert'" />
-      <item value="when Not Black" />
-      <item value="get Declaring Class" />
-      <item value="子" />
-      <item value="儿子" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2098" />
-        <entry key="ENGLISH" value="2214" />
+        <entry key="CHINESE" value="2107" />
+        <entry key="ENGLISH" value="2223" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
