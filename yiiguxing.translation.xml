@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Receive User" />
+      <item value="signature finished" />
       <item value="当前" />
       <item value="currect" />
       <item value="is Exist" />
@@ -49,13 +51,11 @@
       <item value="Returns a comparator that compares {@link Comparable} objects in natural * order." />
       <item value="Cannot infer arguments" />
       <item value="Request Handle" />
-      <item value="hold" />
-      <item value="hlod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2111" />
-        <entry key="ENGLISH" value="2227" />
+        <entry key="CHINESE" value="2114" />
+        <entry key="ENGLISH" value="2230" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />

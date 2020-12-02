@@ -9,6 +9,7 @@
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="20201202" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="xmk" type="XML" />
     </extensionMap>
