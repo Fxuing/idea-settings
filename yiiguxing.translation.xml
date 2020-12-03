@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Runtime Exception" />
       <item value="技术支持" />
       <item value="Card" />
       <item value="cert" />
@@ -50,12 +51,11 @@
       <item value="get" />
       <item value="User Register Report" />
       <item value="斐波拉契" />
-      <item value="auth Strategy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2118" />
-        <entry key="ENGLISH" value="2232" />
+        <entry key="CHINESE" value="2119" />
+        <entry key="ENGLISH" value="2233" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
