@@ -12,6 +12,7 @@
       <mapping ext="20201203" type="PLAIN_TEXT" />
       <mapping ext="20201202" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
+      <mapping ext="20201207" type="PLAIN_TEXT" />
       <mapping ext="xmk" type="XML" />
     </extensionMap>
   </component>
