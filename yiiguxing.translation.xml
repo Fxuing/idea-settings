@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ANNOTATION TYPE" />
+      <item value="FIELD" />
+      <item value="PARAMETER" />
+      <item value="METHOD" />
+      <item value="CONSTRUCTOR" />
       <item value="orts the specified range of the specified array of objects according * to the order induced by the specified comparator. The range to be * sorted extends from index {@code fromIndex}, inclusive, to index * {@code toIndex}, exclusive. (If {@code fromIndex==toIndex}, the * range to be sorted is empty.) All elements in the range must be * &lt;i&gt;mutually comparable&lt;/i&gt; by the specified comparator (that is, * {@code c.compare(e1, e2)} must not throw a {@code ClassCastException} * for any elements {@code e1} and {@code e2} in the range)." />
       <item value="Sorts the given range, using the given workspace array slice * for temp storage when possible. This method is designed to be * invoked from public methods (in class Arrays) after performing * any necessary array bounds checks and expanding parameters into * the required forms." />
       <item value="Returns a comparator that compares {@link Comparable} objects in natural * order." />
@@ -46,16 +51,11 @@
       <item value="prefix Overrides" />
       <item value="suffix Overrides" />
       <item value="retry" />
-      <item value="of Epoch Milli" />
-      <item value="时间戳" />
-      <item value="Pretty Format" />
-      <item value="待同步" />
-      <item value="待" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2130" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="CHINESE" value="2135" />
+        <entry key="ENGLISH" value="2245" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
