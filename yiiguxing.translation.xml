@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't checkout because of unmerged files You have to resolve all merge conflicts before checkout. After resolving conflicts you also probably would want to commit your files to the current branch." />
       <item value="Pretty Format" />
       <item value="夨坕" />
       <item value="廿" />
@@ -50,12 +51,11 @@
       <item value="conflicts with existing, non-compatible bean definition of same name and class [com.obanks.match.service.impl.AssetsEntryCriteriaServiceImpl]" />
       <item value="Cannot resolve" />
       <item value="you can you up" />
-      <item value="你行你上" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2140" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="CHINESE" value="2141" />
+        <entry key="ENGLISH" value="2250" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
