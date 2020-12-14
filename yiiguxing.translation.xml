@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xxl-rpc netty_http client caught exception" />
       <item value="Pretty Format" />
       <item value="one Key Apply" />
       <item value="clipboard" />
@@ -50,11 +51,10 @@
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75)." />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the default initial capacity * (16) and the default load factor (0.75)." />
       <item value="initial Capacity" />
-      <item value="bean name 'assetsEntryCriteriaServiceImpl' for bean class [com.obanks.cfs.service.impl.AssetsEntryCriteriaServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.obanks.match.service.impl.AssetsEntryCriteriaServiceImpl]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2145" />
+        <entry key="CHINESE" value="2146" />
         <entry key="ENGLISH" value="2252" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
