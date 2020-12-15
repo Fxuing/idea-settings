@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SESSION ID EXPIRED" />
+      <item value="过期" />
       <item value="Atomic Reference" />
       <item value="MINUTES" />
       <item value="xxl-rpc netty_http client caught exception" />
@@ -49,13 +51,11 @@
       <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;" />
       <item value="Constructs" />
       <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;. The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
-      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and load factor." />
-      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;/tt&gt; with the specified initial * capacity and the default load factor (0.75)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2148" />
-        <entry key="ENGLISH" value="2254" />
+        <entry key="CHINESE" value="2150" />
+        <entry key="ENGLISH" value="2256" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
