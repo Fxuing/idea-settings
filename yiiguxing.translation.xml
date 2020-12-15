@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="SESSION ID EXPIRED" />
       <item value="过期" />
       <item value="Atomic Reference" />
@@ -50,11 +51,10 @@
       <item value="The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
       <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;" />
       <item value="Constructs" />
-      <item value="Constructs a new &lt;tt&gt;HashMap&lt;/tt&gt; with the same mappings as the * specified &lt;tt&gt;Map&lt;/tt&gt;. The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2150" />
+        <entry key="CHINESE" value="2151" />
         <entry key="ENGLISH" value="2256" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
