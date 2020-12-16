@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: cn/hutool/core/net/SSLContextBuilder" />
+      <item value="run Async" />
+      <item value="Completable Future" />
+      <item value="that may be explicitly completed (setting its * value and status), and may be used as a {@link CompletionStage}, * supporting dependent functions and actions that trigger upon its * completion." />
       <item value="register To Szjf" />
       <item value="Using aggregate-free condition(s) in HAVING clause might be inefficient. Consider moving them to WHERE" />
       <item value="host" />
@@ -47,15 +51,11 @@
       <item value="is Exit" />
       <item value="Implements Map.put and related methods." />
       <item value="Returns a power of two size for the given target capacity." />
-      <item value="Illegal initial capacity:" />
-      <item value="operations" />
-      <item value="The load factor for the hash table." />
-      <item value="Node" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2154" />
-        <entry key="ENGLISH" value="2257" />
+        <entry key="CHINESE" value="2158" />
+        <entry key="ENGLISH" value="2261" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
