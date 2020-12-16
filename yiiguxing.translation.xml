@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register To Szjf" />
       <item value="Using aggregate-free condition(s) in HAVING clause might be inefficient. Consider moving them to WHERE" />
       <item value="host" />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
@@ -50,12 +51,11 @@
       <item value="operations" />
       <item value="The load factor for the hash table." />
       <item value="Node" />
-      <item value="The &lt;tt&gt;HashMap&lt;/tt&gt; is created with * default load factor (0.75) and an initial capacity sufficient to * hold the mappings in the specified &lt;tt&gt;Map&lt;/tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2153" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="CHINESE" value="2154" />
+        <entry key="ENGLISH" value="2257" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
