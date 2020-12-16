@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Result of 'Optional.orElse()' is ignored" />
       <item value="The requested URL /egrantweb was not found on this server." />
       <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: cn/hutool/core/net/SSLContextBuilder" />
       <item value="run Async" />
@@ -50,11 +51,10 @@
       <item value="currect" />
       <item value="is Exist" />
       <item value="is Exit" />
-      <item value="Implements Map.put and related methods." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2159" />
+        <entry key="CHINESE" value="2160" />
         <entry key="ENGLISH" value="2261" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
