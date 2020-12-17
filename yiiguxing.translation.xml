@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SESSION ID IS Cant NULL" />
+      <item value="不能" />
+      <item value="SESSION ID IS NOT NULL" />
+      <item value="14:23 No suspicious code found. 1 files processed in 'File '...\src\main\java\com\obanks\fop\controller\NanShanController.java''." />
+      <item value="default Password" />
       <item value="digest type error" />
       <item value="digest error" />
       <item value="Result of 'Optional.orElse()' is ignored" />
@@ -46,16 +51,11 @@
       <item value="技术支持" />
       <item value="Card" />
       <item value="cert" />
-      <item value="no cert" />
-      <item value="Receive User" />
-      <item value="signature finished" />
-      <item value="当前" />
-      <item value="currect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2162" />
-        <entry key="ENGLISH" value="2263" />
+        <entry key="CHINESE" value="2168" />
+        <entry key="ENGLISH" value="2269" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
