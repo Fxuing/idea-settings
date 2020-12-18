@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hello, everyone. I am Santa Claus. Due to the epidemic, I need to be quarantined for 14 days, so I have entered China ahead of time to prevent the wrong gifts in my socks. Please ask the girls in the group to take a picture of your socks and send them to me. In order to prevent individual girls from cheating, please attach leg photos of wearing socks. I will tuck presents into my socks after Christmas. Ps: had better be silk stockings, white or black silk is fine. The slippery stockings are better as a gift. Ps2: this Santa Claus solemnly declares that I have not reached strategic cooperation with anyone in China, so those who say that they cooperate with me are liars, do not believe him! Please contact me directly and talk to me privately in the group.   PS:Those who speak Chinese are all liars." />
       <item value="the new CompletableFuture" />
       <item value="Returns a new CompletableFuture that is asynchronously completed * by a task running in the {@link ForkJoinPool#commonPool()} after * it runs the given action." />
       <item value="Completable" />
@@ -50,11 +51,10 @@
       <item value="another type user exists" />
       <item value="NORMAL" />
       <item value="china" />
-      <item value="Runtime Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2171" />
+        <entry key="CHINESE" value="2172" />
         <entry key="ENGLISH" value="2272" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
