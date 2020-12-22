@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'contacts_phone' at row 394 ; Data truncation: Data too long for column 'contacts_phone' at row 394; nested exception is com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'contacts_phone' at row 394" />
+      <item value="Some important exceptions might be ignored in a 'catch' block" />
       <item value="Error obtaining cached user information" />
       <item value="获取缓存用户信息错误" />
       <item value="get cache user info error" />
@@ -49,12 +51,10 @@
       <item value="Leap" />
       <item value="is Leap Month" />
       <item value="case 1" />
-      <item value="ANNOTATION TYPE" />
-      <item value="FIELD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2184" />
+        <entry key="CHINESE" value="2186" />
         <entry key="ENGLISH" value="2281" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
