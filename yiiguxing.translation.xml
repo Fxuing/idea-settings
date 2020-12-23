@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fallback if ForkJoinPool.commonPool() cannot support parallelism */" />
       <item value="decrypt Str" />
       <item value="fail" />
       <item value="fial" />
@@ -50,12 +51,11 @@
       <item value="Pretty Format" />
       <item value="one Key Apply" />
       <item value="clipboard" />
-      <item value="boot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2193" />
-        <entry key="ENGLISH" value="2286" />
+        <entry key="CHINESE" value="2194" />
+        <entry key="ENGLISH" value="2287" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
