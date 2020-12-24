@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all goroutines are asleep - deadlock! " />
+      <item value="异步" />
+      <item value="Millisecond" />
       <item value="Fallback if ForkJoinPool.commonPool() cannot support parallelism */" />
       <item value="decrypt Str" />
       <item value="fail" />
@@ -48,14 +51,11 @@
       <item value="Atomic Reference" />
       <item value="MINUTES" />
       <item value="xxl-rpc netty_http client caught exception" />
-      <item value="Pretty Format" />
-      <item value="one Key Apply" />
-      <item value="clipboard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2194" />
-        <entry key="ENGLISH" value="2287" />
+        <entry key="CHINESE" value="2197" />
+        <entry key="ENGLISH" value="2288" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
