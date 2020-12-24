@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot use '&quot;小明&quot;' (type string) as type (Student, string) or Student " />
+      <item value="Not enough arguments in call to 'Student.New' " />
+      <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled (you *might* want to use the less safe log_bin_trust_function_creators variable)" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DROP function IF EXISTS nextval' at line 7" />
       <item value="all goroutines are asleep - deadlock! " />
       <item value="异步" />
       <item value="Millisecond" />
@@ -47,15 +51,11 @@
       <item value="host" />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="SESSION ID EXPIRED" />
-      <item value="过期" />
-      <item value="Atomic Reference" />
-      <item value="MINUTES" />
-      <item value="xxl-rpc netty_http client caught exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2197" />
-        <entry key="ENGLISH" value="2288" />
+        <entry key="CHINESE" value="2201" />
+        <entry key="ENGLISH" value="2289" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
