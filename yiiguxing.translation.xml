@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common modules" />
+      <item value="common_modules" />
+      <item value="组件" />
+      <item value="今年 ？ 岁" />
+      <item value="今年八岁" />
+      <item value="今年岁" />
+      <item value="今年多少岁" />
       <item value="data format error rid: 5fe94cf3-625d8d12-0dcef997" />
       <item value="Redirecting to /bin/systemctl restart crond.service" />
       <item value="    |    |    |    |    +----- day of week (0 - 7) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat " />
@@ -44,18 +51,11 @@
       <item value="digest type error" />
       <item value="digest error" />
       <item value="Result of 'Optional.orElse()' is ignored" />
-      <item value="The requested URL /egrantweb was not found on this server." />
-      <item value="Handler dispatch failed; nested exception is java.lang.NoClassDefFoundError: cn/hutool/core/net/SSLContextBuilder" />
-      <item value="run Async" />
-      <item value="Completable Future" />
-      <item value="that may be explicitly completed (setting its * value and status), and may be used as a {@link CompletionStage}, * supporting dependent functions and actions that trigger upon its * completion." />
-      <item value="register To Szjf" />
-      <item value="Using aggregate-free condition(s) in HAVING clause might be inefficient. Consider moving them to WHERE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2204" />
-        <entry key="ENGLISH" value="2289" />
+        <entry key="CHINESE" value="2207" />
+        <entry key="ENGLISH" value="2290" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
