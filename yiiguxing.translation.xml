@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keep-alive-time" />
+      <item value="毫秒" />
+      <item value="MILLI" />
+      <item value="SECONDS" />
+      <item value="MILLISECONDS" />
+      <item value="the time unit for the {@code keepAliveTime} argument" />
+      <item value="X-Forwarded-Proto" />
       <item value="common modules" />
       <item value="common_modules" />
       <item value="组件" />
@@ -44,18 +51,11 @@
       <item value="Returns a new CompletableFuture that is asynchronously completed * by a task running in the {@link ForkJoinPool#commonPool()} after * it runs the given action." />
       <item value="Completable" />
       <item value="SESSION ID IS Cant NULL" />
-      <item value="不能" />
-      <item value="SESSION ID IS NOT NULL" />
-      <item value="14:23 No suspicious code found. 1 files processed in 'File '...\src\main\java\com\obanks\fop\controller\NanShanController.java''." />
-      <item value="default Password" />
-      <item value="digest type error" />
-      <item value="digest error" />
-      <item value="Result of 'Optional.orElse()' is ignored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2207" />
-        <entry key="ENGLISH" value="2290" />
+        <entry key="CHINESE" value="2214" />
+        <entry key="ENGLISH" value="2296" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,6 +72,7 @@
         <entry key="PORTUGUESE" value="7" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="4" />
