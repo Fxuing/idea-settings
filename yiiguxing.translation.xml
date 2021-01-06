@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load ApplicationContext" />
+      <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
+      <item value="Could not autowire. No beans of 'JavaMailSender' type found." />
+      <item value="Field injection is not recommended" />
+      <item value="Error creating bean with name 'emailServiceImpl': Unsatisfied dependency expressed through field 'mailSender'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.mail.javamail.JavaMailSender' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
+      <item value="personal" />
       <item value="pause" />
       <item value="Sms" />
       <item value="auth Time" />
-      <item value="personal" />
       <item value="示例" />
       <item value="demo" />
       <item value="余额" />
@@ -46,16 +51,11 @@
       <item value="Fallback if ForkJoinPool.commonPool() cannot support parallelism */" />
       <item value="decrypt Str" />
       <item value="fail" />
-      <item value="fial" />
-      <item value="Transaction Details" />
-      <item value="multiply" />
-      <item value="Static member 'com.obanks.commons.utils.RequestSignUtil.post(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.Object&gt;)' accessed via instance reference" />
-      <item value="Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'contacts_phone' at row 394 ; Data truncation: Data too long for column 'contacts_phone' at row 394; nested exception is com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'contacts_phone' at row 394" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2231" />
-        <entry key="ENGLISH" value="2306" />
+        <entry key="CHINESE" value="2237" />
+        <entry key="ENGLISH" value="2308" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
