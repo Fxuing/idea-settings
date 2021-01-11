@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mapping" />
+      <item value="mapper" />
+      <item value="save Or Update Pattern" />
       <item value="规则" />
       <item value="mobile ui" />
       <item value="Failed to load ApplicationContext" />
@@ -48,14 +51,11 @@
       <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled (you *might* want to use the less safe log_bin_trust_function_creators variable)" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DROP function IF EXISTS nextval' at line 7" />
       <item value="all goroutines are asleep - deadlock! " />
-      <item value="异步" />
-      <item value="Millisecond" />
-      <item value="Fallback if ForkJoinPool.commonPool() cannot support parallelism */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2239" />
-        <entry key="ENGLISH" value="2309" />
+        <entry key="CHINESE" value="2242" />
+        <entry key="ENGLISH" value="2312" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
