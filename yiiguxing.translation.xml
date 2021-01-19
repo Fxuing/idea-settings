@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Consider defining a bean of type 'com.anji.captcha.service.CaptchaService' in your configuration." />
+      <item value="Consider defining a bean named 'authenticator' in your configuration." />
+      <item value="Parameter 0 of method authorizationAttributeSourceAdvisor in org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration required a bean named 'authenticator' that could not be found." />
       <item value="required a bean named 'authenticator' that could not be found." />
       <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [starter-auth,starter-core] are excluded from annotation processing" />
       <item value="扩展" />
@@ -48,14 +51,11 @@
       <item value="finance of plat" />
       <item value="If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Cannot resolve symbol 'DingTaskNoticeService'" />
-      <item value="async Text Msg" />
-      <item value="keep-alive-time" />
-      <item value="毫秒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2261" />
-        <entry key="ENGLISH" value="2323" />
+        <entry key="CHINESE" value="2264" />
+        <entry key="ENGLISH" value="2326" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
