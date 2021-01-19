@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="required a bean named 'authenticator' that could not be found." />
       <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [starter-auth,starter-core] are excluded from annotation processing" />
       <item value="扩展" />
       <item value="Cannot access com.sz9hbank.auth.service.BaseService" />
@@ -50,12 +51,11 @@
       <item value="async Text Msg" />
       <item value="keep-alive-time" />
       <item value="毫秒" />
-      <item value="MILLI" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2260" />
-        <entry key="ENGLISH" value="2322" />
+        <entry key="CHINESE" value="2261" />
+        <entry key="ENGLISH" value="2323" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
