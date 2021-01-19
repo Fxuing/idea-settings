@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [starter-auth,starter-core] are excluded from annotation processing" />
       <item value="扩展" />
       <item value="Cannot access com.sz9hbank.auth.service.BaseService" />
       <item value="Process terminated" />
@@ -50,11 +51,10 @@
       <item value="keep-alive-time" />
       <item value="毫秒" />
       <item value="MILLI" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2259" />
+        <entry key="CHINESE" value="2260" />
         <entry key="ENGLISH" value="2322" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
