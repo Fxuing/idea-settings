@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The following classes could not be excluded because they are not auto-configuration classes:" />
       <item value="starter-jar-switch" />
       <item value="Annotation-specified bean name 'exceptionsHandler' for bean class [com.sz9hbank.auth.exceptoin.ExceptionsHandler] conflicts with existing, non-compatible bean definition of same name and class [com.sz9hbank.exceptoin.ExceptionsHandler]" />
       <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.3.4.RELEASE:repackage (repackage) on project starter-auth: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.3.4.RELEASE:repackage failed: Unable to find main class -&gt; [Help 1]" />
@@ -50,12 +51,11 @@
       <item value="Sms Send Service" />
       <item value="hotwind" />
       <item value="actuator" />
-      <item value="You can not remove common-modules because its imported as a module of another project {1}. You can use Ignore action. Only root project can be removed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2270" />
-        <entry key="ENGLISH" value="2331" />
+        <entry key="CHINESE" value="2271" />
+        <entry key="ENGLISH" value="2332" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
