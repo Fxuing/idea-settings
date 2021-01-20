@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Get Authentication Info" />
       <item value="Realm" />
       <item value="Parameter 0 of method authorizationAttributeSourceAdvisor in org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration required a bean of type 'com.pla.api.service.PlaUserService' that could not be found." />
       <item value="ASSIGNABLE TYPE" />
@@ -50,12 +51,11 @@
       <item value="Sms" />
       <item value="auth Time" />
       <item value="示例" />
-      <item value="demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2276" />
-        <entry key="ENGLISH" value="2337" />
+        <entry key="CHINESE" value="2277" />
+        <entry key="ENGLISH" value="2338" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
