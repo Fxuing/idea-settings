@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameter 0 of method authorizationAttributeSourceAdvisor in org.apache.shiro.spring.boot.autoconfigure.ShiroAnnotationProcessorAutoConfiguration required a bean of type 'com.pla.api.service.PlaUserService' that could not be found." />
+      <item value="ASSIGNABLE TYPE" />
+      <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
+      <item value="Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]" />
       <item value="The following classes could not be excluded because they are not auto-configuration classes:" />
       <item value="starter-jar-switch" />
       <item value="Annotation-specified bean name 'exceptionsHandler' for bean class [com.sz9hbank.auth.exceptoin.ExceptionsHandler] conflicts with existing, non-compatible bean definition of same name and class [com.sz9hbank.exceptoin.ExceptionsHandler]" />
@@ -47,15 +51,11 @@
       <item value="示例" />
       <item value="demo" />
       <item value="余额" />
-      <item value="balance" />
-      <item value="Sms Send Service" />
-      <item value="hotwind" />
-      <item value="actuator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2271" />
-        <entry key="ENGLISH" value="2332" />
+        <entry key="CHINESE" value="2275" />
+        <entry key="ENGLISH" value="2336" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
