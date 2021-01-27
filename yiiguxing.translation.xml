@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key " />
       <item value="unregister Mapping" />
       <item value="Patterns Request Condition" />
       <item value="java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'com.sz9hbank.sys.controller.CaptchaController@5a55e223' method" />
@@ -50,11 +51,10 @@
       <item value="规则" />
       <item value="mobile ui" />
       <item value="Failed to load ApplicationContext" />
-      <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2285" />
+        <entry key="CHINESE" value="2286" />
         <entry key="ENGLISH" value="2344" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
