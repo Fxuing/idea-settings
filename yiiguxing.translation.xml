@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alias" />
       <item value="接口" />
       <item value="Instantiation Exception" />
       <item value="Uri" />
@@ -50,11 +51,10 @@
       <item value="PATTERN INVALID" />
       <item value="PATTERN 无效" />
       <item value="PATTERN VALID" />
-      <item value="mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2290" />
+        <entry key="CHINESE" value="2291" />
         <entry key="ENGLISH" value="2347" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
@@ -76,7 +76,7 @@
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="4" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
