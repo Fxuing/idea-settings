@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="project Switch" />
       <item value="Parameters" />
       <item value="Preparing" />
       <item value="finally" />
@@ -50,12 +51,11 @@
       <item value="restfull" />
       <item value="restful" />
       <item value="权限" />
-      <item value="core" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2300" />
-        <entry key="ENGLISH" value="2354" />
+        <entry key="CHINESE" value="2301" />
+        <entry key="ENGLISH" value="2355" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
