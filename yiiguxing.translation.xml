@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 2 path $" />
       <item value="Reentrant Lock" />
       <item value="field To Lower" />
       <item value="Synchronization on local variable 'diProjectConfigList'" />
@@ -50,12 +51,11 @@
       <item value="Error:java: Annotation processing is not supported for module cycles. Please ensure that all modules from cycle [starter-auth,starter-core] are excluded from annotation processing" />
       <item value="扩展" />
       <item value="Cannot access com.sz9hbank.auth.service.BaseService" />
-      <item value="Process terminated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2305" />
-        <entry key="ENGLISH" value="2358" />
+        <entry key="CHINESE" value="2306" />
+        <entry key="ENGLISH" value="2359" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
