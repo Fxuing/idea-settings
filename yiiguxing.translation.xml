@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pla Sale Ent" />
       <item value="is Exist" />
       <item value="Common parts with variables can be extracted from 'if'" />
       <item value="explore" />
@@ -50,12 +51,11 @@
       <item value="ASSIGNABLE TYPE" />
       <item value="An attempt was made to call a method that does not exist. The attempt was made from the following location:" />
       <item value="Failed to start component [NonLoginAuthenticator[StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]]]" />
-      <item value="The following classes could not be excluded because they are not auto-configuration classes:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2320" />
-        <entry key="ENGLISH" value="2367" />
+        <entry key="CHINESE" value="2321" />
+        <entry key="ENGLISH" value="2368" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
