@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="order Status Count" />
       <item value="contact Phone" />
       <item value="customer Manager Name" />
       <item value="customer Name" />
@@ -50,12 +51,11 @@
       <item value="Chain" />
       <item value="Reconnecting, last destination was /192.168.50.31:6379" />
       <item value="bouncycastle" />
-      <item value="actuator/health" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2353" />
-        <entry key="ENGLISH" value="2384" />
+        <entry key="CHINESE" value="2354" />
+        <entry key="ENGLISH" value="2385" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
