@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apply By" />
+      <item value="apply Name" />
       <item value="interest Rate" />
       <item value="annualized interest rate" />
       <item value="annualized_interest_rate" />
@@ -49,13 +51,11 @@
       <item value="validate Method Mapping" />
       <item value="project Switch" />
       <item value="Parameters" />
-      <item value="Preparing" />
-      <item value="finally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2359" />
-        <entry key="ENGLISH" value="2386" />
+        <entry key="CHINESE" value="2361" />
+        <entry key="ENGLISH" value="2388" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
