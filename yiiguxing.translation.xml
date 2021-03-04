@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Such Element Exception" />
       <item value="The call to 'get' always fails as index is out of bounds" />
       <item value="动态" />
       <item value="Spring MVC found on classpath, which is incompatible with Spring Cloud Gateway at this time. Please remove spring-boot-starter-web dependency." />
@@ -50,12 +51,11 @@
       <item value="explore" />
       <item value="权限" />
       <item value="order" />
-      <item value="Transactional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2374" />
-        <entry key="ENGLISH" value="2397" />
+        <entry key="CHINESE" value="2375" />
+        <entry key="ENGLISH" value="2398" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
