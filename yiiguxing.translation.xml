@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no data" />
+      <item value="test result" />
+      <item value="检查结果" />
+      <item value="check result" />
+      <item value="PATTERN INVALID" />
       <item value="正则" />
       <item value="pattern" />
       <item value="规则" />
@@ -46,16 +51,11 @@
       <item value="apply Time" />
       <item value="options" />
       <item value="sale Id" />
-      <item value="records Per Page" />
-      <item value="customer Order" />
-      <item value="pla Sale Ent" />
-      <item value="is Exist" />
-      <item value="Common parts with variables can be extracted from 'if'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2378" />
-        <entry key="ENGLISH" value="2400" />
+        <entry key="CHINESE" value="2383" />
+        <entry key="ENGLISH" value="2405" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
