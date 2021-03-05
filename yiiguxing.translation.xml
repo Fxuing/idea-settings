@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
       <item value="multiply" />
       <item value="no data" />
       <item value="test result" />
@@ -50,12 +51,11 @@
       <item value="stats" />
       <item value="statu" />
       <item value="apply Time" />
-      <item value="options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2384" />
-        <entry key="ENGLISH" value="2406" />
+        <entry key="CHINESE" value="2385" />
+        <entry key="ENGLISH" value="2407" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
