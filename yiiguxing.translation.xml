@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="report Huo Ke Analysis Excel" />
       <item value="bus Reserve" />
       <item value="data format error rid" />
       <item value="content" />
@@ -50,11 +51,10 @@
       <item value="current" />
       <item value="currect" />
       <item value="struct" />
-      <item value="stats" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2387" />
+        <entry key="CHINESE" value="2389" />
         <entry key="ENGLISH" value="2409" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
