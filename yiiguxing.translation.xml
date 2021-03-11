@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指令" />
+      <item value="callback" />
       <item value="pending" />
       <item value="set If Absent" />
       <item value="expire" />
@@ -49,13 +51,11 @@
       <item value="Status On" />
       <item value="进行" />
       <item value="processing" />
-      <item value="Pending" />
-      <item value="处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2396" />
-        <entry key="ENGLISH" value="2416" />
+        <entry key="CHINESE" value="2398" />
+        <entry key="ENGLISH" value="2418" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
