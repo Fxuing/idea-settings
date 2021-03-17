@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="design" />
       <item value="No Such Method Error" />
       <item value="Your JSON does not match the model you asked Gson to bind. This is fairly common and is a usage question which has been written about a lot on blogs, mailing lists, and StackOverflow. I would suggest you consult StackOverflow questions of similar nature.  " />
       <item value="Initialization of bean failed; nested exception is com.google.gson.JsonSyntaxException:" />
@@ -50,11 +51,10 @@
       <item value="Spring MVC found on classpath, which is incompatible with Spring Cloud Gateway at this time. Please remove spring-boot-starter-web dependency." />
       <item value="卉" />
       <item value="hystrix fallback route" />
-      <item value="cute thing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2419" />
+        <entry key="CHINESE" value="2420" />
         <entry key="ENGLISH" value="2432" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
