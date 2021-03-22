@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
+      <item value="divide" />
       <item value="GUARANTEE" />
       <item value="interrupt" />
       <item value="supply" />
@@ -49,13 +51,11 @@
       <item value="no data" />
       <item value="test result" />
       <item value="检查结果" />
-      <item value="check result" />
-      <item value="PATTERN INVALID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2428" />
-        <entry key="ENGLISH" value="2438" />
+        <entry key="CHINESE" value="2431" />
+        <entry key="ENGLISH" value="2439" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
