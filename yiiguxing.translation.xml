@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Infintel Digital Technology Co.,ltd." />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="divide" />
       <item value="GUARANTEE" />
@@ -50,11 +51,10 @@
       <item value="multiply" />
       <item value="no data" />
       <item value="test result" />
-      <item value="检查结果" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2431" />
+        <entry key="CHINESE" value="2433" />
         <entry key="ENGLISH" value="2439" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
