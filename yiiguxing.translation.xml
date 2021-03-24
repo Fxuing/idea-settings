@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delay" />
       <item value="start Time" />
       <item value="Customized RocketMQ Broker Image for RocketMQ-Operator  " />
       <item value="Bad return type in lambda expression: void cannot be converted to boolean" />
@@ -50,11 +51,10 @@
       <item value="report Huo Ke Analysis Excel" />
       <item value="bus Reserve" />
       <item value="data format error rid" />
-      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2438" />
+        <entry key="CHINESE" value="2439" />
         <entry key="ENGLISH" value="2439" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
