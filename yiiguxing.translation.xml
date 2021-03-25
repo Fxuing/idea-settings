@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="window" />
       <item value="delay" />
       <item value="start Time" />
       <item value="Customized RocketMQ Broker Image for RocketMQ-Operator  " />
@@ -50,7 +51,6 @@
       <item value="子" />
       <item value="report Huo Ke Analysis Excel" />
       <item value="bus Reserve" />
-      <item value="data format error rid" />
     </histories>
     <option name="languageScores">
       <map>
