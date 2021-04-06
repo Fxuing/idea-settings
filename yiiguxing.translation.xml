@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encoding" />
       <item value="Inconvertible types; cannot cast 'java.lang.String' to 'java.lang.Integer'" />
       <item value="revision" />
       <item value="omitted for duplicate" />
@@ -50,7 +51,6 @@
       <item value="Required request body is missing" />
       <item value="Contents of collection 'map' are updated, but never queried" />
       <item value="指令" />
-      <item value="callback" />
     </histories>
     <option name="languageScores">
       <map>
