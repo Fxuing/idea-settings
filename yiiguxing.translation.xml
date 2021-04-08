@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平台" />
+      <item value="plat from Type" />
+      <item value="PLATFROM_TYPE" />
+      <item value="platfrom type" />
+      <item value="platfrom_type" />
+      <item value="platfrom" />
+      <item value="plat" />
       <item value="fetch" />
       <item value="butterfly lovers" />
       <item value="money Config" />
@@ -44,18 +51,11 @@
       <item value="No Such Method Error" />
       <item value="Your JSON does not match the model you asked Gson to bind. This is fairly common and is a usage question which has been written about a lot on blogs, mailing lists, and StackOverflow. I would suggest you consult StackOverflow questions of similar nature.  " />
       <item value="Initialization of bean failed; nested exception is com.google.gson.JsonSyntaxException:" />
-      <item value="Too Many Requests" />
-      <item value="Your IP is issuing too many concurrent connections, please rate limit your calls" />
-      <item value="To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 2 path $" />
-      <item value="module" />
-      <item value="record id" />
-      <item value="设计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2451" />
-        <entry key="ENGLISH" value="2451" />
+        <entry key="CHINESE" value="2453" />
+        <entry key="ENGLISH" value="2454" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
