@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Running M-x racer-debug does show that RUST_SRC_PATH is set to a directory that exists. But the only file in that directory is the llvm-project directory." />
       <item value="cover img" />
       <item value="cover_img" />
       <item value="is Non Form" />
@@ -50,7 +51,6 @@
       <item value="supply" />
       <item value="supplyAsync" />
       <item value="the new CompletableFuture" />
-      <item value="Completion Service" />
     </histories>
     <option name="languageScores">
       <map>
