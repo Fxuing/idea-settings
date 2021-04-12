@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="main.rs(71, 12): maybe a missing crate `back_of_house`? " />
+      <item value="maybe a missing crate `hosting`?" />
+      <item value="chat" />
+      <item value="chart" />
+      <item value="work" />
       <item value="Running M-x racer-debug does show that RUST_SRC_PATH is set to a directory that exists. But the only file in that directory is the llvm-project directory." />
       <item value="cover img" />
       <item value="cover_img" />
@@ -46,11 +51,6 @@
       <item value="Infintel Digital Technology Co.,ltd." />
       <item value="'BigDecimal.divide()' called without a rounding mode argument" />
       <item value="divide" />
-      <item value="GUARANTEE" />
-      <item value="interrupt" />
-      <item value="supply" />
-      <item value="supplyAsync" />
-      <item value="the new CompletableFuture" />
     </histories>
     <option name="languageScores">
       <map>
