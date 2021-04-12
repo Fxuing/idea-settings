@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encoding" />
       <item value="main.rs(71, 12): maybe a missing crate `back_of_house`? " />
       <item value="maybe a missing crate `hosting`?" />
       <item value="chat" />
@@ -34,7 +35,6 @@
       <item value="Generater" />
       <item value="生成" />
       <item value="generator" />
-      <item value="encoding" />
       <item value="Inconvertible types; cannot cast 'java.lang.String' to 'java.lang.Integer'" />
       <item value="revision" />
       <item value="omitted for duplicate" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2455" />
-        <entry key="ENGLISH" value="2455" />
+        <entry key="ENGLISH" value="2456" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
