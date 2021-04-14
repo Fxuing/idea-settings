@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
+      <item value="Returns a power of two size for the given target capacity." />
       <item value="encoding" />
       <item value="main.rs(71, 12): maybe a missing crate `back_of_house`? " />
       <item value="maybe a missing crate `hosting`?" />
@@ -49,13 +51,11 @@
       <item value="Customized RocketMQ Broker Image for RocketMQ-Operator  " />
       <item value="Bad return type in lambda expression: void cannot be converted to boolean" />
       <item value="Infintel Digital Technology Co.,ltd." />
-      <item value="'BigDecimal.divide()' called without a rounding mode argument" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2455" />
-        <entry key="ENGLISH" value="2456" />
+        <entry key="CHINESE" value="2457" />
+        <entry key="ENGLISH" value="2458" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
