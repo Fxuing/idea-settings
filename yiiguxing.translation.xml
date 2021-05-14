@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAINTAINER" />
+      <item value="Interpreter Development" />
+      <item value=" Found Python3" />
+      <item value="/usr/bin/python3.7 (found suitable version &quot;3.7.5&quot;, minimum required is &quot;3.6...3.10&quot;) found components:  Interpreter Development " />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="Communications link failure" />
       <item value="Web server failed to start. Port 9092 was already in use." />
@@ -47,10 +51,6 @@
       <item value="&gt; com.google.common.util.concurrent.ExecutionError: java.lang.NoClassDefFoundError: com/github/jengelman/gradle/plugins/shadow/ShadowJavaPlugin$ShadowJavaLibrary" />
       <item value="A problem occurred evaluating root project 'trade-control'." />
       <item value="Code Generate" />
-      <item value="Generate" />
-      <item value="Generater" />
-      <item value="生成" />
-      <item value="generator" />
     </histories>
     <option name="languageScores">
       <map>
