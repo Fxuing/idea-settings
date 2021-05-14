@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When using COPY with more than one source file, the destination must be a directory and end with a / The push refers to repository [192.168.50.24/szjf/odp-web] An image does not exist locally with the tag: 192.168.50.24/szjf/odp-web Error: No such image: 192.168.50.24/szjf/odp-web:dev_v1.0.2" />
+      <item value="No such image" />
       <item value="MAINTAINER" />
       <item value="Interpreter Development" />
       <item value=" Found Python3" />
@@ -49,8 +51,6 @@
       <item value="inject" />
       <item value="Include this {@link Module} in your {@link Guice} bootstrapping to Automagically * get bindings to your {@link TypesafeConfig} annotated configuration parameters." />
       <item value="&gt; com.google.common.util.concurrent.ExecutionError: java.lang.NoClassDefFoundError: com/github/jengelman/gradle/plugins/shadow/ShadowJavaPlugin$ShadowJavaLibrary" />
-      <item value="A problem occurred evaluating root project 'trade-control'." />
-      <item value="Code Generate" />
     </histories>
     <option name="languageScores">
       <map>
