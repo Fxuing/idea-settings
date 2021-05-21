@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid reference format: repository name must be lowercase" />
       <item value="未知" />
       <item value="The plain HTTP request was sent to HTTPS port" />
       <item value="https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/annotations/#secure-backends" />
       <item value="# A button to open designated chat widget in sidebar. # Firstly, you need enable the chat service you want to activate its sidebar button." />
-      <item value="invalid reference format: repository name must be lowercase" />
       <item value="attach Type" />
       <item value="Pod Predicate NodePorts failed " />
       <item value="When using COPY with more than one source file, the destination must be a directory and end with a / The push refers to repository [192.168.50.24/szjf/odp-web] An image does not exist locally with the tag: 192.168.50.24/szjf/odp-web Error: No such image: 192.168.50.24/szjf/odp-web:dev_v1.0.2" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2463" />
+        <entry key="CHINESE" value="2464" />
         <entry key="ENGLISH" value="2464" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
