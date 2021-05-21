@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CrashLoopBackOff: back-off 40s restarting failed container=policy-rpc pod=policy-rpc-794995f47f-kl9bd_default(15b6966e-df3a-4acc-acca-4c5b8210e12d)" />
+      <item value="&#9; ImagePullBackOff: Back-off pulling image &quot;szjf/policy-rpc:dev_v1.7.0_86&quot;" />
       <item value="invalid reference format: repository name must be lowercase" />
       <item value="未知" />
       <item value="The plain HTTP request was sent to HTTPS port" />
@@ -49,8 +51,6 @@
       <item value="PLATFROM_TYPE" />
       <item value="platfrom type" />
       <item value="platfrom_type" />
-      <item value="platfrom" />
-      <item value="plat" />
     </histories>
     <option name="languageScores">
       <map>
