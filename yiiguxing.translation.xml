@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="讨论" />
+      <item value="battle" />
       <item value="pipeline" />
       <item value="pipe" />
       <item value="agent.http: Request error: method=PUT url=/v1/agent/check/pass/service:1aa13d7f from=192.168.50.31:57682 error=&quot;CheckID &quot;service:1aa13d7f&quot; does not have associated TTL" />
@@ -49,13 +51,11 @@
       <item value="Cannot resolve path variable 'newsType' in request mapping" />
       <item value="Official" />
       <item value="官网" />
-      <item value="平台" />
-      <item value="plat from Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2464" />
-        <entry key="ENGLISH" value="2464" />
+        <entry key="ENGLISH" value="2465" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
