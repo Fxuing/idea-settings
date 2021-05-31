@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non Keyword List" />
+      <item value="keyword List" />
       <item value="Rest High Level Client" />
       <item value="idol" />
       <item value="效率" />
@@ -49,13 +51,11 @@
       <item value="work" />
       <item value="Running M-x racer-debug does show that RUST_SRC_PATH is set to a directory that exists. But the only file in that directory is the llvm-project directory." />
       <item value="cover img" />
-      <item value="cover_img" />
-      <item value="is Non Form" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2466" />
-        <entry key="ENGLISH" value="2467" />
+        <entry key="CHINESE" value="2468" />
+        <entry key="ENGLISH" value="2469" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
