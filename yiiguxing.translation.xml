@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commercialPaperSwitch" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of okio.BufferedSource" />
       <item value="while setting bean property 'ref'" />
       <item value="cue" />
@@ -50,7 +51,6 @@
       <item value="threshold" />
       <item value="Returns a power of two size for the given target capacity." />
       <item value="encoding" />
-      <item value="main.rs(71, 12): maybe a missing crate `back_of_house`? " />
     </histories>
     <option name="languageScores">
       <map>
