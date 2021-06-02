@@ -222,9 +222,13 @@
           <option name="url" value="http://192.168.50.51/project_build/build.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/TonyWong/rpc-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\javaworkspace\project_build" />
+    <option name="cloneParentDir" value="F:\javaworkspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
