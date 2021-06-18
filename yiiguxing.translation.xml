@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mixed" />
+      <item value="hard" />
       <item value="backend service" />
       <item value="visit" />
       <item value="嬅" />
@@ -49,8 +51,6 @@
       <item value="上一页" />
       <item value="search Node By Flow Code" />
       <item value="MULTILINE" />
-      <item value="degisn" />
-      <item value="citi" />
     </histories>
     <option name="languageScores">
       <map>
