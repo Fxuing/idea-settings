@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Memo" />
       <item value="Cannot resolve reference to bean" />
       <item value="keywords" />
       <item value="summary" />
@@ -50,7 +51,6 @@
       <item value="No apt package &quot;kubeadm&quot;, but there is a snap with that name. Try &quot;snap install kubeadm&quot;" />
       <item value="For step-by-step instructions on creating and specifying kubeconfig files, see Configure Access to Multiple Clusters.  " />
       <item value="By default, kubectl looks for a file named config in the $HOME/.kube directory. You can specify other kubeconfig files by setting the KUBECONFIG environment variable or by setting the --kubeconfig flag." />
-      <item value="form Commit" />
     </histories>
     <option name="languageScores">
       <map>
