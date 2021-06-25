@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合作" />
       <item value="up about an hour" />
       <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="Methods annotated with '@Transactional' must be overridable" />
@@ -50,12 +51,11 @@
       <item value=" Found Python3" />
       <item value="/usr/bin/python3.7 (found suitable version &quot;3.7.5&quot;, minimum required is &quot;3.6...3.10&quot;) found components:  Interpreter Development " />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
-      <item value="Communications link failure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2479" />
-        <entry key="ENGLISH" value="2479" />
+        <entry key="ENGLISH" value="2480" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
