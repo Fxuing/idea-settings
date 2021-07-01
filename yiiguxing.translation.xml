@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
       <item value="开机" />
       <item value="The reference to entity &quot;sY7&quot; must end with the ';' delimiter." />
       <item value="上一个" />
@@ -50,11 +51,10 @@
       <item value="Pod Predicate NodePorts failed " />
       <item value="When using COPY with more than one source file, the destination must be a directory and end with a / The push refers to repository [192.168.50.24/szjf/odp-web] An image does not exist locally with the tag: 192.168.50.24/szjf/odp-web Error: No such image: 192.168.50.24/szjf/odp-web:dev_v1.0.2" />
       <item value="No such image" />
-      <item value="MAINTAINER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2482" />
+        <entry key="CHINESE" value="2483" />
         <entry key="ENGLISH" value="2483" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
