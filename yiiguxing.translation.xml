@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金" />
+      <item value="金服" />
+      <item value="专" />
+      <item value="专区" />
       <item value="优化" />
       <item value="exist" />
       <item value="存在" />
@@ -47,10 +51,6 @@
       <item value="CrashLoopBackOff: back-off 40s restarting failed container=policy-rpc pod=policy-rpc-794995f47f-kl9bd_default(15b6966e-df3a-4acc-acca-4c5b8210e12d)" />
       <item value="&#9; ImagePullBackOff: Back-off pulling image &quot;szjf/policy-rpc:dev_v1.7.0_86&quot;" />
       <item value="invalid reference format: repository name must be lowercase" />
-      <item value="未知" />
-      <item value="The plain HTTP request was sent to HTTPS port" />
-      <item value="https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/annotations/#secure-backends" />
-      <item value="# A button to open designated chat widget in sidebar. # Firstly, you need enable the chat service you want to activate its sidebar button." />
     </histories>
     <option name="languageScores">
       <map>
