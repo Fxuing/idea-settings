@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable 'OPERATOR_INF_MAPPER' might not have been initialized" />
+      <item value="已同步" />
+      <item value="已经" />
+      <item value="等待" />
+      <item value="PRE SYNC" />
       <item value="金" />
       <item value="金服" />
       <item value="专" />
@@ -46,16 +51,11 @@
       <item value="讨论" />
       <item value="battle" />
       <item value="pipeline" />
-      <item value="pipe" />
-      <item value="agent.http: Request error: method=PUT url=/v1/agent/check/pass/service:1aa13d7f from=192.168.50.31:57682 error=&quot;CheckID &quot;service:1aa13d7f&quot; does not have associated TTL" />
-      <item value="CrashLoopBackOff: back-off 40s restarting failed container=policy-rpc pod=policy-rpc-794995f47f-kl9bd_default(15b6966e-df3a-4acc-acca-4c5b8210e12d)" />
-      <item value="&#9; ImagePullBackOff: Back-off pulling image &quot;szjf/policy-rpc:dev_v1.7.0_86&quot;" />
-      <item value="invalid reference format: repository name must be lowercase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2486" />
-        <entry key="ENGLISH" value="2487" />
+        <entry key="CHINESE" value="2489" />
+        <entry key="ENGLISH" value="2489" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
