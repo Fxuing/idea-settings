@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="ORG CODE IS wait commit" />
       <item value="Condition 'orgCodeCount.equals(operatorInfs.size())' is always 'false'" />
       <item value="suffix Overrides" />
@@ -24,7 +25,6 @@
       <item value="other" />
       <item value="合作" />
       <item value="up about an hour" />
-      <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
       <item value="Methods annotated with '@Transactional' must be overridable" />
       <item value="Deadlock found when trying to get lock; try restarting transaction" />
       <item value="REQUIRED" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2490" />
-        <entry key="ENGLISH" value="2491" />
+        <entry key="CHINESE" value="2491" />
+        <entry key="ENGLISH" value="2492" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
