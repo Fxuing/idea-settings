@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ORG CODE IS wait commit" />
+      <item value="Condition 'orgCodeCount.equals(operatorInfs.size())' is always 'false'" />
       <item value="suffix Overrides" />
       <item value="Variable 'OPERATOR_INF_MAPPER' might not have been initialized" />
       <item value="已同步" />
@@ -49,13 +51,11 @@
       <item value="idol" />
       <item value="效率" />
       <item value="sonar" />
-      <item value="讨论" />
-      <item value="battle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2489" />
-        <entry key="ENGLISH" value="2490" />
+        <entry key="CHINESE" value="2490" />
+        <entry key="ENGLISH" value="2491" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
