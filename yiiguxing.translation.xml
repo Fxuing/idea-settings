@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Grant Ticket" />
       <item value="search Ark Bank List" />
       <item value="Passing a non-null argument to 'Optional'" />
       <item value="Return {@code true} if there is a value present, otherwise {@code false}." />
@@ -50,12 +51,11 @@
       <item value="non Keyword List" />
       <item value="keyword List" />
       <item value="Rest High Level Client" />
-      <item value="idol" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2492" />
-        <entry key="ENGLISH" value="2492" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
