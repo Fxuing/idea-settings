@@ -22,6 +22,7 @@
         <entry>\con</entry>
         <entry>51</entry>
         <entry>226</entry>
+        <entry>set nu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -106,6 +107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -334,7 +338,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8g77+977+977+92rjvv73vv73CsO+/ve+/ve+/ve+/ve+/ve+/vdCj77+977+977+977+977+91qTvv73vv73Ste+/ve+/vdK177+977+977+977+977+977+9CiAgICAgICAgICAgIGlmIChCZXN0c2lnbkVudW0uUkVGVVNFLmdldFZhbHVlKCkuZXF1YWxzKGp1ZGdlRmxhZykpIHsKICAgICAgICAgICAgICAgIC8vIO+/vdy+77+977+977+977+977+90rXvv73vv73XtMys77+977+9zqpJR++/ve+/ve+/ve+/vdak77+977+9zajvv73vv70K</text>
       </register>
       <register name=":" type="4">
-        <text>226</text>
+        <text>set nu</text>
       </register>
     </registers>
   </component>
@@ -348,7 +352,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
