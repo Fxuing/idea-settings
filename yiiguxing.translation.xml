@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="articleType" />
       <item value="get Grant Ticket" />
       <item value="search Ark Bank List" />
       <item value="Passing a non-null argument to 'Optional'" />
@@ -50,11 +51,10 @@
       <item value="Fielddata is disabled on text fields by default. Set fielddata=true on [policy_name] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory. Alternatively use a keyword field instead." />
       <item value="non Keyword List" />
       <item value="keyword List" />
-      <item value="Rest High Level Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2492" />
+        <entry key="CHINESE" value="2493" />
         <entry key="ENGLISH" value="2493" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
