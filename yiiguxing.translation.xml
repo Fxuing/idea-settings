@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate entry" />
       <item value="articleType" />
       <item value="get Grant Ticket" />
       <item value="search Ark Bank List" />
@@ -50,7 +51,6 @@
       <item value="Unable to find a field mapper for field [_score]. No 'missing' value defined." />
       <item value="Fielddata is disabled on text fields by default. Set fielddata=true on [policy_name] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory. Alternatively use a keyword field instead." />
       <item value="non Keyword List" />
-      <item value="keyword List" />
     </histories>
     <option name="languageScores">
       <map>
