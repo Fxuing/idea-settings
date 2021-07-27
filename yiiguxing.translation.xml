@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protected" />
+      <item value="Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface" />
+      <item value="alt" />
       <item value="访问" />
       <item value="ASSIGN" />
       <item value="assign Id" />
@@ -48,13 +51,10 @@
       <item value="summary" />
       <item value="文章类型" />
       <item value="mixed" />
-      <item value="hard" />
-      <item value="backend service" />
-      <item value="visit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2500" />
+        <entry key="CHINESE" value="2501" />
         <entry key="ENGLISH" value="2501" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
