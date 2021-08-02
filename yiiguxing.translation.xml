@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Extra Large Font" />
+      <item value="set Small Font" />
+      <item value="set Regular Font" />
+      <item value="set Large Font" />
+      <item value="plot Background Paint" />
+      <item value="LIGHT GRAY" />
+      <item value="chart Background Paint" />
+      <item value="legend Item Paint" />
+      <item value="subtitle Paint" />
+      <item value="shadow" />
+      <item value="transient" />
+      <item value="DEFAULT BACKGROUND PAINT" />
+      <item value="padding" />
+      <item value="border Paint" />
+      <item value="VERTICAL" />
+      <item value="HORIZONTAL" />
+      <item value="Plot Orientation" />
       <item value="Unbound pointcut parameter 'repeatSubmit'" />
       <item value="suffix" />
       <item value="prefix" />
@@ -34,28 +51,11 @@
       <item value="已同步" />
       <item value="已经" />
       <item value="等待" />
-      <item value="PRE SYNC" />
-      <item value="金" />
-      <item value="金服" />
-      <item value="专" />
-      <item value="专区" />
-      <item value="优化" />
-      <item value="exist" />
-      <item value="存在" />
-      <item value="extenct" />
-      <item value="interval" />
-      <item value="开机" />
-      <item value="The reference to entity &quot;sY7&quot; must end with the ';' delimiter." />
-      <item value="上一个" />
-      <item value="other" />
-      <item value="合作" />
-      <item value="up about an hour" />
-      <item value="Methods annotated with '@Transactional' must be overridable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2507" />
-        <entry key="ENGLISH" value="2507" />
+        <entry key="CHINESE" value="2520" />
+        <entry key="ENGLISH" value="2521" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
