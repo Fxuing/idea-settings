@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sub Title Name List 1" />
       <item value="factory" />
       <item value="set Default Item Labels Visible" />
       <item value="set Shadow Paint" />
@@ -50,12 +51,11 @@
       <item value="allow Actions" />
       <item value="DISALLOWED LIST" />
       <item value="auditor Aware Ref" />
-      <item value="Persistent Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2536" />
-        <entry key="ENGLISH" value="2537" />
+        <entry key="CHINESE" value="2537" />
+        <entry key="ENGLISH" value="2538" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
