@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Page Event" />
+      <item value="scale Percent" />
       <item value="set Spacing After" />
       <item value="set Absolute Position" />
       <item value="category Axis Label" />
@@ -49,13 +51,11 @@
       <item value="set Regular Font" />
       <item value="set Large Font" />
       <item value="legend Item Paint" />
-      <item value="subtitle Paint" />
-      <item value="shadow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2552" />
-        <entry key="ENGLISH" value="2553" />
+        <entry key="CHINESE" value="2554" />
+        <entry key="ENGLISH" value="2555" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
