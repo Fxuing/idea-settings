@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Label Links Visible" />
+      <item value="set Label Link Margin" />
       <item value="Unchecked call to 'setValue(K, double)' as a member of raw type 'org.jfree.data.general.DefaultPieDataset'" />
       <item value="Raw use of parameterized class 'DefaultPieDataset'" />
       <item value="BAR" />
@@ -49,13 +51,11 @@
       <item value="VERTICAL" />
       <item value="HORIZONTAL" />
       <item value="Plot Orientation" />
-      <item value="Unbound pointcut parameter 'repeatSubmit'" />
-      <item value="suffix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2548" />
-        <entry key="ENGLISH" value="2548" />
+        <entry key="CHINESE" value="2549" />
+        <entry key="ENGLISH" value="2550" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
