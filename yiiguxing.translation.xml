@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Padding Top" />
+      <item value="set Spacing After" />
       <item value="Duplicate key" />
       <item value="General taxpayer" />
       <item value="一般纳税人申报表" />
@@ -19,7 +21,6 @@
       <item value="Raw use of parameterized class 'PiePlot'" />
       <item value="set Page Event" />
       <item value="scale Percent" />
-      <item value="set Spacing After" />
       <item value="set Absolute Position" />
       <item value="category Axis Label" />
       <item value="set Section Outlines Visible" />
@@ -50,12 +51,11 @@
       <item value="Outline Paint" />
       <item value="set Plot Outline Paint" />
       <item value="set Range Gridline Paint" />
-      <item value="BLACK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2568" />
-        <entry key="ENGLISH" value="2569" />
+        <entry key="CHINESE" value="2570" />
+        <entry key="ENGLISH" value="2571" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
