@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate key" />
       <item value="General taxpayer" />
       <item value="一般纳税人申报表" />
       <item value="增值税一般纳税人申报表" />
@@ -50,12 +51,11 @@
       <item value="set Plot Outline Paint" />
       <item value="set Range Gridline Paint" />
       <item value="BLACK" />
-      <item value="DARK GRAY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2568" />
-        <entry key="ENGLISH" value="2568" />
+        <entry key="ENGLISH" value="2569" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
