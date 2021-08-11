@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="利润分析表" />
       <item value="资产负债表" />
       <item value="no instance(s) of type variable(s) exist so that Map&lt;Object, Object&gt; conforms to String inference variable K has incompatible bounds: equality constraints: String lower bounds: Map&lt;Object, Object&gt;" />
       <item value="Provided" />
@@ -50,12 +51,11 @@
       <item value="Stroke" />
       <item value="set Default Section Outline Stroke" />
       <item value="setDefaultSectionOutlineStroke" />
-      <item value="set Label Links Visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2595" />
-        <entry key="ENGLISH" value="2595" />
+        <entry key="CHINESE" value="2596" />
+        <entry key="ENGLISH" value="2596" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
