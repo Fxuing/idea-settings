@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no instance(s) of type variable(s) exist so that Map&lt;Object, Object&gt; conforms to String inference variable K has incompatible bounds: equality constraints: String lower bounds: Map&lt;Object, Object&gt;" />
+      <item value="Provided" />
+      <item value="Required type: Map &lt;String, List&lt;Map&gt;&gt;" />
       <item value="BOTTOM CENTER" />
       <item value="Text Anchor" />
       <item value="OUTSIDE 1" />
@@ -48,13 +51,10 @@
       <item value="setDefaultSectionOutlineStroke" />
       <item value="set Label Links Visible" />
       <item value="set Label Link Margin" />
-      <item value="Unchecked call to 'setValue(K, double)' as a member of raw type 'org.jfree.data.general.DefaultPieDataset'" />
-      <item value="Raw use of parameterized class 'DefaultPieDataset'" />
-      <item value="BAR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2593" />
+        <entry key="CHINESE" value="2594" />
         <entry key="ENGLISH" value="2594" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
