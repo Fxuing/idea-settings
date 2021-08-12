@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用水信息" />
       <item value="负债" />
       <item value="资产负债表" />
       <item value="财务指标" />
@@ -50,12 +51,11 @@
       <item value="set Absolute Position" />
       <item value="category Axis Label" />
       <item value="set Section Outlines Visible" />
-      <item value="Stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2599" />
-        <entry key="ENGLISH" value="2599" />
+        <entry key="CHINESE" value="2600" />
+        <entry key="ENGLISH" value="2600" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
