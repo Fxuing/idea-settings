@@ -1,8 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="动产抵押" />
+      <item value="Government purchase order" />
+      <item value="政府采购订单" />
+      <item value="风险信息" />
+      <item value="奖励信息" />
+      <item value="资质认证信息" />
+      <item value="质抵押信息" />
       <item value="用水信息" />
+      <item value="财务信息" />
+      <item value="tax Declaration Collection Info" />
+      <item value="税务申报征收信息" />
+      <item value="base Info" />
+      <item value="动产抵押" />
       <item value="负债" />
       <item value="资产负债表" />
       <item value="财务指标" />
@@ -41,21 +51,11 @@
       <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation" />
       <item value="set Automatic Number" />
       <item value="set Number Depth" />
-      <item value="Chapter" />
-      <item value="二级" />
-      <item value="耳机" />
-      <item value="Pie Plot" />
-      <item value="plot" />
-      <item value="Raw use of parameterized class 'PiePlot'" />
-      <item value="set Page Event" />
-      <item value="scale Percent" />
-      <item value="set Absolute Position" />
-      <item value="category Axis Label" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2601" />
-        <entry key="ENGLISH" value="2601" />
+        <entry key="CHINESE" value="2609" />
+        <entry key="ENGLISH" value="2609" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
