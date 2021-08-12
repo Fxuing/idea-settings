@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unhandled exceptions: com.itextpdf.text.DocumentException, java.io.IOException" />
+      <item value="tax Declaration Collection Info" />
+      <item value="predicate" />
+      <item value="断言" />
       <item value="Government purchase order" />
       <item value="政府采购订单" />
       <item value="风险信息" />
@@ -9,7 +13,6 @@
       <item value="质抵押信息" />
       <item value="用水信息" />
       <item value="财务信息" />
-      <item value="tax Declaration Collection Info" />
       <item value="税务申报征收信息" />
       <item value="base Info" />
       <item value="动产抵押" />
@@ -48,14 +51,11 @@
       <item value="增值税一般纳税人申报表" />
       <item value="增值税" />
       <item value="一月到十一月" />
-      <item value="LoggerFactory is not a Logback LoggerContext but Logback is on the classpath. Either remove Logback or the competing implementation" />
-      <item value="set Automatic Number" />
-      <item value="set Number Depth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2609" />
-        <entry key="ENGLISH" value="2609" />
+        <entry key="CHINESE" value="2611" />
+        <entry key="ENGLISH" value="2611" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
