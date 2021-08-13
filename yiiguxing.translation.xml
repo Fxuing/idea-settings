@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="率" />
+      <item value="减" />
+      <item value="销售提现" />
+      <item value="销售额" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map'" />
       <item value="账款" />
       <item value="现金流" />
@@ -47,15 +51,11 @@
       <item value="HALF ASCENT LEFT" />
       <item value="TOP LEFT" />
       <item value="HALF ASCENT CENTER" />
-      <item value="TOP CENTER" />
-      <item value="Item Label Position" />
-      <item value="OUTSIDE 12" />
-      <item value="BASELINE CENTER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2622" />
-        <entry key="ENGLISH" value="2622" />
+        <entry key="ENGLISH" value="2623" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
