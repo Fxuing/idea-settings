@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资产" />
+      <item value="排除" />
       <item value="this document contains very long lines. soft wraps were forcibly enabled to improve editor performance" />
       <item value="table Of Content" />
       <item value="目录" />
@@ -49,13 +51,11 @@
       <item value="other Amount" />
       <item value="季度" />
       <item value="企业所得税" />
-      <item value="Duplicate key" />
-      <item value="General taxpayer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2614" />
-        <entry key="ENGLISH" value="2614" />
+        <entry key="ENGLISH" value="2615" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
