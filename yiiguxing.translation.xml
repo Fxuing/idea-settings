@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map Dataset To Range Axis" />
       <item value="Toolkit not initialized" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="set Range Axis" />
@@ -50,12 +51,11 @@
       <item value="Text Anchor" />
       <item value="OUTSIDE 1" />
       <item value="BASELINE LEFT" />
-      <item value="CENTER LEFT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2626" />
-        <entry key="ENGLISH" value="2626" />
+        <entry key="ENGLISH" value="2627" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
