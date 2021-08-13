@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Toolkit not initialized" />
+      <item value="Non-terminating decimal expansion; no exact representable decimal result." />
+      <item value="set Range Axis" />
       <item value="率" />
       <item value="减" />
       <item value="销售提现" />
@@ -48,14 +51,11 @@
       <item value="OUTSIDE 1" />
       <item value="BASELINE LEFT" />
       <item value="CENTER LEFT" />
-      <item value="HALF ASCENT LEFT" />
-      <item value="TOP LEFT" />
-      <item value="HALF ASCENT CENTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2622" />
-        <entry key="ENGLISH" value="2623" />
+        <entry key="CHINESE" value="2626" />
+        <entry key="ENGLISH" value="2626" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
