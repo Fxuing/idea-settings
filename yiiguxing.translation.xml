@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="desensitization" />
+      <item value="Desensitization" />
+      <item value="脱敏" />
       <item value="fallback" />
       <item value="The byte array is not a recognized imageformat." />
       <item value="set Use Fill Paint" />
@@ -48,14 +51,11 @@
       <item value="资产负债表" />
       <item value="财务指标" />
       <item value="利润分析表" />
-      <item value="no instance(s) of type variable(s) exist so that Map&lt;Object, Object&gt; conforms to String inference variable K has incompatible bounds: equality constraints: String lower bounds: Map&lt;Object, Object&gt;" />
-      <item value="Provided" />
-      <item value="Required type: Map &lt;String, List&lt;Map&gt;&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2632" />
-        <entry key="ENGLISH" value="2632" />
+        <entry key="CHINESE" value="2633" />
+        <entry key="ENGLISH" value="2633" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
