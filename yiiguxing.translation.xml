@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合计" />
       <item value="nearly Secoud Years" />
       <item value="近三年" />
       <item value="The value changed at 'count++' is never used" />
@@ -50,12 +51,11 @@
       <item value="风险信息" />
       <item value="奖励信息" />
       <item value="资质认证信息" />
-      <item value="质抵押信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2636" />
-        <entry key="ENGLISH" value="2637" />
+        <entry key="CHINESE" value="2637" />
+        <entry key="ENGLISH" value="2638" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
