@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value changed at 'count++' is never used" />
       <item value="dev" />
       <item value="beta" />
       <item value="operating Income Value" />
@@ -50,7 +51,6 @@
       <item value="质抵押信息" />
       <item value="用水信息" />
       <item value="财务信息" />
-      <item value="税务申报征收信息" />
     </histories>
     <option name="languageScores">
       <map>
