@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报表" />
+      <item value="nice job" />
+      <item value="干的漂亮" />
+      <item value="good job" />
+      <item value="expressions" />
+      <item value="Comparison cr_l == e - 1 may cause unexpected type coercion" />
       <item value="accept" />
       <item value="Represents an operation that accepts a single input argument and returns no * result. Unlike most other functional interfaces, {@code Consumer} is expected * to operate via side-effects." />
       <item value="Condition '&quot;20002&quot;.equals(code)' is always 'false'" />
@@ -45,17 +51,11 @@
       <item value="排除" />
       <item value="this document contains very long lines. soft wraps were forcibly enabled to improve editor performance" />
       <item value="table Of Content" />
-      <item value="目录" />
-      <item value="section" />
-      <item value="Unhandled exceptions: com.itextpdf.text.DocumentException, java.io.IOException" />
-      <item value="tax Declaration Collection Info" />
-      <item value="predicate" />
-      <item value="断言" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2641" />
-        <entry key="ENGLISH" value="2642" />
+        <entry key="CHINESE" value="2643" />
+        <entry key="ENGLISH" value="2644" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
