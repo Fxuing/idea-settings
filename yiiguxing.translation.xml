@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="personCount" />
+      <item value="install" />
       <item value="汇总" />
       <item value="no.1" />
       <item value="编号" />
@@ -49,12 +51,10 @@
       <item value="fallback" />
       <item value="The byte array is not a recognized imageformat." />
       <item value="set Use Fill Paint" />
-      <item value="set Draw Outlines" />
-      <item value="map Dataset To Range Axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2659" />
+        <entry key="CHINESE" value="2660" />
         <entry key="ENGLISH" value="2660" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
