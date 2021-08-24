@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="汇总" />
       <item value="no.1" />
       <item value="编号" />
       <item value="no" />
@@ -50,12 +51,11 @@
       <item value="set Use Fill Paint" />
       <item value="set Draw Outlines" />
       <item value="map Dataset To Range Axis" />
-      <item value="Toolkit not initialized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2659" />
-        <entry key="ENGLISH" value="2659" />
+        <entry key="ENGLISH" value="2660" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
