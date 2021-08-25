@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="账号" />
+      <item value="account" />
+      <item value="details" />
+      <item value="啊" />
+      <item value="a" />
       <item value="personCount" />
       <item value="install" />
       <item value="汇总" />
@@ -46,16 +51,11 @@
       <item value="set Spacing After" />
       <item value="Contents of collection 'taxSaleLine' are queried, but never updated" />
       <item value="desensitization" />
-      <item value="Desensitization" />
-      <item value="脱敏" />
-      <item value="fallback" />
-      <item value="The byte array is not a recognized imageformat." />
-      <item value="set Use Fill Paint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2660" />
-        <entry key="ENGLISH" value="2660" />
+        <entry key="CHINESE" value="2663" />
+        <entry key="ENGLISH" value="2664" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
