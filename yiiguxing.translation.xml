@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="筱" />
       <item value="账号" />
       <item value="account" />
       <item value="details" />
@@ -50,7 +51,6 @@
       <item value="'List&lt;String&gt;' may not contain objects of type 'Integer'" />
       <item value="set Spacing After" />
       <item value="Contents of collection 'taxSaleLine' are queried, but never updated" />
-      <item value="desensitization" />
     </histories>
     <option name="languageScores">
       <map>
