@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="File 26" />
       <item value="ERR.LOGIN.PASSERR" />
       <item value="avg Success Rate" />
       <item value="筱" />
@@ -50,12 +51,11 @@
       <item value="dev" />
       <item value="beta" />
       <item value="operating Income Value" />
-      <item value="'List&lt;String&gt;' may not contain objects of type 'Integer'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2665" />
-        <entry key="ENGLISH" value="2665" />
+        <entry key="ENGLISH" value="2666" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
