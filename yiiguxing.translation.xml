@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hi 侯福星, Effective September 1, 2021, Notion has updated its terms and conditions. To better serve all Notion Users, we have split our prior Terms and Conditions into two distinct agreements.  The Personal Use Terms of Service now apply to use by Personal and Personal Pro Users. The Master Subscription Agreement now applies to all use by organizations, including companies and businesses, and all Users that subscribe to Notion Team and Enterprise Subscription Plans." />
       <item value="month" />
       <item value="utl" />
       <item value="Music therapy - " />
@@ -50,12 +51,11 @@
       <item value="汇总" />
       <item value="no.1" />
       <item value="编号" />
-      <item value="no" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2679" />
-        <entry key="ENGLISH" value="2679" />
+        <entry key="ENGLISH" value="2680" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
