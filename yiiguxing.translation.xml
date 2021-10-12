@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate" />
       <item value="Generate QR code easily for free - QR Code Generation as a Service" />
       <item value="FORGOT PASSWORD?" />
       <item value="survivor" />
@@ -50,7 +51,6 @@
       <item value="Some input files use or override a deprecated API." />
       <item value="Unchecked call to 'forEach(BiConsumer&lt;? super K, ? super V&gt;)' as a member of raw type 'java.util.Map'" />
       <item value="hash Multiple Set" />
-      <item value="File 26" />
     </histories>
     <option name="languageScores">
       <map>
