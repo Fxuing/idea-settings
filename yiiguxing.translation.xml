@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Passive Expiring Map" />
       <item value="ready" />
       <item value="generate" />
       <item value="Generate QR code easily for free - QR Code Generation as a Service" />
@@ -50,7 +51,6 @@
       <item value="通讯录管理" />
       <item value="For further reference, please consider the following sections:" />
       <item value="Some input files use or override a deprecated API." />
-      <item value="Unchecked call to 'forEach(BiConsumer&lt;? super K, ? super V&gt;)' as a member of raw type 'java.util.Map'" />
     </histories>
     <option name="languageScores">
       <map>
