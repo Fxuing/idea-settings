@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not resolve placeholder 'uri.request-white-list' in value &quot;${uri.request-white-list}&quot;" />
       <item value="request White List" />
       <item value="request White" />
       <item value="Annotation-specified bean name 'plaManagerProductServiceImpl' for bean class [com.pla.api.service.impl.PlaManagerProductServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.sz9hbank.design.service.impl.PlaManagerProductServiceImpl]" />
@@ -50,12 +51,11 @@
       <item value="release Amt" />
       <item value="droup" />
       <item value="dashdroup" />
-      <item value="dash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2698" />
-        <entry key="ENGLISH" value="2699" />
+        <entry key="CHINESE" value="2700" />
+        <entry key="ENGLISH" value="2701" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
