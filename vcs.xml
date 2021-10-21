@@ -238,6 +238,10 @@
           <option name="url" value="http://192.168.50.51/hdwork/hdwork-resource-mgr-rpc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/hdwork/hdwork-crm-rpc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\javaworkspace" />
