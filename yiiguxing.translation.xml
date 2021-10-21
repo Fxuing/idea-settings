@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal key size" />
       <item value="delimiter" />
       <item value="TRAILERS" />
       <item value="validate" />
@@ -50,11 +51,10 @@
       <item value="summary Order Num" />
       <item value="平均率" />
       <item value="平均律" />
-      <item value="avg Rage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2702" />
+        <entry key="CHINESE" value="2703" />
         <entry key="ENGLISH" value="2703" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
