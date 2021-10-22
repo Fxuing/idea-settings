@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Target type of a lambda conversion must be an interface" />
       <item value="handle" />
       <item value="Autowired" />
       <item value="async" />
@@ -50,11 +51,10 @@
       <item value="// existing mapping for key" />
       <item value="after Node Insertion" />
       <item value="TREEIFY THRESHOLD" />
-      <item value="UNTREEIFY THRESHOLD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2712" />
+        <entry key="CHINESE" value="2713" />
         <entry key="ENGLISH" value="2713" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
