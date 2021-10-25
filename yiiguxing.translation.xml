@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="USER NOT SYNC" />
+      <item value="USER NOT ASYC" />
+      <item value="认证" />
+      <item value="USER NOT AUTH" />
+      <item value="USER NOT ASYNC" />
       <item value="ENT NOT PERMISSION" />
       <item value="当前企业没有权限" />
       <item value="secondTitleFont" />
@@ -46,16 +51,11 @@
       <item value="Passive Expiring Map" />
       <item value="ready" />
       <item value="generate" />
-      <item value="Generate QR code easily for free - QR Code Generation as a Service" />
-      <item value="FORGOT PASSWORD?" />
-      <item value="survivor" />
-      <item value="Your current credit balance is $10. That's equivalent to 2 months of the Personal Pro Plan. " />
-      <item value="GC overhead limit exceeded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2716" />
-        <entry key="ENGLISH" value="2717" />
+        <entry key="CHINESE" value="2722" />
+        <entry key="ENGLISH" value="2723" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
