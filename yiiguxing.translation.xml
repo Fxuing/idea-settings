@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secondTitleFont" />
       <item value="scan Qr Code Login" />
       <item value="scanner Qr Code Login" />
       <item value="Target type of a lambda conversion must be an interface" />
@@ -50,11 +51,10 @@
       <item value="GC overhead limit exceeded" />
       <item value="Error: Could not create the Java Virtual Machine. Error: A fatal exception has occurred. Program will exit. Invalid initial heap size: -Xms=20M" />
       <item value="treeify Bin" />
-      <item value="// existing mapping for key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2714" />
+        <entry key="CHINESE" value="2715" />
         <entry key="ENGLISH" value="2715" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
