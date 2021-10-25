@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ENT NOT PERMISSION" />
+      <item value="当前企业没有权限" />
       <item value="secondTitleFont" />
       <item value="scan Qr Code Login" />
       <item value="scanner Qr Code Login" />
@@ -49,13 +51,11 @@
       <item value="survivor" />
       <item value="Your current credit balance is $10. That's equivalent to 2 months of the Personal Pro Plan. " />
       <item value="GC overhead limit exceeded" />
-      <item value="Error: Could not create the Java Virtual Machine. Error: A fatal exception has occurred. Program will exit. Invalid initial heap size: -Xms=20M" />
-      <item value="treeify Bin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2715" />
-        <entry key="ENGLISH" value="2715" />
+        <entry key="CHINESE" value="2716" />
+        <entry key="ENGLISH" value="2717" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
