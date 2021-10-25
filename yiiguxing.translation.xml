@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field userRoleService in com.sz9hbank.auth.service.impl.CommonService required a bean of type 'com.sz9hbank.auth.service.UserRoleService' that could not be found." />
       <item value="nested exception is java.lang.IllegalArgumentException: @ComponentScan ANNOTATION type filter requires an annotation type: interface com.anji.captcha.service.CaptchaService" />
       <item value="Variable 'token' is already defined in the scope" />
       <item value="LOGIN ACCT IS NOT EXIST" />
@@ -50,12 +51,11 @@
       <item value="Mgr Operater Service" />
       <item value="Authenticate Service Remote" />
       <item value="Slf 4 j" />
-      <item value="Wx Work Login Controller" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2725" />
-        <entry key="ENGLISH" value="2726" />
+        <entry key="CHINESE" value="2726" />
+        <entry key="ENGLISH" value="2727" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
