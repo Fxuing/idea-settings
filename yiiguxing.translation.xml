@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customer" />
+      <item value="consumer" />
       <item value="Tunnel www.fxuing.top not found " />
       <item value="get Corp User Id" />
       <item value="Contents of collection 'aesKey' are queried, but never updated" />
@@ -49,13 +51,11 @@
       <item value="Could not resolve placeholder 'uri.request-white-list' in value &quot;${uri.request-white-list}&quot;" />
       <item value="request White List" />
       <item value="request White" />
-      <item value="Annotation-specified bean name 'plaManagerProductServiceImpl' for bean class [com.pla.api.service.impl.PlaManagerProductServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.sz9hbank.design.service.impl.PlaManagerProductServiceImpl]" />
-      <item value="Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 2 path $" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2737" />
-        <entry key="ENGLISH" value="2737" />
+        <entry key="CHINESE" value="2738" />
+        <entry key="ENGLISH" value="2739" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
