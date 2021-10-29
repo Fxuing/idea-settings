@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fans" />
+      <item value="粉丝" />
       <item value="cmd" />
       <item value="instructions" />
       <item value="指令" />
@@ -49,13 +51,11 @@
       <item value="Value is too long (limit: 512 characters)')" />
       <item value="Illegal key size" />
       <item value="delimiter" />
-      <item value="TRAILERS" />
-      <item value="validate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2740" />
-        <entry key="ENGLISH" value="2740" />
+        <entry key="CHINESE" value="2741" />
+        <entry key="ENGLISH" value="2741" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
