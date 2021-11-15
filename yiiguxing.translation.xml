@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="表头" />
+      <item value="fieldName" />
+      <item value="字段" />
+      <item value="field" />
       <item value="Redis health check failed" />
       <item value="金服" />
       <item value="通州金服" />
@@ -47,15 +51,11 @@
       <item value="Autowired" />
       <item value="async" />
       <item value="Parameter 'list' not found. Available parameters are [roleResources, param1]" />
-      <item value="slow sql 7584 millis." />
-      <item value="Runtime exception instance 'new BizException(ResponseStatus.ROLE_CODE_IS_NOT_EXIST)' is not thrown" />
-      <item value="relative Path" />
-      <item value="Wx Service Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2744" />
-        <entry key="ENGLISH" value="2745" />
+        <entry key="CHINESE" value="2746" />
+        <entry key="ENGLISH" value="2747" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
