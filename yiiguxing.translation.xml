@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="use" />
+      <item value="use Num" />
+      <item value="receive Num" />
+      <item value="使用数量" />
+      <item value="领取数量" />
+      <item value="validity Time" />
+      <item value="end Time" />
+      <item value="start End" />
+      <item value="fast" />
+      <item value="fast UUID" />
       <item value="No validator could be found for constraint" />
       <item value="No validator could be found for constraint 'javax.validation.constraints.Pattern'" />
       <item value="Check configuration for 'type'" />
@@ -41,21 +51,11 @@
       <item value="Contents of collection 'aesKey' are queried, but never updated" />
       <item value="corp Id" />
       <item value="merchant" />
-      <item value="Department" />
-      <item value="sync Wx Work Department" />
-      <item value="ACCT DISABLE" />
-      <item value="ACCT CODE DISABLE" />
-      <item value="Invalid bound statement (not found): com.sz9hbank.auth.mapper.CredentialMapper.saveBatch" />
-      <item value="Index Out Of Bounds Exception" />
-      <item value="The call to 'get' always fails as index is out of bounds" />
-      <item value="clock record" />
-      <item value="Field userRoleService in com.sz9hbank.auth.service.impl.CommonService required a bean of type 'com.sz9hbank.auth.service.UserRoleService' that could not be found." />
-      <item value="nested exception is java.lang.IllegalArgumentException: @ComponentScan ANNOTATION type filter requires an annotation type: interface com.anji.captcha.service.CaptchaService" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2755" />
-        <entry key="ENGLISH" value="2756" />
+        <entry key="CHINESE" value="2762" />
+        <entry key="ENGLISH" value="2762" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
