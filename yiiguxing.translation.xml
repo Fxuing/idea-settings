@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No validator could be found for constraint" />
+      <item value="No validator could be found for constraint 'javax.validation.constraints.Pattern'" />
+      <item value="Check configuration for 'type'" />
+      <item value="The call to 'orElseThrow' always fails, according to its method contracts" />
       <item value="Single character alternation in RegExp" />
       <item value="Field injection is not recommended" />
       <item value="金额" />
@@ -47,15 +51,11 @@
       <item value="clock record" />
       <item value="Field userRoleService in com.sz9hbank.auth.service.impl.CommonService required a bean of type 'com.sz9hbank.auth.service.UserRoleService' that could not be found." />
       <item value="nested exception is java.lang.IllegalArgumentException: @ComponentScan ANNOTATION type filter requires an annotation type: interface com.anji.captcha.service.CaptchaService" />
-      <item value="Variable 'token' is already defined in the scope" />
-      <item value="LOGIN ACCT IS NOT EXIST" />
-      <item value="LOGIN ACCT IS NOT" />
-      <item value="USER NOT SYNC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2753" />
-        <entry key="ENGLISH" value="2753" />
+        <entry key="CHINESE" value="2755" />
+        <entry key="ENGLISH" value="2756" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
