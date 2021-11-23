@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兑付" />
+      <item value="兑现" />
+      <item value="cash" />
+      <item value="expire" />
+      <item value="expiraction Num" />
+      <item value="expir Num" />
+      <item value="expiration" />
       <item value="use" />
       <item value="use Num" />
       <item value="receive Num" />
@@ -44,18 +51,11 @@
       <item value="cmd" />
       <item value="instructions" />
       <item value="指令" />
-      <item value="customer" />
-      <item value="consumer" />
-      <item value="Tunnel www.fxuing.top not found " />
-      <item value="get Corp User Id" />
-      <item value="Contents of collection 'aesKey' are queried, but never updated" />
-      <item value="corp Id" />
-      <item value="merchant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2762" />
-        <entry key="ENGLISH" value="2762" />
+        <entry key="ENGLISH" value="2763" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -71,7 +71,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="MALAY" value="3" />
         <entry key="BENGALI" value="1" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="TURKISH" value="1" />
