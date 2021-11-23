@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金额" />
+      <item value="amount" />
+      <item value="数量" />
+      <item value="发行数量" />
+      <item value="面额" />
+      <item value="subsidy_ticket" />
+      <item value="补贴券" />
+      <item value="服务券" />
       <item value="Manage your projects efficiently with YouTrack. If you have a YouTrack instance, you can use the YouTrack Integration plugin to work with your issues directly in IntelliJ IDEA." />
       <item value="router" />
       <item value="Completion Service" />
@@ -43,19 +51,11 @@
       <item value="USER NOT SYNC" />
       <item value="USER NOT ASYC" />
       <item value="认证" />
-      <item value="USER NOT AUTH" />
-      <item value="USER NOT ASYNC" />
-      <item value="ENT NOT PERMISSION" />
-      <item value="当前企业没有权限" />
-      <item value="secondTitleFont" />
-      <item value="scan Qr Code Login" />
-      <item value="scanner Qr Code Login" />
-      <item value="Target type of a lambda conversion must be an interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2750" />
-        <entry key="ENGLISH" value="2750" />
+        <entry key="CHINESE" value="2752" />
+        <entry key="ENGLISH" value="2753" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
