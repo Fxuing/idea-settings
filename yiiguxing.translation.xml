@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field can be converted to a local variable" />
+      <item value="COMPANY MATCH FAIL" />
       <item value="金额" />
       <item value="amount" />
       <item value="Field injection is not recommended" />
@@ -49,13 +51,11 @@
       <item value="fans" />
       <item value="粉丝" />
       <item value="cmd" />
-      <item value="instructions" />
-      <item value="指令" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2764" />
-        <entry key="ENGLISH" value="2765" />
+        <entry key="CHINESE" value="2766" />
+        <entry key="ENGLISH" value="2766" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
