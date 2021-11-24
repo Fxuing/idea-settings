@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISTRIBUTE" />
       <item value="have" />
       <item value="REQUIRED" />
       <item value="Field can be converted to a local variable" />
@@ -50,12 +51,11 @@
       <item value="通州" />
       <item value="Invalid chunk starting at byte [57] and ending at byte [75] with a value of [=templateCode=1000] ignored" />
       <item value="Copy Options" />
-      <item value="fans" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2768" />
-        <entry key="ENGLISH" value="2768" />
+        <entry key="ENGLISH" value="2769" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
