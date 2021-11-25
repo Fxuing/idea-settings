@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SUBSIDY TICKET VALIDITY TIME AFTER" />
       <item value="加一" />
       <item value="Minus" />
       <item value="减一" />
@@ -50,12 +51,11 @@
       <item value="end Time" />
       <item value="start End" />
       <item value="fast" />
-      <item value="fast UUID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2784" />
-        <entry key="ENGLISH" value="2785" />
+        <entry key="CHINESE" value="2785" />
+        <entry key="ENGLISH" value="2786" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
