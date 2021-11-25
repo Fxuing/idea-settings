@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CANCEL RECEIVE" />
+      <item value="取消领取" />
+      <item value="领取" />
+      <item value="unreceive" />
       <item value="DISTRIBUTE" />
       <item value="have" />
       <item value="REQUIRED" />
@@ -47,15 +51,11 @@
       <item value="field" />
       <item value="Redis health check failed" />
       <item value="金服" />
-      <item value="通州金服" />
-      <item value="通州" />
-      <item value="Invalid chunk starting at byte [57] and ending at byte [75] with a value of [=templateCode=1000] ignored" />
-      <item value="Copy Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2768" />
-        <entry key="ENGLISH" value="2769" />
+        <entry key="CHINESE" value="2770" />
+        <entry key="ENGLISH" value="2771" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -77,6 +77,7 @@
         <entry key="TURKISH" value="1" />
         <entry key="UZBEK" value="1" />
         <entry key="SPANISH" value="3" />
+        <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="3" />
       </map>
