@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="领取" />
+      <item value="recive" />
+      <item value="Instantiation of utility class 'Realization'" />
       <item value="multi" />
       <item value="Cannot resolve method 'execute(&lt;lambda expression&gt;)'" />
       <item value="Unboxing of 'REDIS_TEMPLATE.opsForValue().setIfAbsent(lockName, requestId, timeout, TimeUnit.MILLISECONDS)' may produce 'NullPointerException'" />
@@ -13,7 +16,6 @@
       <item value="lock" />
       <item value="CANCEL RECEIVE" />
       <item value="取消领取" />
-      <item value="领取" />
       <item value="unreceive" />
       <item value="DISTRIBUTE" />
       <item value="have" />
@@ -49,13 +51,11 @@
       <item value="发行数量" />
       <item value="面额" />
       <item value="subsidy_ticket" />
-      <item value="补贴券" />
-      <item value="服务券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2776" />
-        <entry key="ENGLISH" value="2777" />
+        <entry key="CHINESE" value="2777" />
+        <entry key="ENGLISH" value="2778" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -72,6 +72,7 @@
         <entry key="MALAY" value="3" />
         <entry key="BENGALI" value="1" />
         <entry key="PORTUGUESE" value="9" />
+        <entry key="SLOVENIAN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SOMALI" value="1" />
         <entry key="TURKISH" value="1" />
