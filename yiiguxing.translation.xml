@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加一" />
+      <item value="Minus" />
+      <item value="减一" />
+      <item value="减少" />
+      <item value="release redis lock success :{}" />
+      <item value="释放" />
+      <item value="un redis lock success" />
+      <item value="get redis lock fail" />
+      <item value="get redis lock success" />
       <item value="领取" />
       <item value="recive" />
       <item value="Instantiation of utility class 'Realization'" />
@@ -42,20 +51,11 @@
       <item value="start End" />
       <item value="fast" />
       <item value="fast UUID" />
-      <item value="No validator could be found for constraint" />
-      <item value="No validator could be found for constraint 'javax.validation.constraints.Pattern'" />
-      <item value="Check configuration for 'type'" />
-      <item value="The call to 'orElseThrow' always fails, according to its method contracts" />
-      <item value="Single character alternation in RegExp" />
-      <item value="数量" />
-      <item value="发行数量" />
-      <item value="面额" />
-      <item value="subsidy_ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2777" />
-        <entry key="ENGLISH" value="2778" />
+        <entry key="CHINESE" value="2784" />
+        <entry key="ENGLISH" value="2785" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
