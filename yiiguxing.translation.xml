@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multi" />
+      <item value="Cannot resolve method 'execute(&lt;lambda expression&gt;)'" />
       <item value="Unboxing of 'REDIS_TEMPLATE.opsForValue().setIfAbsent(lockName, requestId, timeout, TimeUnit.MILLISECONDS)' may produce 'NullPointerException'" />
       <item value="Unchecked call to 'setIfAbsent(K, V, long, TimeUnit)' as a member of raw type 'org.springframework.data.redis.core.ValueOperations'" />
       <item value="MILLISECONDS" />
@@ -49,13 +51,11 @@
       <item value="subsidy_ticket" />
       <item value="补贴券" />
       <item value="服务券" />
-      <item value="Manage your projects efficiently with YouTrack. If you have a YouTrack instance, you can use the YouTrack Integration plugin to work with your issues directly in IntelliJ IDEA." />
-      <item value="router" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2776" />
-        <entry key="ENGLISH" value="2776" />
+        <entry key="ENGLISH" value="2777" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
