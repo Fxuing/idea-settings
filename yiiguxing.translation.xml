@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="三方" />
+      <item value="sign" />
       <item value="Condition 'StringUtils.isEmpty(enterNewType.getEnter_new_type()) || !this.ENTER_NEW_TYPE.equals(enterNewType)' is always 'true'" />
       <item value="SUBSIDY TICKET VALIDITY TIME AFTER" />
       <item value="加一" />
@@ -49,13 +51,11 @@
       <item value="使用数量" />
       <item value="领取数量" />
       <item value="validity Time" />
-      <item value="end Time" />
-      <item value="start End" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2786" />
-        <entry key="ENGLISH" value="2786" />
+        <entry key="CHINESE" value="2787" />
+        <entry key="ENGLISH" value="2788" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
