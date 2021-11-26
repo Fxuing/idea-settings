@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公司" />
       <item value="协议" />
       <item value="对接" />
       <item value="Tripartite Signature" />
@@ -50,7 +51,6 @@
       <item value="expir Num" />
       <item value="expiration" />
       <item value="use" />
-      <item value="use Num" />
     </histories>
     <option name="languageScores">
       <map>
