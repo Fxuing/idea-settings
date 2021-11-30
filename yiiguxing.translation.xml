@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="email not in contract" />
       <item value="Valid Code" />
       <item value="contact Id" />
       <item value="contart Id" />
@@ -50,12 +51,11 @@
       <item value="Unchecked call to 'setIfAbsent(K, V, long, TimeUnit)' as a member of raw type 'org.springframework.data.redis.core.ValueOperations'" />
       <item value="MILLISECONDS" />
       <item value="Field 'LOCK_PREFIX' may be 'final'" />
-      <item value="Realization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2804" />
-        <entry key="ENGLISH" value="2805" />
+        <entry key="CHINESE" value="2805" />
+        <entry key="ENGLISH" value="2806" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
