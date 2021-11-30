@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contact Id" />
+      <item value="contart Id" />
       <item value="重试" />
       <item value="set Form Flattening" />
       <item value="申请" />
@@ -49,8 +51,6 @@
       <item value="Field 'LOCK_PREFIX' may be 'final'" />
       <item value="Realization" />
       <item value="实现" />
-      <item value="unlock" />
-      <item value="lock" />
     </histories>
     <option name="languageScores">
       <map>
