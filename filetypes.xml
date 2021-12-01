@@ -8,8 +8,8 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="20211126" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="20201203" type="PLAIN_TEXT" />
       <mapping ext="20201202" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
