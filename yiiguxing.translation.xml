@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String concatenation '+=' in loop" />
       <item value="金额" />
       <item value="Number To Amount" />
       <item value="respect" />
@@ -50,11 +51,10 @@
       <item value="Instantiation of utility class 'Realization'" />
       <item value="multi" />
       <item value="Cannot resolve method 'execute(&lt;lambda expression&gt;)'" />
-      <item value="Unboxing of 'REDIS_TEMPLATE.opsForValue().setIfAbsent(lockName, requestId, timeout, TimeUnit.MILLISECONDS)' may produce 'NullPointerException'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2807" />
+        <entry key="CHINESE" value="2808" />
         <entry key="ENGLISH" value="2808" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
