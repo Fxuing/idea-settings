@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scale" />
+      <item value="规模" />
+      <item value="people Number" />
+      <item value="people Num" />
+      <item value="从业人数" />
+      <item value="assets Amount" />
+      <item value="资产总额" />
+      <item value="营业收入" />
+      <item value="行业" />
+      <item value="承诺" />
       <item value="完成" />
       <item value="合同" />
       <item value="Cut down redundant decimal digits that are after the second." />
@@ -41,21 +51,11 @@
       <item value="三方" />
       <item value="sign" />
       <item value="Condition 'StringUtils.isEmpty(enterNewType.getEnter_new_type()) || !this.ENTER_NEW_TYPE.equals(enterNewType)' is always 'true'" />
-      <item value="SUBSIDY TICKET VALIDITY TIME AFTER" />
-      <item value="加一" />
-      <item value="Minus" />
-      <item value="减一" />
-      <item value="减少" />
-      <item value="release redis lock success :{}" />
-      <item value="释放" />
-      <item value="un redis lock success" />
-      <item value="get redis lock fail" />
-      <item value="get redis lock success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2811" />
-        <entry key="ENGLISH" value="2812" />
+        <entry key="CHINESE" value="2817" />
+        <entry key="ENGLISH" value="2818" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
