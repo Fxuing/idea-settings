@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cont" />
+      <item value="conts" />
+      <item value="color Space Dic" />
+      <item value="dictionary" />
       <item value="scale" />
       <item value="规模" />
       <item value="people Number" />
@@ -47,15 +51,11 @@
       <item value="协议" />
       <item value="对接" />
       <item value="Tripartite Signature" />
-      <item value="Tripartite Sign" />
-      <item value="三方" />
-      <item value="sign" />
-      <item value="Condition 'StringUtils.isEmpty(enterNewType.getEnter_new_type()) || !this.ENTER_NEW_TYPE.equals(enterNewType)' is always 'true'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2817" />
-        <entry key="ENGLISH" value="2818" />
+        <entry key="CHINESE" value="2820" />
+        <entry key="ENGLISH" value="2820" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
@@ -66,7 +66,7 @@
         <entry key="FRENCH" value="9" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="3" />
-        <entry key="ROMANIAN" value="6" />
+        <entry key="ROMANIAN" value="7" />
         <entry key="MALTESE" value="1" />
         <entry key="MALAYALAM" value="1" />
         <entry key="MALAY" value="3" />
