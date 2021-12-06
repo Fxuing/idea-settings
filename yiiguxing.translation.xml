@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="establish Time" />
+      <item value="成立" />
+      <item value="Incorporation" />
+      <item value="成立日期" />
+      <item value="注册资本" />
+      <item value="主营业务" />
+      <item value="经营地址" />
+      <item value="legal Person Idcard" />
+      <item value="legal Person Id" />
+      <item value="legal Person Code" />
+      <item value="法人" />
+      <item value="corporate Name" />
       <item value="promise" />
       <item value="previews" />
       <item value="预览" />
@@ -39,23 +51,11 @@
       <item value="&quot;apply ca cert ret :{}&quot;" />
       <item value="Compares this {@code BigDecimal} with the specified * {@code BigDecimal}. Two {@code BigDecimal} objects that are * equal in value but have a different scale (like 2.0 and 2.00) * are considered equal by this method. This method is provided * in preference to individual methods for each of the six boolean * comparison operators ({@literal &lt;}, ==, * {@literal &gt;}, {@literal &gt;=}, !=, {@literal &lt;=}). The * suggested idiom for performing these comparisons is: * {@code (x.compareTo(y)} &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; {@code 0)}, where * &amp;lt;&lt;i&gt;op&lt;/i&gt;&amp;gt; is one of the six comparison operators. * * @param val {@code BigDecimal} to which this {@code BigDecimal} is * to be compared. * @return -1, 0, or 1 as this {@code BigDecimal} is numerically * less than, equal to, or greater than {@code val}." />
       <item value="收款凭证" />
-      <item value="online" />
-      <item value="Tripartite Signature VO" />
-      <item value="合同金额" />
-      <item value="shcedul" />
-      <item value="service_order_shcedul" />
-      <item value="合计" />
-      <item value="Date Time Format" />
-      <item value="条件" />
-      <item value="description" />
-      <item value="receive Num" />
-      <item value="Receive User" />
-      <item value="sjdsendcontractdoc Upload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2822" />
-        <entry key="ENGLISH" value="2823" />
+        <entry key="CHINESE" value="2831" />
+        <entry key="ENGLISH" value="2831" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
