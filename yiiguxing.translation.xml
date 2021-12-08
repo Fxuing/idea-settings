@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new compressor using the specified compression level. * If 'nowrap' is true then the ZLIB header and checksum fields will * not be used in order to support the compression format used in * both GZIP and PKZIP. * @param level the compression level (0-9) * @param nowrap if true then use GZIP compatible compression" />
       <item value="octet" />
       <item value="java.net.SocketException:java.security.NoSuchAlgorithmException: Error constructing implementation (algorithm: Default, provider: SunJSSE, class: sun.security.ssl.SSLContextImpl$DefaultSSLContext)" />
       <item value="Scale" />
@@ -50,12 +51,11 @@
       <item value="重试" />
       <item value="set Form Flattening" />
       <item value="申请" />
-      <item value="apply ca cert ret" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2833" />
-        <entry key="ENGLISH" value="2834" />
+        <entry key="CHINESE" value="2834" />
+        <entry key="ENGLISH" value="2835" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
