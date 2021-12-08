@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="octet" />
       <item value="java.net.SocketException:java.security.NoSuchAlgorithmException: Error constructing implementation (algorithm: Default, provider: SunJSSE, class: sun.security.ssl.SSLContextImpl$DefaultSSLContext)" />
       <item value="Scale" />
       <item value="营业收入" />
@@ -50,12 +51,11 @@
       <item value="set Form Flattening" />
       <item value="申请" />
       <item value="apply ca cert ret" />
-      <item value="&quot;apply ca cert ret :{}&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2833" />
-        <entry key="ENGLISH" value="2833" />
+        <entry key="ENGLISH" value="2834" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
