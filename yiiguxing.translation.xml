@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proceed" />
       <item value="Passing a non-null argument to 'Optional'" />
       <item value="Future" />
       <item value="Complet" />
@@ -50,12 +51,11 @@
       <item value="从业人数" />
       <item value="assets Amount" />
       <item value="资产总额" />
-      <item value="行业" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2843" />
-        <entry key="ENGLISH" value="2843" />
+        <entry key="ENGLISH" value="2844" />
         <entry key="ARABIC" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="BULGARIAN" value="1" />
