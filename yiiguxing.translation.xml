@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SHOW FULL COLUMNS FROM allowed_relation' at line 3" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1" />
+      <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
       <item value="your local changes to the following files would be overwritten by merge. please, commit your changes or stash them before you can merge" />
       <item value="auditor Aware Ref" />
       <item value="Couldn't find PersistentEntity for type" />
@@ -48,9 +51,6 @@
       <item value="color Space Dic" />
       <item value="dictionary" />
       <item value="scale" />
-      <item value="规模" />
-      <item value="people Number" />
-      <item value="people Num" />
     </histories>
     <option name="languageScores">
       <map>
