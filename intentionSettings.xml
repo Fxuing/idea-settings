@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Declaration/Add Javadoc" />
-    <ignoreAction name="Java/Modifiers/Make Public" />
-    <ignoreAction name="Java/Annotations/Add Annotation" />
-  </component>
-</application>
