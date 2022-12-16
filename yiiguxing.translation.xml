@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2735" />
+    <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Transactional" />
+      <item value="事务" />
       <item value="minus Minutes" />
       <item value="超时" />
     </histories>
