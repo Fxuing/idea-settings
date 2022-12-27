@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Audit" />
       <item value="minus Days" />
       <item value="valid Time" />
       <item value="加拿大" />
@@ -18,12 +19,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671681585318" />
+    <option name="lastTrimTime" value="1672134783096" />
   </component>
 </application>
