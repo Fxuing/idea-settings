@@ -1,9 +1,35 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="CUSOMTFPSATSIFASHION" />
+      <item value="CUSTOMER SATISFACTION" />
+      <item value="CUSTONER SATIS FACTION" />
+      <item value="cusomtfp satsi fashion" />
+      <item value="cusomtfp satsi fash" />
+      <item value="cusomtfp satsi fas" />
+      <item value="cusomtfp satsi fa" />
+      <item value="cusomtfp satsi" />
+      <item value="cusomtfp sat" />
+      <item value="cusomtfp sa" />
+      <item value="cusomtfp s" />
+      <item value="cusomtfp sta" />
+      <item value="cusomt" />
+      <item value="cusom" />
+      <item value="cus" />
+      <item value="su" />
+      <item value="customer satisfaction" />
+      <item value="customer satisf action" />
+      <item value="customer satisf " />
+      <item value="customer satisf f" />
+      <item value="customer satis" />
+      <item value="customer sati" />
+      <item value="customer s" />
+      <item value="customer sta" />
+      <item value="custom" />
+      <item value="custome" />
       <item value="UNDONE" />
       <item value="Audit" />
       <item value="minus Days" />
@@ -20,12 +46,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672134783096" />
+    <option name="lastTrimTime" value="1672726249106" />
   </component>
 </application>
