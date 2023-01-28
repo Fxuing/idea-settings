@@ -6,8 +6,13 @@
           <option name="url" value="http://192.168.50.51" />
           <option name="userName" value="hou_fx" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.50.51/tz-group/bj-etl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="F:\javaworkspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

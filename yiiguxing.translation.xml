@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="incremental Policy" />
       <item value="getRandomIp&#10;" />
       <item value="getRandomIp" />
       <item value="attach" />
@@ -53,11 +54,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672726249106" />
+    <option name="lastTrimTime" value="1674886671773" />
   </component>
 </application>
