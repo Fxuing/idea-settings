@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="A JNI error has occurred, please check your installation and try again" />
       <item value="background compliation enabled&#10;" />
       <item value="background compliation enabled" />
       <item value="background compliation enable" />
@@ -54,12 +55,11 @@
       <item value="Canad" />
       <item value="Canada&#10;" />
       <item value="fail Reason" />
-      <item value="Transactional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
