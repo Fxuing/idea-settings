@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="zhima proxy key" />
+      <item value="ACCESSED" />
+      <item value="expiration Policy" />
+      <item value="variable Expiration" />
+      <item value="expiration" />
       <item value="A JNI error has occurred, please check your installation and try again" />
       <item value="background compliation enabled&#10;" />
       <item value="background compliation enabled" />
@@ -50,16 +55,11 @@
       <item value="Audit" />
       <item value="minus Days" />
       <item value="valid Time" />
-      <item value="加拿大" />
-      <item value="Canada" />
-      <item value="Canad" />
-      <item value="Canada&#10;" />
-      <item value="fail Reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
