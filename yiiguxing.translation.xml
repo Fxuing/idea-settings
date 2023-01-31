@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="load Data To Gov Policy" />
       <item value="Zero width space" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXISTS" />
       <item value="minus" />
@@ -54,12 +55,11 @@
       <item value="customer sta" />
       <item value="custom" />
       <item value="custome" />
-      <item value="UNDONE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
