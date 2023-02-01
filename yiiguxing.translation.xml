@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="地区" />
+      <item value="register_address" />
+      <item value="cooperate Sort" />
       <item value="ENT NAME REGISTER ADDRESS" />
       <item value="load Data To Gov Policy" />
       <item value="Zero width space" />
@@ -52,14 +55,11 @@
       <item value="customer satisf f" />
       <item value="customer satis" />
       <item value="customer sati" />
-      <item value="customer s" />
-      <item value="customer sta" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
