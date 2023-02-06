@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="draw Ent Condition" />
+      <item value="open Act Condition" />
       <item value="'List&lt;List&lt;String&gt;&gt;' may not contain objects of type 'String'" />
       <item value="diff Region" />
       <item value="diff region" />
@@ -53,13 +55,11 @@
       <item value="background compli" />
       <item value="back" />
       <item value="cominfintelappApplication has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
-      <item value="incremental Policy" />
-      <item value="getRandomIp&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
