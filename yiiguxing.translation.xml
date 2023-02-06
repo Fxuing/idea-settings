@@ -1,10 +1,24 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Field 'DEVICE_TYPE_ANDROID' is never used more... (Ctrl+F1)" />
+      <item value="APP CEASE OPERATIONS" />
+      <item value="cease operations" />
+      <item value="停止运营" />
+      <item value="停止" />
+      <item value="APPLICATION DISCONTINUED" />
+      <item value="Application discontinued" />
+      <item value="应用程序停止运营" />
+      <item value="应用程序停止" />
+      <item value="应用程序" />
+      <item value="应用" />
+      <item value="APP IS STOP RUN" />
+      <item value="android" />
+      <item value="DEVICE TYPE ANDROID" />
       <item value="other Area" />
       <item value="other" />
       <item value="register Address" />
@@ -41,29 +55,15 @@
       <item value="CUSTONER SATIS FACTION" />
       <item value="cusomtfp satsi fashion" />
       <item value="cusomtfp satsi fash" />
-      <item value="cusomtfp satsi fas" />
-      <item value="cusomtfp satsi fa" />
-      <item value="cusomtfp satsi" />
-      <item value="cusomtfp sat" />
-      <item value="cusomtfp sa" />
-      <item value="cusomtfp s" />
-      <item value="cusomtfp sta" />
-      <item value="cusomt" />
-      <item value="cusom" />
-      <item value="cus" />
-      <item value="su" />
-      <item value="customer satisfaction" />
-      <item value="customer satisf action" />
-      <item value="customer satisf " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1674886671773" />
+    <option name="lastTrimTime" value="1675665951227" />
   </component>
 </application>
