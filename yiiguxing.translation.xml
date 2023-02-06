@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="diff region" />
+      <item value="diff regions" />
+      <item value="diff res" />
+      <item value="区分地区" />
+      <item value="区分" />
+      <item value="diff" />
+      <item value="diff " />
+      <item value="区分地区&#10;" />
       <item value="Field 'DEVICE_TYPE_ANDROID' is never used more... (Ctrl+F1)" />
       <item value="APP CEASE OPERATIONS" />
       <item value="cease operations" />
@@ -47,19 +55,11 @@
       <item value="getRandomIp&#10;" />
       <item value="getRandomIp" />
       <item value="attach" />
-      <item value="附件" />
-      <item value="attach&#10;" />
-      <item value="解读" />
-      <item value="CUSOMTFPSATSIFASHION" />
-      <item value="CUSTOMER SATISFACTION" />
-      <item value="CUSTONER SATIS FACTION" />
-      <item value="cusomtfp satsi fashion" />
-      <item value="cusomtfp satsi fash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
