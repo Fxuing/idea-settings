@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="diff Region" />
       <item value="diff region" />
       <item value="diff regions" />
       <item value="diff res" />
@@ -54,12 +55,11 @@
       <item value="incremental Policy" />
       <item value="getRandomIp&#10;" />
       <item value="getRandomIp" />
-      <item value="attach" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
