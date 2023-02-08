@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="owner&#10;" />
+      <item value="owner" />
       <item value="The value changed at 'i++' is never" />
       <item value="draw Ent Condition" />
       <item value="open Act Condition" />
@@ -53,12 +55,10 @@
       <item value="background compliation enabled" />
       <item value="background compliation enable" />
       <item value="background compliation enabl" />
-      <item value="background compli" />
-      <item value="back" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="38" />
       </map>
     </option>
