@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="前缀" />
+      <item value="prefix" />
+      <item value="pre" />
+      <item value="斜杆" />
       <item value="digits" />
       <item value="Finchley&#10;" />
       <item value="owner&#10;" />
@@ -51,19 +55,15 @@
       <item value="ACCESSED" />
       <item value="expiration Policy" />
       <item value="variable Expiration" />
-      <item value="expiration" />
-      <item value="A JNI error has occurred, please check your installation and try again" />
-      <item value="background compliation enabled&#10;" />
-      <item value="background compliation enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="40" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675665951227" />
+    <option name="lastTrimTime" value="1676270111337" />
   </component>
 </application>
