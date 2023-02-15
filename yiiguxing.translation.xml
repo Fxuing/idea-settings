@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Result of replace() was larger than max_allowed_packet (4194304) - truncated" />
+      <item value="Result consisted of more than one row&#10;" />
+      <item value="Result consisted of more than one row" />
       <item value="域名&#10;" />
       <item value="domain" />
       <item value="Operand should contain 1 column(s)" />
@@ -52,13 +55,10 @@
       <item value="cooperate Sort" />
       <item value="ENT NAME REGISTER ADDRESS" />
       <item value="load Data To Gov Policy" />
-      <item value="Zero width space" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXISTS" />
-      <item value="minus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
