@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="No operations allowed after statement closed." />
       <item value="Result of replace() was larger than max_allowed_packet (4194304) - truncated" />
       <item value="Result consisted of more than one row&#10;" />
       <item value="Result consisted of more than one row" />
@@ -54,7 +55,6 @@
       <item value="register_address" />
       <item value="cooperate Sort" />
       <item value="ENT NAME REGISTER ADDRESS" />
-      <item value="load Data To Gov Policy" />
     </histories>
     <option name="languageScores">
       <map>
