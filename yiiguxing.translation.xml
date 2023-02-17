@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="sheet" />
       <item value="topic&#10;" />
       <item value="订阅&#10;" />
       <item value="Topic" />
@@ -54,11 +55,10 @@
       <item value="应用程序停止" />
       <item value="应用程序" />
       <item value="应用" />
-      <item value="APP IS STOP RUN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="45" />
       </map>
     </option>
