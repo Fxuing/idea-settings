@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Long polling failed, will retry in 32 seconds. appId: order-api, cluster: default, namespaces: security+application+application.yml, long polling url: null, reason: Get config services failed from http:apollo.metaservicesconfig?appId=order-api&amp;ip=192.168.10.86 [Cause: Could not complete get operation [Cause: apollo.meta]]" />
       <item value="sheet" />
       <item value="topic&#10;" />
       <item value="订阅&#10;" />
@@ -54,12 +55,11 @@
       <item value="应用程序停止运营" />
       <item value="应用程序停止" />
       <item value="应用程序" />
-      <item value="应用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
