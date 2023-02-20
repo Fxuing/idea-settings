@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="行政区划&#9;" />
       <item value="Unexpected end of file from server" />
       <item value="mustlogin" />
       <item value="trim Whitespace" />
@@ -54,7 +55,6 @@
       <item value="cease operations" />
       <item value="停止运营" />
       <item value="停止" />
-      <item value="APPLICATION DISCONTINUED" />
     </histories>
     <option name="languageScores">
       <map>
