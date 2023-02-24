@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="检测" />
       <item value="refactor" />
       <item value="trace" />
       <item value="get Total Time Seconds" />
@@ -54,7 +55,6 @@
       <item value="区分" />
       <item value="diff" />
       <item value="diff " />
-      <item value="区分地区&#10;" />
     </histories>
     <option name="languageScores">
       <map>
