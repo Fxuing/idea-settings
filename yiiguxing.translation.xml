@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="'do' statement cannot complete without throwing an exception" />
+      <item value="'while' statement cannot complete without throwing an exception" />
       <item value="检测" />
       <item value="refactor" />
       <item value="trace" />
@@ -53,12 +55,10 @@
       <item value="diff res" />
       <item value="区分地区" />
       <item value="区分" />
-      <item value="diff" />
-      <item value="diff " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
+        <entry key="CHINESE" value="53" />
         <entry key="ENGLISH" value="52" />
       </map>
     </option>
