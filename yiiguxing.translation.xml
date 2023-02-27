@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="proxy Admin url" />
       <item value="expiration Policy" />
       <item value="variable Expiration" />
       <item value="'do' statement cannot complete without throwing an exception" />
@@ -54,16 +55,15 @@
       <item value="diff Region" />
       <item value="diff region" />
       <item value="diff regions" />
-      <item value="diff res" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1676866815638" />
+    <option name="lastTrimTime" value="1677469581583" />
   </component>
 </application>
