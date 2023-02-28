@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="You don't have write permissions" />
       <item value="Connection reset" />
       <item value="proxy Admin url" />
       <item value="expiration Policy" />
@@ -54,11 +55,10 @@
       <item value="open Act Condition" />
       <item value="'List&lt;List&lt;String&gt;&gt;' may not contain objects of type 'String'" />
       <item value="diff Region" />
-      <item value="diff region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="56" />
       </map>
     </option>
