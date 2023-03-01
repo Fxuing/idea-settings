@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Input byte array has wrong 4-byte ending unit" />
       <item value="referral Info Byte" />
       <item value="Create a predicate for testing whether the expression satisfies the given pattern." />
       <item value="store Name" />
@@ -54,12 +55,11 @@
       <item value="Finchley&#10;" />
       <item value="owner&#10;" />
       <item value="owner" />
-      <item value="The value changed at 'i++' is never" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
