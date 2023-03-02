@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="2735" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Error ocurred while trying to connect to the database&#10;&#10;&#10;&#10;" />
+      <item value="Error ocurred while trying to connect &#10;&#10;&#10;&#10;" />
+      <item value="Error ocurred while trying to connect &#10;&#10;&#10;&#10;&#10;" />
+      <item value="Error ocurred while trying to connect to the database&#10;&#10;&#10;" />
+      <item value="Error ocurred while trying to connect to the database&#10;&#10;" />
+      <item value="Error ocurred while trying to connect to the database&#10;" />
+      <item value="Error ocur" />
+      <item value="Error oc" />
+      <item value="Error o" />
       <item value="expire Time" />
       <item value="getReferralUrl&#10;" />
       <item value="his class consists exclusively of static methods for obtaining encoders and decoders for the Base64 encoding scheme. The implementation of this class supports the following types of Base64 as specified in RFC 4648 and RFC 2045 .&#10;" />
@@ -46,19 +55,10 @@
       <item value="Class encapsulating a Redis message body and its properties. Author: Costin Leau, Christoph Strobl" />
       <item value="No operations allowed after statement closed." />
       <item value="Result of replace() was larger than max_allowed_packet (4194304) - truncated" />
-      <item value="Result consisted of more than one row&#10;" />
-      <item value="Result consisted of more than one row" />
-      <item value="域名&#10;" />
-      <item value="domain" />
-      <item value="Operand should contain 1 column(s)" />
-      <item value="disk&#10;" />
-      <item value="前缀" />
-      <item value="prefix" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="ENGLISH" value="64" />
       </map>
     </option>
