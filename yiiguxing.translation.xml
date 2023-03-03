@@ -1,10 +1,43 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="556" />
-    <option name="newTranslationDialogX" value="2735" />
-    <option name="newTranslationDialogY" value="471" />
+    <option name="newTranslationDialogHeight" value="169" />
+    <option name="newTranslationDialogWidth" value="387" />
+    <option name="newTranslationDialogX" value="579" />
+    <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Actually, I`m a little disappointed with you&#10;" />
+      <item value="Actually, I`m a little disappointed with you" />
+      <item value="Actually, I`m a little disappointed with youn" />
+      <item value="Actually, I`m a little disappointed with" />
+      <item value="Actually, I`m a little disappo" />
+      <item value="Actually, I`m a little disapponi" />
+      <item value="Actually, I`m a little disapp" />
+      <item value="Actually, I`m a little disa" />
+      <item value="Actually, I`m a little disapponin" />
+      <item value="Actually, I`m a little dis" />
+      <item value="Actually, I`m" />
+      <item value="Actually, I" />
+      <item value="Actually, " />
+      <item value="Actually" />
+      <item value="Actu" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i will try my best to help" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i " />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and iW" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me any" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me" />
+      <item value="Hi guys ,it`s my first day at alibaba!&#10;" />
+      <item value="Hi guys ,it`s my first day at alibaba!" />
+      <item value="Hi guys ,it`s my first day at alibaba" />
+      <item value="Hi guys ,it`s my first day at a" />
+      <item value="Hi guys ,it`s my first day at" />
+      <item value="Hi guys ,it`s" />
+      <item value="Hi guys ,it`" />
+      <item value="Hi guys ,it" />
+      <item value="Hi guys ," />
+      <item value="Hi guys " />
+      <item value="Hi gu" />
+      <item value="G" />
       <item value="All free AI responses have been used for this workspace.&#10;" />
       <item value="Error ocurred while trying to connect to the database&#10;&#10;&#10;&#10;" />
       <item value="Error ocurred while trying to connect &#10;&#10;&#10;&#10;" />
@@ -22,44 +55,11 @@
       <item value="get Mime Decoder" />
       <item value="Input byte array has wrong 4-byte ending unit" />
       <item value="referral Info Byte" />
-      <item value="Create a predicate for testing whether the expression satisfies the given pattern." />
-      <item value="store Name" />
-      <item value="Unchecked assignment: 'javax.persistence.criteria.Path' to 'javax.persistence.criteria.Expression&lt;java.lang.String&gt;'. Reason: 'condition' has raw type, so result of get is erased" />
-      <item value="You don't have write permissions" />
-      <item value="Connection reset" />
-      <item value="proxy Admin url" />
-      <item value="expiration Policy" />
-      <item value="variable Expiration" />
-      <item value="'do' statement cannot complete without throwing an exception" />
-      <item value="'while' statement cannot complete without throwing an exception" />
-      <item value="检测" />
-      <item value="refactor" />
-      <item value="trace" />
-      <item value="get Total Time Seconds" />
-      <item value="模块&#10;" />
-      <item value="模块" />
-      <item value="行政区划&#9;" />
-      <item value="Unexpected end of file from server" />
-      <item value="mustlogin" />
-      <item value="trim Whitespace" />
-      <item value="ends With" />
-      <item value="Long polling failed, will retry in 32 seconds. appId: order-api, cluster: default, namespaces: security+application+application.yml, long polling url: null, reason: Get config services failed from http:apollo.metaservicesconfig?appId=order-api&amp;ip=192.168.10.86 [Cause: Could not complete get operation [Cause: apollo.meta]]" />
-      <item value="sheet" />
-      <item value="topic&#10;" />
-      <item value="订阅&#10;" />
-      <item value="Topic" />
-      <item value="刷新&#10;" />
-      <item value="Reconnected" />
-      <item value="Reconnecting, last destination was" />
-      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
-      <item value="Could not autowire. No beans of 'RedisConnectionFactory' type found." />
-      <item value="Class encapsulating a Redis message body and its properties. Author: Costin Leau, Christoph Strobl" />
-      <item value="No operations allowed after statement closed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
