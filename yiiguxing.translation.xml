@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="169" />
-    <option name="newTranslationDialogWidth" value="387" />
+    <option name="newTranslationDialogWidth" value="385" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="We ran into an issue while authenticating you. If this issue persists, please contact us through our help center at help.openai.com." />
       <item value="Actually, I`m a little disappointed with you&#10;" />
       <item value="Actually, I`m a little disappointed with you" />
       <item value="Actually, I`m a little disappointed with youn" />
@@ -54,11 +55,10 @@
       <item value="his class consists exclusively of static methods for obtaining encoders and decoders for the Base64 encoding scheme. The implementation of this class supports the following types of Base64 as specified in RFC 4648 and RFC 2045 ." />
       <item value="get Mime Decoder" />
       <item value="Input byte array has wrong 4-byte ending unit" />
-      <item value="referral Info Byte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="66" />
       </map>
     </option>
