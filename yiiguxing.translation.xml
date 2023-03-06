@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Watch Dog" />
       <item value="request xiaoding res" />
       <item value="We ran into an issue while authenticating you. If this issue persists, please contact us through our help center at help.openai.com." />
       <item value="Actually, I`m a little disappointed with you&#10;" />
@@ -54,7 +55,6 @@
       <item value="getReferralUrl&#10;" />
       <item value="his class consists exclusively of static methods for obtaining encoders and decoders for the Base64 encoding scheme. The implementation of this class supports the following types of Base64 as specified in RFC 4648 and RFC 2045 .&#10;" />
       <item value="his class consists exclusively of static methods for obtaining encoders and decoders for the Base64 encoding scheme. The implementation of this class supports the following types of Base64 as specified in RFC 4648 and RFC 2045 ." />
-      <item value="get Mime Decoder" />
     </histories>
     <option name="languageScores">
       <map>
