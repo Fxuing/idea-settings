@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="169" />
-    <option name="newTranslationDialogWidth" value="383" />
+    <option name="newTranslationDialogWidth" value="381" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="why do you need a visa for HK?" />
       <item value="Comparison of compare method result with specific constant" />
       <item value="province" />
       <item value="Watch Dog" />
@@ -54,11 +55,10 @@
       <item value="Error oc" />
       <item value="Error o" />
       <item value="expire Time" />
-      <item value="getReferralUrl&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="67" />
       </map>
     </option>
