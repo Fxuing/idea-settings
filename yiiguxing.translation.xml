@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
+      <item value="peek" />
       <item value="reject" />
       <item value="拒绝&#10;" />
       <item value="拒绝" />
@@ -53,13 +55,11 @@
       <item value="Hi guys ,it" />
       <item value="Hi guys ," />
       <item value="Hi guys " />
-      <item value="Hi gu" />
-      <item value="G" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
