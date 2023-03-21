@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="169" />
-    <option name="newTranslationDialogWidth" value="360" />
+    <option name="newTranslationDialogWidth" value="358" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="batch Disable" />
+      <item value="禁用" />
+      <item value="下架" />
       <item value="联通" />
       <item value="minus Days" />
       <item value="Create an error message based on the provided message and location, highlighting the location in the line on which the" />
@@ -52,14 +55,11 @@
       <item value="Error ocurred while trying to connect to the database&#10;&#10;&#10;&#10;" />
       <item value="Error ocurred while trying to connect &#10;&#10;&#10;&#10;" />
       <item value="Error ocurred while trying to connect &#10;&#10;&#10;&#10;&#10;" />
-      <item value="Error ocurred while trying to connect to the database&#10;&#10;&#10;" />
-      <item value="Error ocurred while trying to connect to the database&#10;&#10;" />
-      <item value="Error ocurred while trying to connect to the database&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
