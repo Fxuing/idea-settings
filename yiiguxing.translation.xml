@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Tells you if the first header needs to be skipped (for instance if the header says &quot;continued from the previous page&quot;)." />
+      <item value="When set the PdfPTableEvent will include the headers." />
       <item value="Corporate Name" />
       <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
       <item value="peek" />
@@ -53,13 +55,11 @@
       <item value="Hi guys ,it`s my first day at" />
       <item value="Hi guys ,it`s" />
       <item value="Hi guys ,it`" />
-      <item value="Hi guys ,it" />
-      <item value="Hi guys ," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
