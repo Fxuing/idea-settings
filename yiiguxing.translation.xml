@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Creates a new font. This font can be one of the 14 built in types, a Type1 font referred to by an AFM or PFM file, a TrueType font (simple or collection) or a CJK font from the Adobe Asian Font Pack. TrueType fonts and CJK fonts can have an optional style modifier appended to the name. These modifiers are: Bold, Italic and BoldItalic. An example would be &quot;STSong-Light,Bold&quot;. Note that this modifiers do not work if the font is embedded. Fonts in TrueType collections are addressed by index such as &quot;msgothic.ttc,1&quot;. This would get the second font (indexes start at 0), in this case &quot;MS PGothic&quot;. The fonts are cached and if they already exist they are extracted from the cache, not parsed again. Besides the common encodings described by name, custom encodings can also be made. These encodings will only work for the single byte fonts Type1 and TrueType. The encoding string starts with a '' followed by &quot;simple&quot; or &quot;full&quot;. If &quot;simple&quot; there is a decimal for the first character position and then a list of hex values representing the Unicode codes that compose that encoding. The &quot;simple&quot; encoding is recommended for TrueType fonts as the &quot;full&quot; encoding risks not matching the character with the right glyph if not done with care. The &quot;full&quot; encoding is specially aimed at Type1 fonts where the glyphs have to be described by non standard names like the Tex math fonts. Each group of three elements compose a code position: the one byte code order in decimal or as 'x' (x cannot be the space), the name and the Unicode character used to access the glyph. The space must be assigned to character position 32 otherwise text justification will not work." />
+      <item value="horizontal" />
+      <item value="vertical" />
+      <item value="writing" />
+      <item value="Font 'simhei' with 'Identity-V' is not recognized." />
+      <item value="horizontal writing" />
+      <item value="Index of column Read or write it on the index of column,If it's equal to -1, it's sorted by Java class" />
       <item value="set Padding Top" />
       <item value="set Spacing Before" />
       <item value="set First Line Indent" />
@@ -48,18 +55,11 @@
       <item value="Actually" />
       <item value="Actu" />
       <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i will try my best to help" />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i " />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and iW" />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me anything and i" />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me any" />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;Ask me" />
-      <item value="Hi guys ,it`s my first day at alibaba!&#10;" />
-      <item value="Hi guys ,it`s my first day at alibaba!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
