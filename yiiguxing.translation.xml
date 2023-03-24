@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Paragraph" />
+      <item value="set First Line Indent" />
+      <item value="Chunk" />
+      <item value="A ListItem is a Paragraph that can be added to a List." />
+      <item value="Constructs a ListItem with a certain String and a certain Font." />
+      <item value="symbol Indent" />
+      <item value="has the list to be 'numbered' with letter" />
+      <item value="GENERICTAG" />
+      <item value="Key for line-height (alternative for leading in Phrase)." />
+      <item value="Gets the leading of the first listitem." />
+      <item value=": alignindent – the alignindent to set" />
       <item value="set Alignindent" />
       <item value="Returns an equivalent stream that is parallel. May return itself, either because the stream was already parallel, or because the underlying stream state was modified to be parallel. This is an intermediate operation. Returns: a parallel stream" />
       <item value="parallel" />
@@ -24,7 +35,6 @@
       <item value="Font 'simhei' with 'Identity-V' is not recognized." />
       <item value="horizontal writing" />
       <item value="Index of column Read or write it on the index of column,If it's equal to -1, it's sorted by Java class" />
-      <item value="set First Line Indent" />
       <item value="the name of the font or its location on file" />
       <item value="Sets the number of the top rows that constitute the header. This header has only meaning if the table is added to Document and the table crosses pages." />
       <item value="Tells you if the first header needs to be skipped (for instance if the header says &quot;continued from the previous page&quot;)." />
@@ -45,21 +55,11 @@
       <item value="菜单" />
       <item value="why do you need a visa for HK?" />
       <item value="Comparison of compare method result with specific constant" />
-      <item value="province" />
-      <item value="Watch Dog" />
-      <item value="request xiaoding res" />
-      <item value="We ran into an issue while authenticating you. If this issue persists, please contact us through our help center at help.openai.com." />
-      <item value="Actually, I`m a little disappointed with you&#10;" />
-      <item value="Actually, I`m a little disappointed with you" />
-      <item value="Actually, I`m a little disappointed with youn" />
-      <item value="Actually, I`m a little disappointed with" />
-      <item value="Actually, I`m a little disappo" />
-      <item value="Actually, I`m a little disapponi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
       </map>
     </option>
   </component>
