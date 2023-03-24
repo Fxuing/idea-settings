@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Returns an equivalent stream that is parallel. May return itself, either because the stream was already parallel, or because the underlying stream state was modified to be parallel. This is an intermediate operation. Returns: a parallel stream" />
+      <item value="parallel" />
       <item value="selenium" />
       <item value="WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER." />
       <item value="A possible value for paragraph alignment. This specifies that the text is aligned to the center and extra whitespace should be placed equally on the left and right." />
@@ -53,13 +55,11 @@
       <item value="Actually, I`m a little disappo" />
       <item value="Actually, I`m a little disapponi" />
       <item value="Actually, I`m a little disapp" />
-      <item value="Actually, I`m a little disa" />
-      <item value="Actually, I`m a little disapponin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
       </map>
     </option>
   </component>
