@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="set Alignindent" />
       <item value="Returns an equivalent stream that is parallel. May return itself, either because the stream was already parallel, or because the underlying stream state was modified to be parallel. This is an intermediate operation. Returns: a parallel stream" />
       <item value="parallel" />
       <item value="selenium" />
@@ -54,12 +55,11 @@
       <item value="Actually, I`m a little disappointed with" />
       <item value="Actually, I`m a little disappo" />
       <item value="Actually, I`m a little disapponi" />
-      <item value="Actually, I`m a little disapp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
