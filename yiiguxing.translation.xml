@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="Agency" />
       <item value="Should be one of: ItemEvent.SELECTED, ItemEvent.DESELECTED" />
       <item value="ACTION FIRST" />
       <item value="SHIFT MASK" />
@@ -54,7 +55,6 @@
       <item value="禁用" />
       <item value="下架" />
       <item value="联通" />
-      <item value="minus Days" />
     </histories>
     <option name="languageScores">
       <map>
