@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="get Calcu Formula" />
       <item value="rate Expression Parse" />
       <item value="rate Expression Calc" />
       <item value="Cannot assign requested address" />
@@ -54,7 +55,6 @@
       <item value="peek" />
       <item value="reject" />
       <item value="拒绝&#10;" />
-      <item value="拒绝" />
     </histories>
     <option name="languageScores">
       <map>
