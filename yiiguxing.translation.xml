@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="hint: Updates were rejected because the tip of your current branch is behind" />
       <item value="attac" />
       <item value="attach" />
       <item value="attach&#10;" />
@@ -54,7 +55,6 @@
       <item value="Index of column Read or write it on the index of column,If it's equal to -1, it's sorted by Java class" />
       <item value="the name of the font or its location on file" />
       <item value="Sets the number of the top rows that constitute the header. This header has only meaning if the table is added to Document and the table crosses pages." />
-      <item value="Tells you if the first header needs to be skipped (for instance if the header says &quot;continued from the previous page&quot;)." />
     </histories>
     <option name="languageScores">
       <map>
