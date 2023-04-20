@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="convert Multipart File To File" />
       <item value="withdrawal" />
       <item value="当天" />
       <item value="currday" />
@@ -54,12 +55,11 @@
       <item value="horizontal" />
       <item value="vertical" />
       <item value="writing" />
-      <item value="Font 'simhei' with 'Identity-V' is not recognized." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
       </map>
     </option>
   </component>
