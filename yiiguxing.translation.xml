@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="169" />
-    <option name="newTranslationDialogWidth" value="358" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="579" />
     <option name="newTranslationDialogY" value="335" />
     <histories>
+      <item value="CINA" />
       <item value="convert Multipart File To File" />
       <item value="withdrawal" />
       <item value="当天" />
@@ -54,11 +55,10 @@
       <item value="Creates a new font. This font can be one of the 14 built in types, a Type1 font referred to by an AFM or PFM file, a TrueType font (simple or collection) or a CJK font from the Adobe Asian Font Pack. TrueType fonts and CJK fonts can have an optional style modifier appended to the name. These modifiers are: Bold, Italic and BoldItalic. An example would be &quot;STSong-Light,Bold&quot;. Note that this modifiers do not work if the font is embedded. Fonts in TrueType collections are addressed by index such as &quot;msgothic.ttc,1&quot;. This would get the second font (indexes start at 0), in this case &quot;MS PGothic&quot;. The fonts are cached and if they already exist they are extracted from the cache, not parsed again. Besides the common encodings described by name, custom encodings can also be made. These encodings will only work for the single byte fonts Type1 and TrueType. The encoding string starts with a '' followed by &quot;simple&quot; or &quot;full&quot;. If &quot;simple&quot; there is a decimal for the first character position and then a list of hex values representing the Unicode codes that compose that encoding. The &quot;simple&quot; encoding is recommended for TrueType fonts as the &quot;full&quot; encoding risks not matching the character with the right glyph if not done with care. The &quot;full&quot; encoding is specially aimed at Type1 fonts where the glyphs have to be described by non standard names like the Tex math fonts. Each group of three elements compose a code position: the one byte code order in decimal or as 'x' (x cannot be the space), the name and the Unicode character used to access the glyph. The space must be assigned to character position 32 otherwise text justification will not work." />
       <item value="horizontal" />
       <item value="vertical" />
-      <item value="writing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
+        <entry key="CHINESE" value="128" />
         <entry key="ENGLISH" value="128" />
       </map>
     </option>
